@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <!-- Elemento raíz -->
+    <xs:element name="liga">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="partido" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="local" type="xs:string"/>
+                            <xs:element name="visitante" type="xs:string"/>
+                            <xs:element name="resultado">
+                                <xs:complexType>
+                                    <xs:attribute name="local" type="xs:integer" use="required"/>
+                                    <xs:attribute name="visitante" type="xs:integer" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="goleadores" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="gol" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="jugador" type="xs:string"/>
+                                                </xs:sequence>
+                                                <xs:attribute name="minuto" type="xs:string" use="required"/>
+                                                <xs:attribute name="equipo" type="xs:string" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="tarjetas" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="tarjeta" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="jugador" type="xs:string"/>
+                                                </xs:sequence>
+                                                <xs:attribute name="minuto" type="xs:string" use="required"/>
+                                                <xs:attribute name="equipo" type="xs:string" use="required"/>
+                                                <xs:attribute name="tipo" type="xs:string" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="cambios" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="cambio" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="sale" type="xs:string"/>
+                                                    <xs:element name="entra" type="xs:string"/>
+                                                </xs:sequence>
+                                                <xs:attribute name="equipo" type="xs:string" use="required"/>
+                                                <xs:attribute name="minuto" type="xs:integer" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="fecha" type="xs:date" use="required"/>
+                        <xs:attribute name="jornada" type="xs:integer" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
