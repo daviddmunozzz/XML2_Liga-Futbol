@@ -8,6 +8,41 @@ from xml.dom import minidom
 
 BASE_URL = "https://www.bdfutbol.com/es/t/"  # Base para construir URL completa del detalle
 
+def extraer_goles_por_indice_paridad(soup, equipo_local, equipo_visitante):
+    goles = []
+
+    # Obtener todos los divs con goles (col-6 con overflow:auto)
+    bloques_equipo = soup.find_all("div", class_="col-6", style="overflow: auto;")
+
+    for idx, contenedor in enumerate(bloques_equipo):
+        equipo = equipo_local if idx % 2 == 0 else equipo_visitante
+        divs_gol = contenedor.find_all("div", class_="G", title="Gol")
+
+        for div in divs_gol:
+            try:
+                tr = div.find_parent("tr")
+                if not tr:
+                    continue
+                jugador_tag = tr.find("a")
+                if not jugador_tag:
+                    continue
+                jugador = jugador_tag.text.strip()
+                minuto = div.next_sibling.strip()
+                if not minuto.isdigit():
+                    continue
+                goles.append({
+                    "minuto": minuto,
+                    "equipo": equipo,
+                    "jugador": jugador
+                })
+            except Exception as e:
+                print(f"⚠️ Error extrayendo gol: {e}")
+                continue
+
+    return goles
+
+
+
 def guardar_resultados_en_xml(resultados, temporada, nombre_archivo):
     root = ET.Element("liga")
     root.set("temporada", temporada)
@@ -44,7 +79,6 @@ def guardar_resultados_en_xml(resultados, temporada, nombre_archivo):
                 gol_elem.set("equipo", gol["equipo"])
                 gol_elem.set("jugador", gol["jugador"])
 
-    # Escribir el XML bonito
     xml_str = ET.tostring(root, encoding="utf-8")
     parsed = minidom.parseString(xml_str)
     pretty_xml = parsed.toprettyxml(indent="  ")
@@ -145,8 +179,10 @@ def scrap_matriz_resultados(temporada):
                         res_detalle = requests.get(url_detalle)
                         res_detalle.raise_for_status()
                         soup_detalle = BeautifulSoup(res_detalle.text, "html.parser")
-                        goles = extraer_goles(soup_detalle, equipo_local)
-                        goles += extraer_goles(soup_detalle, equipo_visitante)
+
+                        goles = extraer_goles_por_indice_paridad(soup_detalle, equipo_local, equipo_visitante)
+
+                        goles = goles_local + goles_visitante
                     except Exception as e:
                         print(f"❌ Error extrayendo goles: {e}")
 
