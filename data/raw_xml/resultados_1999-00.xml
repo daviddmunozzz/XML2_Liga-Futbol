@@ -1,0 +1,3835 @@
+<?xml version="1.0" ?>
+<liga temporada="1999-00">
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ala" jugador="Magno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/1999" jornada="4">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ala" jugador="Astudillo"/>
+      <gol minuto="22" equipo="Bar" jugador="Dani"/>
+      <gol minuto="70" equipo="Ala" jugador="Nan Ribera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ala" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ala" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Ala</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="87" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="14" equipo="Ala" jugador="Kodro"/>
+      <gol minuto="54" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="64" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Ala</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="63" equipo="Ala" jugador="Julio Salinas"/>
+      <gol minuto="84" equipo="Ala" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Ala</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ala" jugador="Pablo"/>
+      <gol minuto="35" equipo="Num" jugador="Barbu"/>
+      <gol minuto="76" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="88" equipo="Ala" jugador="Azkoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Ala</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ala" jugador="Desio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/12/1999" jornada="12">
+    <local>Ala</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ala" jugador="Karmona"/>
+      <gol minuto="50" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1999" jornada="8">
+    <local>Ala</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/12/1999" jornada="17">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ala" jugador="Morales"/>
+      <gol minuto="37" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="86" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="78" equipo="Rea" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rel" jugador="Khokhlov"/>
+      <gol minuto="78" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="87" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Ala</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ala" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Ala</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="85" equipo="Zar" jugador="Acuña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ath" jugador="Carlos García"/>
+      <gol minuto="18" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/1999" jornada="12">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Carlos García"/>
+      <gol minuto="22" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="15" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="76" equipo="Atl" jugador="Paunović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2000" jornada="28">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="74" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="89" equipo="Bar" jugador="Figo"/>
+      <gol minuto="29" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/1999" jornada="1">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ath" jugador="José Mari"/>
+      <gol minuto="66" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="37" equipo="Dep" jugador="Flávio Conceição"/>
+      <gol minuto="58" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="12" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ath" jugador="Larrainzar"/>
+      <gol minuto="37" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2000" jornada="24">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="23" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ath" jugador="Tiko"/>
+      <gol minuto="37" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="23" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Ath</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="23" equipo="Num" jugador="Pacheta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="13" equipo="Ovi" jugador="Dubovský"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="29" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="41" equipo="Rac" jugador="Espina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="3" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="19" equipo="Rea" jugador="McManaman"/>
+      <gol minuto="74" equipo="Rea" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1999" jornada="14">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="65" equipo="Rel" jugador="Aranburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="75" equipo="Sev" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1999" jornada="8">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ath" jugador="Carlos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="13" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="31" equipo="Zar" jugador="Vellisca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 12/10/1999" jornada="7">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="30" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="80" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2000" jornada="35">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Sergi"/>
+      <gol minuto="89" equipo="Bar" jugador="Gabri"/>
+      <gol minuto="63" equipo="Bar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="86" equipo="Cel" jugador="Juanfran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Atl" jugador="Baraja"/>
+      <gol minuto="43" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="23" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="26" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="53" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Atl" jugador="Solari"/>
+      <gol minuto="4" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="35" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="50" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Atl</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Baraja"/>
+      <gol minuto="43" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="89" equipo="Num" jugador="Nagore"/>
+      <gol minuto="57" equipo="Num" jugador="Castaño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Ayala"/>
+      <gol minuto="2" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="61" equipo="Atl" jugador="Correa"/>
+      <gol minuto="43" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="69" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Atl" jugador="Baraja"/>
+      <gol minuto="67" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ray" jugador="Hernández"/>
+      <gol minuto="50" equipo="Ray" jugador="Ferrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2000" jornada="29">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Solari"/>
+      <gol minuto="33" equipo="Rea" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="61" equipo="Rel" jugador="Jankauskas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2000" jornada="37">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Atl" jugador="Hugo Leal"/>
+      <gol minuto="44" equipo="Sev" jugador="Tsartas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="3"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="16" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="53" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Capdevila"/>
+      <gol minuto="69" equipo="Atl" jugador="Solari"/>
+      <gol minuto="89" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="62" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="80" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="82" equipo="Zar" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ala" jugador="Nan Ribera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/1999" jornada="9">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="60" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="92" equipo="Bar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bar" jugador="Zenden"/>
+      <gol minuto="34" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1999" jornada="5">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="43" equipo="Bar" jugador="Dani"/>
+      <gol minuto="44" equipo="Bar" jugador="Dani"/>
+      <gol minuto="51" equipo="Bar" jugador="Dani"/>
+      <gol minuto="37" equipo="Bet" jugador="Karhan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="29" equipo="Cel" jugador="Tomás"/>
+      <gol minuto="34" equipo="Cel" jugador="Turdó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2000" jornada="29">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="23" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="46" equipo="Dep" jugador="Flávio Conceição"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1999" jornada="3">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="85" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="83" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="73" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="75" equipo="Mal" jugador="Carreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Bogarde"/>
+      <gol minuto="13" equipo="Mál" jugador="Valcarce"/>
+      <gol minuto="8" equipo="Mál" jugador="Agostinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2000" jornada="27">
+    <local>Bar</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Gabri"/>
+      <gol minuto="85" equipo="Bar" jugador="Figo"/>
+      <gol minuto="62" equipo="Bar" jugador="Dani"/>
+      <gol minuto="77" equipo="Bar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1999" jornada="14">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="26" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="27" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="73" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="89" equipo="Ovi" jugador="Juan González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2000" jornada="36">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="86" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="49" equipo="Bar" jugador="Figo"/>
+      <gol minuto="26" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="86" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bar" jugador="Litmanen"/>
+      <gol minuto="26" equipo="Bar" jugador="Figo"/>
+      <gol minuto="62" equipo="Bar" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="89" equipo="Bar" jugador="Litmanen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bar" jugador="Bogarde"/>
+      <gol minuto="68" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="89" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bar" jugador="Ronald de Boer"/>
+      <gol minuto="49" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="69" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Figo"/>
+      <gol minuto="77" equipo="Bar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2000" jornada="34">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bet" jugador="Ito"/>
+      <gol minuto="74" equipo="Bet" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1999" jornada="8">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="5" equipo="Atl" jugador="Solari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Ito"/>
+      <gol minuto="78" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="85" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/2000" jornada="30">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="66" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="89" equipo="Esp" jugador="Gâlcă"/>
+      <gol minuto="78" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="68" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Bet</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Bet</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="87" equipo="Num" jugador="Ojeda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Bet</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rac" jugador="Rushfeldt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2000" jornada="28">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="75" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="66" equipo="Rea" jugador="Anelka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/09/1999" jornada="4">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vall" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Cel" jugador="McCarthy"/>
+      <gol minuto="65" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="79" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2000" jornada="22">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Valerón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bar" jugador="Figo"/>
+      <gol minuto="89" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="18" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="70" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="23" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="59" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="2" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="4" equipo="Cel" jugador="McCarthy"/>
+      <gol minuto="46" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Juanfran"/>
+      <gol minuto="6" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="42" equipo="Esp" jugador="De Lucas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cel" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Cel</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="17" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="85" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="89" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="65" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Cel</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="1" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="23" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="46" equipo="Cel" jugador="Turdó"/>
+      <gol minuto="38" equipo="Cel" jugador="Revivo"/>
+      <gol minuto="37" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="34" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="66" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="36" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1999" jornada="4">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Cel" jugador="Celades"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Sergio Fernández"/>
+      <gol minuto="76" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="89" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="22" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Cel" jugador="Makélélé"/>
+      <gol minuto="22" equipo="Cel" jugador="McCarthy"/>
+      <gol minuto="74" equipo="Sev" jugador="Tsartas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="McCarthy"/>
+      <gol minuto="77" equipo="Vall" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Cel" jugador="Cáceres"/>
+      <gol minuto="54" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="27" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Dep</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="30" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="44" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="57" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="12" equipo="Ala" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2000" jornada="25">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Dep" jugador="Flávio Conceição"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2000" jornada="32">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="43" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="85" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="19" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="53" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1999" jornada="10">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="15" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="66" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2000" jornada="21">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="89" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/1999" jornada="16">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Dep" jugador="Donato"/>
+      <gol minuto="34" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="9" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="88" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1999" jornada="8">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Dep" jugador="Donato"/>
+      <gol minuto="57" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="73" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="66" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Dep</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Num" jugador="Popescu"/>
+      <gol minuto="86" equipo="Num" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/2000" jornada="30">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Dep" jugador="Donato"/>
+      <gol minuto="8" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="26" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="68" equipo="Ovi" jugador="Danjou"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="13" equipo="Rac" jugador="Salva"/>
+      <gol minuto="48" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="14" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="7" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="43" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="49" equipo="Ray" jugador="Hélder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="48" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="6" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="88" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="36" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="74" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="84" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2000" jornada="34">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Dep" jugador="César"/>
+      <gol minuto="34" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Dep" jugador="Romero"/>
+      <gol minuto="38" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="39" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="80" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="36" equipo="Sev" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="24" equipo="Dep" jugador="Fran"/>
+      <gol minuto="50" equipo="Dep" jugador="Flávio Conceição"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1999" jornada="3">
+    <local>Dep</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="78" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="60" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="84" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="54" equipo="Zar" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Roger"/>
+      <gol minuto="26" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="43" equipo="Ala" jugador="Contra"/>
+      <gol minuto="40" equipo="Ala" jugador="Magno"/>
+      <gol minuto="80" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Esp" jugador="Rotchen"/>
+      <gol minuto="45" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="41" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="15" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2000" jornada="22">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="44" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Esp" jugador="Nando"/>
+      <gol minuto="52" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="89" equipo="Esp" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="2"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="58" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2000" jornada="19">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Mal" jugador="Stanković"/>
+      <gol minuto="24" equipo="Mal" jugador="Biagini"/>
+      <gol minuto="58" equipo="Esp" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="70" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Esp</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="52" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="18" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="55" equipo="Esp" jugador="Serrano"/>
+      <gol minuto="90" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/1999" jornada="4">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="10" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="57" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="89" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="39" equipo="Esp" jugador="Posse"/>
+      <gol minuto="49" equipo="Esp" jugador="Posse"/>
+      <gol minuto="18" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="8" equipo="Ray" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2000" jornada="35">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Baljić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1999" jornada="8">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="67" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Esp" jugador="De Lucas"/>
+      <gol minuto="11" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="52" equipo="Esp" jugador="Posse"/>
+      <gol minuto="89" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vall" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Esp" jugador="Pochettino"/>
+      <gol minuto="32" equipo="Zar" jugador="Acuña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mal" jugador="Lauren"/>
+      <gol minuto="83" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Mal" jugador="Carlitos"/>
+      <gol minuto="86" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="31" equipo="Atl" jugador="Solari"/>
+      <gol minuto="5" equipo="Atl" jugador="Paunović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Mal" jugador="Stanković"/>
+      <gol minuto="33" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="2" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="63" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Mal" jugador="Lauren"/>
+      <gol minuto="17" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="19" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="69" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 12/10/1999" jornada="7">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="57" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="80" equipo="Mal" jugador="Quinteros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="71" equipo="Esp" jugador="Roger"/>
+      <gol minuto="84" equipo="Esp" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mal" jugador="Lauren"/>
+      <gol minuto="25" equipo="Mal" jugador="Quinteros"/>
+      <gol minuto="51" equipo="Mál" jugador="De los Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Mal</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="21" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Mal</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="62" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="82" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="24" equipo="Rac" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mal" jugador="David Castedo"/>
+      <gol minuto="63" equipo="Ray" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/1999" jornada="1">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Carlitos"/>
+      <gol minuto="94" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="91" equipo="Rea" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mal" jugador="Carlitos"/>
+      <gol minuto="88" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="50" equipo="Mal" jugador="Armando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Mal" jugador="Carreras"/>
+      <gol minuto="88" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="89" equipo="Sev" jugador="Zalayeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Mál</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ala" jugador="Azkoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 12/10/1999" jornada="7">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="61" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="73" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="88" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="21" equipo="Ath" jugador="Alkorta"/>
+      <gol minuto="94" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mál" jugador="Luque"/>
+      <gol minuto="61" equipo="Mál" jugador="Luque"/>
+      <gol minuto="49" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="5" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="42" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="79" equipo="Bar" jugador="Abelardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Mál</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mál" jugador="Valcarce"/>
+      <gol minuto="50" equipo="Mál" jugador="De los Santos"/>
+      <gol minuto="69" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Mál</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Cel" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Mál</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Mál" jugador="De los Santos"/>
+      <gol minuto="74" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="15" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="41" equipo="Num" jugador="Rivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Mál</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mál" jugador="Movilla"/>
+      <gol minuto="9" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="42" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="59" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2000" jornada="38">
+    <local>Mál</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Mál</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="79" equipo="Mál" jugador="Musampa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1999" jornada="5">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mál" jugador="Txomin Larrainzar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="86" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="63" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="89" equipo="Mál" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1999" jornada="10">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="67" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Mál</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Mál</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Num</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/09/1999" jornada="4">
+    <local>Num</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="26" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Num</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Num" jugador="Delgado"/>
+      <gol minuto="55" equipo="Num" jugador="Delgado"/>
+      <gol minuto="83" equipo="Num" jugador="Barbu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1999" jornada="8">
+    <local>Num</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="95" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="69" equipo="Bar" jugador="Litmanen"/>
+      <gol minuto="5" equipo="Bar" jugador="Figo"/>
+      <gol minuto="90" equipo="Bar" jugador="Dani"/>
+      <gol minuto="87" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2000" jornada="38">
+    <local>Num</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bet" jugador="Rivas"/>
+      <gol minuto="61" equipo="Num" jugador="Delgado"/>
+      <gol minuto="80" equipo="Bet" jugador="Cañas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Num</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Num" jugador="Octavio"/>
+      <gol minuto="52" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="64" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Num</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Num" jugador="Pacheta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2000" jornada="36">
+    <local>Num</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Num" jugador="Ojeda"/>
+      <gol minuto="22" equipo="Num" jugador="Barbu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Num</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="5" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="13" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/1999" jornada="6">
+    <local>Num</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="79" equipo="Num" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Num</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="80" equipo="Num" jugador="Delgado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Num</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="52" equipo="Num" jugador="Barbu"/>
+      <gol minuto="89" equipo="Rac" jugador="Rushfeldt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Num</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Num" jugador="Castaño"/>
+      <gol minuto="58" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="51" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="79" equipo="Num" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Num</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Num</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Num" jugador="Delgado"/>
+      <gol minuto="67" equipo="Rel" jugador="Idiakez"/>
+      <gol minuto="78" equipo="Rel" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Num</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="86" equipo="Num" jugador="Caco Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2000" jornada="26">
+    <local>Num</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Num" jugador="Soria"/>
+      <gol minuto="4" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="59" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Num</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Num</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Ovi</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ovi" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ovi" jugador="Bango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="72" equipo="Atl" jugador="Capdevila"/>
+      <gol minuto="77" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2000" jornada="33">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="32" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="80" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Ovi</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ovi" jugador="Rubén Suárez"/>
+      <gol minuto="19" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ovi" jugador="Danjou"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ovi" jugador="Rubén Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2000" jornada="34">
+    <local>Ovi</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Ovi</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ovi" jugador="Boris"/>
+      <gol minuto="33" equipo="Ovi" jugador="Rubén Suárez"/>
+      <gol minuto="27" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="59" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Ovi</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ovi" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Ovi</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="13" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Ovi</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="89" equipo="Ovi" jugador="Iván Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2000" jornada="27">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="83" equipo="Ovi" jugador="Juan González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2000" jornada="38">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Barkero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Ovi</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ovi" jugador="Onopko"/>
+      <gol minuto="72" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="27" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="70" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="58" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="89" equipo="Ovi" jugador="Jaime"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Ovi</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Rac</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rac" jugador="Amavisca"/>
+      <gol minuto="84" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="51" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="6" equipo="Atl" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="40" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="44" equipo="Bet" jugador="Karhan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1999" jornada="8">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rac" jugador="Salva"/>
+      <gol minuto="17" equipo="Rac" jugador="Salva"/>
+      <gol minuto="44" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="89" equipo="Rac" jugador="Salva"/>
+      <gol minuto="75" equipo="Esp" jugador="Arteaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Mal" jugador="Stanković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Rac</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rac" jugador="Salva"/>
+      <gol minuto="5" equipo="Mál" jugador="Valcarce"/>
+      <gol minuto="78" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="87" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Rac</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rac" jugador="Salva"/>
+      <gol minuto="54" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Rac</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="59" equipo="Rac" jugador="Espina"/>
+      <gol minuto="18" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="88" equipo="Ovi" jugador="Amieva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Rac</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="86" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="23" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 19/09/1999" jornada="4">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="2"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="14" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="22" equipo="Sev" jugador="Nico Olivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rac" jugador="Salva"/>
+      <gol minuto="82" equipo="Vall" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="80" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="89" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Ray</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ala" jugador="Téllez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ray" jugador="Estíbariz"/>
+      <gol minuto="33" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2000" jornada="20">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Aguilera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="54" equipo="Bar" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="69" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="73" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ray" jugador="Ferrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ray" jugador="Ferrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ray" jugador="Hernández"/>
+      <gol minuto="85" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="87" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="43" equipo="Mal" jugador="Carreras"/>
+      <gol minuto="87" equipo="Ray" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Ray</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ray" jugador="Hernández"/>
+      <gol minuto="79" equipo="Ray" jugador="Llorens"/>
+      <gol minuto="19" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="25" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="82" equipo="Ray" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Ray</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Ray</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="40" equipo="Ovi" jugador="Dubovský"/>
+      <gol minuto="80" equipo="Ovi" jugador="Iván Ania"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Ray</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="40" equipo="Rac" jugador="Ismael"/>
+      <gol minuto="88" equipo="Rac" jugador="Arzeno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/1999" jornada="11">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ray" jugador="Ferrón"/>
+      <gol minuto="28" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="85" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="46" equipo="Rea" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ray" jugador="Ferrón"/>
+      <gol minuto="56" equipo="Rel" jugador="Idiakez"/>
+      <gol minuto="89" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ray" jugador="Clotet"/>
+      <gol minuto="62" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2000" jornada="35">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="12" equipo="Val" jugador="Farinós"/>
+      <gol minuto="35" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="82" equipo="Val" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Ray</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ray" jugador="Amaya"/>
+      <gol minuto="47" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="70" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="87" equipo="Vall" jugador="Javi Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2000" jornada="36">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ala" jugador="Azkoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Guti"/>
+      <gol minuto="83" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="60" equipo="Rea" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1999" jornada="10">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="30" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="12" equipo="Atl" jugador="Hasselbaink"/>
+      <gol minuto="38" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2000" jornada="26">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="52" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="19" equipo="Rea" jugador="Anelka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/01/2000" jornada="18">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Guti"/>
+      <gol minuto="79" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="84" equipo="Bet" jugador="Prats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/1999" jornada="4">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="47" equipo="Dep" jugador="Djalminha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/1999" jornada="16">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="43" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="25" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/01/2000" jornada="20">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="82" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="37" equipo="Mal" jugador="Romerito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2000" jornada="24">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Zárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Rea</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Num" jugador="Caco Morán"/>
+      <gol minuto="56" equipo="Rea" jugador="Sávio"/>
+      <gol minuto="69" equipo="Rea" jugador="McManaman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1999" jornada="8">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Sávio"/>
+      <gol minuto="11" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="84" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="26" equipo="Ovi" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="57" equipo="Rea" jugador="McManaman"/>
+      <gol minuto="43" equipo="Rac" jugador="Vivar Dorado"/>
+      <gol minuto="29" equipo="Rac" jugador="Manjarín"/>
+      <gol minuto="55" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rea" jugador="Sávio"/>
+      <gol minuto="77" equipo="Rel" jugador="Pikabea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2000" jornada="28">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Guti"/>
+      <gol minuto="15" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="32" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="89" equipo="Sev" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="64" equipo="Rea" jugador="Morientes"/>
+      <gol minuto="28" equipo="Val" jugador="Gerard"/>
+      <gol minuto="37" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1999" jornada="14">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="54" equipo="Zar" jugador="Garitano"/>
+      <gol minuto="39" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="44" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="29" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="68" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="3"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="López Rekarte"/>
+      <gol minuto="23" equipo="Ala" jugador="Astudillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2000" jornada="33">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rel" jugador="Aranzábal"/>
+      <gol minuto="50" equipo="Rel" jugador="Khokhlov"/>
+      <gol minuto="56" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="89" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/1999" jornada="2">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Bonilla"/>
+      <gol minuto="75" equipo="Rel" jugador="Bonilla"/>
+      <gol minuto="9" equipo="Atl" jugador="Solari"/>
+      <gol minuto="61" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="89" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Jankauskas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1999" jornada="5">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="67" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Jankauskas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1999" jornada="4">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rel" jugador="Idiakez"/>
+      <gol minuto="87" equipo="Rel" jugador="Aldeondo"/>
+      <gol minuto="81" equipo="Mal" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Pikabea"/>
+      <gol minuto="19" equipo="Rel" jugador="Khokhlov"/>
+      <gol minuto="51" equipo="Mál" jugador="Catanha"/>
+      <gol minuto="79" equipo="Mál" jugador="Musampa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Rel</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="76" equipo="Rel" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rel" jugador="Bonilla"/>
+      <gol minuto="44" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="63" equipo="Rac" jugador="Salva"/>
+      <gol minuto="67" equipo="Rac" jugador="Salva"/>
+      <gol minuto="76" equipo="Rac" jugador="Salva"/>
+      <gol minuto="86" equipo="Rac" jugador="Salva"/>
+      <gol minuto="84" equipo="Rel" jugador="Antía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="4" equipo="Rel" jugador="Jankauskas"/>
+      <gol minuto="65" equipo="Ray" jugador="Ferrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2000" jornada="31">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rea" jugador="Sávio"/>
+      <gol minuto="59" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Guerrero"/>
+      <gol minuto="27" equipo="Sev" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rel" jugador="De Pedro"/>
+      <gol minuto="43" equipo="Rel" jugador="Sá Pinto"/>
+      <gol minuto="48" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Loren"/>
+      <gol minuto="7" equipo="Rel" jugador="Aranburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Sev" jugador="Zalayeta"/>
+      <gol minuto="41" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="89" equipo="Ala" jugador="Astudillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Miércoles 05/01/2000" jornada="18">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="34" equipo="Sev" jugador="Zalayeta"/>
+      <gol minuto="72" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/1999" jornada="15">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="79" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="59" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="29" equipo="Bar" jugador="Dani"/>
+      <gol minuto="86" equipo="Sev" jugador="Víctor Salas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 12/10/1999" jornada="7">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sev" jugador="Quevedo"/>
+      <gol minuto="74" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="88" equipo="Sev" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="10" equipo="Dep" jugador="Jokanović"/>
+      <gol minuto="12" equipo="Dep" jugador="Jokanović"/>
+      <gol minuto="85" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1999" jornada="5">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="69" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="55" equipo="Mal" jugador="Tristán"/>
+      <gol minuto="84" equipo="Mal" jugador="Carlitos"/>
+      <gol minuto="90" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/1999" jornada="13">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Sev</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Sev" jugador="Jurić"/>
+      <gol minuto="82" equipo="Sev" jugador="Quevedo"/>
+      <gol minuto="35" equipo="Sev" jugador="Zalayeta"/>
+      <gol minuto="73" equipo="Sev" jugador="Jesuli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Sev</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Nico Olivera"/>
+      <gol minuto="75" equipo="Sev" jugador="Loren"/>
+      <gol minuto="51" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="25" equipo="Ovi" jugador="Paulo Bento"/>
+      <gol minuto="73" equipo="Ovi" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2000" jornada="23">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Sev" jugador="Zalayeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sev" jugador="Jesuli"/>
+      <gol minuto="65" equipo="Sev" jugador="Jurić"/>
+      <gol minuto="66" equipo="Ray" jugador="Hernández"/>
+      <gol minuto="1" equipo="Ray" jugador="Canabal"/>
+      <gol minuto="37" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/1999" jornada="9">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="82" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/1999" jornada="1">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="19" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="7" equipo="Rel" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2000" jornada="33">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Jesuli"/>
+      <gol minuto="70" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2000" jornada="27">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vall" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1999" jornada="3">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/09/1999" jornada="3">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ala" jugador="Astudillo"/>
+      <gol minuto="83" equipo="Ala" jugador="Magno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2000" jornada="27">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="83" equipo="Val" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="89" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/1999" jornada="12">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Gerard"/>
+      <gol minuto="35" equipo="Val" jugador="Ilie"/>
+      <gol minuto="31" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="44" equipo="Bar" jugador="Zenden"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2000" jornada="23">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Val" jugador="Ilie"/>
+      <gol minuto="60" equipo="Bet" jugador="Filipescu"/>
+      <gol minuto="84" equipo="Val" jugador="Farinós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 04/01/2000" jornada="18">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Val" jugador="Gerard"/>
+      <gol minuto="49" equipo="Cel" jugador="Velasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/1999" jornada="9">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Kily González"/>
+      <gol minuto="86" equipo="Val" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2000" jornada="21">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Kily González"/>
+      <gol minuto="51" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="16" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Angloma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2000" jornada="29">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Val" jugador="Angulo"/>
+      <gol minuto="67" equipo="Val" jugador="Angulo"/>
+      <gol minuto="60" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 13/10/1999" jornada="7">
+    <local>Val</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Ilie"/>
+      <gol minuto="52" equipo="Val" jugador="Ilie"/>
+      <gol minuto="68" equipo="Val" jugador="Farinós"/>
+      <gol minuto="89" equipo="Val" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="50" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="57" equipo="Val" jugador="Angulo"/>
+      <gol minuto="65" equipo="Ovi" jugador="Onopko"/>
+      <gol minuto="84" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="82" equipo="Val" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/1999" jornada="1">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1999" jornada="16">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="13" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="81" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="69" equipo="Ray" jugador="Luis Cembranos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2000" jornada="25">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Val" jugador="Ilie"/>
+      <gol minuto="59" equipo="Rea" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2000" jornada="36">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Val" jugador="Carboni"/>
+      <gol minuto="88" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="50" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="17" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1999" jornada="14">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="6" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1999" jornada="5">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Viernes 19/05/2000" jornada="38">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Pellegrino"/>
+      <gol minuto="70" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="5" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/1999" jornada="16">
+    <local>Vall</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Vall" jugador="Rodrigo"/>
+      <gol minuto="21" equipo="Ala" jugador="Contra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2000" jornada="28">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vall" jugador="Javi Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/1999" jornada="6">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="30" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2000" jornada="36">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="71" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="44" equipo="Bet" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1999" jornada="12">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Rodrigo"/>
+      <gol minuto="28" equipo="Cel" jugador="Djorović"/>
+      <gol minuto="80" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="86" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Vall</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="55" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="68" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="89" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2000" jornada="34">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="89" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="75" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/1999" jornada="4">
+    <local>Vall</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Vall" jugador="Rodrigo"/>
+      <gol minuto="69" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="74" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="62" equipo="Mál" jugador="De los Santos"/>
+      <gol minuto="8" equipo="Mál" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Vall</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="56" equipo="Vall" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Vall</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vall" jugador="Shōji Jō"/>
+      <gol minuto="70" equipo="Vall" jugador="Shōji Jō"/>
+      <gol minuto="84" equipo="Ovi" jugador="Bango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1999" jornada="14">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Vall" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1999" jornada="10">
+    <local>Vall</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="85" equipo="Ray" jugador="Llorens"/>
+      <gol minuto="10" equipo="Ray" jugador="Ferrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 15/02/2000" jornada="19">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rea" jugador="Meca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/2000" jornada="30">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vall" jugador="García Calvo"/>
+      <gol minuto="62" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="6" equipo="Rel" jugador="Sá Pinto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1999" jornada="8">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="4" equipo="Vall" jugador="Congo"/>
+      <gol minuto="21" equipo="Sev" jugador="Marcelo Otero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2000" jornada="24">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 09/04/2000" jornada="32">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Zar" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1999" jornada="11">
+    <local>Zar</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="60" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="75" equipo="Ala" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2000" jornada="35">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/09/1999" jornada="4">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="26" equipo="Atl" jugador="Hasselbaink"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2000" jornada="20">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/2000" jornada="31">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2000" jornada="26">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="72" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="35" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/1999" jornada="17">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="18" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="75" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2000" jornada="29">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="54" equipo="Esp" jugador="Arteaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1999" jornada="8">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="59" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2000" jornada="37">
+    <local>Zar</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="89" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="29" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="85" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1999" jornada="15">
+    <local>Zar</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Zar" jugador="Vellisca"/>
+      <gol minuto="50" equipo="Num" jugador="Barbu"/>
+      <gol minuto="28" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="74" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="44" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="69" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/1999" jornada="2">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Vellisca"/>
+      <gol minuto="70" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="5" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="89" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1999" jornada="9">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="28" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="79" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="89" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="84" equipo="Rac" jugador="Tais"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2000" jornada="24">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="82" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2000" jornada="33">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1999" jornada="6">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="89" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2000" jornada="22">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="77" equipo="Sev" jugador="Tsartas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2000" jornada="19">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Radimov"/>
+      <gol minuto="25" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="67" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="32" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="66" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1999" jornada="13">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="78" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+</liga>

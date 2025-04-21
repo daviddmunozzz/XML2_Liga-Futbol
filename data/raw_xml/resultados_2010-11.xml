@@ -1,0 +1,3888 @@
+<?xml version="1.0" ?>
+<liga temporada="2010-11">
+  <partido fecha="Lunes 04/04/2011" jornada="30">
+    <local>Alm</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Alm" jugador="Piatti"/>
+      <gol minuto="29" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="60" equipo="Ath" jugador="Orbaiz"/>
+      <gol minuto="52" equipo="Ath" jugador="Toquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2011" jornada="28">
+    <local>Alm</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Alm" jugador="Crusat"/>
+      <gol minuto="38" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="60" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="76" equipo="Alm" jugador="Goitom"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2010" jornada="12">
+    <local>Alm</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="8"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="16" equipo="Bar" jugador="Messi"/>
+      <gol minuto="36" equipo="Bar" jugador="Messi"/>
+      <gol minuto="66" equipo="Bar" jugador="Messi"/>
+      <gol minuto="34" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="61" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="72" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Alm</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Alm" jugador="Piatti"/>
+      <gol minuto="95" equipo="Dep" jugador="Aranzubia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Alm</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Alm" jugador="Marcelo Silva"/>
+      <gol minuto="18" equipo="Alm" jugador="Bernardello"/>
+      <gol minuto="6" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="33" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="48" equipo="Esp" jugador="Álvaro Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2010" jornada="16">
+    <local>Alm</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="24" equipo="Alm" jugador="Ulloa"/>
+      <gol minuto="70" equipo="Get" jugador="Boateng"/>
+      <gol minuto="29" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="48" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Alm</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="83" equipo="Alm" jugador="Ulloa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2010" jornada="4">
+    <local>Alm</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Lev" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Alm</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="50" equipo="Mál" jugador="Quincy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Alm</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Alm" jugador="Juanma Ortiz"/>
+      <gol minuto="5" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="31" equipo="Alm" jugador="Piatti"/>
+      <gol minuto="41" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Alm</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Alm" jugador="Carlos García"/>
+      <gol minuto="10" equipo="Alm" jugador="Ulloa"/>
+      <gol minuto="54" equipo="Alm" jugador="Ulloa"/>
+      <gol minuto="23" equipo="Osa" jugador="Aranda"/>
+      <gol minuto="90" equipo="Osa" jugador="Lekić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 03/03/2011" jornada="26">
+    <local>Alm</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Alm" jugador="Crusat"/>
+      <gol minuto="37" equipo="Rac" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2011" jornada="19">
+    <local>Alm</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Alm" jugador="Ulloa"/>
+      <gol minuto="76" equipo="Rea" jugador="Granero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/09/2010" jornada="2">
+    <local>Alm</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Alm" jugador="Piatti"/>
+      <gol minuto="33" equipo="Rel" jugador="Sutil"/>
+      <gol minuto="8" equipo="Rel" jugador="Tamudo"/>
+      <gol minuto="90" equipo="Alm" jugador="Ulloa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Alm</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Sev" jugador="Renato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Alm</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Alm" jugador="Corona"/>
+      <gol minuto="73" equipo="Spo" jugador="Nacho Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2011" jornada="32">
+    <local>Alm</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Val" jugador="Stankevičius"/>
+      <gol minuto="50" equipo="Val" jugador="Soldado"/>
+      <gol minuto="80" equipo="Val" jugador="Jordi Alba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Alm</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Alm</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Alm" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2010" jornada="11">
+    <local>Ath</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2010" jornada="2">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="10" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="80" equipo="Atl" jugador="Tiago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2010" jornada="5">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Gabilondo"/>
+      <gol minuto="54" equipo="Bar" jugador="Keita"/>
+      <gol minuto="92" equipo="Bar" jugador="Busquets"/>
+      <gol minuto="73" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2011" jornada="17">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="52" equipo="Dep" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="33" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="78" equipo="Ath" jugador="David López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Iraola"/>
+      <gol minuto="83" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/01/2011" jornada="20">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Javi Martínez"/>
+      <gol minuto="64" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="59" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Toquero"/>
+      <gol minuto="63" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="85" equipo="Lev" jugador="Nano Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Mál" jugador="Recio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2010" jornada="4">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ath" jugador="David López"/>
+      <gol minuto="92" equipo="Ath" jugador="Iñigo Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Ath" jugador="Gurpegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Javi Martínez"/>
+      <gol minuto="10" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="74" equipo="Rac" jugador="Iván Bolado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2011" jornada="31">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/04/2011" jornada="33">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="28" equipo="Ath" jugador="Toquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="Toquero"/>
+      <gol minuto="73" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2011" jornada="25">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="71" equipo="Val" jugador="Mata"/>
+      <gol minuto="81" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vil" jugador="Marco Ruben"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Iraola"/>
+      <gol minuto="23" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="94" equipo="Zar" jugador="Braulio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Atl</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="44" equipo="Alm" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2011" jornada="21">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ath" jugador="Toquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2010" jornada="3">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="32" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="13" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2010" jornada="15">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="34" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2010" jornada="13">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Atl" jugador="Tiago"/>
+      <gol minuto="65" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="53" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="77" equipo="Esp" jugador="Osvaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2010" jornada="7">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Simão"/>
+      <gol minuto="72" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="Domínguez"/>
+      <gol minuto="70" equipo="Atl" jugador="Reyes"/>
+      <gol minuto="66" equipo="Hér" jugador="Trezeguet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Elías"/>
+      <gol minuto="50" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="28" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="83" equipo="Mál" jugador="Maresca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/01/2011" jornada="19">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Valera"/>
+      <gol minuto="90" equipo="Atl" jugador="Reyes"/>
+      <gol minuto="33" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2010" jornada="11">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="26" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="70" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/01/2011" jornada="17">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/03/2011" jornada="29">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="32" equipo="Rea" jugador="Özil"/>
+      <gol minuto="10" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Filipe Luís"/>
+      <gol minuto="44" equipo="Atl" jugador="Mario Suárez"/>
+      <gol minuto="77" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2011" jornada="25">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Atl" jugador="Koke"/>
+      <gol minuto="76" equipo="Atl" jugador="Reyes"/>
+      <gol minuto="65" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="41" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 30/08/2010" jornada="1">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="Jurado"/>
+      <gol minuto="40" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="62" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="90" equipo="Atl" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2011" jornada="23">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Atl" jugador="Reyes"/>
+      <gol minuto="41" equipo="Val" jugador="Joaquín"/>
+      <gol minuto="86" equipo="Val" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2011" jornada="27">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Reyes"/>
+      <gol minuto="68" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="71" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="33" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2011" jornada="31">
+    <local>Bar</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bar" jugador="Thiago Alcántara"/>
+      <gol minuto="92" equipo="Bar" jugador="Messi"/>
+      <gol minuto="49" equipo="Alm" jugador="Corona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bar" jugador="Villa"/>
+      <gol minuto="77" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Messi"/>
+      <gol minuto="28" equipo="Bar" jugador="Messi"/>
+      <gol minuto="79" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/05/2011" jornada="35">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="29" equipo="Bar" jugador="Iniesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2011" jornada="29">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Dani Alves"/>
+      <gol minuto="49" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="87" equipo="Get" jugador="Manu del Moral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2010" jornada="2">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="58" equipo="Hér" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2011" jornada="17">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="58" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="79" equipo="Lev" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2011" jornada="19">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="17" equipo="Bar" jugador="Villa"/>
+      <gol minuto="73" equipo="Bar" jugador="Villa"/>
+      <gol minuto="35" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="67" equipo="Mál" jugador="Duda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Messi"/>
+      <gol minuto="42" equipo="Mal" jugador="Nsue"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/04/2011" jornada="33">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Villa"/>
+      <gol minuto="69" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2011" jornada="20">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="2" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/11/2010" jornada="13">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="54" equipo="Bar" jugador="Villa"/>
+      <gol minuto="56" equipo="Bar" jugador="Villa"/>
+      <gol minuto="17" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="88" equipo="Bar" jugador="Jeffrén"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="8" equipo="Bar" jugador="Villa"/>
+      <gol minuto="46" equipo="Bar" jugador="Messi"/>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+      <gol minuto="90" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2010" jornada="9">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Dani Alves"/>
+      <gol minuto="3" equipo="Bar" jugador="Messi"/>
+      <gol minuto="63" equipo="Bar" jugador="Messi"/>
+      <gol minuto="23" equipo="Bar" jugador="Villa"/>
+      <gol minuto="89" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2010" jornada="4">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2010" jornada="7">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bar" jugador="Puyol"/>
+      <gol minuto="47" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="39" equipo="Val" jugador="Pablo Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2010" jornada="11">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Villa"/>
+      <gol minuto="58" equipo="Bar" jugador="Messi"/>
+      <gol minuto="83" equipo="Bar" jugador="Messi"/>
+      <gol minuto="26" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2011" jornada="27">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Keita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Dep</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="18" equipo="Alm" jugador="Kalu Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2011" jornada="36">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ath" jugador="Toquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2011" jornada="34">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2011" jornada="18">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="26" equipo="Bar" jugador="Villa"/>
+      <gol minuto="51" equipo="Bar" jugador="Messi"/>
+      <gol minuto="80" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Dep" jugador="Lopo"/>
+      <gol minuto="87" equipo="Dep" jugador="Colotto"/>
+      <gol minuto="28" equipo="Dep" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/09/2010" jornada="3">
+    <local>Dep</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Get" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/12/2010" jornada="14">
+    <local>Dep</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Dep" jugador="Lassad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Dep</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Lev" jugador="Rubén Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Colotto"/>
+      <gol minuto="83" equipo="Dep" jugador="Pablo Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="67" equipo="Dep" jugador="Lassad"/>
+      <gol minuto="26" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/04/2011" jornada="32">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="44" equipo="Dep" jugador="Lassad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2011" jornada="25">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 07/03/2011" jornada="27">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Dep" jugador="Adrián"/>
+      <gol minuto="65" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="41" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Dep" jugador="Laure"/>
+      <gol minuto="15" equipo="Dep" jugador="Lassad"/>
+      <gol minuto="62" equipo="Dep" jugador="Lassad"/>
+      <gol minuto="74" equipo="Sev" jugador="Escudé"/>
+      <gol minuto="63" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="79" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2010" jornada="16">
+    <local>Dep</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Dep" jugador="Aythami"/>
+      <gol minuto="89" equipo="Spo" jugador="Diego Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Val" jugador="Aduriz"/>
+      <gol minuto="94" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Dep" jugador="Lopo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/09/2010" jornada="3">
+    <local>Esp</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Callejón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/05/2011" jornada="34">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="75" equipo="Esp" jugador="Iván Alonso"/>
+      <gol minuto="42" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2011" jornada="32">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="58" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="2" equipo="Atl" jugador="Koke"/>
+      <gol minuto="48" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2010" jornada="16">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="29" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="18" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="60" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="78" equipo="Bar" jugador="Villa"/>
+      <gol minuto="84" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="61" equipo="Esp" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="54" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="94" equipo="Esp" jugador="Dátolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Esp" jugador="Verdú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Esp" jugador="Dátolo"/>
+      <gol minuto="80" equipo="Esp" jugador="Callejón"/>
+      <gol minuto="83" equipo="Lev" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2010" jornada="10">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Esp" jugador="Javi Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 01/03/2011" jornada="26">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Esp" jugador="Álvaro Vázquez"/>
+      <gol minuto="82" equipo="Mal" jugador="Nsue"/>
+      <gol minuto="62" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="24" equipo="Esp" jugador="Álvaro Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rac" jugador="Colsa"/>
+      <gol minuto="74" equipo="Rac" jugador="Giovani dos Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Marcelo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2011" jornada="25">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Esp" jugador="Javi Márquez"/>
+      <gol minuto="54" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="80" equipo="Esp" jugador="Callejón"/>
+      <gol minuto="42" equipo="Rel" jugador="Estrada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="54" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="2" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="61" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="44" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Esp" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Esp" jugador="Galán"/>
+      <gol minuto="18" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="24" equipo="Val" jugador="Mata"/>
+      <gol minuto="9" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2011" jornada="21">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Esp" jugador="Osvaldo"/>
+      <gol minuto="86" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="33" equipo="Esp" jugador="Álvaro Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Get</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="52" equipo="Get" jugador="Pedro Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/03/2011" jornada="28">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="84" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="94" equipo="Ath" jugador="Urko Vera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="82" equipo="Atl" jugador="Elías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="33" equipo="Bar" jugador="Villa"/>
+      <gol minuto="22" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Get</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="26" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="56" equipo="Get" jugador="Pedro Ríos"/>
+      <gol minuto="44" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Get" jugador="Miku"/>
+      <gol minuto="63" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="59" equipo="Esp" jugador="Callejón"/>
+      <gol minuto="52" equipo="Esp" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Get</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Get" jugador="Parejo"/>
+      <gol minuto="42" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="81" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2010" jornada="2">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Get" jugador="Gavilán"/>
+      <gol minuto="89" equipo="Get" jugador="Gavilán"/>
+      <gol minuto="10" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="13" equipo="Lev" jugador="Rafa Jordà"/>
+      <gol minuto="90" equipo="Get" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2010" jornada="4">
+    <local>Get</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="54" equipo="Mál" jugador="Rondón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="78" equipo="Get" jugador="Parejo"/>
+      <gol minuto="19" equipo="Get" jugador="Pedro Ríos"/>
+      <gol minuto="27" equipo="Get" jugador="Pedro Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Get" jugador="Pedro Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Get</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 03/01/2011" jornada="17">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Get" jugador="Parejo"/>
+      <gol minuto="19" equipo="Rea" jugador="Özil"/>
+      <gol minuto="57" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="85" equipo="Get" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="87" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="89" equipo="Rel" jugador="Aranburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2011" jornada="32">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Get</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Get" jugador="Marcano"/>
+      <gol minuto="8" equipo="Get" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2011" jornada="30">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="46" equipo="Val" jugador="Soldado"/>
+      <gol minuto="64" equipo="Val" jugador="Soldado"/>
+      <gol minuto="65" equipo="Val" jugador="Soldado"/>
+      <gol minuto="76" equipo="Val" jugador="Soldado"/>
+      <gol minuto="87" equipo="Get" jugador="Sardinero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2010" jornada="15">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Get" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/11/2010" jornada="12">
+    <local>Get</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Zar" jugador="Bertolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Hér</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Hér" jugador="Abraham Paz"/>
+      <gol minuto="73" equipo="Alm" jugador="M'Bami"/>
+      <gol minuto="70" equipo="Alm" jugador="Feghouli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2010" jornada="1">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/01/2011" jornada="18">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Hér" jugador="Thomert"/>
+      <gol minuto="23" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="11" equipo="Hér" jugador="Tote"/>
+      <gol minuto="44" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="89" equipo="Atl" jugador="Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="Messi"/>
+      <gol minuto="89" equipo="Bar" jugador="Messi"/>
+      <gol minuto="43" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Hér</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Hér" jugador="Tiago Gomes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/02/2011" jornada="25">
+    <local>Hér</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Hér</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="67" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="62" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="41" equipo="Lev" jugador="Rubén Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Hér</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Hér" jugador="Abraham Paz"/>
+      <gol minuto="67" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="11" equipo="Mál" jugador="Seba"/>
+      <gol minuto="81" equipo="Hér" jugador="Kiko Femenía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Hér</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Hér" jugador="Sendoa"/>
+      <gol minuto="41" equipo="Hér" jugador="Sendoa"/>
+      <gol minuto="79" equipo="Mal" jugador="Webó"/>
+      <gol minuto="75" equipo="Mal" jugador="Víctor Casadesús"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Hér</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Osa" jugador="Nélson"/>
+      <gol minuto="59" equipo="Osa" jugador="Vadócz"/>
+      <gol minuto="10" equipo="Osa" jugador="Camuñas"/>
+      <gol minuto="67" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Hér</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Hér" jugador="Tiago Gomes"/>
+      <gol minuto="40" equipo="Hér" jugador="Sendoa"/>
+      <gol minuto="44" equipo="Rac" jugador="Henrique"/>
+      <gol minuto="13" equipo="Rac" jugador="Giovani dos Santos"/>
+      <gol minuto="41" equipo="Rac" jugador="Giovani dos Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2010" jornada="9">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="52" equipo="Rea" jugador="Di María"/>
+      <gol minuto="82" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="86" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Hér" jugador="Drenthe"/>
+      <gol minuto="47" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="15" equipo="Rel" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Hér</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Hér" jugador="Trezeguet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Hér</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/09/2010" jornada="3">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Val" jugador="Pablo Hernández"/>
+      <gol minuto="2" equipo="Val" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/10/2010" jornada="7">
+    <local>Hér</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Hér" jugador="Valdez"/>
+      <gol minuto="40" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="28" equipo="Vil" jugador="Capdevila"/>
+      <gol minuto="62" equipo="Vil" jugador="Borja Valero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Hér" jugador="Farinós"/>
+      <gol minuto="87" equipo="Hér" jugador="Trezeguet"/>
+      <gol minuto="4" equipo="Zar" jugador="Braulio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Lev</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2010" jornada="16">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="70" equipo="Ath" jugador="Javi Martínez"/>
+      <gol minuto="14" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2010" jornada="14">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Lev" jugador="Nano Rivas"/>
+      <gol minuto="58" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="27" equipo="Bar" jugador="Keita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Lev</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Lev" jugador="Juanlu"/>
+      <gol minuto="52" equipo="Dep" jugador="Aythami"/>
+      <gol minuto="10" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Lev" jugador="Valdo"/>
+      <gol minuto="54" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2011" jornada="32">
+    <local>Lev</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Lev" jugador="Juanlu"/>
+      <gol minuto="4" equipo="Lev" jugador="Rubén Suárez"/>
+      <gol minuto="81" equipo="Hér" jugador="Trezeguet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Lev</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Lev" jugador="Rubén Suárez"/>
+      <gol minuto="6" equipo="Lev" jugador="Stuani"/>
+      <gol minuto="70" equipo="Lev" jugador="Stuani"/>
+      <gol minuto="63" equipo="Mál" jugador="Seba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Lev" jugador="Juanlu"/>
+      <gol minuto="59" equipo="Mal" jugador="Ramis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2011" jornada="25">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Lev" jugador="Ballesteros"/>
+      <gol minuto="50" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="41" equipo="Osa" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Lev</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="26" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="42" equipo="Lev" jugador="Stuani"/>
+      <gol minuto="87" equipo="Rac" jugador="Lacen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2010" jornada="5">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Lev" jugador="Del Horno"/>
+      <gol minuto="65" equipo="Lev" jugador="Caicedo"/>
+      <gol minuto="80" equipo="Rel" jugador="Sarpong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2010" jornada="1">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Sev" jugador="Konko"/>
+      <gol minuto="62" equipo="Sev" jugador="Konko"/>
+      <gol minuto="87" equipo="Sev" jugador="Renato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Lev</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Val" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2010" jornada="3">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Vil" jugador="Nilmar"/>
+      <gol minuto="42" equipo="Vil" jugador="Nilmar"/>
+      <gol minuto="89" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Lev</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Lev" jugador="Stuani"/>
+      <gol minuto="39" equipo="Zar" jugador="Gabi"/>
+      <gol minuto="73" equipo="Zar" jugador="Gabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/02/2011" jornada="25">
+    <local>Mál</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="78" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="8" equipo="Alm" jugador="Feghouli"/>
+      <gol minuto="52" equipo="Mál" jugador="Maresca"/>
+      <gol minuto="90" equipo="Mál" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2011" jornada="18">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Mál" jugador="Demichelis"/>
+      <gol minuto="93" equipo="Ath" jugador="Javi Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2010" jornada="16">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Atl" jugador="Domínguez"/>
+      <gol minuto="21" equipo="Atl" jugador="Tiago"/>
+      <gol minuto="69" equipo="Atl" jugador="Tiago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Mál" jugador="Seba"/>
+      <gol minuto="84" equipo="Bar" jugador="Bartra"/>
+      <gol minuto="76" equipo="Bar" jugador="Afellay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="25" equipo="Mál" jugador="Rondón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Mál</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="23" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="8" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Mál</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="73" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="4" equipo="Hér" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Mál</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Mál" jugador="Eliseu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2011" jornada="32">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mál" jugador="Seba"/>
+      <gol minuto="40" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="57" equipo="Mál" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Osa" jugador="Sergio Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Mál</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Mál" jugador="Eliseu"/>
+      <gol minuto="43" equipo="Mál" jugador="Recio"/>
+      <gol minuto="52" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="54" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="45" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2010" jornada="7">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mál" jugador="Stadsgaard"/>
+      <gol minuto="30" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="65" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="44" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="55" equipo="Rel" jugador="Llorente"/>
+      <gol minuto="77" equipo="Mál" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2010" jornada="3">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="19" equipo="Sev" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2011" jornada="36">
+    <local>Mál</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Mál" jugador="Eliseu"/>
+      <gol minuto="9" equipo="Mál" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2010" jornada="1">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Seba"/>
+      <gol minuto="70" equipo="Val" jugador="Joaquín"/>
+      <gol minuto="74" equipo="Val" jugador="Joaquín"/>
+      <gol minuto="9" equipo="Val" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/09/2010" jornada="5">
+    <local>Mál</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Mál" jugador="Eliseu"/>
+      <gol minuto="29" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="21" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="33" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="23" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Mál</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Mál" jugador="Duda"/>
+      <gol minuto="86" equipo="Zar" jugador="Sinama-Pongolle"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Mal</local>
+    <visitante>Alm</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Ramis"/>
+      <gol minuto="88" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="36" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="67" equipo="Mal" jugador="Nsue"/>
+      <gol minuto="66" equipo="Alm" jugador="Crusat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/02/2011" jornada="23">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Mal" jugador="Webó"/>
+      <gol minuto="90" equipo="Mal" jugador="Webó"/>
+      <gol minuto="18" equipo="Atl" jugador="Juanfran"/>
+      <gol minuto="12" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="59" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="81" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2011" jornada="25">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Villa"/>
+      <gol minuto="38" equipo="Bar" jugador="Messi"/>
+      <gol minuto="67" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mal" jugador="Nunes"/>
+      <gol minuto="67" equipo="Mal" jugador="Aki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/01/2011" jornada="17">
+    <local>Mal</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="40" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="37" equipo="Mal" jugador="Nsue"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/11/2010" jornada="9">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="26" equipo="Lev" jugador="Stuani"/>
+      <gol minuto="84" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mal" jugador="Chori Castro"/>
+      <gol minuto="50" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2010" jornada="3">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="De Guzmán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rac" jugador="Òscar Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Mal" jugador="Cavenaghi"/>
+      <gol minuto="62" equipo="Mal" jugador="Cavenaghi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2011" jornada="31">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Mal" jugador="De Guzmán"/>
+      <gol minuto="15" equipo="Mal" jugador="Aki"/>
+      <gol minuto="67" equipo="Sev" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Mal</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Spo" jugador="Diego Castro"/>
+      <gol minuto="86" equipo="Spo" jugador="Nacho Novo"/>
+      <gol minuto="66" equipo="Spo" jugador="André Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2011" jornada="27">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Pablo Hernández"/>
+      <gol minuto="56" equipo="Val" jugador="Pablo Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2011" jornada="35">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/03/2011" jornada="29">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Mal" jugador="De Guzmán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Osa</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/04/2011" jornada="32">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="2"/>
+    <goleadores>
+      <gol minuto="51" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="90" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="69" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="38" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="61" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="63" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2010" jornada="14">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="64" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Osa" jugador="Lolo"/>
+      <gol minuto="14" equipo="Osa" jugador="Nekounam"/>
+      <gol minuto="88" equipo="Osa" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Osa</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Osa" jugador="Lolo"/>
+      <gol minuto="40" equipo="Osa" jugador="Monreal"/>
+      <gol minuto="90" equipo="Osa" jugador="Vadócz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Osa" jugador="Pandiani"/>
+      <gol minuto="79" equipo="Lev" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Osa" jugador="Masoud"/>
+      <gol minuto="56" equipo="Osa" jugador="Aranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Osa" jugador="Miguel Flaño"/>
+      <gol minuto="37" equipo="Mal" jugador="Chori Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Osa" jugador="Soriano"/>
+      <gol minuto="20" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="57" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2011" jornada="21">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Osa" jugador="Camuñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2010" jornada="4">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Osa" jugador="Camuñas"/>
+      <gol minuto="37" equipo="Osa" jugador="Pandiani"/>
+      <gol minuto="16" equipo="Rel" jugador="Tamudo"/>
+      <gol minuto="74" equipo="Osa" jugador="Aranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="86" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="25" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="27" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="89" equipo="Osa" jugador="Lekić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Osa" jugador="Masoud"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Osa" jugador="Cejudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2010" jornada="16">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Rac</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="David López"/>
+      <gol minuto="21" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="88" equipo="Rac" jugador="Kennedy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2011" jornada="36">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rac" jugador="Kennedy"/>
+      <gol minuto="48" equipo="Rac" jugador="Rosenberg"/>
+      <gol minuto="10" equipo="Atl" jugador="Mario Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="62" equipo="Bar" jugador="Villa"/>
+      <gol minuto="4" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/09/2010" jornada="5">
+    <local>Rac</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Get" jugador="Víctor Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/12/2010" jornada="16">
+    <local>Rac</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Rac</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Lev" jugador="Rafa Jordà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Rac</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rac" jugador="Rosenberg"/>
+      <gol minuto="31" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="34" equipo="Mál" jugador="Seba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rac" jugador="Kennedy"/>
+      <gol minuto="12" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rac" jugador="Torrejón"/>
+      <gol minuto="26" equipo="Rac" jugador="Kennedy"/>
+      <gol minuto="35" equipo="Rac" jugador="Rosenberg"/>
+      <gol minuto="61" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rac" jugador="Kennedy"/>
+      <gol minuto="23" equipo="Rea" jugador="Adebayor"/>
+      <gol minuto="26" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="74" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rac" jugador="Kennedy"/>
+      <gol minuto="77" equipo="Rac" jugador="Giovani dos Santos"/>
+      <gol minuto="71" equipo="Rel" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2011" jornada="23">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rac" jugador="Christian Fernández"/>
+      <gol minuto="39" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="90" equipo="Rac" jugador="Arana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Rac</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Spo" jugador="Diego Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 31/01/2011" jornada="21">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rac" jugador="Nahuelpán"/>
+      <gol minuto="77" equipo="Val" jugador="Tino Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2011" jornada="25">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rac" jugador="Nahuelpán"/>
+      <gol minuto="66" equipo="Vil" jugador="Marco Ruben"/>
+      <gol minuto="67" equipo="Rac" jugador="Giovani dos Santos"/>
+      <gol minuto="90" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2010" jornada="3">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rac" jugador="Henrique"/>
+      <gol minuto="90" equipo="Rac" jugador="Nahuelpán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Rea</local>
+    <visitante>Alm</visitante>
+    <resultado local="8" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="76" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="47" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="62" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="30" equipo="Rea" jugador="Adebayor"/>
+      <gol minuto="52" equipo="Rea" jugador="Adebayor"/>
+      <gol minuto="72" equipo="Rea" jugador="Adebayor"/>
+      <gol minuto="32" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="87" equipo="Rea" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2010" jornada="12">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="30" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="62" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="40" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Carvalho"/>
+      <gol minuto="19" equipo="Rea" jugador="Özil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2011" jornada="32">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Özil"/>
+      <gol minuto="34" equipo="Rea" jugador="Di María"/>
+      <gol minuto="53" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="4" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="89" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="78" equipo="Dep" jugador="Juan Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2010" jornada="4">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="87" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2011" jornada="36">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="57" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="76" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2011" jornada="28">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="56" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2011" jornada="24">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Carvalho"/>
+      <gol minuto="6" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 03/03/2011" jornada="26">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="7" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Marcelo"/>
+      <gol minuto="35" equipo="Rea" jugador="Di María"/>
+      <gol minuto="50" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="76" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="27" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="61" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2010" jornada="2">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Carvalho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2010" jornada="8">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rea" jugador="Özil"/>
+      <gol minuto="10" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="15" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="26" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="47" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="73" equipo="Rac" jugador="Rosenberg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2011" jornada="22">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="20" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="42" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="88" equipo="Rea" jugador="Adebayor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2010" jornada="16">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Di María"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2011" jornada="30">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Spo" jugador="De las Cuevas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2010" jornada="14">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="86" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2011" jornada="18">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="78" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="6" equipo="Vil" jugador="Cani"/>
+      <gol minuto="17" equipo="Vil" jugador="Marco Ruben"/>
+      <gol minuto="81" equipo="Rea" jugador="Kaká"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2011" jornada="34">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="84" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="41" equipo="Zar" jugador="Lafita"/>
+      <gol minuto="77" equipo="Zar" jugador="Lafita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2011" jornada="21">
+    <local>Rel</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rel" jugador="Ansotegi"/>
+      <gol minuto="79" equipo="Rel" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rel" jugador="Diego Rivas"/>
+      <gol minuto="12" equipo="Rel" jugador="Llorente"/>
+      <gol minuto="79" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="82" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="71" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2011" jornada="34">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Thiago Alcántara"/>
+      <gol minuto="70" equipo="Rel" jugador="Ifrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 25/10/2010" jornada="8">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="16" equipo="Rel" jugador="Llorente"/>
+      <gol minuto="86" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2010" jornada="6">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/05/2011" jornada="38">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Get" jugador="Cata Díaz"/>
+      <gol minuto="76" equipo="Rel" jugador="Sutil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Hér" jugador="Drenthe"/>
+      <gol minuto="89" equipo="Hér" jugador="Drenthe"/>
+      <gol minuto="70" equipo="Hér" jugador="Portillo"/>
+      <gol minuto="90" equipo="Rel" jugador="Ifrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Zurutuza"/>
+      <gol minuto="77" equipo="Lev" jugador="Del Horno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Mál" jugador="Duda"/>
+      <gol minuto="57" equipo="Mál" jugador="Rondón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 21/02/2011" jornada="24">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2011" jornada="23">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2010" jornada="10">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rel" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2010" jornada="3">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rel" jugador="Tamudo"/>
+      <gol minuto="75" equipo="Rea" jugador="Pepe"/>
+      <gol minuto="51" equipo="Rea" jugador="Di María"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2011" jornada="18">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Diego Rivas"/>
+      <gol minuto="43" equipo="Rel" jugador="Llorente"/>
+      <gol minuto="25" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="65" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="63" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2011" jornada="32">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="79" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="68" equipo="Spo" jugador="De las Cuevas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2010" jornada="16">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Val" jugador="Tino Costa"/>
+      <gol minuto="91" equipo="Val" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2010" jornada="1">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rel" jugador="Xabi Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2011" jornada="36">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="23" equipo="Rel" jugador="Tamudo"/>
+      <gol minuto="53" equipo="Zar" jugador="Gabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2010" jornada="15">
+    <local>Sev</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="48" equipo="Alm" jugador="Vargas"/>
+      <gol minuto="81" equipo="Alm" jugador="Piatti"/>
+      <gol minuto="90" equipo="Alm" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="62" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="74" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="77" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="94" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Perotti"/>
+      <gol minuto="28" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="51" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="57" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="30" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2010" jornada="2">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Callejón"/>
+      <gol minuto="77" equipo="Esp" jugador="Callejón"/>
+      <gol minuto="92" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2010" jornada="13">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="74" equipo="Get" jugador="Pedro Ríos"/>
+      <gol minuto="59" equipo="Get" jugador="Miku"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Sev</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2011" jornada="20">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sev" jugador="Escudé"/>
+      <gol minuto="27" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="67" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="57" equipo="Lev" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2011" jornada="22">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/2010" jornada="12">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="89" equipo="Mal" jugador="Webó"/>
+      <gol minuto="87" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2011" jornada="17">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2010" jornada="4">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rac" jugador="Pinillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="6"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="84" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="21" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="42" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="31" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="65" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="70" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="75" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="53" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="58" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="71" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 01/03/2011" jornada="26">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Perotti"/>
+      <gol minuto="65" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 08/11/2010" jornada="10">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="77" equipo="Sev" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="14" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="56" equipo="Vil" jugador="Marchena"/>
+      <gol minuto="62" equipo="Sev" jugador="Romaric"/>
+      <gol minuto="73" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2011" jornada="30">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Sev" jugador="Perotti"/>
+      <gol minuto="46" equipo="Zar" jugador="Jarošík"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Spo</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Spo" jugador="De las Cuevas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2010" jornada="3">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Spo" jugador="De las Cuevas"/>
+      <gol minuto="23" equipo="Spo" jugador="Sangoy"/>
+      <gol minuto="28" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="58" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Spo" jugador="Barral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2011" jornada="23">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Spo" jugador="Barral"/>
+      <gol minuto="79" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Spo</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Dep" jugador="Adrián"/>
+      <gol minuto="39" equipo="Dep" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2011" jornada="33">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Spo" jugador="Nacho Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2011" jornada="27">
+    <local>Spo</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Spo" jugador="André Castro"/>
+      <gol minuto="31" equipo="Spo" jugador="De las Cuevas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Spo</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Spo" jugador="Nacho Cases"/>
+      <gol minuto="1" equipo="Spo" jugador="Barral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Spo</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Spo" jugador="Eguren"/>
+      <gol minuto="72" equipo="Lev" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2011" jornada="17">
+    <local>Spo</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Mál" jugador="Weligton"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2010" jornada="2">
+    <local>Spo</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Spo" jugador="Botía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Spo" jugador="Barral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Spo</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Spo" jugador="De las Cuevas"/>
+      <gol minuto="51" equipo="Spo" jugador="Nacho Novo"/>
+      <gol minuto="31" equipo="Rac" jugador="Christian Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Spo" jugador="Grégory"/>
+      <gol minuto="11" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="93" equipo="Rel" jugador="Aranburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2010" jornada="7">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Spo" jugador="Sangoy"/>
+      <gol minuto="51" equipo="Spo" jugador="Diego Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2010" jornada="5">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Val" jugador="Topal"/>
+      <gol minuto="10" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2010" jornada="9">
+    <local>Spo</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 26/02/2011" jornada="25">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/11/2010" jornada="13">
+    <local>Val</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Soldado"/>
+      <gol minuto="57" equipo="Val" jugador="Soldado"/>
+      <gol minuto="89" equipo="Alm" jugador="Ulloa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2010" jornada="6">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Val" jugador="Aduriz"/>
+      <gol minuto="93" equipo="Ath" jugador="Gabilondo"/>
+      <gol minuto="91" equipo="Val" jugador="Vicente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2010" jornada="4">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Val" jugador="Aduriz"/>
+      <gol minuto="19" equipo="Atl" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2011" jornada="19">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Val" jugador="Mathieu"/>
+      <gol minuto="89" equipo="Val" jugador="Pablo Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2011" jornada="17">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Val" jugador="Mata"/>
+      <gol minuto="28" equipo="Val" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="David Navarro"/>
+      <gol minuto="8" equipo="Val" jugador="Tino Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2011" jornada="22">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Tino Costa"/>
+      <gol minuto="43" equipo="Val" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/01/2011" jornada="20">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Val" jugador="Aduriz"/>
+      <gol minuto="79" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="10" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="35" equipo="Mál" jugador="Rondón"/>
+      <gol minuto="53" equipo="Val" jugador="Soldado"/>
+      <gol minuto="67" equipo="Val" jugador="Banega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2010" jornada="8">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mal" jugador="Chori Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/12/2010" jornada="15">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Stankevičius"/>
+      <gol minuto="42" equipo="Val" jugador="Aduriz"/>
+      <gol minuto="24" equipo="Val" jugador="Soldado"/>
+      <gol minuto="60" equipo="Osa" jugador="Miguel Flaño"/>
+      <gol minuto="87" equipo="Osa" jugador="Aranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2010" jornada="2">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Maduro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/04/2011" jornada="33">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="6"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Soldado"/>
+      <gol minuto="38" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="62" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="30" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="42" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="52" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="22" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="84" equipo="Val" jugador="Jordi Alba"/>
+      <gol minuto="79" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2011" jornada="35">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Soldado"/>
+      <gol minuto="37" equipo="Val" jugador="Soldado"/>
+      <gol minuto="25" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2011" jornada="29">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Sev" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2011" jornada="24">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/2011" jornada="31">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Mata"/>
+      <gol minuto="72" equipo="Val" jugador="Mata"/>
+      <gol minuto="61" equipo="Val" jugador="Banega"/>
+      <gol minuto="13" equipo="Val" jugador="Soldado"/>
+      <gol minuto="74" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2010" jornada="9">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Zar" jugador="Lanzaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/01/2011" jornada="17">
+    <local>Vil</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Catalá"/>
+      <gol minuto="58" equipo="Vil" jugador="Borja Valero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="84" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="39" equipo="Vil" jugador="Nilmar"/>
+      <gol minuto="6" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="90" equipo="Vil" jugador="Jefferson Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2010" jornada="8">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Vil" jugador="Cani"/>
+      <gol minuto="52" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2011" jornada="30">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bar" jugador="Piqué"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2010" jornada="4">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2010" jornada="2">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Vil" jugador="Borja Valero"/>
+      <gol minuto="23" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="77" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2011" jornada="34">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vil" jugador="Cani"/>
+      <gol minuto="74" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="31" equipo="Get" jugador="Pedro Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Vil</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Lev" jugador="Valdo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2011" jornada="24">
+    <local>Vil</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vil" jugador="Marco Ruben"/>
+      <gol minuto="82" equipo="Mál" jugador="Seba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2010" jornada="16">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="50" equipo="Vil" jugador="Nilmar"/>
+      <gol minuto="26" equipo="Mal" jugador="De Guzmán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vil" jugador="Gonzalo"/>
+      <gol minuto="65" equipo="Vil" jugador="Capdevila"/>
+      <gol minuto="50" equipo="Vil" jugador="Cani"/>
+      <gol minuto="21" equipo="Vil" jugador="Marco Ruben"/>
+      <gol minuto="47" equipo="Osa" jugador="Vadócz"/>
+      <gol minuto="70" equipo="Osa" jugador="Calleja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2010" jornada="6">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="8" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Vil" jugador="Cani"/>
+      <gol minuto="16" equipo="Rea" jugador="Marcelo"/>
+      <gol minuto="21" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="93" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="47" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="29" equipo="Rel" jugador="Aranburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2010" jornada="14">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2011" jornada="28">
+    <local>Vil</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2010" jornada="12">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="20" equipo="Val" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/04/2011" jornada="32">
+    <local>Vil</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Lunes 25/04/2011" jornada="33">
+    <local>Zar</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 02/03/2011" jornada="26">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Zar" jugador="Jarošík"/>
+      <gol minuto="55" equipo="Zar" jugador="Uche"/>
+      <gol minuto="18" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2011" jornada="24">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2010" jornada="8">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Messi"/>
+      <gol minuto="66" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2011" jornada="20">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Zar" jugador="Boutahar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2011" jornada="37">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Ponzio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 11/04/2011" jornada="31">
+    <local>Zar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="Bertolo"/>
+      <gol minuto="13" equipo="Zar" jugador="Ponzio"/>
+      <gol minuto="45" equipo="Get" jugador="Casquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2010" jornada="4">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/01/2011" jornada="19">
+    <local>Zar</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Zar" jugador="Gabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2010" jornada="2">
+    <local>Zar</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Ander Herrera"/>
+      <gol minuto="40" equipo="Zar" jugador="Edmílson"/>
+      <gol minuto="68" equipo="Zar" jugador="Marco Pérez"/>
+      <gol minuto="1" equipo="Mál" jugador="Fernando"/>
+      <gol minuto="27" equipo="Mál" jugador="Fernando"/>
+      <gol minuto="7" equipo="Mál" jugador="Juanmi"/>
+      <gol minuto="29" equipo="Mál" jugador="Juanmi"/>
+      <gol minuto="34" equipo="Mál" jugador="Quincy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2010" jornada="10">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Zar" jugador="Lafita"/>
+      <gol minuto="60" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="19" equipo="Mal" jugador="Webó"/>
+      <gol minuto="84" equipo="Zar" jugador="Bertolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2011" jornada="35">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Zar" jugador="Lafita"/>
+      <gol minuto="69" equipo="Osa" jugador="Sergio Fernández"/>
+      <gol minuto="62" equipo="Osa" jugador="Camuñas"/>
+      <gol minuto="80" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2011" jornada="22">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Zar" jugador="Boutahar"/>
+      <gol minuto="13" equipo="Rac" jugador="Christian Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2010" jornada="15">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rea" jugador="Özil"/>
+      <gol minuto="46" equipo="Rea" jugador="Di María"/>
+      <gol minuto="44" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/01/2011" jornada="17">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Zar" jugador="Sinama-Pongolle"/>
+      <gol minuto="33" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="90" equipo="Zar" jugador="Braulio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2010" jornada="11">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="53" equipo="Zar" jugador="Bertolo"/>
+      <gol minuto="90" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2010" jornada="6">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Zar" jugador="Sinama-Pongolle"/>
+      <gol minuto="61" equipo="Zar" jugador="Sinama-Pongolle"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2011" jornada="28">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="Jarošík"/>
+      <gol minuto="39" equipo="Zar" jugador="Ander Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2010" jornada="13">
+    <local>Zar</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Vil" jugador="Senna"/>
+      <gol minuto="18" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="65" equipo="Vil" jugador="Nilmar"/>
+    </goleadores>
+  </partido>
+</liga>

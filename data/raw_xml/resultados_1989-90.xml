@@ -1,0 +1,3739 @@
+<?xml version="1.0" ?>
+<liga temporada="1989-90">
+  <partido fecha="Sábado 30/09/1989" jornada="5">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ath" jugador="Alkorta"/>
+      <gol minuto="65" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="11" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="89" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1989" jornada="9">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ath" jugador="Lakabeg"/>
+      <gol minuto="24" equipo="Ath" jugador="Iturrino"/>
+      <gol minuto="35" equipo="Ath" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ath" jugador="Loren"/>
+      <gol minuto="49" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="21" equipo="Cád" jugador="Husillos"/>
+      <gol minuto="88" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Ath</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="73" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="37" equipo="Cas" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Ath</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ath" jugador="Lakabeg"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="78" equipo="Ath" jugador="Luis Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Iturrino"/>
+      <gol minuto="40" equipo="Ath" jugador="Patxi Salinas"/>
+      <gol minuto="89" equipo="Ray" jugador="Mejías"/>
+      <gol minuto="86" equipo="Ray" jugador="Soto"/>
+      <gol minuto="82" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1989" jornada="1">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/03/1990" jornada="30">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ath" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/1990" jornada="21">
+    <local>Ath</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="38" equipo="Ten" jugador="Rommel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/1989" jornada="7">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Iturrino"/>
+      <gol minuto="24" equipo="Val" jugador="Nando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ath" jugador="Urrutia"/>
+      <gol minuto="39" equipo="Vall" jugador="Damián"/>
+      <gol minuto="84" equipo="Vall" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Eskurza"/>
+      <gol minuto="15" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/1989" jornada="12">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Futre"/>
+      <gol minuto="64" equipo="Atl" jugador="Futre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1989" jornada="2">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Atl" jugador="Futre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Atl</local>
+    <visitante>Cas</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="89" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="27" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="31" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="63" equipo="Cas" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="39" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="55" equipo="Cel" jugador="Mosquera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Atl</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="45" equipo="Atl" jugador="Marina"/>
+      <gol minuto="46" equipo="Atl" jugador="Futre"/>
+      <gol minuto="28" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="28" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="43" equipo="Ovi" jugador="Julià"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="70" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/04/1990" jornada="37">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="17" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="40" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="36" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="89" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="57" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/1989" jornada="4">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Marina"/>
+      <gol minuto="40" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="15" equipo="Spo" jugador="Emilio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Atl</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Donato"/>
+      <gol minuto="78" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Marina"/>
+      <gol minuto="74" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="87" equipo="Atl" jugador="Futre"/>
+      <gol minuto="89" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="80" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="46" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="76" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="58" equipo="Ath" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/03/1990" jornada="31">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="68" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="66" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="15" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="84" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Bar</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bar" jugador="Laudrup"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="47" equipo="Bar" jugador="Robert"/>
+      <gol minuto="65" equipo="Bar" jugador="Robert"/>
+      <gol minuto="74" equipo="Bar" jugador="Robert"/>
+      <gol minuto="77" equipo="Bar" jugador="Amor"/>
+      <gol minuto="87" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Bar</local>
+    <visitante>Log</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="42" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="49" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="68" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="83" equipo="Log" jugador="Vílchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1989" jornada="2">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="80" equipo="Bar" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/10/1989" jornada="7">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bar" jugador="Robert"/>
+      <gol minuto="9" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="63" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="8" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="28" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="81" equipo="Ray" jugador="Zapatera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/02/1990" jornada="27">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="55" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="73" equipo="Rea" jugador="Aldridge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1989" jornada="6">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Robert"/>
+      <gol minuto="1" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="31" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="83" equipo="Sev" jugador="Carvajal"/>
+      <gol minuto="87" equipo="Sev" jugador="Conte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="77" equipo="Bar" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/1989" jornada="9">
+    <local>Bar</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="36" equipo="Bar" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bar" jugador="Valverde"/>
+      <gol minuto="64" equipo="Bar" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Robert"/>
+      <gol minuto="42" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Estíbariz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>CD</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>CD</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="CD" jugador="Paquito"/>
+      <gol minuto="73" equipo="Cas" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1989" jornada="1">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="CD" jugador="Paquito"/>
+      <gol minuto="37" equipo="Cel" jugador="Zambrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/03/1990" jornada="21">
+    <local>CD</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Log" jugador="Alzamendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/1990" jornada="34">
+    <local>CD</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mal" jugador="Guillermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>CD</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="CD" jugador="Quino"/>
+      <gol minuto="6" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>CD</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>CD</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="CD" jugador="Toledano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rea" jugador="Mentxaka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="CD" jugador="Álvarez"/>
+      <gol minuto="24" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="43" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>CD</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="CD" jugador="Paquito"/>
+      <gol minuto="3" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="73" equipo="CD" jugador="Esteban Vigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>CD</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="CD" jugador="Antonio Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>CD</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="CD" jugador="Usuriaga"/>
+      <gol minuto="29" equipo="CD" jugador="Paquito"/>
+      <gol minuto="71" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="CD" jugador="Lauridsen"/>
+      <gol minuto="13" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/03/1990" jornada="30">
+    <local>CD</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Zar" jugador="Villarroya"/>
+      <gol minuto="8" equipo="Zar" jugador="Sirakov"/>
+      <gol minuto="89" equipo="Zar" jugador="Pascual Sanz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cád" jugador="Husillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="49" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="54" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="15" equipo="Bar" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Cád</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="CD" jugador="Gallego González"/>
+      <gol minuto="67" equipo="CD" jugador="Gallego González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Cád</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Cád" jugador="Canillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Cád" jugador="Manolito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Cád</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Log" jugador="Maqueda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Cád</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Cád" jugador="Cortijo"/>
+      <gol minuto="52" equipo="Mal" jugador="Sánchez Clemente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Cád</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cád" jugador="Sánchez Pose"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Cád</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Cád" jugador="Barla"/>
+      <gol minuto="64" equipo="Cád" jugador="Barla"/>
+      <gol minuto="85" equipo="Ray" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Cád" jugador="Husillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/1990" jornada="24">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="81" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="47" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Sev" jugador="Salguero"/>
+      <gol minuto="9" equipo="Sev" jugador="Polster"/>
+      <gol minuto="33" equipo="Sev" jugador="Polster"/>
+      <gol minuto="75" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Cád</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Cád" jugador="Cortijo"/>
+      <gol minuto="33" equipo="Cád" jugador="Mágico González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Cád</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Cád" jugador="Lajos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Nando"/>
+      <gol minuto="62" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Cád</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Cád" jugador="Manolito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Cád</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Zar" jugador="Vizcaíno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Cas</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cas" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Cas</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Cas</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Cas</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Cas" jugador="Pelletti"/>
+      <gol minuto="62" equipo="CD" jugador="Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/11/1989" jornada="13">
+    <local>Cas</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cas" jugador="Cabrera"/>
+      <gol minuto="86" equipo="Cád" jugador="José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Cas</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Cas" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1989" jornada="9">
+    <local>Cas</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Cas</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cas" jugador="Jose Hurtado"/>
+      <gol minuto="13" equipo="Mal" jugador="Fradera"/>
+      <gol minuto="38" equipo="Mal" jugador="Stojadinović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Cas</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Osa" jugador="Urban"/>
+      <gol minuto="78" equipo="Osa" jugador="Berastegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Cas</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ovi" jugador="Gračan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Cas</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Cas" jugador="Ayúcar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Cas</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="32" equipo="Rea" jugador="Mentxaka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1989" jornada="2">
+    <local>Cas</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Cas</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Cas" jugador="Ayúcar"/>
+      <gol minuto="29" equipo="Cas" jugador="Cabrera"/>
+      <gol minuto="67" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Cas</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Cas" jugador="Ayúcar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/1989" jornada="7">
+    <local>Cas</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Cas</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Cas</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vall" jugador="Albis"/>
+      <gol minuto="87" equipo="Cas" jugador="Víctor Salvador"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Cas</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Cas" jugador="Javi"/>
+      <gol minuto="46" equipo="Cas" jugador="Raúl"/>
+      <gol minuto="66" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Cel" jugador="Mosquera"/>
+      <gol minuto="68" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Mosquera"/>
+      <gol minuto="22" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="43" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Cel" jugador="Mosquera"/>
+      <gol minuto="34" equipo="CD" jugador="Toledano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Mosquera"/>
+      <gol minuto="88" equipo="Cel" jugador="Nacho"/>
+      <gol minuto="61" equipo="Cel" jugador="Fabiano"/>
+      <gol minuto="71" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="18" equipo="Cel" jugador="Mauricio Oliveira"/>
+      <gol minuto="63" equipo="Cád" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Cel</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Cel" jugador="Mosquera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Cel</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Log" jugador="Aragón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="63" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="37" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="61" equipo="Mal" jugador="Álvaro Cervera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ovi" jugador="Vinyals"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Sev" jugador="Martagón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Cel</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Fernando"/>
+      <gol minuto="68" equipo="Val" jugador="Fenoll"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Cel" jugador="Rodolfo"/>
+      <gol minuto="32" equipo="Cel" jugador="Nilson"/>
+      <gol minuto="81" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="74" equipo="Zar" jugador="Salillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Log</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 29/12/1989" jornada="17">
+    <local>Log</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Atl" jugador="Futre"/>
+      <gol minuto="83" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Log</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Log" jugador="Sarabia"/>
+      <gol minuto="55" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="62" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Log</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Log" jugador="Cristóbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Log</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Cád" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Log</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Log</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Log" jugador="Cristóbal"/>
+      <gol minuto="89" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="63" equipo="Log" jugador="Aragón"/>
+      <gol minuto="76" equipo="Log" jugador="Rosagro"/>
+      <gol minuto="19" equipo="Cel" jugador="Mauricio Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Log</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Log</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="89" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Log</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="74" equipo="Ovi" jugador="Hicks"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Log</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Log</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Log</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="78" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="8" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="36" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="59" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Log</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="36" equipo="Log" jugador="Rosagro"/>
+      <gol minuto="44" equipo="Sev" jugador="Cholo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Log</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Log" jugador="Quique Setién"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Log</local>
+    <visitante>Ten</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Log" jugador="Pedro"/>
+      <gol minuto="79" equipo="Log" jugador="Rosagro"/>
+      <gol minuto="12" equipo="Log" jugador="Alzamendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Log</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Log</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Log</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Log" jugador="Marcos Alonso"/>
+      <gol minuto="75" equipo="Zar" jugador="Juanito"/>
+      <gol minuto="87" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Calderón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Mal</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mal" jugador="Vulić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Mal</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Mal" jugador="García Cortés"/>
+      <gol minuto="58" equipo="Mal" jugador="Calderón"/>
+      <gol minuto="23" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="52" equipo="Mal" jugador="Marcos"/>
+      <gol minuto="83" equipo="Mal" jugador="Marcos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Mal</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Mal" jugador="Nadal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/1989" jornada="9">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Mal" jugador="Calderón"/>
+      <gol minuto="89" equipo="Mal" jugador="Guillermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Mal</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="75" equipo="Mal" jugador="Kurdov"/>
+      <gol minuto="39" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="89" equipo="Mal" jugador="Guillermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="82" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="68" equipo="Osa" jugador="Sola"/>
+      <gol minuto="50" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Mal</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Vulić"/>
+      <gol minuto="42" equipo="Mal" jugador="Claudio"/>
+      <gol minuto="61" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="1" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/10/1989" jornada="7">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Mal" jugador="Guillermo"/>
+      <gol minuto="54" equipo="Sev" jugador="Salguero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Mal</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="69" equipo="Spo" jugador="Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Mal</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="12" equipo="Ten" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mal" jugador="Fradera"/>
+      <gol minuto="52" equipo="Vall" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Osa" jugador="Sola"/>
+      <gol minuto="62" equipo="Ath" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Osa" jugador="Larrainzar"/>
+      <gol minuto="45" equipo="Osa" jugador="Martín Domínguez"/>
+      <gol minuto="89" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/1990" jornada="21">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Robert"/>
+      <gol minuto="23" equipo="Bar" jugador="Amor"/>
+      <gol minuto="68" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Osa</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Osa</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Cas" jugador="Raúl"/>
+      <gol minuto="76" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/1989" jornada="7">
+    <local>Osa</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="58" equipo="Osa" jugador="Camilo"/>
+      <gol minuto="74" equipo="Osa" jugador="Camilo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Osa</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Osa" jugador="Ibáñez"/>
+      <gol minuto="27" equipo="Osa" jugador="Urban"/>
+      <gol minuto="77" equipo="Osa" jugador="Arozarena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Osa" jugador="Ibáñez"/>
+      <gol minuto="3" equipo="Osa" jugador="Urban"/>
+      <gol minuto="87" equipo="Ray" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="43" equipo="Rea" jugador="Aldridge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="78" equipo="Rel" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Osa" jugador="Merino"/>
+      <gol minuto="54" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="86" equipo="Sev" jugador="Andrades"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1989" jornada="9">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Spo" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Osa</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Osa" jugador="Ibáñez"/>
+      <gol minuto="50" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/03/1990" jornada="29">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Osa" jugador="Urban"/>
+      <gol minuto="60" equipo="Val" jugador="Quique"/>
+      <gol minuto="72" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Osa" jugador="Martín González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Osa" jugador="Martín Domínguez"/>
+      <gol minuto="76" equipo="Osa" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ovi" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1989" jornada="9">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="86" equipo="Ovi" jugador="Sarriugarte"/>
+      <gol minuto="60" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/1989" jornada="3">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ovi" jugador="Gorriarán"/>
+      <gol minuto="17" equipo="Ovi" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Ovi</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Ovi</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="14" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="23" equipo="Ovi" jugador="Hicks"/>
+      <gol minuto="46" equipo="Ovi" jugador="Hicks"/>
+      <gol minuto="12" equipo="Cád" jugador="Canillas"/>
+      <gol minuto="72" equipo="Cád" jugador="Husillos"/>
+      <gol minuto="83" equipo="Cád" jugador="Husillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Ovi</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="35" equipo="Cas" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/1989" jornada="7">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ovi" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Ovi</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="52" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="73" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="85" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Ovi</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Mal" jugador="Calderón"/>
+      <gol minuto="88" equipo="Mal" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Ovi</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="48" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Ovi</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="56" equipo="Ray" jugador="Rodri"/>
+      <gol minuto="10" equipo="Ray" jugador="Sabas"/>
+      <gol minuto="85" equipo="Ovi" jugador="Julià"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="73" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="51" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="40" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="57" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/01/1990" jornada="19">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Ovi</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Sev" jugador="Polster"/>
+      <gol minuto="70" equipo="Sev" jugador="Zúñiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Ovi</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ovi" jugador="Hicks"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Ovi</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ovi" jugador="Hicks"/>
+      <gol minuto="23" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="42" equipo="Ten" jugador="Francis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Ovi</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ovi" jugador="Sarriugarte"/>
+      <gol minuto="6" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="2" equipo="Zar" jugador="Villarroya"/>
+      <gol minuto="58" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ray" jugador="Hugo Maradona"/>
+      <gol minuto="41" equipo="Ray" jugador="Berg"/>
+      <gol minuto="66" equipo="Ray" jugador="Berg"/>
+      <gol minuto="3" equipo="Atl" jugador="Ferreira"/>
+      <gol minuto="15" equipo="Atl" jugador="Futre"/>
+      <gol minuto="34" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Robert"/>
+      <gol minuto="16" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="31" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="26" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="83" equipo="Ray" jugador="Rafa Bono"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Ray</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ray" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Ray</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Cád" jugador="Husillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Ray</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cas" jugador="Fernández"/>
+      <gol minuto="73" equipo="Cas" jugador="Víctor Salvador"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ray" jugador="Botella"/>
+      <gol minuto="6" equipo="Ray" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Ray</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Ray</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ray" jugador="Juanito"/>
+      <gol minuto="73" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1989" jornada="9">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Goikoetxea"/>
+      <gol minuto="45" equipo="Rea" jugador="Loinaz"/>
+      <gol minuto="66" equipo="Rea" jugador="Mentxaka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ray" jugador="Soto"/>
+      <gol minuto="33" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="18" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ray" jugador="Zapatera"/>
+      <gol minuto="67" equipo="Ray" jugador="Rafa Bono"/>
+      <gol minuto="9" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Ray</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ray" jugador="Hugo Maradona"/>
+      <gol minuto="9" equipo="Spo" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Ray</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ray" jugador="Rodri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ray" jugador="Mejías"/>
+      <gol minuto="65" equipo="Ray" jugador="Mejías"/>
+      <gol minuto="9" equipo="Val" jugador="Fernando"/>
+      <gol minuto="11" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Ray</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ray" jugador="Argenta"/>
+      <gol minuto="37" equipo="Ray" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ray" jugador="Soto"/>
+      <gol minuto="15" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/04/1990" jornada="33">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/10/1989" jornada="8">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="4" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="32" equipo="Bar" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Goikoetxea"/>
+      <gol minuto="87" equipo="CD" jugador="Toledano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rea" jugador="Aldridge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Rea</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Larrañaga"/>
+      <gol minuto="13" equipo="Rea" jugador="Górriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Rea</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Mentxaka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="21" equipo="Rea" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="46" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Larrañaga"/>
+      <gol minuto="31" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="72" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="38" equipo="Rea" jugador="Mentxaka"/>
+      <gol minuto="40" equipo="Ray" jugador="Hugo Maradona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/1989" jornada="10">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="15" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="88" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/01/1990" jornada="19">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Larrañaga"/>
+      <gol minuto="51" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="57" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Górriz"/>
+      <gol minuto="10" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="39" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Rea</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rea" jugador="Larrañaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/04/1990" jornada="35">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rea" jugador="Alaba"/>
+      <gol minuto="1" equipo="Rea" jugador="Aldridge"/>
+      <gol minuto="71" equipo="Val" jugador="Ferrando"/>
+      <gol minuto="81" equipo="Val" jugador="Fenoll"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Vall" jugador="Hidalgo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Billabona"/>
+      <gol minuto="69" equipo="Zar" jugador="Villarroya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/11/1989" jornada="11">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rel" jugador="Chendo"/>
+      <gol minuto="19" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="62" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="70" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/01/1990" jornada="18">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="7" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="74" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="49" equipo="Atl" jugador="Bustingorri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 15/02/1990" jornada="25">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="45" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="54" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="57" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/1989" jornada="7">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rel" jugador="Ruggeri"/>
+      <gol minuto="34" equipo="Rel" jugador="Losada"/>
+      <gol minuto="42" equipo="Rel" jugador="Losada"/>
+      <gol minuto="76" equipo="Rel" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="39" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="89" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="26" equipo="Cád" jugador="José"/>
+      <gol minuto="74" equipo="Rel" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Rel</local>
+    <visitante>Cas</visitante>
+    <resultado local="7" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="57" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="38" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="12" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="69" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="87" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="89" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="84" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Rel</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="54" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="60" equipo="Log" jugador="Pedro"/>
+      <gol minuto="10" equipo="Log" jugador="Aragón"/>
+      <gol minuto="8" equipo="Log" jugador="Sarabia"/>
+      <gol minuto="66" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="43" equipo="Mal" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="23" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="34" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/1990" jornada="38">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Aldana"/>
+      <gol minuto="15" equipo="Rel" jugador="Parra"/>
+      <gol minuto="46" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="64" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="5" equipo="Ovi" jugador="Vinyals"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="64" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="76" equipo="Rel" jugador="Losada"/>
+      <gol minuto="89" equipo="Rel" jugador="Losada"/>
+      <gol minuto="87" equipo="Ray" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="20" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="38" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/1989" jornada="9">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="18" equipo="Rel" jugador="Aldana"/>
+      <gol minuto="59" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="84" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="10" equipo="Sev" jugador="Polster"/>
+      <gol minuto="67" equipo="Sev" jugador="Polster"/>
+      <gol minuto="69" equipo="Rel" jugador="Paco Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="26" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Rel</local>
+    <visitante>Ten</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Ruggeri"/>
+      <gol minuto="45" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="75" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="15" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="73" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="51" equipo="Ten" jugador="Revert"/>
+      <gol minuto="34" equipo="Ten" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="71" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="39" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="7" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="83" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="85" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="44" equipo="Val" jugador="Arroyo"/>
+      <gol minuto="23" equipo="Val" jugador="Toni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="17" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="42" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/11/1989" jornada="13">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="7" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="43" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="89" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="4" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="35" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="45" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="88" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="33" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="50" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Sev" jugador="Conte"/>
+      <gol minuto="23" equipo="Sev" jugador="Polster"/>
+      <gol minuto="47" equipo="Sev" jugador="Polster"/>
+      <gol minuto="33" equipo="Ath" jugador="Loren"/>
+      <gol minuto="88" equipo="Ath" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/02/1990" jornada="23">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="36" equipo="Sev" jugador="Carvajal"/>
+      <gol minuto="89" equipo="Atl" jugador="Futre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sev" jugador="Polster"/>
+      <gol minuto="34" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Sev</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Sev" jugador="Carvajal"/>
+      <gol minuto="79" equipo="Sev" jugador="Polster"/>
+      <gol minuto="81" equipo="CD" jugador="Gallego González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/1989" jornada="7">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="39" equipo="Cád" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Sev</local>
+    <visitante>Cas</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="4" equipo="Sev" jugador="Polster"/>
+      <gol minuto="57" equipo="Sev" jugador="Polster"/>
+      <gol minuto="54" equipo="Cas" jugador="Raúl"/>
+      <gol minuto="62" equipo="Cas" jugador="Pelletti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Sev" jugador="Polster"/>
+      <gol minuto="8" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Sev</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Sev" jugador="Martagón"/>
+      <gol minuto="20" equipo="Sev" jugador="Polster"/>
+      <gol minuto="74" equipo="Sev" jugador="Polster"/>
+      <gol minuto="67" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="28" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="53" equipo="Sev" jugador="Carvajal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Sev" jugador="Polster"/>
+      <gol minuto="89" equipo="Osa" jugador="Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Sev</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Polster"/>
+      <gol minuto="28" equipo="Ovi" jugador="Zúñiga"/>
+      <gol minuto="61" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Conte"/>
+      <gol minuto="12" equipo="Sev" jugador="Carvajal"/>
+      <gol minuto="65" equipo="Sev" jugador="Polster"/>
+      <gol minuto="89" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 03/03/1990" jornada="28">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="84" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="87" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sev" jugador="Conte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Sev</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Conte"/>
+      <gol minuto="48" equipo="Sev" jugador="Herrero"/>
+      <gol minuto="17" equipo="Sev" jugador="Polster"/>
+      <gol minuto="80" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="60" equipo="Sev" jugador="Carvajal"/>
+      <gol minuto="80" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Txirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Spo" jugador="Óscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/1990" jornada="32">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bar" jugador="Valverde"/>
+      <gol minuto="82" equipo="Bar" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Spo</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Spo</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Spo" jugador="Ablanedo I"/>
+      <gol minuto="8" equipo="Spo" jugador="Narciso"/>
+      <gol minuto="43" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Spo</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Spo" jugador="Jiménez"/>
+      <gol minuto="47" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="6" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Spo</local>
+    <visitante>Log</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Spo" jugador="Abelardo"/>
+      <gol minuto="3" equipo="Spo" jugador="Narciso"/>
+      <gol minuto="52" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Spo</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="85" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="64" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Spo</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Spo</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/01/1990" jornada="20">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Spo" jugador="Abelardo"/>
+      <gol minuto="85" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Sev" jugador="Rafa Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Spo</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Spo" jugador="Emilio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="80" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Spo</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="64" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="72" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="75" equipo="Zar" jugador="Pablo Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1989" jornada="2">
+    <local>Ten</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="63" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1989" jornada="15">
+    <local>Ten</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ten" jugador="Guina"/>
+      <gol minuto="34" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="42" equipo="Atl" jugador="Alfredo"/>
+      <gol minuto="22" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="64" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1990" jornada="28">
+    <local>Ten</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="78" equipo="Bar" jugador="Amor"/>
+      <gol minuto="49" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/1990" jornada="19">
+    <local>Ten</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="52" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="38" equipo="CD" jugador="Ruiz"/>
+      <gol minuto="63" equipo="CD" jugador="Matosas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/1990" jornada="37">
+    <local>Ten</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/02/1990" jornada="26">
+    <local>Ten</local>
+    <visitante>Cas</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ten" jugador="Toño"/>
+      <gol minuto="59" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="74" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Ten</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ten" jugador="Toño"/>
+      <gol minuto="61" equipo="Ten" jugador="Guina"/>
+      <gol minuto="46" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Ten</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ten" jugador="Luis Delgado"/>
+      <gol minuto="11" equipo="Ten" jugador="Guina"/>
+      <gol minuto="57" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="25" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Ten</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ten" jugador="Rommel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Ten</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ten" jugador="Eduardo Ramos"/>
+      <gol minuto="87" equipo="Ten" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Ten</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="89" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Ten</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ten" jugador="Toño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Ten</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="58" equipo="Rea" jugador="Fuentes"/>
+      <gol minuto="89" equipo="Ten" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1989" jornada="12">
+    <local>Ten</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ten" jugador="Luis Delgado"/>
+      <gol minuto="48" equipo="Ten" jugador="Guina"/>
+      <gol minuto="46" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="76" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="80" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1990" jornada="20">
+    <local>Ten</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sev" jugador="Salguero"/>
+      <gol minuto="85" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1990" jornada="35">
+    <local>Ten</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ten" jugador="Guina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1989" jornada="17">
+    <local>Ten</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ten" jugador="Víctor"/>
+      <gol minuto="6" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Ten</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Ten</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Zar" jugador="Juanito"/>
+      <gol minuto="46" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/02/1990" jornada="26">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Quique"/>
+      <gol minuto="36" equipo="Ath" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1989" jornada="1">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Futre"/>
+      <gol minuto="63" equipo="Atl" jugador="Futre"/>
+      <gol minuto="89" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/12/1989" jornada="14">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Voro"/>
+      <gol minuto="65" equipo="Val" jugador="Penev"/>
+      <gol minuto="5" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1990" jornada="24">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Giner"/>
+      <gol minuto="51" equipo="Val" jugador="Fenoll"/>
+      <gol minuto="78" equipo="Val" jugador="Fenoll"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1989" jornada="4">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Val" jugador="Voro"/>
+      <gol minuto="29" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/1989" jornada="12">
+    <local>Val</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Val" jugador="Penev"/>
+      <gol minuto="69" equipo="Val" jugador="Penev"/>
+      <gol minuto="75" equipo="Cas" jugador="Cabrera"/>
+      <gol minuto="77" equipo="Cas" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/01/1990" jornada="18">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Fernando"/>
+      <gol minuto="86" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Val</local>
+    <visitante>Log</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Val" jugador="Ferrando"/>
+      <gol minuto="73" equipo="Val" jugador="Cuxart"/>
+      <gol minuto="79" equipo="Val" jugador="Cuxart"/>
+      <gol minuto="87" equipo="Val" jugador="Cuxart"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1990" jornada="32">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1989" jornada="10">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Nando"/>
+      <gol minuto="52" equipo="Val" jugador="Fernando"/>
+      <gol minuto="61" equipo="Val" jugador="Toni"/>
+      <gol minuto="79" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1990" jornada="30">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Fenoll"/>
+      <gol minuto="88" equipo="Val" jugador="Toni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/1990" jornada="34">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Val" jugador="Nando"/>
+      <gol minuto="68" equipo="Val" jugador="Tomás"/>
+      <gol minuto="73" equipo="Val" jugador="Toni"/>
+      <gol minuto="78" equipo="Val" jugador="Toni"/>
+      <gol minuto="40" equipo="Ray" jugador="Rodri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Val" jugador="Tomás"/>
+      <gol minuto="50" equipo="Val" jugador="Fenoll"/>
+      <gol minuto="70" equipo="Val" jugador="Eloy"/>
+      <gol minuto="84" equipo="Rea" jugador="Igoa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/01/1990" jornada="22">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Val" jugador="Eloy"/>
+      <gol minuto="65" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/10/1989" jornada="6">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Toni"/>
+      <gol minuto="72" equipo="Sev" jugador="Conte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Arroyo"/>
+      <gol minuto="63" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Val</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Fernando"/>
+      <gol minuto="85" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/1990" jornada="28">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Quique"/>
+      <gol minuto="84" equipo="Val" jugador="Fernando"/>
+      <gol minuto="78" equipo="Val" jugador="Penev"/>
+      <gol minuto="33" equipo="Vall" jugador="Janković"/>
+      <gol minuto="79" equipo="Vall" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1989" jornada="8">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Eloy"/>
+      <gol minuto="28" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1989" jornada="13">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vall" jugador="Lemos"/>
+      <gol minuto="18" equipo="Vall" jugador="Peña"/>
+      <gol minuto="50" equipo="Vall" jugador="Fonseca"/>
+      <gol minuto="78" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/1989" jornada="7">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1989" jornada="1">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Vall" jugador="Damián"/>
+      <gol minuto="17" equipo="Vall" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Vall</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Vall</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vall" jugador="Janković"/>
+      <gol minuto="29" equipo="Cád" jugador="Poli"/>
+      <gol minuto="73" equipo="Cád" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Vall</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Vall</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Log" jugador="Rosagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1989" jornada="16">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Vall</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Vall" jugador="Janković"/>
+      <gol minuto="5" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Vall</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vall" jugador="Peña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vall" jugador="Moya"/>
+      <gol minuto="72" equipo="Vall" jugador="Moya"/>
+      <gol minuto="80" equipo="Vall" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Vall</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vall" jugador="Janković"/>
+      <gol minuto="59" equipo="Spo" jugador="Alcázar"/>
+      <gol minuto="29" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Vall</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vall" jugador="Janković"/>
+      <gol minuto="41" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="62" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/1989" jornada="9">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Val" jugador="Fernando"/>
+      <gol minuto="60" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1990" jornada="33">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Vall" jugador="Fonseca"/>
+      <gol minuto="43" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1990" jornada="31">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Zar" jugador="Sirakov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 14/02/1990" jornada="25">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="Marina"/>
+      <gol minuto="50" equipo="Atl" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1990" jornada="38">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="50" equipo="Zar" jugador="Sirakov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1990" jornada="29">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="75" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="89" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/1989" jornada="9">
+    <local>Zar</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/04/1990" jornada="36">
+    <local>Zar</local>
+    <visitante>Cas</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="36" equipo="Zar" jugador="Sirakov"/>
+      <gol minuto="79" equipo="Zar" jugador="Sirakov"/>
+      <gol minuto="77" equipo="Cas" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1990" jornada="23">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Cel" jugador="Atilano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1989" jornada="5">
+    <local>Zar</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1990" jornada="18">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1990" jornada="34">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/1989" jornada="16">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Zar" jugador="Juanito"/>
+      <gol minuto="25" equipo="Zar" jugador="Vizcaíno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1989" jornada="1">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Zar" jugador="Villarroya"/>
+      <gol minuto="84" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="60" equipo="Zar" jugador="Salillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1990" jornada="21">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Sirakov"/>
+      <gol minuto="89" equipo="Rea" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/1990" jornada="32">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rel" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1989" jornada="11">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/1989" jornada="7">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Juanito"/>
+      <gol minuto="52" equipo="Zar" jugador="Sirakov"/>
+      <gol minuto="85" equipo="Spo" jugador="Joaquín Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1989" jornada="3">
+    <local>Zar</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="34" equipo="Zar" jugador="Salillas"/>
+      <gol minuto="64" equipo="Ten" jugador="Toño"/>
+      <gol minuto="29" equipo="Ten" jugador="Rommel"/>
+      <gol minuto="50" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="75" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1990" jornada="27">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/12/1989" jornada="14">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="Salillas"/>
+      <gol minuto="86" equipo="Zar" jugador="Pascual Sanz"/>
+      <gol minuto="87" equipo="Vall" jugador="Hidalgo"/>
+    </goleadores>
+  </partido>
+</liga>

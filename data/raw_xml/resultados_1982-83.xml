@@ -1,0 +1,3067 @@
+<?xml version="1.0" ?>
+<liga temporada="1982-83">
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Liceranzu"/>
+      <gol minuto="28" equipo="Ath" jugador="Sola"/>
+      <gol minuto="67" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="37" equipo="Ath" jugador="Dani"/>
+      <gol minuto="32" equipo="Atl" jugador="Arteche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ath" jugador="Dani"/>
+      <gol minuto="79" equipo="Ath" jugador="Dani"/>
+      <gol minuto="89" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="75" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="86" equipo="Bar" jugador="Urbano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ath" jugador="Dani"/>
+      <gol minuto="25" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="11" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="32" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="80" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="Urtubi"/>
+      <gol minuto="52" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="73" equipo="CD" jugador="Juan Carlos"/>
+      <gol minuto="57" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/03/1983" jornada="30">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="De la Fuente"/>
+      <gol minuto="19" equipo="Ath" jugador="Sola"/>
+      <gol minuto="48" equipo="Ath" jugador="Dani"/>
+      <gol minuto="79" equipo="Ath" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="De Andrés"/>
+      <gol minuto="71" equipo="Ath" jugador="De Andrés"/>
+      <gol minuto="19" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="52" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="5" equipo="Esp" jugador="Orejuela"/>
+      <gol minuto="69" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="77" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/1983" jornada="18">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ath" jugador="Dani"/>
+      <gol minuto="42" equipo="Ath" jugador="Dani"/>
+      <gol minuto="81" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="47" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1982" jornada="14">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="47" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="39" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="66" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="80" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="64" equipo="Rel" jugador="Salguero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1983" jornada="28">
+    <local>Ath</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ath" jugador="Liceranzu"/>
+      <gol minuto="46" equipo="Ath" jugador="Argote"/>
+      <gol minuto="1" equipo="Ath" jugador="Dani"/>
+      <gol minuto="55" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1982" jornada="4">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ath" jugador="Sola"/>
+      <gol minuto="33" equipo="Ath" jugador="Argote"/>
+      <gol minuto="61" equipo="Sev" jugador="Magdaleno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1983" jornada="26">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ath" jugador="Urtubi"/>
+      <gol minuto="70" equipo="Ath" jugador="Dani"/>
+      <gol minuto="80" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ath" jugador="De Andrés"/>
+      <gol minuto="60" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="74" equipo="Val" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="15" equipo="Vall" jugador="Da Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/10/1982" jornada="5">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Atl" jugador="Julio Prieto"/>
+      <gol minuto="55" equipo="Atl" jugador="Votava"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="20" equipo="Atl" jugador="Pedraza"/>
+      <gol minuto="87" equipo="Atl" jugador="Pedraza"/>
+      <gol minuto="21" equipo="Atl" jugador="Hugo Sánchez"/>
+      <gol minuto="42" equipo="Atl" jugador="Hugo Sánchez"/>
+      <gol minuto="55" equipo="Cel" jugador="Del Cura"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Atl" jugador="Julio Prieto"/>
+      <gol minuto="9" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="3" equipo="Rac" jugador="Cidón"/>
+      <gol minuto="70" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="89" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/09/1982" jornada="1">
+    <local>Atl</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Votava"/>
+      <gol minuto="8" equipo="Sev" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="7" equipo="Spo" jugador="Urrecho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Votava"/>
+      <gol minuto="65" equipo="Atl" jugador="Hugo Sánchez"/>
+      <gol minuto="79" equipo="Val" jugador="Welzl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Atl" jugador="Votava"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Julio Prieto"/>
+      <gol minuto="32" equipo="Atl" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="17" equipo="Bar" jugador="Perico Alonso"/>
+      <gol minuto="82" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/1983" jornada="28">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="24" equipo="Bet" jugador="Parra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Quini"/>
+      <gol minuto="50" equipo="Bar" jugador="Pichi Alonso"/>
+      <gol minuto="49" equipo="CD" jugador="Fernando Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bar" jugador="Víctor Muñoz"/>
+      <gol minuto="64" equipo="Cel" jugador="Atilano"/>
+      <gol minuto="85" equipo="Cel" jugador="Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/10/1982" jornada="6">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="7" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Julio Alberto"/>
+      <gol minuto="35" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="2" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="12" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="18" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="57" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="4" equipo="Bar" jugador="Marcos Alonso"/>
+      <gol minuto="39" equipo="Las" jugador="Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Perico Alonso"/>
+      <gol minuto="37" equipo="Bar" jugador="Morán"/>
+      <gol minuto="42" equipo="Bar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/1983" jornada="26">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rac" jugador="Álvarez"/>
+      <gol minuto="87" equipo="Rac" jugador="Verón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bar" jugador="Maradona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/03/1983" jornada="30">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bar" jugador="Perico Alonso"/>
+      <gol minuto="45" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="20" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/1982" jornada="10">
+    <local>Bar</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="30" equipo="Bar" jugador="Víctor Muñoz"/>
+      <gol minuto="76" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/1983" jornada="20">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Schuster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="21" equipo="Spo" jugador="Abel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/01/1983" jornada="18">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Víctor Muñoz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Marcos Alonso"/>
+      <gol minuto="69" equipo="Bar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1982" jornada="4">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bar" jugador="Pichi Alonso"/>
+      <gol minuto="67" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bet" jugador="Barnes"/>
+      <gol minuto="52" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="71" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="74" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="83" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="89" equipo="Atl" jugador="Quique Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="47" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1982" jornada="4">
+    <local>Bet</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="79" equipo="CD" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cel" jugador="Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bet" jugador="Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bet" jugador="Ramón"/>
+      <gol minuto="36" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="38" equipo="Las" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="32" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="85" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="68" equipo="Bet" jugador="Ramón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Ortega"/>
+      <gol minuto="87" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="86" equipo="Rac" jugador="Sañudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="89" equipo="Bet" jugador="Perico Medina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bet" jugador="Barnes"/>
+      <gol minuto="71" equipo="Rel" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Bet</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="25" equipo="Sal" jugador="Abajo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Santi"/>
+      <gol minuto="58" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/1983" jornada="22">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="57" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bet" jugador="Quico"/>
+      <gol minuto="14" equipo="Vall" jugador="Díez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bet" jugador="Ramón"/>
+      <gol minuto="88" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="86" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/12/1982" jornada="15">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Atl" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="CD" jugador="Fernando Rodríguez"/>
+      <gol minuto="38" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="83" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="81" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>CD</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="CD" jugador="Toto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="CD" jugador="Jose Hurtado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="71" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="89" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>CD</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="57" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="73" equipo="CD" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>CD</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="CD" jugador="Toto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>CD</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="CD" jugador="Martín"/>
+      <gol minuto="79" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="70" equipo="CD" jugador="Gasparini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="CD" jugador="Jose Hurtado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="66" equipo="CD" jugador="Fernando Rodríguez"/>
+      <gol minuto="86" equipo="CD" jugador="Fernando Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>CD</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="CD" jugador="Toto"/>
+      <gol minuto="48" equipo="Sal" jugador="Paco Martínez"/>
+      <gol minuto="7" equipo="Sal" jugador="Pepe"/>
+      <gol minuto="79" equipo="Sal" jugador="Ángel González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>CD</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/09/1982" jornada="1">
+    <local>CD</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="CD" jugador="Toto"/>
+      <gol minuto="10" equipo="Spo" jugador="Mesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="66" equipo="CD" jugador="Toto"/>
+      <gol minuto="43" equipo="CD" jugador="Fernando Rodríguez"/>
+      <gol minuto="51" equipo="Val" jugador="Welzl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>CD</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="CD" jugador="Jose Hurtado"/>
+      <gol minuto="32" equipo="CD" jugador="Toto"/>
+      <gol minuto="76" equipo="Vall" jugador="Javi"/>
+      <gol minuto="9" equipo="Vall" jugador="Díez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Zar" jugador="Güerri"/>
+      <gol minuto="21" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="4" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="58" equipo="CD" jugador="Gasparini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Atl" jugador="Arteche"/>
+      <gol minuto="59" equipo="Atl" jugador="Rubio"/>
+      <gol minuto="82" equipo="Atl" jugador="Marina"/>
+      <gol minuto="88" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="82" equipo="Bar" jugador="Julio Alberto"/>
+      <gol minuto="80" equipo="Bar" jugador="Perico Alonso"/>
+      <gol minuto="49" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1983" jornada="26">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Cel" jugador="Amorós"/>
+      <gol minuto="14" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cel" jugador="Atilano"/>
+      <gol minuto="49" equipo="Cel" jugador="Andrés Fernández"/>
+      <gol minuto="46" equipo="CD" jugador="Toto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1982" jornada="4">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Cel" jugador="Suárez"/>
+      <gol minuto="76" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="14" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="56" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Amorós"/>
+      <gol minuto="34" equipo="Cel" jugador="Rubén Fernández"/>
+      <gol minuto="84" equipo="Cel" jugador="Mori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Cel" jugador="Del Cura"/>
+      <gol minuto="1" equipo="Cel" jugador="Amorós"/>
+      <gol minuto="72" equipo="Osa" jugador="Dioni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 06/11/1982" jornada="10">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="60" equipo="Rel" jugador="Fraile"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Cel</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cel" jugador="Del Cura"/>
+      <gol minuto="75" equipo="Cel" jugador="Andrés Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Cel" jugador="Andrés Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="34" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/1982" jornada="2">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Zar" jugador="Ramírez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="18" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="75" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="71" equipo="Ath" jugador="Urtubi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/1983" jornada="31">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="62" equipo="Atl" jugador="Marina"/>
+      <gol minuto="71" equipo="Atl" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Víctor Muñoz"/>
+      <gol minuto="40" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="77" equipo="Bar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="89" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="48" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="54" equipo="Esp" jugador="Murúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Esp" jugador="Corominas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="77" equipo="Esp" jugador="Mauri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1982" jornada="1">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/04/1983" jornada="32">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Lauridsen"/>
+      <gol minuto="26" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Esp</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="75" equipo="Sal" jugador="Miguel Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="89" equipo="Sev" jugador="César Coelho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Corominas"/>
+      <gol minuto="45" equipo="Esp" jugador="Murúa"/>
+      <gol minuto="75" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="25" equipo="Spo" jugador="Cundi"/>
+      <gol minuto="50" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Murúa"/>
+      <gol minuto="59" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="68" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="87" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="20" equipo="Val" jugador="Subirats"/>
+      <gol minuto="49" equipo="Val" jugador="Pablo Rodríguez"/>
+      <gol minuto="88" equipo="Esp" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="89" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Esp" jugador="Murúa"/>
+      <gol minuto="53" equipo="Esp" jugador="Murúa"/>
+      <gol minuto="18" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="27" equipo="Zar" jugador="Barbas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Urtubi"/>
+      <gol minuto="69" equipo="Ath" jugador="Argote"/>
+      <gol minuto="40" equipo="Ath" jugador="Dani"/>
+      <gol minuto="12" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="57" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Las" jugador="Juani"/>
+      <gol minuto="7" equipo="Atl" jugador="Marina"/>
+      <gol minuto="42" equipo="Atl" jugador="Rubio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/1982" jornada="16">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="40" equipo="Bar" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/02/1983" jornada="26">
+    <local>Las</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Las" jugador="Julio Durán"/>
+      <gol minuto="17" equipo="CD" jugador="Canillas"/>
+      <gol minuto="47" equipo="CD" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="80" equipo="Cel" jugador="Suárez"/>
+      <gol minuto="79" equipo="Las" jugador="Julio Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/1982" jornada="8">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Las</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Las" jugador="Juani"/>
+      <gol minuto="88" equipo="Las" jugador="Juani"/>
+      <gol minuto="44" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/1983" jornada="28">
+    <local>Las</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Las" jugador="Juani"/>
+      <gol minuto="88" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="57" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Las" jugador="Juani"/>
+      <gol minuto="12" equipo="Las" jugador="Pepe Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rel" jugador="Salguero"/>
+      <gol minuto="40" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/1982" jornada="12">
+    <local>Las</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Las" jugador="Juani"/>
+      <gol minuto="77" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Sev" jugador="Serna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Las" jugador="Víctor"/>
+      <gol minuto="36" equipo="Spo" jugador="Mesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="31" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1982" jornada="4">
+    <local>Las</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Las" jugador="Félix"/>
+      <gol minuto="68" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="37" equipo="Vall" jugador="Moré"/>
+      <gol minuto="55" equipo="Vall" jugador="Yáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/10/1982" jornada="6">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Las" jugador="Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1982" jornada="1">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="25" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="62" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="10" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="12" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="43" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="39" equipo="Atl" jugador="Arteche"/>
+      <gol minuto="66" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Osa</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="24" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="89" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="57" equipo="Osa" jugador="Julio"/>
+      <gol minuto="81" equipo="Cel" jugador="Lemos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1983" jornada="26">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Osa" jugador="Esparza"/>
+      <gol minuto="37" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="19" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Osa</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Osa" jugador="Arechavaleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="11" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="15" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="33" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="67" equipo="Rac" jugador="Paco"/>
+      <gol minuto="70" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/1983" jornada="20">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="43" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Osa</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Osa" jugador="Julio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Sev" jugador="José Luis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1983" jornada="28">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Osa" jugador="Julio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1982" jornada="4">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="87" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="8" equipo="Val" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="40" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="52" equipo="Zar" jugador="Señor"/>
+      <gol minuto="49" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ath" jugador="Dani"/>
+      <gol minuto="67" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rac" jugador="Mantilla"/>
+      <gol minuto="79" equipo="Rac" jugador="Angulo"/>
+      <gol minuto="76" equipo="Rac" jugador="Verón"/>
+      <gol minuto="89" equipo="Rac" jugador="Cidón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1982" jornada="9">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Marcos Alonso"/>
+      <gol minuto="89" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="38" equipo="Bar" jugador="Maradona"/>
+      <gol minuto="30" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rac" jugador="Angulo"/>
+      <gol minuto="52" equipo="Rac" jugador="Verón"/>
+      <gol minuto="56" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="40" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1982" jornada="2">
+    <local>Rac</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rac" jugador="Álvarez"/>
+      <gol minuto="68" equipo="Rac" jugador="Cidón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rac" jugador="Mantilla"/>
+      <gol minuto="5" equipo="Esp" jugador="Lauridsen"/>
+      <gol minuto="40" equipo="Esp" jugador="Mauri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Rac</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rac" jugador="Cidón"/>
+      <gol minuto="46" equipo="Rac" jugador="Cidón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rac" jugador="Bernal"/>
+      <gol minuto="39" equipo="Rac" jugador="Marcelo Gutiérrez"/>
+      <gol minuto="53" equipo="Rac" jugador="Marcelo Gutiérrez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1982" jornada="4">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rac" jugador="Sañudo"/>
+      <gol minuto="10" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="36" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Rac</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rac" jugador="Cidón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rac" jugador="Cidón"/>
+      <gol minuto="88" equipo="Rac" jugador="Paco"/>
+      <gol minuto="37" equipo="Sev" jugador="Ruda"/>
+      <gol minuto="55" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Rac</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rac" jugador="Verón"/>
+      <gol minuto="41" equipo="Spo" jugador="Maceda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rac" jugador="Castaños"/>
+      <gol minuto="77" equipo="Rac" jugador="Cidón"/>
+      <gol minuto="36" equipo="Rac" jugador="Paco"/>
+      <gol minuto="46" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rac" jugador="Mantilla"/>
+      <gol minuto="33" equipo="Rac" jugador="Chiri"/>
+      <gol minuto="60" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rac" jugador="Mantilla"/>
+      <gol minuto="44" equipo="Zar" jugador="García Cortés"/>
+      <gol minuto="67" equipo="Rac" jugador="Mario Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="86" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Larrañaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/1983" jornada="31">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/1983" jornada="25">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="39" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/1983" jornada="34">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="88" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rea" jugador="Górriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Esp" jugador="Murúa"/>
+      <gol minuto="59" equipo="Esp" jugador="Murúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1982" jornada="1">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="23" equipo="Las" jugador="Pepe Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="84" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="50" equipo="Rea" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/1983" jornada="29">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Rea</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="71" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="30" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1982" jornada="9">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Zubillaga"/>
+      <gol minuto="81" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rea" jugador="Celayeta"/>
+      <gol minuto="80" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="78" equipo="Vall" jugador="Moré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="80" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1982" jornada="4">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rel" jugador="Ito"/>
+      <gol minuto="50" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="59" equipo="Atl" jugador="Rubio"/>
+      <gol minuto="80" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/1982" jornada="13">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="Esteban Vigo"/>
+      <gol minuto="86" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/1983" jornada="28">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="66" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="70" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="54" equipo="Esp" jugador="Arabí"/>
+      <gol minuto="71" equipo="Esp" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Camacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rel" jugador="Ángel"/>
+      <gol minuto="16" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="59" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="14" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="53" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="58" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="38" equipo="Rac" jugador="Sañudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="49" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="79" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="9" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/1983" jornada="26">
+    <local>Rel</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="San José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="50" equipo="Rel" jugador="Ito"/>
+      <gol minuto="30" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="81" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="71" equipo="Val" jugador="Carrete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="84" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Sal</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Sal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sal" jugador="Ángel González"/>
+      <gol minuto="40" equipo="Atl" jugador="Quique Ramos"/>
+      <gol minuto="33" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/1983" jornada="27">
+    <local>Sal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Sal" jugador="Luis García"/>
+      <gol minuto="39" equipo="Bar" jugador="Schuster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Sal</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Sal" jugador="Corchado"/>
+      <gol minuto="7" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1983" jornada="20">
+    <local>Sal</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Sal" jugador="Paco Martínez"/>
+      <gol minuto="74" equipo="Sal" jugador="Paco Martínez"/>
+      <gol minuto="83" equipo="CD" jugador="Canillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Sal</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1982" jornada="2">
+    <local>Sal</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Sal</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Sal" jugador="Corchado"/>
+      <gol minuto="47" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Sal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Sal</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Sal" jugador="Paco Martínez"/>
+      <gol minuto="51" equipo="Sal" jugador="Ángel González"/>
+      <gol minuto="52" equipo="Sal" jugador="Ángel González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Sal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Sal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Sal</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Sal" jugador="Rolón"/>
+      <gol minuto="13" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="36" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1982" jornada="4">
+    <local>Sal</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Spo" jugador="Abel"/>
+      <gol minuto="55" equipo="Spo" jugador="Zurdi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Sal</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sal" jugador="Pérez Aguerri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Sal</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Sal</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Sal" jugador="Paco Martínez"/>
+      <gol minuto="11" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="3"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="López"/>
+      <gol minuto="12" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1983" jornada="28">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sev" jugador="Santi"/>
+      <gol minuto="11" equipo="Atl" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sev" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Sev</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Sev" jugador="Nimo"/>
+      <gol minuto="10" equipo="Sev" jugador="Magdaleno"/>
+      <gol minuto="27" equipo="CD" jugador="Castro"/>
+      <gol minuto="19" equipo="CD" jugador="Canillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1982" jornada="1">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="Santi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/1982" jornada="12">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="87" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Sev" jugador="Magdaleno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Sev" jugador="Magdaleno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/1983" jornada="26">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Sev" jugador="Pintinho"/>
+      <gol minuto="37" equipo="Sev" jugador="Magdaleno"/>
+      <gol minuto="32" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sev" jugador="López"/>
+      <gol minuto="17" equipo="Rel" jugador="Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Sev</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Sev" jugador="Magdaleno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1982" jornada="7">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="60" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="72" equipo="Sev" jugador="López"/>
+      <gol minuto="89" equipo="Val" jugador="Idígoras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Sev" jugador="Pintinho"/>
+      <gol minuto="69" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="46" equipo="Sev" jugador="Magdaleno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="44" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Spo" jugador="Abel"/>
+      <gol minuto="1" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/1983" jornada="33">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Spo" jugador="Maceda"/>
+      <gol minuto="74" equipo="Spo" jugador="Maceda"/>
+      <gol minuto="5" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="44" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="25" equipo="Atl" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/1983" jornada="25">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Spo" jugador="Redondo"/>
+      <gol minuto="79" equipo="Spo" jugador="Abel"/>
+      <gol minuto="21" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="54" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/01/1983" jornada="18">
+    <local>Spo</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="80" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="36" equipo="Spo" jugador="Savić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/01/1983" jornada="17">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Spo" jugador="Savić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Spo" jugador="Maceda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 10/11/1982" jornada="11">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Spo" jugador="Maceda"/>
+      <gol minuto="39" equipo="Spo" jugador="Abel"/>
+      <gol minuto="73" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Spo</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Spo" jugador="Abel"/>
+      <gol minuto="4" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="45" equipo="Rac" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1982" jornada="2">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="42" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Spo</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1983" jornada="31">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Spo" jugador="Abel"/>
+      <gol minuto="51" equipo="Sev" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1983" jornada="29">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Spo" jugador="Savić"/>
+      <gol minuto="40" equipo="Val" jugador="Subirats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1982" jornada="13">
+    <local>Spo</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/12/1982" jornada="15">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Spo" jugador="Abel"/>
+      <gol minuto="62" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="80" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/1983" jornada="19">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Val" jugador="Robert"/>
+      <gol minuto="89" equipo="Ath" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/1983" jornada="26">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1982" jornada="1">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="80" equipo="Val" jugador="Idígoras"/>
+      <gol minuto="20" equipo="Bar" jugador="Maradona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Robert"/>
+      <gol minuto="39" equipo="Val" jugador="Robert"/>
+      <gol minuto="67" equipo="Val" jugador="Welzl"/>
+      <gol minuto="55" equipo="Val" jugador="Kempes"/>
+      <gol minuto="33" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/1983" jornada="28">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="37" equipo="CD" jugador="Toto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cel" jugador="Andrés Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Val" jugador="Kempes"/>
+      <gol minuto="85" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Osa" jugador="Esparza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Val" jugador="Robert"/>
+      <gol minuto="46" equipo="Val" jugador="Idígoras"/>
+      <gol minuto="88" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1983" jornada="22">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Robert"/>
+      <gol minuto="89" equipo="Val" jugador="Robert"/>
+      <gol minuto="47" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Val" jugador="Tendillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Val</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Val" jugador="Solsona"/>
+      <gol minuto="89" equipo="Val" jugador="Robert"/>
+      <gol minuto="14" equipo="Val" jugador="Kempes"/>
+      <gol minuto="51" equipo="Sal" jugador="Brizzola"/>
+      <gol minuto="80" equipo="Val" jugador="Idígoras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Subirats"/>
+      <gol minuto="69" equipo="Val" jugador="Subirats"/>
+      <gol minuto="8" equipo="Val" jugador="Kempes"/>
+      <gol minuto="36" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/1982" jornada="12">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Kempes"/>
+      <gol minuto="62" equipo="Spo" jugador="Mesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/10/1982" jornada="6">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Val" jugador="Kempes"/>
+      <gol minuto="37" equipo="Vall" jugador="Yáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Val" jugador="Botubot"/>
+      <gol minuto="15" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="48" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1982" jornada="3">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ath" jugador="Argote"/>
+      <gol minuto="13" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1982" jornada="10">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Vall" jugador="Fortes"/>
+      <gol minuto="24" equipo="Atl" jugador="Arteche"/>
+      <gol minuto="87" equipo="Atl" jugador="Julio Prieto"/>
+      <gol minuto="35" equipo="Atl" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vall" jugador="Fortes"/>
+      <gol minuto="40" equipo="Bar" jugador="Marcos Alonso"/>
+      <gol minuto="66" equipo="Bar" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Vall" jugador="Joaquín Muñoz"/>
+      <gol minuto="62" equipo="Vall" jugador="Fortes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Vall</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vall" jugador="Pepín"/>
+      <gol minuto="32" equipo="Vall" jugador="Fortes"/>
+      <gol minuto="39" equipo="Vall" jugador="Da Silva"/>
+      <gol minuto="42" equipo="Cel" jugador="Andrés Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1983" jornada="28">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Minguela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Vall</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="76" equipo="Osa" jugador="Lumbreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/02/1983" jornada="24">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1982" jornada="1">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="76" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="89" equipo="Rel" jugador="Stielike"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Vall</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vall" jugador="Pepín"/>
+      <gol minuto="21" equipo="Vall" jugador="Fortes"/>
+      <gol minuto="40" equipo="Vall" jugador="Díez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1982" jornada="8">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="11" equipo="Sev" jugador="Blanco"/>
+      <gol minuto="19" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="89" equipo="Sev" jugador="Gervasio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Vall</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/1983" jornada="23">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Vall" jugador="Minguela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1983" jornada="26">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vall" jugador="Da Silva"/>
+      <gol minuto="27" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="64" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1982" jornada="5">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="74" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="30" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1982" jornada="12">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Zar" jugador="Güerri"/>
+      <gol minuto="57" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="15" equipo="Atl" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1983" jornada="21">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="26" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="11" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="29" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1982" jornada="1">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="85" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1982" jornada="14">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Barbas"/>
+      <gol minuto="14" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="85" equipo="CD" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1983" jornada="19">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Zar" jugador="Morgado"/>
+      <gol minuto="43" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="55" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="81" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/03/1983" jornada="30">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Zar" jugador="Barbas"/>
+      <gol minuto="29" equipo="Zar" jugador="Güerri"/>
+      <gol minuto="81" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="16" equipo="Esp" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1983" jornada="23">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/1982" jornada="7">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="23" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="38" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="75" equipo="Zar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1982" jornada="16">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="7" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Zar" jugador="Barbas"/>
+      <gol minuto="58" equipo="Zar" jugador="Señor"/>
+      <gol minuto="73" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="30" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="75" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="71" equipo="Rac" jugador="Paco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/1983" jornada="28">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="69" equipo="Rea" jugador="Larrañaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/1982" jornada="3">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1983" jornada="34">
+    <local>Zar</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="3" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="55" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="82" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1983" jornada="27">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/1983" jornada="32">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Spo" jugador="Zurdi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1983" jornada="25">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Zar" jugador="García Cortés"/>
+      <gol minuto="26" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="66" equipo="Zar" jugador="Amarilla"/>
+      <gol minuto="77" equipo="Val" jugador="Kempes"/>
+      <gol minuto="72" equipo="Val" jugador="Felman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1982" jornada="9">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="83" equipo="Zar" jugador="Güerri"/>
+      <gol minuto="13" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="57" equipo="Zar" jugador="Valdano"/>
+      <gol minuto="77" equipo="Vall" jugador="Fortes"/>
+    </goleadores>
+  </partido>
+</liga>

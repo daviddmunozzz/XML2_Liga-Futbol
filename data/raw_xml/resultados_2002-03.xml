@@ -1,0 +1,3843 @@
+<?xml version="1.0" ?>
+<liga temporada="2002-03">
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ala" jugador="Astudillo"/>
+      <gol minuto="26" equipo="Ala" jugador="Magno"/>
+      <gol minuto="19" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="75" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="84" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="57" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2002" jornada="14">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ala" jugador="Ilie"/>
+      <gol minuto="11" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/09/2002" jornada="4">
+    <local>Ala</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="69" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="89" equipo="Dep" jugador="Capdevila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ala" jugador="Jordi Cruyff"/>
+      <gol minuto="19" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Ala</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="90" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Ala</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ala" jugador="Ilie"/>
+      <gol minuto="88" equipo="Osa" jugador="Aloisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2002" jornada="2">
+    <local>Ala</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rac" jugador="Bodipo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Ala</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ala" jugador="Karmona"/>
+      <gol minuto="19" equipo="Ray" jugador="Peragón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ala" jugador="Astudillo"/>
+      <gol minuto="67" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="33" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="86" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Ala</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ala" jugador="Magno"/>
+      <gol minuto="54" equipo="Ala" jugador="Ilie"/>
+      <gol minuto="10" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2003" jornada="24">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="83" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="11" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="64" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="77" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="75" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Ala</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ala" jugador="Pablo"/>
+      <gol minuto="36" equipo="Val" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ala" jugador="Tomić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="16" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2002" jornada="2">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="36" equipo="Bar" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/04/2003" jornada="31">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="41" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="27" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="33" equipo="Cel" jugador="Edú"/>
+      <gol minuto="90" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Del Horno"/>
+      <gol minuto="42" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="70" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="65" equipo="Dep" jugador="Capdevila"/>
+      <gol minuto="67" equipo="Dep" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="78" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="71" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="15" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="85" equipo="Mál" jugador="Roteta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Mal" jugador="Robles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2002" jornada="13">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="15" equipo="Osa" jugador="Muñoz"/>
+      <gol minuto="43" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/2003" jornada="35">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Karanka"/>
+      <gol minuto="47" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="44" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="74" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="92" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2003" jornada="24">
+    <local>Ath</local>
+    <visitante>Rec</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ath" jugador="Del Horno"/>
+      <gol minuto="76" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="6" equipo="Rec" jugador="Benítez"/>
+      <gol minuto="18" equipo="Rec" jugador="Xisco"/>
+      <gol minuto="12" equipo="Rec" jugador="Quique Romero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ath" jugador="Del Horno"/>
+      <gol minuto="57" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Ath</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/2003" jornada="33">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vil" jugador="Farinós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/2003" jornada="33">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ala" jugador="Ilie"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2002" jornada="9">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="75" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="93" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="49" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="52" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="82" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/2003" jornada="20">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Emerson"/>
+      <gol minuto="87" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="40" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Cel" jugador="Berizzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="77" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="5" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="79" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Atl" jugador="Hibić"/>
+      <gol minuto="89" equipo="Atl" jugador="Aguilera"/>
+      <gol minuto="73" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="54" equipo="Esp" jugador="Lopo"/>
+      <gol minuto="77" equipo="Esp" jugador="Domoraud"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="47" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="61" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Movilla"/>
+      <gol minuto="59" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="20" equipo="Mal" jugador="Álvaro Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/04/2003" jornada="31">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="51" equipo="Atl" jugador="Emerson"/>
+      <gol minuto="64" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/2002" jornada="8">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="García Calvo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/2003" jornada="19">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="46" equipo="Rea" jugador="Tayfun"/>
+      <gol minuto="72" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Atl</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="27" equipo="Rec" jugador="Raúl Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="73" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="6" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="31" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2002" jornada="2">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2002" jornada="6">
+    <local>Atl</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="74" equipo="Atl" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2002" jornada="13">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/2003" jornada="35">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Calleja"/>
+      <gol minuto="41" equipo="Vil" jugador="Josico"/>
+      <gol minuto="69" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="73" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="40" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="16" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="27" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="80" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="54" equipo="Ala" jugador="Ibon Begoña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="14" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="56" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="54" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="45" equipo="Atl" jugador="Otero"/>
+      <gol minuto="85" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2003" jornada="23">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="2" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="41" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="53" equipo="Bar" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/2003" jornada="38">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Sorín"/>
+      <gol minuto="50" equipo="Bar" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/2003" jornada="29">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="2" rojas="2"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Motta"/>
+      <gol minuto="2" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="16" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="74" equipo="Dep" jugador="Sergio"/>
+      <gol minuto="49" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="64" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2002" jornada="3">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="58" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="87" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Motta"/>
+      <gol minuto="45" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="43" equipo="Osa" jugador="Gancedo"/>
+      <gol minuto="1" equipo="Osa" jugador="Rivero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Riquelme"/>
+      <gol minuto="80" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="88" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="1" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="28" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="47" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="76" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="67" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="24" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="80" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Bar</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Rochemback"/>
+      <gol minuto="81" equipo="Bar" jugador="Cocu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2002" jornada="11">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Toedtli"/>
+      <gol minuto="89" equipo="Sev" jugador="Toedtli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2003" jornada="18">
+    <local>Bar</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Motta"/>
+      <gol minuto="89" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="82" equipo="Vae" jugador="Fábio Aurélio"/>
+      <gol minuto="12" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="87" equipo="Vae" jugador="Rufete"/>
+      <gol minuto="25" equipo="Vae" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2003" jornada="25">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/11/2002" jornada="9">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="88" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="57" equipo="Ala" jugador="Magno"/>
+      <gol minuto="90" equipo="Ala" jugador="Turiel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bet" jugador="Assunção"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Bet" jugador="Arzu"/>
+      <gol minuto="26" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="74" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="46" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2002" jornada="4">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bet" jugador="Varela"/>
+      <gol minuto="66" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="63" equipo="Cel" jugador="José Ignacio"/>
+      <gol minuto="70" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="73" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="86" equipo="Esp" jugador="Domoraud"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Bet</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bet" jugador="Arzu"/>
+      <gol minuto="58" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mal" jugador="Álvaro Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2002" jornada="15">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="17" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="84" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="45" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="62" equipo="Bet" jugador="Dani"/>
+      <gol minuto="84" equipo="Rac" jugador="Pablo Casar"/>
+      <gol minuto="75" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ray" jugador="Onopko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bet" jugador="Filipescu"/>
+      <gol minuto="11" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="73" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="77" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Bet</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bet" jugador="Capi"/>
+      <gol minuto="62" equipo="Rec" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 08/10/2002" jornada="2">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bet" jugador="Capi"/>
+      <gol minuto="50" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Sev" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2003" jornada="28">
+    <local>Bet</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bet" jugador="Arzu"/>
+      <gol minuto="35" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/2003" jornada="35">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bet" jugador="Filipescu"/>
+      <gol minuto="47" equipo="Val" jugador="Colsa"/>
+      <gol minuto="71" equipo="Val" jugador="Colsa"/>
+      <gol minuto="88" equipo="Bet" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="78" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="82" equipo="Vil" jugador="Aranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2002" jornada="13">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cel" jugador="Mido"/>
+      <gol minuto="8" equipo="Ath" jugador="Del Horno"/>
+      <gol minuto="78" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Cel" jugador="Sylvinho"/>
+      <gol minuto="47" equipo="Cel" jugador="Jesuli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/2003" jornada="35">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cel" jugador="Jesuli"/>
+      <gol minuto="62" equipo="Cel" jugador="Edú"/>
+      <gol minuto="78" equipo="Cel" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2002" jornada="9">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Cel" jugador="José Ignacio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Cel</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Cel" jugador="Berizzo"/>
+      <gol minuto="15" equipo="Mál" jugador="Musampa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2002" jornada="2">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Cel" jugador="Jesuli"/>
+      <gol minuto="83" equipo="Cel" jugador="Jesuli"/>
+      <gol minuto="27" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="78" equipo="Mal" jugador="Niño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/05/2003" jornada="33">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Cel" jugador="Juanfran"/>
+      <gol minuto="90" equipo="Rac" jugador="Diego Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="70" equipo="Cel" jugador="Mido"/>
+      <gol minuto="9" equipo="Cel" jugador="Edú"/>
+      <gol minuto="64" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="82" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Cel</local>
+    <visitante>Rec</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Edú"/>
+      <gol minuto="56" equipo="Cel" jugador="Edú"/>
+      <gol minuto="64" equipo="Cel" jugador="Jesuli"/>
+      <gol minuto="71" equipo="Cel" jugador="Jesuli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/01/2003" jornada="17">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Casquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Cel</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Cel" jugador="Edú"/>
+      <gol minuto="7" equipo="Vae" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Cel" jugador="Jesuli"/>
+      <gol minuto="6" equipo="Cel" jugador="Edú"/>
+      <gol minuto="1" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="43" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2003" jornada="23">
+    <local>Dep</local>
+    <visitante>Ala</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="52" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="15" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="19" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="59" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="62" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Dep" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Dep" jugador="Romero"/>
+      <gol minuto="84" equipo="Dep" jugador="Valerón"/>
+      <gol minuto="77" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="75" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/2002" jornada="10">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="85" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="39" equipo="Bet" jugador="Arzu"/>
+      <gol minuto="17" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="53" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2003" jornada="16">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Dep" jugador="Sergio"/>
+      <gol minuto="42" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="89" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Luque"/>
+      <gol minuto="74" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="12" equipo="Esp" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="71" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="31" equipo="Mal" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="63" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="46" equipo="Osa" jugador="Muñoz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="70" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2003" jornada="26">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Dep" jugador="Naybet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Dep" jugador="Fran"/>
+      <gol minuto="15" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="44" equipo="Dep" jugador="Capdevila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Dep</local>
+    <visitante>Rec</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Dep" jugador="Valerón"/>
+      <gol minuto="26" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="36" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="59" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/2002" jornada="8">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="67" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="50" equipo="Sev" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/05/2003" jornada="34">
+    <local>Dep</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Donato"/>
+      <gol minuto="13" equipo="Vae" jugador="Fábio Aurélio"/>
+      <gol minuto="63" equipo="Vae" jugador="Fábio Aurélio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2002" jornada="3">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="28" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2003" jornada="25">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/2003" jornada="35">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="41" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="21" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="29" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="2" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="55" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="88" equipo="Atl" jugador="García Calvo"/>
+      <gol minuto="74" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2003" jornada="22">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="42" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2002" jornada="13">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="11" equipo="Bet" jugador="Capi"/>
+      <gol minuto="72" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="85" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="62" equipo="Esp" jugador="Roger"/>
+      <gol minuto="70" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2003" jornada="28">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Esp" jugador="Soldevilla"/>
+      <gol minuto="21" equipo="Esp" jugador="Roger"/>
+      <gol minuto="26" equipo="Esp" jugador="Morales"/>
+      <gol minuto="2" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="78" equipo="Mál" jugador="Manu Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2003" jornada="24">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Esp" jugador="Òscar"/>
+      <gol minuto="31" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/2003" jornada="33">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Esp" jugador="Soldevilla"/>
+      <gol minuto="77" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="69" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="90" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2002" jornada="2">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="55" equipo="Rea" jugador="Aranburu"/>
+      <gol minuto="41" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="88" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Esp</local>
+    <visitante>Rec</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Esp" jugador="Roger"/>
+      <gol minuto="73" equipo="Esp" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Roger"/>
+      <gol minuto="45" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="59" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="74" equipo="Rel" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Esp</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Vae" jugador="Fábio Aurélio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2002" jornada="15">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="53" equipo="Vil" jugador="De Nigris"/>
+      <gol minuto="73" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="90" equipo="Vil" jugador="Xisco Nadal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Mál</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Mál" jugador="Manu Sánchez"/>
+      <gol minuto="82" equipo="Mál" jugador="Manu Sánchez"/>
+      <gol minuto="23" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mál" jugador="Fernando Sanz"/>
+      <gol minuto="71" equipo="Mál" jugador="Manu Sánchez"/>
+      <gol minuto="90" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Mál</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Mál</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="José Ignacio"/>
+      <gol minuto="89" equipo="Mál" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/2003" jornada="33">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Dep" jugador="Scaloni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2002" jornada="7">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="15" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="85" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="11" equipo="Esp" jugador="Domoraud"/>
+      <gol minuto="53" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Mál" jugador="Musampa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2002" jornada="9">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Mál</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="71" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="58" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="82" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2002" jornada="2">
+    <local>Mál</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="52" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="38" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/2003" jornada="35">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="77" equipo="Rea" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Mál</local>
+    <visitante>Rec</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Mál" jugador="Romero"/>
+      <gol minuto="70" equipo="Mál" jugador="Gerardo"/>
+      <gol minuto="48" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="80" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="39" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="46" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="72" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="60" equipo="Sev" jugador="Javi Navarro"/>
+      <gol minuto="77" equipo="Mál" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Mál</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Mál" jugador="Roteta"/>
+      <gol minuto="26" equipo="Mál" jugador="Manu Sánchez"/>
+      <gol minuto="90" equipo="Vae" jugador="Angulo"/>
+      <gol minuto="48" equipo="Vae" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Mál" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2002" jornada="13">
+    <local>Mál</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="58" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2002" jornada="9">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="29" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="90" equipo="Ala" jugador="Ilie"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mal" jugador="Robles"/>
+      <gol minuto="5" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Correa"/>
+      <gol minuto="54" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="72" equipo="Atl" jugador="Jorge Larena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="26" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="47" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="51" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Harold Lozano"/>
+      <gol minuto="21" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Cel" jugador="Edú"/>
+      <gol minuto="64" equipo="Cel" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Mal" jugador="Riera"/>
+      <gol minuto="3" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="63" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mal" jugador="Harold Lozano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Mal" jugador="Tuni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2002" jornada="7">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Mal" jugador="Álvaro Novo"/>
+      <gol minuto="58" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Mal" jugador="Riera"/>
+      <gol minuto="54" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="80" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="1" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="43" equipo="Rac" jugador="Bodipo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ray" jugador="Peragón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2003" jornada="33">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="25" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="55" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Mal</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rec" jugador="Raúl Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2002" jornada="13">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="62" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="64" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="6" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="46" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="91" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/2003" jornada="35">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="54" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="43" equipo="Sev" jugador="Antoñito"/>
+      <gol minuto="82" equipo="Sev" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Mal</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="10" equipo="Vae" jugador="De los Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mal" jugador="Riera"/>
+      <gol minuto="54" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="45" equipo="Val" jugador="Jonathan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="21" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Osa</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Osa" jugador="Moha"/>
+      <gol minuto="86" equipo="Osa" jugador="Moha"/>
+      <gol minuto="78" equipo="Osa" jugador="Aloisi"/>
+      <gol minuto="35" equipo="Ala" jugador="Rubén Navarro"/>
+      <gol minuto="83" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Ath" jugador="Karanka"/>
+      <gol minuto="14" equipo="Ath" jugador="Aitor Ocio"/>
+      <gol minuto="40" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="30" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="64" equipo="Ath" jugador="Arriaga"/>
+      <gol minuto="68" equipo="Osa" jugador="Rivero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/2002" jornada="12">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Osa" jugador="Rivero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Osa" jugador="Rivero"/>
+      <gol minuto="79" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="61" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="86" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Osa" jugador="Moha"/>
+      <gol minuto="26" equipo="Bet" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Cel" jugador="Mido"/>
+      <gol minuto="51" equipo="Cel" jugador="Mido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2002" jornada="2">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Osa" jugador="Vidrio"/>
+      <gol minuto="73" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="74" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Mál" jugador="Romero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Osa" jugador="Rivero"/>
+      <gol minuto="51" equipo="Osa" jugador="Alfredo"/>
+      <gol minuto="12" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="36" equipo="Rac" jugador="Juanma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2003" jornada="16">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ray" jugador="Julio Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Osa" jugador="Rivero"/>
+      <gol minuto="51" equipo="Rea" jugador="Jáuregi"/>
+      <gol minuto="12" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="83" equipo="Rea" jugador="Khokhlov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Osa</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Osa" jugador="Manfredini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="12" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Osa" jugador="Aloisi"/>
+      <gol minuto="39" equipo="Sev" jugador="Pablo Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Osa</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Osa" jugador="Mateo"/>
+      <gol minuto="39" equipo="Val" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Vil" jugador="Josico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Rac</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rac" jugador="Nafti"/>
+      <gol minuto="87" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2003" jornada="16">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="9" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="61" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="87" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/05/2003" jornada="34">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="83" equipo="Bar" jugador="Fernando Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rac" jugador="Moratón"/>
+      <gol minuto="60" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="71" equipo="Rac" jugador="Benayoun"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="46" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="81" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rac" jugador="Pablo Casar"/>
+      <gol minuto="82" equipo="Rac" jugador="Pablo Casar"/>
+      <gol minuto="76" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="6" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="39" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="86" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="63" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Rac</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Mal" jugador="Ibagaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="90" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="18" equipo="Osa" jugador="Muñoz"/>
+      <gol minuto="35" equipo="Osa" jugador="Brit"/>
+      <gol minuto="73" equipo="Osa" jugador="Aloisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2003" jornada="22">
+    <local>Rac</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="16" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2003" jornada="26">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="60" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="22" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Rac</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/10/2002" jornada="6">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="51" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Rac</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="25" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="11" equipo="Vae" jugador="Rufete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/2002" jornada="1">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rac" jugador="Moratón"/>
+      <gol minuto="63" equipo="Vil" jugador="Senna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Ray</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ray" jugador="Julio Álvarez"/>
+      <gol minuto="37" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="71" equipo="Ala" jugador="Magno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/2003" jornada="27">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/12/2002" jornada="13">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Azkoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2003" jornada="33">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="43" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ray" jugador="De Quintana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Ray" jugador="Corino"/>
+      <gol minuto="24" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="49" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Esp" jugador="Roger"/>
+      <gol minuto="37" equipo="Esp" jugador="Milošević"/>
+      <gol minuto="47" equipo="Esp" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Ray</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="80" equipo="Ray" jugador="Peragón"/>
+      <gol minuto="85" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ray" jugador="Bolić"/>
+      <gol minuto="85" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/2003" jornada="35">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Ray</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="91" equipo="Ray" jugador="Julio Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2002" jornada="11">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Ray</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/11/2002" jornada="9">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ray" jugador="Azkoitia"/>
+      <gol minuto="57" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="93" equipo="Rel" jugador="Figo"/>
+      <gol minuto="15" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2002" jornada="15">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Sev" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Ray</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="10" equipo="Vae" jugador="Angulo"/>
+      <gol minuto="58" equipo="Vae" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Val" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Ray</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="19" equipo="Vil" jugador="Belletti"/>
+      <gol minuto="20" equipo="Vil" jugador="Senna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="39" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="16" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="32" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="61" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="75" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="29" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="74" equipo="Ath" jugador="Gurpegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/2003" jornada="38">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="De Pedro"/>
+      <gol minuto="73" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="51" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="53" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="33" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="79" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="14" equipo="Bet" jugador="Capi"/>
+      <gol minuto="26" equipo="Bet" jugador="Capi"/>
+      <gol minuto="60" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2003" jornada="18">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2002" jornada="9">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="40" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Khokhlov"/>
+      <gol minuto="7" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="20" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="56" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rea" jugador="De Pedro"/>
+      <gol minuto="57" equipo="Rea" jugador="Aranburu"/>
+      <gol minuto="47" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="64" equipo="Rea" jugador="Mikel Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2002" jornada="7">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="22" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2003" jornada="30">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="88" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="90" equipo="Rea" jugador="Tayfun"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Rea</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="Xabi Alonso"/>
+      <gol minuto="31" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="2" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="20" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="32" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="83" equipo="Rel" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/05/2003" jornada="32">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rea" jugador="Xabi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Rea</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="Xabi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Karpin"/>
+      <gol minuto="66" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="73" equipo="Val" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="90" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="88" equipo="Vil" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Rec</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rec" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/10/2002" jornada="5">
+    <local>Rec</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="Tiko"/>
+      <gol minuto="61" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="86" equipo="Rec" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Rec</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rec" jugador="Benítez"/>
+      <gol minuto="66" equipo="Rec" jugador="Quique Romero"/>
+      <gol minuto="83" equipo="Rec" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/2003" jornada="35">
+    <local>Rec</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="53" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="87" equipo="Rec" jugador="Joãozinho"/>
+      <gol minuto="87" equipo="Bar" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Rec</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Gastón Casas"/>
+      <gol minuto="75" equipo="Rec" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Rec</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="70" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="89" equipo="Cel" jugador="McCarthy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2002" jornada="13">
+    <local>Rec</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rec" jugador="Raúl Molina"/>
+      <gol minuto="27" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Rec</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Rec</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rec" jugador="Raúl Molina"/>
+      <gol minuto="35" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="48" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="60" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="33" equipo="Rec" jugador="Viqueira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Rec</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rec" jugador="Joãozinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Rec</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rec" jugador="Pernía"/>
+      <gol minuto="50" equipo="Osa" jugador="Aloisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Rec</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rac" jugador="Pablo Sierra"/>
+      <gol minuto="85" equipo="Rec" jugador="Raúl Molina"/>
+      <gol minuto="90" equipo="Rec" jugador="Raúl Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Rec</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rec" jugador="Loren"/>
+      <gol minuto="2" equipo="Ray" jugador="De Quintana"/>
+      <gol minuto="58" equipo="Rec" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2002" jornada="15">
+    <local>Rec</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rec" jugador="Raúl Molina"/>
+      <gol minuto="41" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="56" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="90" equipo="Rea" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/2003" jornada="33">
+    <local>Rec</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/01/2003" jornada="17">
+    <local>Rec</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Rec</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rec" jugador="Raúl Molina"/>
+      <gol minuto="85" equipo="Vae" jugador="Fábio Aurélio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2002" jornada="9">
+    <local>Rec</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rec" jugador="Loren"/>
+      <gol minuto="21" equipo="Val" jugador="Nico Olivera"/>
+      <gol minuto="45" equipo="Val" jugador="Pachón"/>
+      <gol minuto="81" equipo="Val" jugador="Mario"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Rec</local>
+    <visitante>Vil</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rec" jugador="Pernía"/>
+      <gol minuto="46" equipo="Rec" jugador="Viqueira"/>
+      <gol minuto="73" equipo="Rec" jugador="Viqueira"/>
+      <gol minuto="87" equipo="Rec" jugador="Quique Romero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="71" equipo="Rel" jugador="Figo"/>
+      <gol minuto="36" equipo="Ala" jugador="Magno"/>
+      <gol minuto="84" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="64" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="78" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/2003" jornada="38">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="61" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="36" equipo="Ath" jugador="Alkiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Figo"/>
+      <gol minuto="90" equipo="Atl" jugador="Albertini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/2003" jornada="30">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="31" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2003" jornada="21">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="44" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="88" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="37" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/05/2003" jornada="36">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="34" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="49" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/09/2002" jornada="1">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="88" equipo="Rel" jugador="McManaman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="14" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="83" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="4" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="54" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="62" equipo="Mál" jugador="Manu Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/05/2003" jornada="32">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="52" equipo="Mal" jugador="Riera"/>
+      <gol minuto="47" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="62" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="92" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2002" jornada="3">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="78" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="49" equipo="Rel" jugador="Guti"/>
+      <gol minuto="50" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2003" jornada="25">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="47" equipo="Rac" jugador="Nafti"/>
+      <gol minuto="87" equipo="Rel" jugador="Guti"/>
+      <gol minuto="76" equipo="Rel" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2003" jornada="28">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="90" equipo="Rel" jugador="Portillo"/>
+      <gol minuto="85" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="94" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Rel</local>
+    <visitante>Rec</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="28" equipo="Rel" jugador="Raúl Bravo"/>
+      <gol minuto="70" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="14" equipo="Rec" jugador="Espínola"/>
+      <gol minuto="2" equipo="Rec" jugador="Cubillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/01/2003" jornada="12">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="28" equipo="Rel" jugador="Flávio Conceição"/>
+      <gol minuto="9" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Rel</local>
+    <visitante>Vae</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="36" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="53" equipo="Vae" jugador="Ayala"/>
+      <gol minuto="93" equipo="Rel" jugador="Portillo"/>
+      <gol minuto="86" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2003" jornada="23">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="21" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="9" equipo="Val" jugador="Fernando Sales"/>
+      <gol minuto="89" equipo="Rel" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Zidane"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Casquero"/>
+      <gol minuto="78" equipo="Ala" jugador="Astudillo"/>
+      <gol minuto="60" equipo="Ala" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="81" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2003" jornada="21">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Atl" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2003" jornada="33">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2002" jornada="11">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Sev" jugador="Antoñito"/>
+      <gol minuto="48" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Toedtli"/>
+      <gol minuto="84" equipo="Sev" jugador="Toedtli"/>
+      <gol minuto="14" equipo="Sev" jugador="Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2003" jornada="25">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Sev" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2002" jornada="9">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sev" jugador="Casquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Casquero"/>
+      <gol minuto="85" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="86" equipo="Ray" jugador="Peragón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2002" jornada="13">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rea" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Sev</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Sev" jugador="Gallardo"/>
+      <gol minuto="24" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="53" equipo="Rel" jugador="Zidane"/>
+      <gol minuto="87" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/06/2003" jornada="38">
+    <local>Sev</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="29" equipo="Vae" jugador="Juan Sánchez"/>
+      <gol minuto="63" equipo="Vae" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2002" jornada="7">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Sev" jugador="Antoñito"/>
+      <gol minuto="23" equipo="Sev" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/2003" jornada="29">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="19" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="81" equipo="Sev" jugador="Machlas"/>
+      <gol minuto="90" equipo="Sev" jugador="Machlas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2003" jornada="31">
+    <local>Vae</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Vae" jugador="Réveillère"/>
+      <gol minuto="67" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="56" equipo="Vae" jugador="Rufete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2002" jornada="7">
+    <local>Vae</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="27" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="42" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="7" equipo="Vae" jugador="Carew"/>
+      <gol minuto="84" equipo="Ath" jugador="Tiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2003" jornada="25">
+    <local>Vae</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Atl" jugador="Aguilera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/2003" jornada="37">
+    <local>Vae</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Bar" jugador="Overmars"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2002" jornada="9">
+    <local>Vae</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vae" jugador="Aimar"/>
+      <gol minuto="70" equipo="Bet" jugador="Assunção"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2002" jornada="5">
+    <local>Vae</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Cel" jugador="Vágner"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2002" jornada="15">
+    <local>Vae</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2003" jornada="27">
+    <local>Vae</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="9" equipo="Esp" jugador="David García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2003" jornada="22">
+    <local>Vae</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vae" jugador="Pellegrino"/>
+      <gol minuto="74" equipo="Vae" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Vae</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Vae" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2003" jornada="29">
+    <local>Vae</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vae" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2002" jornada="13">
+    <local>Vae</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Vae" jugador="Angulo"/>
+      <gol minuto="47" equipo="Vae" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2002" jornada="4">
+    <local>Vae</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vae" jugador="Mista"/>
+      <gol minuto="86" equipo="Vae" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/01/2003" jornada="17">
+    <local>Vae</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vae" jugador="Fábio Aurélio"/>
+      <gol minuto="74" equipo="Rea" jugador="Nihat"/>
+      <gol minuto="69" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2002" jornada="2">
+    <local>Vae</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Vae" jugador="Vicente"/>
+      <gol minuto="87" equipo="Vae" jugador="Carew"/>
+      <gol minuto="90" equipo="Vae" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/2003" jornada="35">
+    <local>Vae</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Vae" jugador="Fábio Aurélio"/>
+      <gol minuto="25" equipo="Rel" jugador="Ronaldo"/>
+      <gol minuto="64" equipo="Rel" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Vae</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vae" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2002" jornada="11">
+    <local>Vae</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vae" jugador="Mista"/>
+      <gol minuto="30" equipo="Vae" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2003" jornada="33">
+    <local>Vae</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Vil" jugador="Farinós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2003" jornada="19">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ala" jugador="Rubén Navarro"/>
+      <gol minuto="79" equipo="Ala" jugador="Rubén Navarro"/>
+      <gol minuto="86" equipo="Val" jugador="Ćirić"/>
+      <gol minuto="90" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2002" jornada="14">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Val" jugador="Aganzo"/>
+      <gol minuto="71" equipo="Val" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Fernando Sales"/>
+      <gol minuto="50" equipo="Val" jugador="Aganzo"/>
+      <gol minuto="74" equipo="Val" jugador="Aganzo"/>
+      <gol minuto="60" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2002" jornada="6">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Aganzo"/>
+      <gol minuto="89" equipo="Bar" jugador="Saviola"/>
+      <gol minuto="86" equipo="Val" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2003" jornada="16">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Val" jugador="Óscar González"/>
+      <gol minuto="49" equipo="Val" jugador="Fernando Sales"/>
+      <gol minuto="65" equipo="Val" jugador="Fernando Sales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Cel" jugador="Edú"/>
+      <gol minuto="10" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2003" jornada="22">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Fernando Sales"/>
+      <gol minuto="17" equipo="Esp" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/2002" jornada="10">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/11/2002" jornada="8">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Val" jugador="Marcos"/>
+      <gol minuto="26" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="55" equipo="Mal" jugador="Pandiani"/>
+      <gol minuto="69" equipo="Mal" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Osa" jugador="Valdo"/>
+      <gol minuto="10" equipo="Osa" jugador="Palacios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2003" jornada="20">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Val" jugador="Chema"/>
+      <gol minuto="82" equipo="Val" jugador="Fernando Sales"/>
+      <gol minuto="12" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/06/2003" jornada="37">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Val" jugador="Óscar González"/>
+      <gol minuto="1" equipo="Val" jugador="Nico Olivera"/>
+      <gol minuto="8" equipo="Val" jugador="Nico Olivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2003" jornada="28">
+    <local>Val</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rec" jugador="Raúl Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2002" jornada="4">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2003" jornada="26">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 19/04/2003" jornada="30">
+    <local>Val</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2002" jornada="2">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Val" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2002" jornada="3">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/2003" jornada="36">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="29" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2003" jornada="16">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vil" jugador="Unai"/>
+      <gol minuto="44" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="28" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="89" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="42" equipo="Atl" jugador="Santi Denia"/>
+      <gol minuto="31" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="90" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2003" jornada="28">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 22/06/2003" jornada="38">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="36" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="78" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="25" equipo="Bet" jugador="Dani"/>
+      <gol minuto="56" equipo="Bet" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2003" jornada="34">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="53" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="62" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="48" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="88" equipo="Vil" jugador="Guayre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2002" jornada="6">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Vil" jugador="Belletti"/>
+      <gol minuto="7" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2003" jornada="18">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/05/2003" jornada="32">
+    <local>Vil</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/04/2003" jornada="30">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="42" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2002" jornada="1">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="14" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="68" equipo="Osa" jugador="Antonio López"/>
+      <gol minuto="83" equipo="Osa" jugador="Pablo García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2003" jornada="23">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rac" jugador="Moratón"/>
+      <gol minuto="88" equipo="Rac" jugador="Bodipo"/>
+      <gol minuto="90" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2003" jornada="24">
+    <local>Vil</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="88" equipo="Vil" jugador="De Nigris"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2002" jornada="8">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2002" jornada="12">
+    <local>Vil</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Vil" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2003" jornada="26">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Iván Helguera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/2002" jornada="10">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Vil" jugador="Belletti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2002" jornada="14">
+    <local>Vil</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vae" jugador="Carew"/>
+      <gol minuto="61" equipo="Vae" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2003" jornada="21">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+</liga>

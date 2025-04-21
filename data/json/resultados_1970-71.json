@@ -1,0 +1,6605 @@
+
+    {
+      "liga": {
+        "temporada": "1970-71",
+        "partidos": [
+          
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Até",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "18",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "37",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Até",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "59",
+                    "equipo": "Bar",
+                    "jugador": "Dueñas"
+                  },
+                  {
+                    "minuto": "63",
+                    "equipo": "Até",
+                    "jugador": "Luis Aragonés"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Até",
+              "visitante": "CD",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "24",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "10",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "9",
+                    "equipo": "CD",
+                    "jugador": "Migueli"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Até",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "60",
+                    "equipo": "Até",
+                    "jugador": "Alberto"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "64",
+                    "equipo": "Até",
+                    "jugador": "Luis Aragonés"
+                  },
+                  {
+                    "minuto": "37",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 17/10/1970",
+              "jornada": "6",
+              "local": "Até",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "30",
+                    "equipo": "Até",
+                    "jugador": "Salcedo"
+                  },
+                  {
+                    "minuto": "17",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "15",
+                    "equipo": "Até",
+                    "jugador": "Ufarte"
+                  },
+                  {
+                    "minuto": "48",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Até",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "39",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "56",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "52",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Até",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "74",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 20/03/1971",
+              "jornada": "26",
+              "local": "Até",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "63",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Até",
+              "visitante": "Las",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "17",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "70",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "34",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Até",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "87",
+                    "equipo": "Até",
+                    "jugador": "Adelardo"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "9",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "33",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Até",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "17",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Até",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "4",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "65",
+                    "equipo": "Até",
+                    "jugador": "Alberto"
+                  },
+                  {
+                    "minuto": "71",
+                    "equipo": "Até",
+                    "jugador": "Alberto"
+                  },
+                  {
+                    "minuto": "11",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "33",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "70",
+                    "equipo": "Sab",
+                    "jugador": "García Soriano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Até",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "4",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "68",
+                    "equipo": "Até",
+                    "jugador": "Adelardo"
+                  },
+                  {
+                    "minuto": "38",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  },
+                  {
+                    "minuto": "24",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "66",
+                    "equipo": "Sev",
+                    "jugador": "Eloy"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 06/03/1971",
+              "jornada": "24",
+              "local": "Até",
+              "visitante": "Val",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "2",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "66",
+                    "equipo": "Até",
+                    "jugador": "Luis Aragonés"
+                  },
+                  {
+                    "minuto": "36",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "58",
+                    "equipo": "Até",
+                    "jugador": "Ufarte"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Até",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "41",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "54",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "32",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Atl",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "19",
+                    "equipo": "Atl",
+                    "jugador": "Betzuen"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 12/09/1970",
+              "jornada": "1",
+              "local": "Atl",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "75",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  },
+                  {
+                    "minuto": "30",
+                    "equipo": "Bar",
+                    "jugador": "Pujol"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Atl",
+              "visitante": "CD",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "33",
+                    "equipo": "Atl",
+                    "jugador": "Estéfano"
+                  },
+                  {
+                    "minuto": "16",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "CD",
+                    "jugador": "Viberti"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Atl",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "82",
+                    "equipo": "Atl",
+                    "jugador": "Arieta II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Atl",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "7",
+                    "equipo": "Atl",
+                    "jugador": "Betzuen"
+                  },
+                  {
+                    "minuto": "68",
+                    "equipo": "Atl",
+                    "jugador": "Ortuondo"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Atl",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "8",
+                    "equipo": "Atl",
+                    "jugador": "Arieta II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Atl",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "35",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Atl",
+                    "jugador": "Arieta II"
+                  },
+                  {
+                    "minuto": "86",
+                    "equipo": "Atl",
+                    "jugador": "Zubiaga"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Atl",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "14",
+                    "equipo": "Atl",
+                    "jugador": "Clemente"
+                  },
+                  {
+                    "minuto": "9",
+                    "equipo": "Atl",
+                    "jugador": "Carlos"
+                  },
+                  {
+                    "minuto": "37",
+                    "equipo": "Atl",
+                    "jugador": "Carlos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Atl",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "46",
+                    "equipo": "Atl",
+                    "jugador": "Argoitia"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Atl",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "58",
+                    "equipo": "Rea",
+                    "jugador": "Grande"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Atl",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "82",
+                    "equipo": "Atl",
+                    "jugador": "Zubiaga"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "Rel",
+                    "jugador": "Boronat"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 17/10/1970",
+              "jornada": "6",
+              "local": "Atl",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "27",
+                    "equipo": "Atl",
+                    "jugador": "Carlos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Atl",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Atl",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Atl",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "38",
+                    "equipo": "Atl",
+                    "jugador": "Estéfano"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Atl",
+                    "jugador": "Igartua"
+                  },
+                  {
+                    "minuto": "84",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Bar",
+              "visitante": "Até",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "28",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Bar",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "86",
+                    "equipo": "Atl",
+                    "jugador": "Zubiaga"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Bar",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "76",
+                    "equipo": "Bar",
+                    "jugador": "Fusté"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Bar",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "52",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "68",
+                    "equipo": "Cel",
+                    "jugador": "Doblas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Bar",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Sábado 17/10/1970",
+              "jornada": "6",
+              "local": "Bar",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "25",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "28",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Bar",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "60",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  },
+                  {
+                    "minuto": "50",
+                    "equipo": "Bar",
+                    "jugador": "Alfonseda"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Bar",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "1",
+                    "equipo": "Bar",
+                    "jugador": "Alfonseda"
+                  },
+                  {
+                    "minuto": "51",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "15",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  }
+              ]
+            },
+            {
+              "fecha": "Lunes 12/04/1971",
+              "jornada": "29",
+              "local": "Bar",
+              "visitante": "Las",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "2",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "53",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  },
+                  {
+                    "minuto": "76",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Bar",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "67",
+                    "equipo": "Rea",
+                    "jugador": "Grande"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Bar",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "13",
+                    "equipo": "Bar",
+                    "jugador": "Fusté"
+                  },
+                  {
+                    "minuto": "50",
+                    "equipo": "Bar",
+                    "jugador": "Asensi"
+                  },
+                  {
+                    "minuto": "37",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Bar",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "4",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "73",
+                    "equipo": "Bar",
+                    "jugador": "Torres"
+                  },
+                  {
+                    "minuto": "36",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "83",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Bar",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "5",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "67",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "5",
+                    "equipo": "Bar",
+                    "jugador": "Pujol"
+                  },
+                  {
+                    "minuto": "27",
+                    "equipo": "Bar",
+                    "jugador": "Dueñas"
+                  },
+                  {
+                    "minuto": "74",
+                    "equipo": "Bar",
+                    "jugador": "Dueñas"
+                  },
+                  {
+                    "minuto": "84",
+                    "equipo": "Bar",
+                    "jugador": "Dueñas"
+                  },
+                  {
+                    "minuto": "60",
+                    "equipo": "Sev",
+                    "jugador": "Eloy"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 31/10/1970",
+              "jornada": "8",
+              "local": "Bar",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "11",
+                    "equipo": "Val",
+                    "jugador": "Claramunt"
+                  },
+                  {
+                    "minuto": "83",
+                    "equipo": "Val",
+                    "jugador": "Valdez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Bar",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "5",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "43",
+                    "equipo": "Bar",
+                    "jugador": "Juan Carlos"
+                  },
+                  {
+                    "minuto": "64",
+                    "equipo": "Bar",
+                    "jugador": "Juan Carlos"
+                  },
+                  {
+                    "minuto": "42",
+                    "equipo": "Bar",
+                    "jugador": "Zabalza"
+                  },
+                  {
+                    "minuto": "8",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "41",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "40",
+                    "equipo": "Zar",
+                    "jugador": "Oliveros"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Zar",
+                    "jugador": "Pepe Juan"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 10/04/1971",
+              "jornada": "29",
+              "local": "CD",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "CD",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "3",
+                "visitante": "3"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "CD",
+                    "jugador": "Cabral"
+                  },
+                  {
+                    "minuto": "20",
+                    "equipo": "CD",
+                    "jugador": "Álvarez"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "CD",
+                    "jugador": "Álvarez"
+                  },
+                  {
+                    "minuto": "74",
+                    "equipo": "Atl",
+                    "jugador": "Betzuen"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Atl",
+                    "jugador": "Zubiaga"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "CD",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "28",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "CD",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "81",
+                    "equipo": "CD",
+                    "jugador": "Pons"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "CD",
+                    "jugador": "Álvarez"
+                  },
+                  {
+                    "minuto": "66",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "CD",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "CD",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "CD",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "64",
+                    "equipo": "CD",
+                    "jugador": "Martínez"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "CD",
+                    "jugador": "Mori"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "CD",
+                    "jugador": "Pons"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "CD",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "CD",
+                    "jugador": "Pons"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "CD",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "76",
+                    "equipo": "Las",
+                    "jugador": "Hernández"
+                  },
+                  {
+                    "minuto": "78",
+                    "equipo": "CD",
+                    "jugador": "Cabral"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/10/1970",
+              "jornada": "6",
+              "local": "CD",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "60",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "15",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "CD",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "CD",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "55",
+                    "equipo": "CD",
+                    "jugador": "Viberti"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "CD",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "84",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "CD",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "75",
+                    "equipo": "Val",
+                    "jugador": "Pellicer"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "CD",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "29",
+                    "equipo": "CD",
+                    "jugador": "Vilanova"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Cel",
+              "visitante": "Até",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "52",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  },
+                  {
+                    "minuto": "73",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  },
+                  {
+                    "minuto": "28",
+                    "equipo": "Cel",
+                    "jugador": "Costas"
+                  },
+                  {
+                    "minuto": "35",
+                    "equipo": "Até",
+                    "jugador": "Salcedo"
+                  },
+                  {
+                    "minuto": "25",
+                    "equipo": "Até",
+                    "jugador": "Orozco"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Cel",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  },
+                  {
+                    "minuto": "41",
+                    "equipo": "Cel",
+                    "jugador": "Costas"
+                  },
+                  {
+                    "minuto": "12",
+                    "equipo": "Atl",
+                    "jugador": "Ibáñez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/09/1970",
+              "jornada": "3",
+              "local": "Cel",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "66",
+                    "equipo": "Cel",
+                    "jugador": "Almagro"
+                  },
+                  {
+                    "minuto": "16",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Cel",
+              "visitante": "CD",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Cel",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "47",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  },
+                  {
+                    "minuto": "20",
+                    "equipo": "Cel",
+                    "jugador": "Doblas"
+                  },
+                  {
+                    "minuto": "51",
+                    "equipo": "Cel",
+                    "jugador": "Doblas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Cel",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Cel",
+                    "jugador": "Canario"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/09/1970",
+              "jornada": "1",
+              "local": "Cel",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "25",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  },
+                  {
+                    "minuto": "67",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Cel",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "67",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  },
+                  {
+                    "minuto": "48",
+                    "equipo": "Cel",
+                    "jugador": "Costas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Cel",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "69",
+                    "equipo": "Cel",
+                    "jugador": "Manolo"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Cel",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "70",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Cel",
+                    "jugador": "Castro"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Cel",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "2",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Cel",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "36",
+                    "equipo": "Cel",
+                    "jugador": "Rodilla"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Cel",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "51",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Cel",
+              "visitante": "Val",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "30",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Cel",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "68",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  },
+                  {
+                    "minuto": "58",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Elc",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "4"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "55",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "83",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  },
+                  {
+                    "minuto": "88",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Elc",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "63",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  },
+                  {
+                    "minuto": "62",
+                    "equipo": "Atl",
+                    "jugador": "Carlos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Elc",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "30",
+                    "equipo": "Bar",
+                    "jugador": "Pujol"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Elc",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "44",
+                    "equipo": "Elc",
+                    "jugador": "Poyoyo"
+                  },
+                  {
+                    "minuto": "67",
+                    "equipo": "CD",
+                    "jugador": "Cabral"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Elc",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "2",
+                    "equipo": "Elc",
+                    "jugador": "Emilio"
+                  },
+                  {
+                    "minuto": "5",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Elc",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "62",
+                    "equipo": "Elc",
+                    "jugador": "López Coll"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "Esp",
+                    "jugador": "José María"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/09/1970",
+              "jornada": "3",
+              "local": "Elc",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "5",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "44",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  },
+                  {
+                    "minuto": "54",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  },
+                  {
+                    "minuto": "75",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/09/1970",
+              "jornada": "1",
+              "local": "Elc",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "34",
+                    "equipo": "Elc",
+                    "jugador": "Llompart"
+                  },
+                  {
+                    "minuto": "52",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Elc",
+              "visitante": "Las",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "10",
+                    "equipo": "Elc",
+                    "jugador": "Talón"
+                  },
+                  {
+                    "minuto": "81",
+                    "equipo": "Elc",
+                    "jugador": "Hernández"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Elc",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "78",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Elc",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "10",
+                    "equipo": "Elc",
+                    "jugador": "Ciriaco"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "Rel",
+                    "jugador": "Boronat"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Elc",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Elc",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "60",
+                    "equipo": "Elc",
+                    "jugador": "Lara"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Elc",
+              "visitante": "Val",
+              "resultado": {
+                "local": "1",
+                "visitante": "3"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "54",
+                    "equipo": "Elc",
+                    "jugador": "Curro"
+                  },
+                  {
+                    "minuto": "85",
+                    "equipo": "Val",
+                    "jugador": "Pellicer"
+                  },
+                  {
+                    "minuto": "37",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  },
+                  {
+                    "minuto": "86",
+                    "equipo": "Val",
+                    "jugador": "Sergio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Elc",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "86",
+                    "equipo": "Elc",
+                    "jugador": "Llompart"
+                  },
+                  {
+                    "minuto": "5",
+                    "equipo": "Elc",
+                    "jugador": "Silvio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Esp",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Esp",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "72",
+                    "equipo": "Esp",
+                    "jugador": "Pepín"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Esp",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "2",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "41",
+                    "equipo": "Bar",
+                    "jugador": "Martí Filosia"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Esp",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "85",
+                    "equipo": "Esp",
+                    "jugador": "Solsona"
+                  },
+                  {
+                    "minuto": "83",
+                    "equipo": "CD",
+                    "jugador": "Vilanova"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Esp",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Cel",
+                    "jugador": "Almagro"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Esp",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "89",
+                    "equipo": "Esp",
+                    "jugador": "Carbonell"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "Esp",
+                    "jugador": "Docal"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Esp",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "38",
+                    "equipo": "Esp",
+                    "jugador": "Glaría"
+                  },
+                  {
+                    "minuto": "9",
+                    "equipo": "Esp",
+                    "jugador": "Yanko"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Esp",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "54",
+                    "equipo": "Esp",
+                    "jugador": "Amiano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Esp",
+              "visitante": "Las",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "66",
+                    "equipo": "Esp",
+                    "jugador": "José María"
+                  },
+                  {
+                    "minuto": "11",
+                    "equipo": "Esp",
+                    "jugador": "Cayetano Ré"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Esp",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "22",
+                    "equipo": "Rea",
+                    "jugador": "Miguel Pérez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/09/1970",
+              "jornada": "3",
+              "local": "Esp",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Esp",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "55",
+                    "equipo": "Esp",
+                    "jugador": "Carbonell"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Esp",
+                    "jugador": "Amiano"
+                  },
+                  {
+                    "minuto": "58",
+                    "equipo": "Esp",
+                    "jugador": "Cayetano Ré"
+                  },
+                  {
+                    "minuto": "79",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/09/1970",
+              "jornada": "1",
+              "local": "Esp",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "81",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Esp",
+              "visitante": "Val",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "65",
+                    "equipo": "Esp",
+                    "jugador": "Lamata"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Esp",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Gij",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "16",
+                    "equipo": "Gij",
+                    "jugador": "Valdés"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/04/1971",
+              "jornada": "29",
+              "local": "Gij",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "53",
+                    "equipo": "Gij",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "41",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  },
+                  {
+                    "minuto": "56",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Gij",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "82",
+                    "equipo": "Bar",
+                    "jugador": "Dueñas"
+                  },
+                  {
+                    "minuto": "86",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Gij",
+              "visitante": "CD",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "4",
+                    "equipo": "Gij",
+                    "jugador": "Puente"
+                  },
+                  {
+                    "minuto": "73",
+                    "equipo": "Gij",
+                    "jugador": "Lavandera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Gij",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "79",
+                    "equipo": "Gij",
+                    "jugador": "Valdés"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  },
+                  {
+                    "minuto": "48",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Gij",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "16",
+                    "equipo": "Gij",
+                    "jugador": "Lavandera"
+                  },
+                  {
+                    "minuto": "52",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  },
+                  {
+                    "minuto": "29",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Gij",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "6",
+                    "equipo": "Esp",
+                    "jugador": "Solsona"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Gij",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "Gij",
+                    "jugador": "Pascual"
+                  },
+                  {
+                    "minuto": "50",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  },
+                  {
+                    "minuto": "30",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  },
+                  {
+                    "minuto": "44",
+                    "equipo": "Gra",
+                    "jugador": "Juárez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Gij",
+              "visitante": "Las",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "35",
+                    "equipo": "Gij",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "73",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Gij",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "10",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Gij",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "87",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  },
+                  {
+                    "minuto": "40",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Gij",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "8",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  },
+                  {
+                    "minuto": "52",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "Gij",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "Sab",
+                    "jugador": "Quiles"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Gij",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "17",
+                    "equipo": "Gij",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "8",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  },
+                  {
+                    "minuto": "76",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 17/10/1970",
+              "jornada": "6",
+              "local": "Gij",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "85",
+                    "equipo": "Val",
+                    "jugador": "Aníbal"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Gij",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "80",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  },
+                  {
+                    "minuto": "46",
+                    "equipo": "Zar",
+                    "jugador": "Ocampos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Gra",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Gra",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "41",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  },
+                  {
+                    "minuto": "32",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  },
+                  {
+                    "minuto": "11",
+                    "equipo": "Atl",
+                    "jugador": "Gisasola"
+                  },
+                  {
+                    "minuto": "26",
+                    "equipo": "Atl",
+                    "jugador": "Zubiaga"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Gra",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "65",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  },
+                  {
+                    "minuto": "69",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Gra",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "47",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "30",
+                    "equipo": "CD",
+                    "jugador": "Viberti"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/04/1971",
+              "jornada": "29",
+              "local": "Gra",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Gra",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "84",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Gra",
+                    "jugador": "Juárez"
+                  },
+                  {
+                    "minuto": "24",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  },
+                  {
+                    "minuto": "8",
+                    "equipo": "Elc",
+                    "jugador": "Vavá"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Gra",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "28",
+                    "equipo": "Gra",
+                    "jugador": "Porta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Gra",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "75",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  },
+                  {
+                    "minuto": "78",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/10/1970",
+              "jornada": "6",
+              "local": "Gra",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "71",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Gra",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "56",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  },
+                  {
+                    "minuto": "16",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Gra",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "10",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  },
+                  {
+                    "minuto": "62",
+                    "equipo": "Gra",
+                    "jugador": "Vicente"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Gra",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "7",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "1",
+                    "equipo": "Gra",
+                    "jugador": "Juárez"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Sab",
+                    "jugador": "Jenaro"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Gra",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Gra",
+              "visitante": "Val",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "16",
+                    "equipo": "Gra",
+                    "jugador": "Juárez"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "78",
+                    "equipo": "Val",
+                    "jugador": "Ansola"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Gra",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "18",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "66",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  },
+                  {
+                    "minuto": "78",
+                    "equipo": "Gra",
+                    "jugador": "Tejada"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 12/09/1970",
+              "jornada": "1",
+              "local": "Las",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "70",
+                    "equipo": "Las",
+                    "jugador": "Carmelín"
+                  },
+                  {
+                    "minuto": "64",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 26/09/1970",
+              "jornada": "3",
+              "local": "Las",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "69",
+                    "equipo": "Las",
+                    "jugador": "Carmelín"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Las",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "15",
+                    "equipo": "Las",
+                    "jugador": "Germán"
+                  },
+                  {
+                    "minuto": "86",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  },
+                  {
+                    "minuto": "73",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "58",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Las",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "55",
+                    "equipo": "Las",
+                    "jugador": "Gilberto"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "CD",
+                    "jugador": "Migueli"
+                  },
+                  {
+                    "minuto": "10",
+                    "equipo": "CD",
+                    "jugador": "Viberti"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Las",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "72",
+                    "equipo": "Cel",
+                    "jugador": "Juan"
+                  },
+                  {
+                    "minuto": "75",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  },
+                  {
+                    "minuto": "86",
+                    "equipo": "Las",
+                    "jugador": "José Juan"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Las",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "13",
+                    "equipo": "Las",
+                    "jugador": "Martín Marrero"
+                  },
+                  {
+                    "minuto": "79",
+                    "equipo": "Las",
+                    "jugador": "Martín Marrero"
+                  },
+                  {
+                    "minuto": "8",
+                    "equipo": "Elc",
+                    "jugador": "Guillot"
+                  },
+                  {
+                    "minuto": "27",
+                    "equipo": "Elc",
+                    "jugador": "Alonso"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Las",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Las",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "13",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Gij",
+                    "jugador": "Puente"
+                  },
+                  {
+                    "minuto": "67",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Las",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "24",
+                    "equipo": "Las",
+                    "jugador": "Gilberto"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "Las",
+                    "jugador": "Gilberto"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Las",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Las",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "4",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "6",
+                    "equipo": "Las",
+                    "jugador": "Justo Gilberto"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Las",
+                    "jugador": "Justo Gilberto"
+                  },
+                  {
+                    "minuto": "22",
+                    "equipo": "Las",
+                    "jugador": "José Juan"
+                  },
+                  {
+                    "minuto": "67",
+                    "equipo": "Las",
+                    "jugador": "José Juan"
+                  },
+                  {
+                    "minuto": "45",
+                    "equipo": "Rel",
+                    "jugador": "Sein"
+                  },
+                  {
+                    "minuto": "12",
+                    "equipo": "Rel",
+                    "jugador": "Boronat"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Las",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "5",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "45",
+                    "equipo": "Las",
+                    "jugador": "Trona"
+                  },
+                  {
+                    "minuto": "10",
+                    "equipo": "Las",
+                    "jugador": "Bosmediano"
+                  },
+                  {
+                    "minuto": "15",
+                    "equipo": "Las",
+                    "jugador": "Germán"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "Las",
+                    "jugador": "Germán"
+                  },
+                  {
+                    "minuto": "60",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Las",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Las",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Las",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "44",
+                    "equipo": "Las",
+                    "jugador": "Justo Gilberto"
+                  },
+                  {
+                    "minuto": "85",
+                    "equipo": "Las",
+                    "jugador": "Bosmediano"
+                  },
+                  {
+                    "minuto": "57",
+                    "equipo": "Las",
+                    "jugador": "León"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Rea",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "9",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Rea",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "54",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Atl",
+                    "jugador": "Clemente"
+                  },
+                  {
+                    "minuto": "88",
+                    "equipo": "Atl",
+                    "jugador": "Argoitia"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Rea",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "28",
+                    "equipo": "Bar",
+                    "jugador": "Zabalza"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Rea",
+              "visitante": "CD",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "24",
+                    "equipo": "CD",
+                    "jugador": "Migueli"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "CD",
+                    "jugador": "Conejo"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Rea",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "45",
+                    "equipo": "Rea",
+                    "jugador": "Zunzunegui"
+                  },
+                  {
+                    "minuto": "3",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "20",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "5",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Rea",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "84",
+                    "equipo": "Rea",
+                    "jugador": "Zunzunegui"
+                  },
+                  {
+                    "minuto": "28",
+                    "equipo": "Elc",
+                    "jugador": "Lezcano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 10/04/1971",
+              "jornada": "29",
+              "local": "Rea",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "78",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Rea",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "60",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  },
+                  {
+                    "minuto": "26",
+                    "equipo": "Gij",
+                    "jugador": "Valdés"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 26/09/1970",
+              "jornada": "3",
+              "local": "Rea",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "22",
+                    "equipo": "Rea",
+                    "jugador": "Velázquez"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Gra",
+                    "jugador": "Lasa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Rea",
+              "visitante": "Las",
+              "resultado": {
+                "local": "4",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "4",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  },
+                  {
+                    "minuto": "68",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  },
+                  {
+                    "minuto": "60",
+                    "equipo": "Rea",
+                    "jugador": "Miguel Pérez"
+                  },
+                  {
+                    "minuto": "32",
+                    "equipo": "Las",
+                    "jugador": "Germán"
+                  },
+                  {
+                    "minuto": "63",
+                    "equipo": "Las",
+                    "jugador": "Gilberto"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Rea",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "58",
+                    "equipo": "Rea",
+                    "jugador": "Sanchis"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Rea",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "51",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "63",
+                    "equipo": "Rea",
+                    "jugador": "Bueno"
+                  },
+                  {
+                    "minuto": "32",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  },
+                  {
+                    "minuto": "80",
+                    "equipo": "Sab",
+                    "jugador": "Pini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Rea",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "42",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Rea",
+                    "jugador": "Fleitas"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 12/09/1970",
+              "jornada": "1",
+              "local": "Rea",
+              "visitante": "Val",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "4",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Rea",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "1",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "34",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "20",
+                    "equipo": "Rea",
+                    "jugador": "Amancio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Rel",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "18",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Rel",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "69",
+                    "equipo": "Rel",
+                    "jugador": "Boronat"
+                  },
+                  {
+                    "minuto": "12",
+                    "equipo": "Atl",
+                    "jugador": "Argoitia"
+                  },
+                  {
+                    "minuto": "74",
+                    "equipo": "Rel",
+                    "jugador": "Corcuera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Rel",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "79",
+                    "equipo": "Rel",
+                    "jugador": "Arzak"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Rel",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "86",
+                    "equipo": "Rel",
+                    "jugador": "Urtiaga"
+                  },
+                  {
+                    "minuto": "17",
+                    "equipo": "CD",
+                    "jugador": "Mori"
+                  },
+                  {
+                    "minuto": "41",
+                    "equipo": "CD",
+                    "jugador": "Pons"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Rel",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "1",
+                "visitante": "3"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Rel",
+                    "jugador": "Arzak"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  },
+                  {
+                    "minuto": "46",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Cel",
+                    "jugador": "Rivera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Rel",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "25",
+                    "equipo": "Rel",
+                    "jugador": "Urtiaga"
+                  },
+                  {
+                    "minuto": "69",
+                    "equipo": "Rel",
+                    "jugador": "Urtiaga"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Rel",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "46",
+                    "equipo": "Rel",
+                    "jugador": "Corcuera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Rel",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "65",
+                    "equipo": "Rel",
+                    "jugador": "Arzak"
+                  },
+                  {
+                    "minuto": "51",
+                    "equipo": "Rel",
+                    "jugador": "Arambarri"
+                  },
+                  {
+                    "minuto": "4",
+                    "equipo": "Rel",
+                    "jugador": "Araquistain"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Rel",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "9",
+                    "equipo": "Rel",
+                    "jugador": "Araquistain"
+                  },
+                  {
+                    "minuto": "7",
+                    "equipo": "Gra",
+                    "jugador": "Santos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Rel",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "23",
+                    "equipo": "Rel",
+                    "jugador": "Corcuera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/10/1970",
+              "jornada": "4",
+              "local": "Rel",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Rel",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "33",
+                    "equipo": "Rel",
+                    "jugador": "Boronat"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/10/1970",
+              "jornada": "6",
+              "local": "Rel",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "78",
+                    "equipo": "Rel",
+                    "jugador": "Mendiluce"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 31/01/1971",
+              "jornada": "20",
+              "local": "Rel",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 11/04/1971",
+              "jornada": "29",
+              "local": "Rel",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "46",
+                    "equipo": "Rel",
+                    "jugador": "Urtiaga"
+                  },
+                  {
+                    "minuto": "83",
+                    "equipo": "Rel",
+                    "jugador": "Urreisti"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Sab",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "80",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Sab",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Sab",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "34",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  },
+                  {
+                    "minuto": "68",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/09/1970",
+              "jornada": "3",
+              "local": "Sab",
+              "visitante": "CD",
+              "resultado": {
+                "local": "5",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "35",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  },
+                  {
+                    "minuto": "53",
+                    "equipo": "Sab",
+                    "jugador": "Montesinos"
+                  },
+                  {
+                    "minuto": "67",
+                    "equipo": "Sab",
+                    "jugador": "Jenaro"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  },
+                  {
+                    "minuto": "40",
+                    "equipo": "CD",
+                    "jugador": "Pons"
+                  },
+                  {
+                    "minuto": "25",
+                    "equipo": "CD",
+                    "jugador": "Álvarez"
+                  },
+                  {
+                    "minuto": "85",
+                    "equipo": "Sab",
+                    "jugador": "Quiles"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Sab",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "32",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Cel",
+                    "jugador": "Jiménez"
+                  },
+                  {
+                    "minuto": "25",
+                    "equipo": "Cel",
+                    "jugador": "Rivera"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Sab",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "58",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Sab",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Sab",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "69",
+                    "equipo": "Sab",
+                    "jugador": "Jenaro"
+                  },
+                  {
+                    "minuto": "6",
+                    "equipo": "Sab",
+                    "jugador": "Vidal I"
+                  },
+                  {
+                    "minuto": "54",
+                    "equipo": "Gij",
+                    "jugador": "Quini"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Sab",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "63",
+                    "equipo": "Gra",
+                    "jugador": "Jorge"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Sab",
+              "visitante": "Las",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Sab",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "23",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  },
+                  {
+                    "minuto": "60",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/09/1970",
+              "jornada": "1",
+              "local": "Sab",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Sab",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "58",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  },
+                  {
+                    "minuto": "70",
+                    "equipo": "Sab",
+                    "jugador": "Cristo"
+                  },
+                  {
+                    "minuto": "6",
+                    "equipo": "Sev",
+                    "jugador": "Lebrón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Sab",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "89",
+                    "equipo": "Val",
+                    "jugador": "Antón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Sab",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "25",
+                    "equipo": "Sab",
+                    "jugador": "Montesinos"
+                  },
+                  {
+                    "minuto": "79",
+                    "equipo": "Sab",
+                    "jugador": "Quiles"
+                  },
+                  {
+                    "minuto": "7",
+                    "equipo": "Zar",
+                    "jugador": "Villa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Sev",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "2",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "68",
+                    "equipo": "Sev",
+                    "jugador": "Lora"
+                  },
+                  {
+                    "minuto": "30",
+                    "equipo": "Até",
+                    "jugador": "Irureta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Sev",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "3",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "35",
+                    "equipo": "Sev",
+                    "jugador": "Bergara II"
+                  },
+                  {
+                    "minuto": "84",
+                    "equipo": "Sev",
+                    "jugador": "Bergara II"
+                  },
+                  {
+                    "minuto": "81",
+                    "equipo": "Atl",
+                    "jugador": "Arieta II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Sev",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "67",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Sev",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "82",
+                    "equipo": "Sev",
+                    "jugador": "Bergara II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Sev",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "4",
+                    "equipo": "Sev",
+                    "jugador": "Rodríguez"
+                  },
+                  {
+                    "minuto": "63",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "Cel",
+                    "jugador": "Costas"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Sev",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "16",
+                    "equipo": "Sev",
+                    "jugador": "Costas"
+                  },
+                  {
+                    "minuto": "43",
+                    "equipo": "Sev",
+                    "jugador": "Bergara II"
+                  },
+                  {
+                    "minuto": "75",
+                    "equipo": "Elc",
+                    "jugador": "Hernández"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Sev",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "1",
+                    "equipo": "Sev",
+                    "jugador": "Lebrón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Sev",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "14",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "54",
+                    "equipo": "Gij",
+                    "jugador": "Churruca"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Sev",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "89",
+                    "equipo": "Sev",
+                    "jugador": "Bergara II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Sev",
+              "visitante": "Las",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "46",
+                    "equipo": "Sev",
+                    "jugador": "Pazos"
+                  },
+                  {
+                    "minuto": "28",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "39",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "87",
+                    "equipo": "Las",
+                    "jugador": "Hernández"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/09/1970",
+              "jornada": "2",
+              "local": "Sev",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "84",
+                    "equipo": "Sev",
+                    "jugador": "Costas"
+                  },
+                  {
+                    "minuto": "57",
+                    "equipo": "Sev",
+                    "jugador": "Berruezo"
+                  },
+                  {
+                    "minuto": "1",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "30",
+                    "equipo": "Rea",
+                    "jugador": "Grande"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Sev",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "9",
+                    "equipo": "Sev",
+                    "jugador": "Lebrón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/04/1971",
+              "jornada": "29",
+              "local": "Sev",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "84",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 17/01/1971",
+              "jornada": "18",
+              "local": "Sev",
+              "visitante": "Val",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "56",
+                    "equipo": "Sev",
+                    "jugador": "Pazos"
+                  },
+                  {
+                    "minuto": "70",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "66",
+                    "equipo": "Val",
+                    "jugador": "Valdez"
+                  },
+                  {
+                    "minuto": "26",
+                    "equipo": "Val",
+                    "jugador": "Sergio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Sev",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "4",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "40",
+                    "equipo": "Sev",
+                    "jugador": "Santos"
+                  },
+                  {
+                    "minuto": "76",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  },
+                  {
+                    "minuto": "32",
+                    "equipo": "Sev",
+                    "jugador": "Torres"
+                  },
+                  {
+                    "minuto": "72",
+                    "equipo": "Zar",
+                    "jugador": "Planas II"
+                  },
+                  {
+                    "minuto": "34",
+                    "equipo": "Zar",
+                    "jugador": "Ocampos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 15/11/1970",
+              "jornada": "9",
+              "local": "Val",
+              "visitante": "Até",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "70",
+                    "equipo": "Val",
+                    "jugador": "Sergio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/03/1971",
+              "jornada": "25",
+              "local": "Val",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "4",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "36",
+                    "equipo": "Val",
+                    "jugador": "Valdez"
+                  },
+                  {
+                    "minuto": "70",
+                    "equipo": "Val",
+                    "jugador": "Claramunt II"
+                  },
+                  {
+                    "minuto": "53",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  },
+                  {
+                    "minuto": "68",
+                    "equipo": "Val",
+                    "jugador": "Sergio"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/02/1971",
+              "jornada": "23",
+              "local": "Val",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "34",
+                    "equipo": "Val",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "17",
+                    "equipo": "Bar",
+                    "jugador": "Rexach"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 25/10/1970",
+              "jornada": "7",
+              "local": "Val",
+              "visitante": "CD",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "40",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 28/03/1971",
+              "jornada": "27",
+              "local": "Val",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "30",
+                    "equipo": "Val",
+                    "jugador": "Claramunt II"
+                  },
+                  {
+                    "minuto": "89",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  },
+                  {
+                    "minuto": "50",
+                    "equipo": "Cel",
+                    "jugador": "Lezcano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/04/1971",
+              "jornada": "29",
+              "local": "Val",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "3",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "Val",
+                    "jugador": "Valdez"
+                  },
+                  {
+                    "minuto": "39",
+                    "equipo": "Val",
+                    "jugador": "Valdez"
+                  },
+                  {
+                    "minuto": "88",
+                    "equipo": "Val",
+                    "jugador": "Claramunt II"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/12/1970",
+              "jornada": "15",
+              "local": "Val",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "73",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  },
+                  {
+                    "minuto": "60",
+                    "equipo": "Val",
+                    "jugador": "Claramunt II"
+                  },
+                  {
+                    "minuto": "62",
+                    "equipo": "Esp",
+                    "jugador": "Cayetano Ré"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/02/1971",
+              "jornada": "21",
+              "local": "Val",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "56",
+                    "equipo": "Val",
+                    "jugador": "Aníbal"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Val",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "20",
+                    "equipo": "Val",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  },
+                  {
+                    "minuto": "49",
+                    "equipo": "Gra",
+                    "jugador": "Barrios"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 19/09/1970",
+              "jornada": "2",
+              "local": "Val",
+              "visitante": "Las",
+              "resultado": {
+                "local": "5",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "21",
+                    "equipo": "Val",
+                    "jugador": "Poli"
+                  },
+                  {
+                    "minuto": "59",
+                    "equipo": "Val",
+                    "jugador": "Poli"
+                  },
+                  {
+                    "minuto": "18",
+                    "equipo": "Val",
+                    "jugador": "Ansola"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Val",
+                    "jugador": "Ansola"
+                  },
+                  {
+                    "minuto": "74",
+                    "equipo": "Val",
+                    "jugador": "Ansola"
+                  },
+                  {
+                    "minuto": "77",
+                    "equipo": "Las",
+                    "jugador": "Germán"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 03/01/1971",
+              "jornada": "16",
+              "local": "Val",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "31",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Val",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 13/12/1970",
+              "jornada": "13",
+              "local": "Val",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "2",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "21",
+                    "equipo": "Val",
+                    "jugador": "Pellicer"
+                  },
+                  {
+                    "minuto": "65",
+                    "equipo": "Val",
+                    "jugador": "Claramunt II"
+                  },
+                  {
+                    "minuto": "4",
+                    "equipo": "Sab",
+                    "jugador": "Garzón"
+                  }
+              ]
+            },
+            {
+              "fecha": "Sábado 26/09/1970",
+              "jornada": "3",
+              "local": "Val",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "64",
+                    "equipo": "Sev",
+                    "jugador": "Acosta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 29/11/1970",
+              "jornada": "11",
+              "local": "Val",
+              "visitante": "Zar",
+              "resultado": {
+                "local": "2",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "43",
+                    "equipo": "Val",
+                    "jugador": "Paquito"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Val",
+                    "jugador": "Forment"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 27/09/1970",
+              "jornada": "3",
+              "local": "Zar",
+              "visitante": "Até",
+              "resultado": {
+                "local": "0",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "41",
+                    "equipo": "Até",
+                    "jugador": "Gárate"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 24/01/1971",
+              "jornada": "19",
+              "local": "Zar",
+              "visitante": "Atl",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "71",
+                    "equipo": "Zar",
+                    "jugador": "Duñabeitia"
+                  },
+                  {
+                    "minuto": "38",
+                    "equipo": "Atl",
+                    "jugador": "Argoitia"
+                  },
+                  {
+                    "minuto": "51",
+                    "equipo": "Atl",
+                    "jugador": "Uriarte"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 10/01/1971",
+              "jornada": "17",
+              "local": "Zar",
+              "visitante": "Bar",
+              "resultado": {
+                "local": "1",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "26",
+                    "equipo": "Zar",
+                    "jugador": "Martín"
+                  },
+                  {
+                    "minuto": "64",
+                    "equipo": "Bar",
+                    "jugador": "Marcial"
+                  },
+                  {
+                    "minuto": "84",
+                    "equipo": "Bar",
+                    "jugador": "Pujol"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 13/09/1970",
+              "jornada": "1",
+              "local": "Zar",
+              "visitante": "CD",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 18/10/1970",
+              "jornada": "6",
+              "local": "Zar",
+              "visitante": "Cel",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 01/11/1970",
+              "jornada": "8",
+              "local": "Zar",
+              "visitante": "Elc",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "46",
+                    "equipo": "Zar",
+                    "jugador": "Santos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 07/03/1971",
+              "jornada": "24",
+              "local": "Zar",
+              "visitante": "Esp",
+              "resultado": {
+                "local": "2",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "25",
+                    "equipo": "Zar",
+                    "jugador": "Martín"
+                  },
+                  {
+                    "minuto": "58",
+                    "equipo": "Esp",
+                    "jugador": "Solsona"
+                  },
+                  {
+                    "minuto": "47",
+                    "equipo": "Esp",
+                    "jugador": "Pepín"
+                  },
+                  {
+                    "minuto": "69",
+                    "equipo": "Zar",
+                    "jugador": "Luis Costa"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 18/04/1971",
+              "jornada": "30",
+              "local": "Zar",
+              "visitante": "Gij",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 04/04/1971",
+              "jornada": "28",
+              "local": "Zar",
+              "visitante": "Gra",
+              "resultado": {
+                "local": "0",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+              ]
+            },
+            {
+              "fecha": "Domingo 11/10/1970",
+              "jornada": "5",
+              "local": "Zar",
+              "visitante": "Las",
+              "resultado": {
+                "local": "1",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "6",
+                    "equipo": "Zar",
+                    "jugador": "Planas II"
+                  },
+                  {
+                    "minuto": "79",
+                    "equipo": "Las",
+                    "jugador": "Castellano"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 22/11/1970",
+              "jornada": "10",
+              "local": "Zar",
+              "visitante": "Rea",
+              "resultado": {
+                "local": "0",
+                "visitante": "5"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "34",
+                    "equipo": "Rea",
+                    "jugador": "Zunzunegui"
+                  },
+                  {
+                    "minuto": "51",
+                    "equipo": "Rea",
+                    "jugador": "Pirri"
+                  },
+                  {
+                    "minuto": "23",
+                    "equipo": "Rea",
+                    "jugador": "Miguel Pérez"
+                  },
+                  {
+                    "minuto": "53",
+                    "equipo": "Rea",
+                    "jugador": "Miguel Pérez"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 20/12/1970",
+              "jornada": "14",
+              "local": "Zar",
+              "visitante": "Rel",
+              "resultado": {
+                "local": "1",
+                "visitante": "0"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "22",
+                    "equipo": "Zar",
+                    "jugador": "Violeta"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 14/02/1971",
+              "jornada": "22",
+              "local": "Zar",
+              "visitante": "Sab",
+              "resultado": {
+                "local": "3",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "41",
+                    "equipo": "Zar",
+                    "jugador": "Planas II"
+                  },
+                  {
+                    "minuto": "82",
+                    "equipo": "Zar",
+                    "jugador": "Santos"
+                  },
+                  {
+                    "minuto": "84",
+                    "equipo": "Zar",
+                    "jugador": "Santos"
+                  },
+                  {
+                    "minuto": "35",
+                    "equipo": "Sab",
+                    "jugador": "De Diego"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 06/12/1970",
+              "jornada": "12",
+              "local": "Zar",
+              "visitante": "Sev",
+              "resultado": {
+                "local": "4",
+                "visitante": "1"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "12",
+                    "equipo": "Zar",
+                    "jugador": "Luis Costa"
+                  },
+                  {
+                    "minuto": "55",
+                    "equipo": "Zar",
+                    "jugador": "Luis Costa"
+                  },
+                  {
+                    "minuto": "82",
+                    "equipo": "Zar",
+                    "jugador": "Santos"
+                  }
+              ]
+            },
+            {
+              "fecha": "Domingo 21/03/1971",
+              "jornada": "26",
+              "local": "Zar",
+              "visitante": "Val",
+              "resultado": {
+                "local": "0",
+                "visitante": "2"
+              },
+              "tarjetas": {
+                "amarillas": "0",
+                "rojas": "0"
+              },
+              "goleadores": [
+                
+                  {
+                    "minuto": "83",
+                    "equipo": "Val",
+                    "jugador": "Antón"
+                  },
+                  {
+                    "minuto": "46",
+                    "equipo": "Val",
+                    "jugador": "Claramunt"
+                  }
+              ]
+            }
+        ]
+      }
+    }
+  

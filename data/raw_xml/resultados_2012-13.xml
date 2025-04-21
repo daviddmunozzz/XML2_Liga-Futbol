@@ -1,0 +1,3948 @@
+<?xml version="1.0" ?>
+<liga temporada="2012-13">
+  <partido fecha="Domingo 27/01/2013" jornada="21">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="50" equipo="Ath" jugador="San José"/>
+      <gol minuto="77" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2013" jornada="33">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Ath" jugador="Ander Herrera"/>
+      <gol minuto="26" equipo="Ath" jugador="Susaeta"/>
+      <gol minuto="69" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2012" jornada="1">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="66" equipo="Ath" jugador="San José"/>
+      <gol minuto="75" equipo="Ath" jugador="San José"/>
+      <gol minuto="30" equipo="Bet" jugador="Beñat"/>
+      <gol minuto="6" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="25" equipo="Bet" jugador="Jorge Molina"/>
+      <gol minuto="86" equipo="Bet" jugador="Jorge Molina"/>
+      <gol minuto="80" equipo="Bet" jugador="Pozuelo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2012" jornada="15">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2012" jornada="13">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="52" equipo="Dep" jugador="Abel Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2013" jornada="23">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="Héctor Moreno"/>
+      <gol minuto="75" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="57" equipo="Esp" jugador="Víctor Sánchez"/>
+      <gol minuto="58" equipo="Esp" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2012" jornada="9">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Get" jugador="Juan Rodríguez"/>
+      <gol minuto="57" equipo="Get" jugador="Álvaro Vázquez"/>
+      <gol minuto="94" equipo="Ath" jugador="San José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/04/2013" jornada="29">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Lev" jugador="Juanlu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2012" jornada="5">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/05/2013" jornada="35">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="80" equipo="Mal" jugador="Giovani dos Santos"/>
+      <gol minuto="78" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2012" jornada="7">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 11/01/2013" jornada="19">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ath" jugador="San José"/>
+      <gol minuto="48" equipo="Ray" jugador="Lass"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2013" jornada="31">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="68" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="76" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 22/02/2013" jornada="25">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Ibai Gómez"/>
+      <gol minuto="34" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="66" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="75" equipo="Rel" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2012" jornada="11">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="De Marcos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2013" jornada="27">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2012" jornada="3">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Ath" jugador="Susaeta"/>
+      <gol minuto="68" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2012" jornada="17">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Zar" jugador="Hélder Postiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/08/2012" jornada="2">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="42" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="84" equipo="Atl" jugador="Tiago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2013" jornada="35">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="71" equipo="Bar" jugador="Alexis Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2013" jornada="22">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/12/2012" jornada="17">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2012" jornada="15">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="27" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="41" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="67" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="70" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2013" jornada="25">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 11/11/2012" jornada="11">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Atl" jugador="Arda Turan"/>
+      <gol minuto="23" equipo="Atl" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2013" jornada="31">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Filipe Luís"/>
+      <gol minuto="62" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="4" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="28" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="47" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2013" jornada="20">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Koke"/>
+      <gol minuto="31" equipo="Atl" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2012" jornada="7">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="35" equipo="Mál" jugador="Santa Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/10/2012" jornada="9">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Atl" jugador="Miranda"/>
+      <gol minuto="35" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="73" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="43" equipo="Osa" jugador="Lamah"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2012" jornada="4">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="Arda Turan"/>
+      <gol minuto="48" equipo="Atl" jugador="Koke"/>
+      <gol minuto="28" equipo="Atl" jugador="Mario Suárez"/>
+      <gol minuto="88" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="81" equipo="Ray" jugador="Delibašić"/>
+      <gol minuto="84" equipo="Ray" jugador="Delibašić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2013" jornada="33">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="63" equipo="Rea" jugador="Di María"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2013" jornada="27">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Xabi Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2012" jornada="13">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Miranda"/>
+      <gol minuto="43" equipo="Atl" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2013" jornada="29">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="4" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2012" jornada="5">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="Godín"/>
+      <gol minuto="54" equipo="Vall" jugador="Bueno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2013" jornada="19">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Atl" jugador="Tiago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2012" jornada="14">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="44" equipo="Bar" jugador="Adriano"/>
+      <gol minuto="56" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="24" equipo="Bar" jugador="Messi"/>
+      <gol minuto="69" equipo="Bar" jugador="Messi"/>
+      <gol minuto="65" equipo="Ath" jugador="Ibai Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2012" jornada="16">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Adriano"/>
+      <gol minuto="44" equipo="Bar" jugador="Busquets"/>
+      <gol minuto="57" equipo="Bar" jugador="Messi"/>
+      <gol minuto="87" equipo="Bar" jugador="Messi"/>
+      <gol minuto="30" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2013" jornada="34">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="56" equipo="Bar" jugador="Villa"/>
+      <gol minuto="43" equipo="Bet" jugador="Rubén Pérez"/>
+      <gol minuto="2" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="71" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2012" jornada="10">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Adriano"/>
+      <gol minuto="60" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="25" equipo="Bar" jugador="Villa"/>
+      <gol minuto="23" equipo="Cel" jugador="Bermejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2013" jornada="27">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="87" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2013" jornada="18">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="15" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="26" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2013" jornada="23">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="88" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="13" equipo="Bar" jugador="Messi"/>
+      <gol minuto="5" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="58" equipo="Bar" jugador="Villa"/>
+      <gol minuto="78" equipo="Bar" jugador="Tello"/>
+      <gol minuto="82" equipo="Get" jugador="Álvaro Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2012" jornada="5">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2013" jornada="32">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bar" jugador="Fàbregas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Montoya"/>
+      <gol minuto="51" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="14" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="3" equipo="Bar" jugador="Villa"/>
+      <gol minuto="56" equipo="Mál" jugador="Pedro Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2013" jornada="30">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="36" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="46" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="21" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="39" equipo="Bar" jugador="Alexis Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2013" jornada="21">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="10" equipo="Bar" jugador="Messi"/>
+      <gol minuto="55" equipo="Bar" jugador="Messi"/>
+      <gol minuto="57" equipo="Bar" jugador="Messi"/>
+      <gol minuto="23" equipo="Osa" jugador="Raoul Loé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2013" jornada="28">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Messi"/>
+      <gol minuto="57" equipo="Bar" jugador="Messi"/>
+      <gol minuto="25" equipo="Bar" jugador="Villa"/>
+      <gol minuto="70" equipo="Ray" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2012" jornada="7">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="22" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="66" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2012" jornada="1">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bar" jugador="Puyol"/>
+      <gol minuto="40" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="10" equipo="Bar" jugador="Messi"/>
+      <gol minuto="15" equipo="Bar" jugador="Messi"/>
+      <gol minuto="8" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="83" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2013" jornada="25">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Messi"/>
+      <gol minuto="52" equipo="Bar" jugador="Villa"/>
+      <gol minuto="42" equipo="Sev" jugador="Botía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2012" jornada="3">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Adriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2013" jornada="36">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/11/2012" jornada="12">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Song"/>
+      <gol minuto="15" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="23" equipo="Zar" jugador="Montañés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 21/01/2013" jornada="20">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2012" jornada="3">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bet" jugador="Agra"/>
+      <gol minuto="92" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="27" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="54" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2012" jornada="15">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="16" equipo="Bar" jugador="Messi"/>
+      <gol minuto="25" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2013" jornada="35">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/04/2013" jornada="33">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bet" jugador="Jorge Molina"/>
+      <gol minuto="6" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2012" jornada="5">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bet" jugador="Paulão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/04/2013" jornada="29">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 09/11/2012" jornada="11">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="73" equipo="Gra" jugador="Mikel Rico"/>
+      <gol minuto="7" equipo="Gra" jugador="Torje"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2013" jornada="19">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Campbell"/>
+      <gol minuto="62" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2013" jornada="25">
+    <local>Bet</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bet" jugador="Mario"/>
+      <gol minuto="44" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="1" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2012" jornada="17">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bet" jugador="Beñat"/>
+      <gol minuto="30" equipo="Mal" jugador="Víctor Casadesús"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 08/03/2013" jornada="27">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="18" equipo="Bet" jugador="Jorge Molina"/>
+      <gol minuto="73" equipo="Osa" jugador="Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2012" jornada="2">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bet" jugador="Jorge Molina"/>
+      <gol minuto="62" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="2" equipo="Ray" jugador="Piti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2012" jornada="13">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Beñat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2012" jornada="7">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bet" jugador="Paulão"/>
+      <gol minuto="81" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 12/04/2013" jornada="31">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="7" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="18" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="32" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="88" equipo="Bet" jugador="Nosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2012" jornada="9">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bet" jugador="Salva Sevilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 11/02/2013" jornada="23">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="70" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="1" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="51" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/05/2013" jornada="34">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="43" equipo="Ath" jugador="De Marcos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/05/2013" jornada="36">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Cel" jugador="Augusto"/>
+      <gol minuto="65" equipo="Atl" jugador="Juanfran"/>
+      <gol minuto="46" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="85" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2013" jornada="29">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Cel" jugador="Oubiña"/>
+      <gol minuto="38" equipo="Cel" jugador="Natxo Insa"/>
+      <gol minuto="42" equipo="Bar" jugador="Tello"/>
+      <gol minuto="72" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/12/2012" jornada="16">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2012" jornada="9">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cel" jugador="Bermejo"/>
+      <gol minuto="29" equipo="Dep" jugador="Juan Domínguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cel" jugador="Natxo Insa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2012" jornada="5">
+    <local>Cel</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cel" jugador="Augusto"/>
+      <gol minuto="58" equipo="Get" jugador="Barrada"/>
+      <gol minuto="68" equipo="Cel" jugador="Park"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2013" jornada="25">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="27" equipo="Gra" jugador="Ighalo"/>
+      <gol minuto="80" equipo="Cel" jugador="Bermejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2012" jornada="14">
+    <local>Cel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="De Lucas"/>
+      <gol minuto="88" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2012" jornada="1">
+    <local>Cel</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Mál" jugador="Fabrice"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/11/2012" jornada="12">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Cel" jugador="Park"/>
+      <gol minuto="22" equipo="Mal" jugador="Hemed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2012" jornada="3">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="94" equipo="Cel" jugador="Bermejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2013" jornada="30">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ray" jugador="Piti"/>
+      <gol minuto="82" equipo="Ray" jugador="Delibašić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2013" jornada="27">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="61" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2013" jornada="21">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Krohn-Dehli"/>
+      <gol minuto="59" equipo="Rel" jugador="Elustondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 05/10/2012" jornada="7">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Cel" jugador="De Lucas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2013" jornada="23">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2013" jornada="18">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Álex López"/>
+      <gol minuto="9" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/04/2013" jornada="32">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Cel" jugador="Álex López"/>
+      <gol minuto="92" equipo="Cel" jugador="Bermejo"/>
+      <gol minuto="25" equipo="Zar" jugador="Săpunaru"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2013" jornada="32">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Dep" jugador="Bruno Gama"/>
+      <gol minuto="44" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2013" jornada="34">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/10/2012" jornada="8">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="5"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Dep" jugador="Álex Bergantiños"/>
+      <gol minuto="47" equipo="Dep" jugador="Pizzi"/>
+      <gol minuto="3" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="7" equipo="Bar" jugador="Tello"/>
+      <gol minuto="17" equipo="Bar" jugador="Messi"/>
+      <gol minuto="43" equipo="Bar" jugador="Messi"/>
+      <gol minuto="76" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2012" jornada="14">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Dep" jugador="Riki"/>
+      <gol minuto="60" equipo="Dep" jugador="Riki"/>
+      <gol minuto="76" equipo="Bet" jugador="Campbell"/>
+      <gol minuto="38" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="54" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 15/03/2013" jornada="28">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Sílvio"/>
+      <gol minuto="9" equipo="Dep" jugador="Riki"/>
+      <gol minuto="79" equipo="Dep" jugador="Salomão"/>
+      <gol minuto="80" equipo="Cel" jugador="Park"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2013" jornada="36">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Bruno Gama"/>
+      <gol minuto="89" equipo="Dep" jugador="Nélson Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2012" jornada="3">
+    <local>Dep</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Riki"/>
+      <gol minuto="25" equipo="Get" jugador="Barrada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2013" jornada="23">
+    <local>Dep</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Gra" jugador="Ighalo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/11/2012" jornada="12">
+    <local>Dep</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="81" equipo="Lev" jugador="Barkero"/>
+      <gol minuto="39" equipo="Lev" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2013" jornada="18">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Dep" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2012" jornada="10">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Bruno Gama"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/08/2012" jornada="1">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Dep" jugador="Riki"/>
+      <gol minuto="89" equipo="Dep" jugador="Nélson Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2013" jornada="26">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 23/02/2013" jornada="25">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Dep" jugador="Riki"/>
+      <gol minuto="82" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="87" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rel" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/09/2012" jornada="5">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="74" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2013" jornada="21">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Dep" jugador="Riki"/>
+      <gol minuto="44" equipo="Dep" jugador="Riki"/>
+      <gol minuto="91" equipo="Val" jugador="Ricardo Costa"/>
+      <gol minuto="62" equipo="Val" jugador="Valdez"/>
+      <gol minuto="1" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/12/2012" jornada="16">
+    <local>Dep</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 06/04/2013" jornada="30">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Marchena"/>
+      <gol minuto="11" equipo="Dep" jugador="Bruno Gama"/>
+      <gol minuto="34" equipo="Zar" jugador="Montañés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2012" jornada="4">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Esp" jugador="Javi López"/>
+      <gol minuto="44" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="80" equipo="Esp" jugador="Longo"/>
+      <gol minuto="55" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="82" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="70" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2012" jornada="6">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Alexis Sánchez"/>
+      <gol minuto="89" equipo="Bar" jugador="Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2013" jornada="24">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Esp" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2013" jornada="19">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/12/2012" jornada="17">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Simão"/>
+      <gol minuto="88" equipo="Esp" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2012" jornada="13">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Get" jugador="Mané"/>
+      <gol minuto="16" equipo="Get" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2013" jornada="33">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Gra" jugador="Nolito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2013" jornada="22">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="86" equipo="Lev" jugador="Martins"/>
+      <gol minuto="46" equipo="Lev" jugador="Rubén García"/>
+      <gol minuto="67" equipo="Esp" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2012" jornada="9">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 18/01/2013" jornada="20">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Esp" jugador="Simão"/>
+      <gol minuto="83" equipo="Esp" jugador="Baena"/>
+      <gol minuto="41" equipo="Mal" jugador="Javi Márquez"/>
+      <gol minuto="34" equipo="Mal" jugador="Giovani dos Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2012" jornada="11">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Osa" jugador="Cejudo"/>
+      <gol minuto="63" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="77" equipo="Osa" jugador="Onwu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2012" jornada="8">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="48" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="11" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="62" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="92" equipo="Esp" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/05/2013" jornada="35">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Stuani"/>
+      <gol minuto="57" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2013" jornada="29">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="38" equipo="Esp" jugador="Stuani"/>
+      <gol minuto="23" equipo="Rel" jugador="Zurutuza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 07/12/2012" jornada="15">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Esp" jugador="Simão"/>
+      <gol minuto="91" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2013" jornada="31">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Esp" jugador="Wakaso"/>
+      <gol minuto="82" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="94" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="52" equipo="Val" jugador="Canales"/>
+      <gol minuto="91" equipo="Val" jugador="Soldado"/>
+      <gol minuto="86" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2013" jornada="26">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/08/2012" jornada="2">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Esp" jugador="Álvaro Vázquez"/>
+      <gol minuto="88" equipo="Zar" jugador="Hélder Postiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2013" jornada="28">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Get" jugador="Borja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2013" jornada="30">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+  </partido>
+  <partido fecha="Sábado 15/09/2012" jornada="4">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Adriano"/>
+      <gol minuto="78" equipo="Bar" jugador="Messi"/>
+      <gol minuto="91" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 05/11/2012" jornada="10">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Get" jugador="Diego Castro"/>
+      <gol minuto="90" equipo="Get" jugador="Pedro León"/>
+      <gol minuto="93" equipo="Bet" jugador="Salva Sevilla"/>
+      <gol minuto="74" equipo="Bet" jugador="Beñat"/>
+      <gol minuto="76" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="59" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2013" jornada="24">
+    <local>Get</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Get" jugador="Fede Fernández"/>
+      <gol minuto="33" equipo="Get" jugador="Diego Castro"/>
+      <gol minuto="10" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="20" equipo="Cel" jugador="Augusto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2013" jornada="22">
+    <local>Get</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="80" equipo="Get" jugador="Álvaro Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2013" jornada="32">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Verdú"/>
+      <gol minuto="73" equipo="Esp" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/01/2013" jornada="19">
+    <local>Get</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Get" jugador="Juan Rodríguez"/>
+      <gol minuto="41" equipo="Get" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2012" jornada="8">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Lev" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2012" jornada="14">
+    <local>Get</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Get" jugador="Lopo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/10/2012" jornada="6">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Get" jugador="Diego Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2012" jornada="16">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Get</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Get" jugador="Rafa"/>
+      <gol minuto="53" equipo="Ray" jugador="Chori Domínguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2012" jornada="2">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Get" jugador="Valera"/>
+      <gol minuto="74" equipo="Get" jugador="Barrada"/>
+      <gol minuto="27" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/05/2013" jornada="34">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Get" jugador="Barrada"/>
+      <gol minuto="17" equipo="Get" jugador="Pedro León"/>
+      <gol minuto="4" equipo="Rel" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2013" jornada="20">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="39" equipo="Sev" jugador="Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2013" jornada="36">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Val" jugador="Mathieu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/11/2012" jornada="12">
+    <local>Get</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Get" jugador="Alexis"/>
+      <gol minuto="44" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="78" equipo="Get" jugador="Lafita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/03/2013" jornada="26">
+    <local>Get</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="60" equipo="Get" jugador="Escudero"/>
+      <gol minuto="21" equipo="Get" jugador="Adrián Colunga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2012" jornada="10">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Gra" jugador="El-Arabi"/>
+      <gol minuto="26" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/11/2012" jornada="12">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Arda Turan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2013" jornada="24">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Gra" jugador="Ighalo"/>
+      <gol minuto="49" equipo="Bar" jugador="Messi"/>
+      <gol minuto="72" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 05/04/2013" jornada="30">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Gra" jugador="Aranda"/>
+      <gol minuto="52" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="29" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="31" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="84" equipo="Bet" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2012" jornada="6">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Gra" jugador="Torje"/>
+      <gol minuto="20" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2012" jornada="4">
+    <local>Gra</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Gra" jugador="Floro Flores"/>
+      <gol minuto="40" equipo="Dep" jugador="Nélson Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2012" jornada="14">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Gra</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Gra" jugador="Nolito"/>
+      <gol minuto="63" equipo="Gra" jugador="El-Arabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2013" jornada="28">
+    <local>Gra</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="16" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Lev" jugador="Acquafresca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2013" jornada="34">
+    <local>Gra</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Gra" jugador="Ighalo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2013" jornada="26">
+    <local>Gra</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Gra" jugador="Nolito"/>
+      <gol minuto="12" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="89" equipo="Mal" jugador="Hemed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2013" jornada="36">
+    <local>Gra</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Gra" jugador="El-Arabi"/>
+      <gol minuto="93" equipo="Gra" jugador="Buonanotte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2013" jornada="20">
+    <local>Gra</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Gra" jugador="Recio"/>
+      <gol minuto="24" equipo="Gra" jugador="Ighalo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2013" jornada="22">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/12/2012" jornada="16">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/08/2012" jornada="2">
+    <local>Gra</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Gra" jugador="Mikel Rico"/>
+      <gol minuto="44" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2013" jornada="18">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Val" jugador="Piatti"/>
+      <gol minuto="59" equipo="Val" jugador="Jonas"/>
+      <gol minuto="49" equipo="Gra" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2013" jornada="32">
+    <local>Gra</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Gra" jugador="El-Arabi"/>
+      <gol minuto="58" equipo="Vall" jugador="Ebert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2012" jornada="8">
+    <local>Gra</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Gra" jugador="El-Arabi"/>
+      <gol minuto="26" equipo="Zar" jugador="Víctor Rodríguez"/>
+      <gol minuto="2" equipo="Zar" jugador="Hélder Postiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2013" jornada="18">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Lev" jugador="Lell"/>
+      <gol minuto="44" equipo="Lev" jugador="Iborra"/>
+      <gol minuto="68" equipo="Lev" jugador="El Zhar"/>
+      <gol minuto="6" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2012" jornada="1">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Lev" jugador="El Zhar"/>
+      <gol minuto="22" equipo="Atl" jugador="Arda Turan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2012" jornada="13">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="62" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="46" equipo="Bar" jugador="Messi"/>
+      <gol minuto="51" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Lev" jugador="Pedro Ríos"/>
+      <gol minuto="68" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2013" jornada="33">
+    <local>Lev</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cel" jugador="Augusto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2013" jornada="31">
+    <local>Lev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Dep" jugador="Valerón"/>
+      <gol minuto="89" equipo="Dep" jugador="Bruno Gama"/>
+      <gol minuto="20" equipo="Dep" jugador="Pizzi"/>
+      <gol minuto="28" equipo="Dep" jugador="Nélson Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2012" jornada="3">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="55" equipo="Lev" jugador="Lell"/>
+      <gol minuto="54" equipo="Lev" jugador="Juanlu"/>
+      <gol minuto="24" equipo="Esp" jugador="Tejera"/>
+      <gol minuto="21" equipo="Esp" jugador="Longo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2013" jornada="27">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/10/2012" jornada="9">
+    <local>Lev</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Lev" jugador="Martins"/>
+      <gol minuto="60" equipo="Lev" jugador="Martins"/>
+      <gol minuto="84" equipo="Gra" jugador="El-Arabi"/>
+      <gol minuto="72" equipo="Lev" jugador="Pedro Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2013" jornada="23">
+    <local>Lev</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Mál" jugador="Isco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2012" jornada="15">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Lev" jugador="David Navarro"/>
+      <gol minuto="57" equipo="Lev" jugador="Iborra"/>
+      <gol minuto="54" equipo="Lev" jugador="Rubén García"/>
+      <gol minuto="42" equipo="Lev" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 25/02/2013" jornada="25">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Osa" jugador="Masoud"/>
+      <gol minuto="89" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2013" jornada="36">
+    <local>Lev</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Lev" jugador="Iborra"/>
+      <gol minuto="52" equipo="Lev" jugador="Acquafresca"/>
+      <gol minuto="56" equipo="Ray" jugador="Vázquez"/>
+      <gol minuto="20" equipo="Ray" jugador="Piti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2012" jornada="11">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="62" equipo="Lev" jugador="Ángel"/>
+      <gol minuto="84" equipo="Rea" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2012" jornada="5">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Zurutuza"/>
+      <gol minuto="80" equipo="Lev" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2013" jornada="29">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Lev" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2012" jornada="7">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Lev" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2013" jornada="21">
+    <local>Lev</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Lev" jugador="Barkero"/>
+      <gol minuto="7" equipo="Vall" jugador="Baraja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/05/2013" jornada="35">
+    <local>Lev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 16/02/2013" jornada="24">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mál" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2013" jornada="26">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/01/2013" jornada="19">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="26" equipo="Bar" jugador="Messi"/>
+      <gol minuto="88" equipo="Mál" jugador="Buonanotte"/>
+      <gol minuto="81" equipo="Bar" jugador="Thiago Alcántara"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2012" jornada="6">
+    <local>Mál</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Mál" jugador="Isco"/>
+      <gol minuto="28" equipo="Mál" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2013" jornada="20">
+    <local>Mál</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Mál" jugador="Santa Cruz"/>
+      <gol minuto="76" equipo="Cel" jugador="Augusto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Mál" jugador="Isco"/>
+      <gol minuto="63" equipo="Mál" jugador="Júlio Baptista"/>
+      <gol minuto="44" equipo="Mál" jugador="Saviola"/>
+      <gol minuto="75" equipo="Dep" jugador="Salomão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2013" jornada="28">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Esp" jugador="Colotto"/>
+      <gol minuto="65" equipo="Esp" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2013" jornada="33">
+    <local>Mál</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mál" jugador="Weligton"/>
+      <gol minuto="40" equipo="Mál" jugador="Santa Cruz"/>
+      <gol minuto="70" equipo="Get" jugador="Valera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2012" jornada="15">
+    <local>Mál</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Mál" jugador="Camacho"/>
+      <gol minuto="33" equipo="Mál" jugador="Saviola"/>
+      <gol minuto="26" equipo="Mál" jugador="Joaquín"/>
+      <gol minuto="85" equipo="Mál" jugador="Santa Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2012" jornada="4">
+    <local>Mál</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mál" jugador="Portillo"/>
+      <gol minuto="26" equipo="Mál" jugador="Saviola"/>
+      <gol minuto="58" equipo="Mál" jugador="Joaquín"/>
+      <gol minuto="46" equipo="Lev" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2012" jornada="2">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="76" equipo="Mál" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2013" jornada="31">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Mál" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2012" jornada="10">
+    <local>Mál</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Mál" jugador="Demichelis"/>
+      <gol minuto="10" equipo="Ray" jugador="Piti"/>
+      <gol minuto="60" equipo="Ray" jugador="Piti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2012" jornada="17">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Mál" jugador="Isco"/>
+      <gol minuto="81" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="72" equipo="Mál" jugador="Santa Cruz"/>
+      <gol minuto="75" equipo="Mál" jugador="Santa Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2012" jornada="11">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Mál" jugador="Saviola"/>
+      <gol minuto="58" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="1" equipo="Rel" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2013" jornada="35">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 24/11/2012" jornada="13">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="92" equipo="Mál" jugador="Isco"/>
+      <gol minuto="7" equipo="Mál" jugador="Portillo"/>
+      <gol minuto="75" equipo="Mál" jugador="Saviola"/>
+      <gol minuto="81" equipo="Mál" jugador="Santa Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2012" jornada="8">
+    <local>Mál</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Mál" jugador="Isco"/>
+      <gol minuto="86" equipo="Mál" jugador="Joaquín"/>
+      <gol minuto="8" equipo="Vall" jugador="Manucho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2013" jornada="22">
+    <local>Mál</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Zar" jugador="Hélder Postiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2012" jornada="16">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2013" jornada="18">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="87" equipo="Mal" jugador="Kevin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2012" jornada="11">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Mal" jugador="Pereira"/>
+      <gol minuto="27" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="44" equipo="Bar" jugador="Tello"/>
+      <gol minuto="43" equipo="Bar" jugador="Messi"/>
+      <gol minuto="70" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/05/2013" jornada="36">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Hemed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/04/2013" jornada="31">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Giovani dos Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2013" jornada="29">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="48" equipo="Dep" jugador="Marchena"/>
+      <gol minuto="26" equipo="Dep" jugador="Sílvio"/>
+      <gol minuto="60" equipo="Dep" jugador="Riki"/>
+      <gol minuto="86" equipo="Mal" jugador="Nsue"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2012" jornada="1">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="85" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="5" equipo="Esp" jugador="Wakaso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2013" jornada="25">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Mal" jugador="Giovani dos Santos"/>
+      <gol minuto="81" equipo="Get" jugador="Adrián Colunga"/>
+      <gol minuto="85" equipo="Get" jugador="Adrián Colunga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2012" jornada="7">
+    <local>Mal</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="75" equipo="Gra" jugador="Torje"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2013" jornada="34">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="41" equipo="Lev" jugador="Acquafresca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2013" jornada="21">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="70" equipo="Mal" jugador="Giovani dos Santos"/>
+      <gol minuto="62" equipo="Mál" jugador="Monreal"/>
+      <gol minuto="15" equipo="Mál" jugador="Isco"/>
+      <gol minuto="10" equipo="Mál" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2013" jornada="23">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Geromel"/>
+      <gol minuto="77" equipo="Osa" jugador="Lolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/04/2013" jornada="32">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="6" equipo="Ray" jugador="Piti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2012" jornada="9">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="70" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="22" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="73" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="91" equipo="Rea" jugador="Callejón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2012" jornada="3">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Mal" jugador="Víctor Casadesús"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2013" jornada="27">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="65" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="61" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2012" jornada="5">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="55" equipo="Mal" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Mal" jugador="Martí"/>
+      <gol minuto="67" equipo="Mal" jugador="Javi Márquez"/>
+      <gol minuto="16" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="57" equipo="Mal" jugador="Giovani dos Santos"/>
+      <gol minuto="29" equipo="Vall" jugador="Bueno"/>
+      <gol minuto="71" equipo="Vall" jugador="Omar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2012" jornada="14">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="15" equipo="Zar" jugador="Hélder Postiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2013" jornada="26">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2013" jornada="28">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="47" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2012" jornada="2">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Osa" jugador="Llorente"/>
+      <gol minuto="74" equipo="Bar" jugador="Messi"/>
+      <gol minuto="79" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2012" jornada="8">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/02/2013" jornada="22">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Osa" jugador="Armenteros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2013" jornada="20">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Osa" jugador="Nino"/>
+      <gol minuto="26" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="88" equipo="Dep" jugador="Camuñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2013" jornada="30">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Héctor Moreno"/>
+      <gol minuto="89" equipo="Esp" jugador="Wakaso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/05/2013" jornada="35">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Osa" jugador="Arribas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2012" jornada="17">
+    <local>Osa</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Osa" jugador="Nino"/>
+      <gol minuto="41" equipo="Gra" jugador="Mainz"/>
+      <gol minuto="47" equipo="Gra" jugador="Dani Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2012" jornada="6">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Osa" jugador="Nino"/>
+      <gol minuto="54" equipo="Osa" jugador="Armenteros"/>
+      <gol minuto="81" equipo="Osa" jugador="Lamah"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/11/2012" jornada="12">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/09/2012" jornada="4">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="69" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/11/2012" jornada="14">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2013" jornada="19">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 21/04/2013" jornada="32">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Osa" jugador="Puñal"/>
+      <gol minuto="50" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="79" equipo="Osa" jugador="Cejudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2012" jornada="15">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2012" jornada="10">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="82" equipo="Vall" jugador="Ebert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2013" jornada="24">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="14" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ray" jugador="Vázquez"/>
+      <gol minuto="54" equipo="Ray" jugador="Piti"/>
+      <gol minuto="48" equipo="Ath" jugador="Aurtenetxe"/>
+      <gol minuto="30" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2013" jornada="23">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="3" equipo="Ray" jugador="Lass"/>
+      <gol minuto="89" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2012" jornada="9">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="80" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="47" equipo="Bar" jugador="Messi"/>
+      <gol minuto="87" equipo="Bar" jugador="Messi"/>
+      <gol minuto="20" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2013" jornada="21">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ray" jugador="Delibašić"/>
+      <gol minuto="81" equipo="Ray" jugador="José Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2012" jornada="11">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Ray" jugador="Tito"/>
+      <gol minuto="59" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="12" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="33" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2012" jornada="7">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ray" jugador="Piti"/>
+      <gol minuto="29" equipo="Ray" jugador="José Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2013" jornada="27">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ray" jugador="Chori Domínguez"/>
+      <gol minuto="76" equipo="Ray" jugador="Piti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/01/2013" jornada="18">
+    <local>Ray</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ray" jugador="Lass"/>
+      <gol minuto="28" equipo="Ray" jugador="Piti"/>
+      <gol minuto="52" equipo="Ray" jugador="Piti"/>
+      <gol minuto="65" equipo="Get" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/08/2012" jornada="1">
+    <local>Ray</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="95" equipo="Ray" jugador="Trashorras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/12/2012" jornada="17">
+    <local>Ray</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ray" jugador="Nacho"/>
+      <gol minuto="79" equipo="Ray" jugador="Piti"/>
+      <gol minuto="89" equipo="Ray" jugador="Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2013" jornada="29">
+    <local>Ray</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mál" jugador="Weligton"/>
+      <gol minuto="85" equipo="Mál" jugador="Pedro Morales"/>
+      <gol minuto="54" equipo="Mál" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2012" jornada="13">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ray" jugador="Léo Baptistão"/>
+      <gol minuto="90" equipo="Ray" jugador="Delibašić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/04/2013" jornada="33">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ray" jugador="Piti"/>
+      <gol minuto="6" equipo="Ray" jugador="Delibašić"/>
+      <gol minuto="13" equipo="Osa" jugador="Arribas"/>
+      <gol minuto="8" equipo="Osa" jugador="Raoul Loé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/09/2012" jornada="5">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2013" jornada="31">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="13" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2012" jornada="3">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/05/2013" jornada="35">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Val" jugador="Guardado"/>
+      <gol minuto="33" equipo="Val" jugador="Soldado"/>
+      <gol minuto="91" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2013" jornada="25">
+    <local>Ray</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Ray" jugador="Jordi Amat"/>
+      <gol minuto="70" equipo="Vall" jugador="Sereno"/>
+      <gol minuto="79" equipo="Vall" jugador="Manucho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/12/2012" jornada="15">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Zar" jugador="Zuculini"/>
+      <gol minuto="59" equipo="Zar" jugador="Apoño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/11/2012" jornada="12">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="55" equipo="Rea" jugador="Özil"/>
+      <gol minuto="31" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="41" equipo="Ath" jugador="Ibai Gómez"/>
+      <gol minuto="71" equipo="Rea" jugador="Khedira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2012" jornada="14">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rea" jugador="Özil"/>
+      <gol minuto="15" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2013" jornada="26">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="6" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="18" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2013" jornada="32">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rea" jugador="Özil"/>
+      <gol minuto="90" equipo="Rea" jugador="Özil"/>
+      <gol minuto="57" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2012" jornada="8">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2012" jornada="6">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rea" jugador="Pepe"/>
+      <gol minuto="38" equipo="Rea" jugador="Di María"/>
+      <gol minuto="44" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="16" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2012" jornada="16">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Coentrão"/>
+      <gol minuto="31" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="87" equipo="Esp" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2013" jornada="21">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="62" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="65" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2012" jornada="3">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="53" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="75" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2013" jornada="30">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="31" equipo="Lev" jugador="Míchel"/>
+      <gol minuto="87" equipo="Rea" jugador="Özil"/>
+      <gol minuto="91" equipo="Rea" jugador="Özil"/>
+      <gol minuto="84" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/05/2013" jornada="36">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rea" jugador="Albiol"/>
+      <gol minuto="63" equipo="Rea" jugador="Modrić"/>
+      <gol minuto="33" equipo="Rea" jugador="Özil"/>
+      <gol minuto="26" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="36" equipo="Mál" jugador="Antunes"/>
+      <gol minuto="14" equipo="Mál" jugador="Santa Cruz"/>
+      <gol minuto="91" equipo="Rea" jugador="Di María"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2013" jornada="28">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Modrić"/>
+      <gol minuto="14" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="56" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="51" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="6" equipo="Mal" jugador="Nsue"/>
+      <gol minuto="20" equipo="Mal" jugador="Alfaro"/>
+      <gol minuto="92" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rea" jugador="Essien"/>
+      <gol minuto="86" equipo="Rea" jugador="Callejón"/>
+      <gol minuto="35" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="69" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="51" equipo="Osa" jugador="Roberto Torres"/>
+      <gol minuto="63" equipo="Osa" jugador="Cejudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2013" jornada="24">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="2" equipo="Rea" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2013" jornada="18">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Khedira"/>
+      <gol minuto="67" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="70" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="2" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="39" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="75" equipo="Rel" jugador="Xabi Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2013" jornada="23">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="46" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="58" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="17" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="86" equipo="Sev" jugador="Manu del Moral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2012" jornada="1">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="42" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2013" jornada="34">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rea" jugador="Di María"/>
+      <gol minuto="48" equipo="Rea" jugador="Kaká"/>
+      <gol minuto="32" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="70" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="8" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="35" equipo="Vall" jugador="Javi Guerra"/>
+      <gol minuto="87" equipo="Vall" jugador="Sastre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2012" jornada="10">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Di María"/>
+      <gol minuto="89" equipo="Rea" jugador="Modrić"/>
+      <gol minuto="87" equipo="Rea" jugador="Essien"/>
+      <gol minuto="23" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2012" jornada="6">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rel" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2012" jornada="8">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2013" jornada="20">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="62" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="24" equipo="Bar" jugador="Pedro"/>
+      <gol minuto="6" equipo="Bar" jugador="Messi"/>
+      <gol minuto="87" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2013" jornada="26">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="Iñigo Martínez"/>
+      <gol minuto="51" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="49" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="66" equipo="Bet" jugador="Pabón"/>
+      <gol minuto="30" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2012" jornada="2">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="60" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="48" equipo="Cel" jugador="De Lucas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2013" jornada="19">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="26" equipo="Dep" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2012" jornada="10">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Esp" jugador="Colotto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2012" jornada="15">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Carlos Martínez"/>
+      <gol minuto="86" equipo="Get" jugador="Lafita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/05/2013" jornada="35">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="44" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="89" equipo="Gra" jugador="Recio"/>
+      <gol minuto="14" equipo="Gra" jugador="El-Arabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2013" jornada="24">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 06/04/2013" jornada="30">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rel" jugador="Iñigo Martínez"/>
+      <gol minuto="23" equipo="Rel" jugador="De la Bella"/>
+      <gol minuto="20" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="30" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="42" equipo="Mál" jugador="Pedro Morales"/>
+      <gol minuto="69" equipo="Mál" jugador="Santa Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2013" jornada="22">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="69" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="87" equipo="Rel" jugador="Ifrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/11/2012" jornada="13">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 19/11/2012" jornada="12">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Mikel González"/>
+      <gol minuto="76" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="31" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="32" equipo="Rel" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="77" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="79" equipo="Rea" jugador="Khedira"/>
+      <gol minuto="56" equipo="Rea" jugador="Callejón"/>
+      <gol minuto="5" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/12/2012" jornada="17">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rel" jugador="De la Bella"/>
+      <gol minuto="18" equipo="Rel" jugador="Carlos Vela"/>
+      <gol minuto="50" equipo="Sev" jugador="Medel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2013" jornada="33">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rel" jugador="Iñigo Martínez"/>
+      <gol minuto="73" equipo="Rel" jugador="Chori Castro"/>
+      <gol minuto="85" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="93" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="24" equipo="Val" jugador="Soldado"/>
+      <gol minuto="88" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2013" jornada="28">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Xabi Prieto"/>
+      <gol minuto="6" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="44" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="39" equipo="Rel" jugador="Agirretxe"/>
+      <gol minuto="87" equipo="Vall" jugador="Javi Guerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2012" jornada="4">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Iñigo Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 08/04/2013" jornada="30">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="2"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="86" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="55" equipo="Ath" jugador="Gurpegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2013" jornada="32">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2012" jornada="6">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Sev" jugador="Trochowski"/>
+      <gol minuto="48" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="53" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="88" equipo="Bar" jugador="Fàbregas"/>
+      <gol minuto="92" equipo="Bar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/11/2012" jornada="12">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="42" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="91" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="1" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="32" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="66" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 04/03/2013" jornada="26">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Sev" jugador="Medel"/>
+      <gol minuto="11" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="28" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="67" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="39" equipo="Cel" jugador="Augusto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 15/02/2013" jornada="24">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="5" equipo="Sev" jugador="Medel"/>
+      <gol minuto="27" equipo="Sev" jugador="Medel"/>
+      <gol minuto="32" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2013" jornada="34">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Coke"/>
+      <gol minuto="22" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2012" jornada="1">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="50" equipo="Get" jugador="Alexis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/01/2013" jornada="21">
+    <local>Sev</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Sev" jugador="Kondogbia"/>
+      <gol minuto="74" equipo="Sev" jugador="Medel"/>
+      <gol minuto="70" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2012" jornada="10">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/12/2012" jornada="16">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Mál" jugador="Demichelis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/10/2012" jornada="8">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Cicinho"/>
+      <gol minuto="29" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="56" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="26" equipo="Mal" jugador="Bigas"/>
+      <gol minuto="30" equipo="Mal" jugador="Hemed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2013" jornada="18">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sev" jugador="Spahić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2013" jornada="22">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="54" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2012" jornada="4">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sev" jugador="Trochowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2013" jornada="36">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="23" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="57" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="61" equipo="Sev" jugador="Negredo"/>
+      <gol minuto="12" equipo="Val" jugador="Banega"/>
+      <gol minuto="56" equipo="Val" jugador="Soldado"/>
+      <gol minuto="88" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/12/2012" jornada="14">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="1" equipo="Vall" jugador="Ebert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2013" jornada="28">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sev" jugador="Coke"/>
+      <gol minuto="51" equipo="Sev" jugador="Coke"/>
+      <gol minuto="62" equipo="Sev" jugador="Reyes"/>
+      <gol minuto="67" equipo="Sev" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2012" jornada="8">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Val" jugador="Tino Costa"/>
+      <gol minuto="18" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="29" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="90" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2012" jornada="10">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Soldado"/>
+      <gol minuto="94" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2013" jornada="22">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Banega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2013" jornada="28">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2012" jornada="4">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Cissokho"/>
+      <gol minuto="3" equipo="Val" jugador="Feghouli"/>
+      <gol minuto="15" equipo="Cel" jugador="Cabral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2012" jornada="2">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Val" jugador="Feghouli"/>
+      <gol minuto="11" equipo="Val" jugador="Soldado"/>
+      <gol minuto="28" equipo="Val" jugador="Soldado"/>
+      <gol minuto="38" equipo="Dep" jugador="Abel Aguilar"/>
+      <gol minuto="58" equipo="Dep" jugador="Abel Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/11/2012" jornada="12">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="14" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Jonathan Viera"/>
+      <gol minuto="30" equipo="Esp" jugador="Longo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/12/2012" jornada="17">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Ricardo Costa"/>
+      <gol minuto="1" equipo="Val" jugador="Soldado"/>
+      <gol minuto="6" equipo="Val" jugador="Jonas"/>
+      <gol minuto="58" equipo="Get" jugador="Alexis"/>
+      <gol minuto="12" equipo="Get" jugador="Álvaro Vázquez"/>
+      <gol minuto="94" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2013" jornada="26">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Jonas"/>
+      <gol minuto="16" equipo="Lev" jugador="Iborra"/>
+      <gol minuto="89" equipo="Lev" jugador="Barkero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2013" jornada="32">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Val" jugador="Canales"/>
+      <gol minuto="25" equipo="Val" jugador="Parejo"/>
+      <gol minuto="55" equipo="Val" jugador="Banega"/>
+      <gol minuto="27" equipo="Val" jugador="Soldado"/>
+      <gol minuto="44" equipo="Mál" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2013" jornada="24">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Ricardo Costa"/>
+      <gol minuto="80" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2013" jornada="34">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Val" jugador="Ricardo Costa"/>
+      <gol minuto="59" equipo="Val" jugador="Banega"/>
+      <gol minuto="38" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2012" jornada="16">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/01/2013" jornada="20">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Di María"/>
+      <gol minuto="44" equipo="Rea" jugador="Di María"/>
+      <gol minuto="8" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="35" equipo="Rea" jugador="Cristiano Ronaldo"/>
+      <gol minuto="41" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2012" jornada="14">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Val" jugador="Soldado"/>
+      <gol minuto="73" equipo="Val" jugador="Soldado"/>
+      <gol minuto="56" equipo="Rel" jugador="Mikel González"/>
+      <gol minuto="43" equipo="Rel" jugador="De la Bella"/>
+      <gol minuto="64" equipo="Rel" jugador="Ifrán"/>
+      <gol minuto="83" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2013" jornada="19">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Soldado"/>
+      <gol minuto="87" equipo="Val" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2013" jornada="30">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="92" equipo="Val" jugador="Jonas"/>
+      <gol minuto="70" equipo="Vall" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2012" jornada="6">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Jonathan Viera"/>
+      <gol minuto="11" equipo="Val" jugador="Feghouli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/02/2013" jornada="22">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vall" jugador="Bueno"/>
+      <gol minuto="8" equipo="Vall" jugador="Javi Guerra"/>
+      <gol minuto="21" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="50" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2013" jornada="24">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="10" equipo="Atl" jugador="Falcao"/>
+      <gol minuto="87" equipo="Atl" jugador="Cebolla Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2012" jornada="17">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="59" equipo="Bar" jugador="Messi"/>
+      <gol minuto="88" equipo="Vall" jugador="Javi Guerra"/>
+      <gol minuto="93" equipo="Bar" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/09/2012" jornada="4">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/05/2013" jornada="37">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Cel" jugador="Cabral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/05/2013" jornada="35">
+    <local>Vall</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vall" jugador="Javi Guerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2012" jornada="7">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vall" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2013" jornada="31">
+    <local>Vall</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="45" equipo="Get" jugador="Alcácer"/>
+      <gol minuto="72" equipo="Vall" jugador="Javi Guerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2012" jornada="13">
+    <local>Vall</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Vall" jugador="Manucho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/08/2012" jornada="2">
+    <local>Vall</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 09/03/2013" jornada="27">
+    <local>Vall</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vall" jugador="Manucho"/>
+      <gol minuto="8" equipo="Mál" jugador="Demichelis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2013" jornada="19">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="20" equipo="Vall" jugador="Ebert"/>
+      <gol minuto="89" equipo="Vall" jugador="Ebert"/>
+      <gol minuto="37" equipo="Mal" jugador="Víctor Casadesús"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2013" jornada="29">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Osa" jugador="De las Cuevas"/>
+      <gol minuto="49" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="59" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2012" jornada="6">
+    <local>Vall</local>
+    <visitante>Ray</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vall" jugador="Rukavina"/>
+      <gol minuto="20" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="55" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="9" equipo="Vall" jugador="Bueno"/>
+      <gol minuto="12" equipo="Vall" jugador="Manucho"/>
+      <gol minuto="85" equipo="Vall" jugador="Manucho"/>
+      <gol minuto="5" equipo="Ray" jugador="Chori Domínguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2012" jornada="15">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vall" jugador="Manucho"/>
+      <gol minuto="21" equipo="Vall" jugador="Manucho"/>
+      <gol minuto="44" equipo="Rea" jugador="Özil"/>
+      <gol minuto="71" equipo="Rea" jugador="Özil"/>
+      <gol minuto="12" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/10/2012" jornada="9">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="42" equipo="Vall" jugador="Ebert"/>
+      <gol minuto="36" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="56" equipo="Rel" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2013" jornada="33">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Vall" jugador="Javi Guerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2012" jornada="11">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Cissokho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2013" jornada="20">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vall" jugador="Óscar González"/>
+      <gol minuto="11" equipo="Vall" jugador="Javi Guerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2013" jornada="36">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="92" equipo="Ath" jugador="Ibai Gómez"/>
+      <gol minuto="79" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/06/2013" jornada="38">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="89" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="90" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="83" equipo="Atl" jugador="Arda Turan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2013" jornada="31">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bar" jugador="Thiago Alcántara"/>
+      <gol minuto="38" equipo="Bar" jugador="Tello"/>
+      <gol minuto="52" equipo="Bar" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/01/2013" jornada="18">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Zar" jugador="Montañés"/>
+      <gol minuto="44" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="57" equipo="Bet" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 26/11/2012" jornada="13">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2012" jornada="11">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Zar" jugador="Álvaro"/>
+      <gol minuto="60" equipo="Zar" jugador="Montañés"/>
+      <gol minuto="76" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="82" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="12" equipo="Dep" jugador="Bruno Gama"/>
+      <gol minuto="20" equipo="Dep" jugador="Riki"/>
+      <gol minuto="92" equipo="Dep" jugador="Bodipo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2013" jornada="21">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="2"/>
+  </partido>
+  <partido fecha="Sábado 06/10/2012" jornada="7">
+    <local>Zar</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 11/03/2013" jornada="27">
+    <local>Zar</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/12/2012" jornada="16">
+    <local>Zar</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Lev" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2012" jornada="3">
+    <local>Zar</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mál" jugador="Camacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2013" jornada="33">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Zar" jugador="Montañés"/>
+      <gol minuto="60" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="11" equipo="Mal" jugador="Hemed"/>
+      <gol minuto="87" equipo="Zar" jugador="Rochina"/>
+      <gol minuto="83" equipo="Mal" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2012" jornada="5">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="29" equipo="Osa" jugador="Armenteros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2013" jornada="34">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Zar" jugador="Apoño"/>
+      <gol minuto="50" equipo="Zar" jugador="Rodri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2013" jornada="29">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Zar" jugador="Rodri"/>
+      <gol minuto="38" equipo="Rea" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2013" jornada="23">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Griezmann"/>
+      <gol minuto="31" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2012" jornada="9">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Zar" jugador="Săpunaru"/>
+      <gol minuto="37" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="69" equipo="Sev" jugador="Medel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2013" jornada="25">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Zar" jugador="Hélder Postiga"/>
+      <gol minuto="35" equipo="Val" jugador="Jonas"/>
+      <gol minuto="69" equipo="Val" jugador="Jonas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/08/2012" jornada="1">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vall" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+</liga>

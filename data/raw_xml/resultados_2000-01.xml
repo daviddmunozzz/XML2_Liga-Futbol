@@ -1,0 +1,3955 @@
+<?xml version="1.0" ?>
+<liga temporada="2000-01">
+  <partido fecha="Domingo 03/12/2000" jornada="13">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ala" jugador="Contra"/>
+      <gol minuto="26" equipo="Ath" jugador="Roberto Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/05/2001" jornada="35">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Overmars"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="89" equipo="Cel" jugador="Edú"/>
+      <gol minuto="74" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/2000" jornada="15">
+    <local>Ala</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="17" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="72" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Ala</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Ala</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Ala" jugador="Téllez"/>
+      <gol minuto="23" equipo="Mál" jugador="Txomin Larrainzar"/>
+      <gol minuto="47" equipo="Mál" jugador="Rufete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ala" jugador="Karmona"/>
+      <gol minuto="57" equipo="Ala" jugador="Azkoitia"/>
+      <gol minuto="5" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="47" equipo="Mal" jugador="Finidi"/>
+      <gol minuto="82" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="72" equipo="Mal" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Ala</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Num" jugador="Caco Morán"/>
+      <gol minuto="86" equipo="Num" jugador="Pacheta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Ala</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/2000" jornada="9">
+    <local>Ala</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ala" jugador="Geli"/>
+      <gol minuto="89" equipo="Ala" jugador="Jordi Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Ala</local>
+    <visitante>Rac</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ala" jugador="Jordi Cruyff"/>
+      <gol minuto="35" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="73" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="55" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="66" equipo="Ala" jugador="Raúl Gañán"/>
+      <gol minuto="60" equipo="Rac" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Ala</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ala" jugador="Contra"/>
+      <gol minuto="49" equipo="Ala" jugador="Ibon Begoña"/>
+      <gol minuto="46" equipo="Ala" jugador="Tomić"/>
+      <gol minuto="44" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="21" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="82" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rea" jugador="Jáuregi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ala" jugador="Téllez"/>
+      <gol minuto="13" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="88" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/2000" jornada="11">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Val" jugador="Carew"/>
+      <gol minuto="66" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Ala</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ala" jugador="Eggen"/>
+      <gol minuto="16" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="75" equipo="Ala" jugador="Vučko"/>
+      <gol minuto="87" equipo="Ala" jugador="Vučko"/>
+      <gol minuto="89" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="56" equipo="Vall" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/2000" jornada="2">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Vil" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/2001" jornada="22">
+    <local>Ala</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ala" jugador="Jordi Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="64" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/2000" jornada="2">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="24" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="92" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="35" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="37" equipo="Cel" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/2001" jornada="20">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Larrainzar"/>
+      <gol minuto="36" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="39" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Las" jugador="Álvaro"/>
+      <gol minuto="10" equipo="Las" jugador="Guayre"/>
+      <gol minuto="94" equipo="Las" jugador="Josico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="28" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="89" equipo="Mál" jugador="Agostinho"/>
+      <gol minuto="84" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="61" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="37" equipo="Mal" jugador="Engonga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Ath</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ath" jugador="Javi González"/>
+      <gol minuto="39" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="78" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="57" equipo="Num" jugador="José Manuel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Javi González"/>
+      <gol minuto="92" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="47" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="57" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="76" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="80" equipo="Rac" jugador="Amavisca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="87" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="5" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="14" equipo="Ray" jugador="Quevedo"/>
+      <gol minuto="64" equipo="Ray" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="3"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="40" equipo="Rea" jugador="De Pedro"/>
+      <gol minuto="30" equipo="Rea" jugador="Jankauskas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/2001" jornada="22">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ath" jugador="Alkiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Urrutia"/>
+      <gol minuto="82" equipo="Val" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/03/2001" jornada="26">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="19" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="47" equipo="Ath" jugador="Javi González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="61" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="67" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="77" equipo="Ala" jugador="Magno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/02/2001" jornada="21">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="7" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Abelardo"/>
+      <gol minuto="66" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="5" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="21" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="33" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="26" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="44" equipo="Bar" jugador="Cocu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Gabri"/>
+      <gol minuto="3" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/02/2001" jornada="23">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="5" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="76" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="89" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="43" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="13" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="88" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="52" equipo="Esp" jugador="Posse"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="14" equipo="Bar" jugador="Gabri"/>
+      <gol minuto="71" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="7" equipo="Las" jugador="Guayre"/>
+      <gol minuto="74" equipo="Bar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/2000" jornada="1">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="35" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="75" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Bar</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Sergi"/>
+      <gol minuto="66" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ovi" jugador="Jaime"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/2000" jornada="3">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="93" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="32" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="57" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="62" equipo="Rac" jugador="Espina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="6" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="68" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="51" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="17" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="89" equipo="Bar" jugador="Petit"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="61" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="78" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/10/2000" jornada="6">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="79" equipo="Bar" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="45" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="88" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="25" equipo="Val" jugador="Baraja"/>
+      <gol minuto="46" equipo="Val" jugador="Baraja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/01/2001" jornada="18">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bar" jugador="Guardiola"/>
+      <gol minuto="89" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="52" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="54" equipo="Vall" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="1" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="58" equipo="Vil" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/2001" jornada="30">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Overmars"/>
+      <gol minuto="92" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="77" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="80" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="74" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="44" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="8" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="79" equipo="Zar" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/2000" jornada="5">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Cel" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Cel" jugador="Vágner"/>
+      <gol minuto="44" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="87" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/12/2000" jornada="13">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="13" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="26" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="17" equipo="Bar" jugador="Frank de Boer"/>
+      <gol minuto="50" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="62" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/04/2001" jornada="31">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cel" jugador="Djorović"/>
+      <gol minuto="69" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="54" equipo="Dep" jugador="Valerón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/2000" jornada="3">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Las" jugador="Oulare"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/2000" jornada="9">
+    <local>Cel</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/2000" jornada="15">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Cel" jugador="Djorović"/>
+      <gol minuto="13" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="89" equipo="Mal" jugador="Olaizola"/>
+      <gol minuto="23" equipo="Mal" jugador="Ibagaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Cel</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Num" jugador="Roșu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Juanfran"/>
+      <gol minuto="28" equipo="Ray" jugador="Ballesteros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/2000" jornada="2">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="37" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="35" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="84" equipo="Cel" jugador="Jesuli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/2001" jornada="33">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cel" jugador="Juanfran"/>
+      <gol minuto="25" equipo="Cel" jugador="Gustavo López"/>
+      <gol minuto="90" equipo="Cel" jugador="Jesuli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="31" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/2000" jornada="7">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="78" equipo="Cel" jugador="Edú"/>
+      <gol minuto="89" equipo="Vall" jugador="Ćirić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="24" equipo="Zar" jugador="Vellisca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 11/05/2001" jornada="34">
+    <local>Dep</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/09/2000" jornada="1">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Donato"/>
+      <gol minuto="76" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Djalminha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="19" equipo="Dep" jugador="Fran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 31/10/2000" jornada="8">
+    <local>Dep</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="47" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="60" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="80" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="48" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="79" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="58" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/10/2000" jornada="6">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Dep" jugador="Valerón"/>
+      <gol minuto="85" equipo="Mal" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/03/2001" jornada="26">
+    <local>Dep</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="59" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="57" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="89" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="62" equipo="Num" jugador="Jaume"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/2001" jornada="30">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="24" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="86" equipo="Dep" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="73" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="52" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="33" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="31" equipo="Rac" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="71" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/2001" jornada="22">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Dep" jugador="Donato"/>
+      <gol minuto="4" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="41" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="62" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="67" equipo="Rea" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/02/2001" jornada="24">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/01/2001" jornada="18">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="87" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Dep</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Makaay"/>
+      <gol minuto="44" equipo="Vall" jugador="Kaviedes"/>
+      <gol minuto="63" equipo="Vall" jugador="Fernando Sales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/2001" jornada="28">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="41" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="84" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="89" equipo="Vil" jugador="Gracia"/>
+      <gol minuto="88" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/11/2000" jornada="10">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="57" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Esp" jugador="Pochettino"/>
+      <gol minuto="88" equipo="Esp" jugador="Sergio"/>
+      <gol minuto="65" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/2001" jornada="33">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 10/02/2001" jornada="22">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/12/2000" jornada="13">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Dep" jugador="Fernando"/>
+      <gol minuto="54" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="38" equipo="Esp" jugador="Posse"/>
+      <gol minuto="31" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="29" equipo="Las" jugador="Schürrer"/>
+      <gol minuto="85" equipo="Las" jugador="Orlando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Esp" jugador="Rotchen"/>
+      <gol minuto="74" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mal" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Esp</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/2000" jornada="2">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="86" equipo="Esp" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/2000" jornada="7">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Esp" jugador="Sergio"/>
+      <gol minuto="58" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Roger"/>
+      <gol minuto="72" equipo="Esp" jugador="Roger"/>
+      <gol minuto="60" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/2000" jornada="5">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/2000" jornada="15">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Esp" jugador="Pochettino"/>
+      <gol minuto="12" equipo="Rel" jugador="Figo"/>
+      <gol minuto="4" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/2000" jornada="9">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Posse"/>
+      <gol minuto="58" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="87" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/2001" jornada="20">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Roger"/>
+      <gol minuto="20" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="64" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="15" equipo="Esp" jugador="Sergio"/>
+      <gol minuto="85" equipo="Esp" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/2000" jornada="1">
+    <local>Las</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ala" jugador="Geli"/>
+      <gol minuto="60" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="65" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 04/11/2000" jornada="9">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/05/2001" jornada="36">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/03/2001" jornada="27">
+    <local>Las</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Las" jugador="Álvaro"/>
+      <gol minuto="4" equipo="Las" jugador="Josico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Las" jugador="Eloy Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/2000" jornada="5">
+    <local>Las</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Las" jugador="Oulare"/>
+      <gol minuto="61" equipo="Mál" jugador="Valcarce"/>
+      <gol minuto="83" equipo="Las" jugador="Orlando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/2000" jornada="11">
+    <local>Las</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Las" jugador="Orlando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Las</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Num" jugador="Roșu"/>
+      <gol minuto="58" equipo="Las" jugador="Eloy Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Las</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Las" jugador="Paqui"/>
+      <gol minuto="23" equipo="Las" jugador="Guayre"/>
+      <gol minuto="84" equipo="Osa" jugador="Cruchaga"/>
+      <gol minuto="82" equipo="Las" jugador="Pablo Lago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Las</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Las" jugador="Oulare"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/2000" jornada="7">
+    <local>Las</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 16/06/2001" jornada="38">
+    <local>Las</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Las" jugador="Orlando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Las" jugador="Álvaro"/>
+      <gol minuto="63" equipo="Rea" jugador="De Pedro"/>
+      <gol minuto="81" equipo="Las" jugador="Turdó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/02/2001" jornada="23">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="87" equipo="Val" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/2000" jornada="3">
+    <local>Las</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Las" jugador="Eloy Jiménez"/>
+      <gol minuto="44" equipo="Vall" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/12/2000" jornada="14">
+    <local>Las</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="4" rojas="2"/>
+    <goleadores>
+      <gol minuto="58" equipo="Las" jugador="Guayre"/>
+      <gol minuto="42" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="48" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="33" equipo="Vil" jugador="Marioni"/>
+      <gol minuto="68" equipo="Vil" jugador="Marioni"/>
+      <gol minuto="89" equipo="Vil" jugador="Gracia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="65" equipo="Las" jugador="Orlando"/>
+      <gol minuto="72" equipo="Las" jugador="Orlando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Mál</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="82" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="14" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="87" equipo="Ala" jugador="Ibon Begoña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/01/2001" jornada="17">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="39" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="47" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/2001" jornada="20">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 31/03/2001" jornada="28">
+    <local>Mál</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="14" equipo="Cel" jugador="Edú"/>
+      <gol minuto="60" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="67" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="84" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="89" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="32" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Mál</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mál" jugador="Txomin Larrainzar"/>
+      <gol minuto="71" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="15" equipo="Las" jugador="Jarni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/2001" jornada="22">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Mál</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mál" jugador="Canabal"/>
+      <gol minuto="8" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="27" equipo="Num" jugador="Ojeda"/>
+      <gol minuto="89" equipo="Num" jugador="José Manuel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Mál" jugador="Zárate"/>
+      <gol minuto="37" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="89" equipo="Mál" jugador="Edgar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Mál</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="24" equipo="Ovi" jugador="Juan González"/>
+      <gol minuto="85" equipo="Ovi" jugador="Paunović"/>
+      <gol minuto="78" equipo="Mál" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Mál</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mál" jugador="Musampa"/>
+      <gol minuto="63" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="73" equipo="Rac" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Mál</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="20" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Mál" jugador="Agostinho"/>
+      <gol minuto="27" equipo="Mál" jugador="Txomin Larrainzar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/2000" jornada="2">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mál" jugador="Agostinho"/>
+      <gol minuto="57" equipo="Mál" jugador="Movilla"/>
+      <gol minuto="33" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="59" equipo="Rel" jugador="Celades"/>
+      <gol minuto="17" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="81" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="38" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Mál</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="1" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="48" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="88" equipo="Vall" jugador="Fernando Sales"/>
+      <gol minuto="79" equipo="Mál" jugador="Musampa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Mál</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="30" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Mál</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="21" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="80" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="27" equipo="Mal" jugador="Marcos"/>
+      <gol minuto="60" equipo="Ala" jugador="Tomić"/>
+      <gol minuto="86" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="89" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="82" equipo="Mal" jugador="Álvaro Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/2000" jornada="7">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="10" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mal" jugador="Finidi"/>
+      <gol minuto="89" equipo="Mal" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/2001" jornada="25">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="2" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="78" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mal" jugador="Niño"/>
+      <gol minuto="19" equipo="Mal" jugador="Marcos"/>
+      <gol minuto="35" equipo="Esp" jugador="Posse"/>
+      <gol minuto="12" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="83" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Mal</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Mal" jugador="Siviero"/>
+      <gol minuto="44" equipo="Las" jugador="Guayre"/>
+      <gol minuto="91" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/2000" jornada="3">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Mal</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mal" jugador="Luque"/>
+      <gol minuto="38" equipo="Mal" jugador="Finidi"/>
+      <gol minuto="68" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="25" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Mal</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="58" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="77" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="59" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="89" equipo="Mal" jugador="Álvaro Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/2000" jornada="5">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mal" jugador="Luque"/>
+      <gol minuto="44" equipo="Rac" jugador="Rushfeldt"/>
+      <gol minuto="86" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Mal" jugador="Finidi"/>
+      <gol minuto="1" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="37" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="89" equipo="Mal" jugador="Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="68" equipo="Rea" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Mal" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Luque"/>
+      <gol minuto="17" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="75" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="70" equipo="Val" jugador="Baraja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/2000" jornada="1">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="71" equipo="Vall" jugador="Turiel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/11/2000" jornada="12">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Mal" jugador="Marcos"/>
+      <gol minuto="9" equipo="Vil" jugador="Marioni"/>
+      <gol minuto="64" equipo="Mal" jugador="Álvaro Novo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Mal" jugador="Luque"/>
+      <gol minuto="39" equipo="Mal" jugador="Luque"/>
+      <gol minuto="89" equipo="Zar" jugador="Jamelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/06/2001" jornada="38">
+    <local>Num</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Num" jugador="Jaume"/>
+      <gol minuto="77" equipo="Ala" jugador="Javi Moreno"/>
+      <gol minuto="78" equipo="Num" jugador="Iván Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/2000" jornada="5">
+    <local>Num</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Num</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="31" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Num</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Num" jugador="Caco Morán"/>
+      <gol minuto="57" equipo="Num" jugador="José Manuel"/>
+      <gol minuto="28" equipo="Cel" jugador="Doriva"/>
+      <gol minuto="48" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/2000" jornada="7">
+    <local>Num</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Dep" jugador="Donato"/>
+      <gol minuto="29" equipo="Dep" jugador="Fernando"/>
+      <gol minuto="62" equipo="Num" jugador="Rubén Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Num</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Num" jugador="Roșu"/>
+      <gol minuto="3" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Num</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Las" jugador="Jorge Larena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Num</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Num" jugador="Iván Pérez"/>
+      <gol minuto="50" equipo="Mál" jugador="Zárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Num</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Carreras"/>
+      <gol minuto="65" equipo="Mal" jugador="Ibagaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Num</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Num" jugador="Ojeda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/2000" jornada="1">
+    <local>Num</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Num" jugador="Delgado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Num</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Num</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ray" jugador="Poschner"/>
+      <gol minuto="80" equipo="Ray" jugador="Luis Cembranos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Num</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Num" jugador="Pacheta"/>
+      <gol minuto="22" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="18" equipo="Rea" jugador="De Pedro"/>
+      <gol minuto="59" equipo="Rea" jugador="Khokhlov"/>
+      <gol minuto="63" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="78" equipo="Num" jugador="Roșu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/2000" jornada="9">
+    <local>Num</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Num" jugador="Roșu"/>
+      <gol minuto="14" equipo="Num" jugador="Roșu"/>
+      <gol minuto="63" equipo="Num" jugador="Roșu"/>
+      <gol minuto="13" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/2000" jornada="3">
+    <local>Num</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Vicente"/>
+      <gol minuto="75" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="83" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Num</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Num</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="78" equipo="Num" jugador="Nagore"/>
+      <gol minuto="75" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="48" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="85" equipo="Vil" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/12/2000" jornada="14">
+    <local>Num</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Num" jugador="Rubén Navarro"/>
+      <gol minuto="44" equipo="Zar" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Osa</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Ala" jugador="Magno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/2000" jornada="9">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Osa" jugador="Armentano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Osa" jugador="Àlex Fernández"/>
+      <gol minuto="17" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="84" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="19" equipo="Bar" jugador="Overmars"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/2000" jornada="1">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="84" equipo="Cel" jugador="Manolo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/2000" jornada="11">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Osa" jugador="Cruchaga"/>
+      <gol minuto="1" equipo="Dep" jugador="Scaloni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="Mateo"/>
+      <gol minuto="32" equipo="Esp" jugador="Toni Velamazán"/>
+      <gol minuto="39" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Osa</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Osa" jugador="Gerardo"/>
+      <gol minuto="3" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="15" equipo="Las" jugador="Guayre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Osa" jugador="Gancedo"/>
+      <gol minuto="34" equipo="Osa" jugador="Àlex Fernández"/>
+      <gol minuto="75" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="21" equipo="Mál" jugador="Rufete"/>
+      <gol minuto="32" equipo="Mál" jugador="Dely Valdés"/>
+      <gol minuto="89" equipo="Mál" jugador="Zárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="Armentano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/2000" jornada="15">
+    <local>Osa</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Osa" jugador="Armentano"/>
+      <gol minuto="89" equipo="Osa" jugador="Sabino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/2000" jornada="5">
+    <local>Osa</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Osa" jugador="Gancedo"/>
+      <gol minuto="29" equipo="Rac" jugador="Mazzoni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/2000" jornada="3">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Osa" jugador="Sabino"/>
+      <gol minuto="34" equipo="Ray" jugador="Quevedo"/>
+      <gol minuto="77" equipo="Osa" jugador="Armentano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 02/12/2000" jornada="13">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Osa" jugador="Arpón"/>
+      <gol minuto="89" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="38" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="57" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/2000" jornada="7">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Osa" jugador="Mateo"/>
+      <gol minuto="85" equipo="Val" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="63" equipo="Osa" jugador="Iván Rosado"/>
+      <gol minuto="89" equipo="Vall" jugador="García Calvo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Osa" jugador="Armentano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Osa" jugador="Jusué"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Ovi</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ovi" jugador="Onopko"/>
+      <gol minuto="36" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="74" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="26" equipo="Ala" jugador="Iván Alonso"/>
+      <gol minuto="52" equipo="Ala" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ovi" jugador="Danjou"/>
+      <gol minuto="11" equipo="Ovi" jugador="Paunović"/>
+      <gol minuto="54" equipo="Ovi" jugador="Paunović"/>
+      <gol minuto="21" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="49" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ovi" jugador="Onopko"/>
+      <gol minuto="67" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="13" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="8" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="56" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="89" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="14" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="70" equipo="Cel" jugador="Giovanella"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ovi" jugador="Jaime"/>
+      <gol minuto="70" equipo="Ovi" jugador="Paunović"/>
+      <gol minuto="16" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="21" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="58" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ovi" jugador="Tomić"/>
+      <gol minuto="20" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="49" equipo="Esp" jugador="Sergio"/>
+      <gol minuto="64" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/2000" jornada="2">
+    <local>Ovi</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Danjou"/>
+      <gol minuto="61" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="70" equipo="Las" jugador="Pablo Lago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/2000" jornada="13">
+    <local>Ovi</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ovi" jugador="Onopko"/>
+      <gol minuto="89" equipo="Ovi" jugador="Tomić"/>
+      <gol minuto="9" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="30" equipo="Mál" jugador="Bravo"/>
+      <gol minuto="3" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Ovi</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Mal" jugador="Eto'o"/>
+      <gol minuto="81" equipo="Ovi" jugador="Møller"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Ovi</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="37" equipo="Ovi" jugador="Geni"/>
+      <gol minuto="80" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Ovi</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="53" equipo="Osa" jugador="Àlex Fernández"/>
+      <gol minuto="71" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/2000" jornada="15">
+    <local>Ovi</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ovi" jugador="Tomić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Ovi</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ovi" jugador="Tomić"/>
+      <gol minuto="63" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="44" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="30" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ovi" jugador="Jaime"/>
+      <gol minuto="27" equipo="Rel" jugador="Solari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Ovi</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ovi" jugador="Rubén Reyes"/>
+      <gol minuto="39" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="75" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="89" equipo="Ovi" jugador="Møller"/>
+      <gol minuto="86" equipo="Vall" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/2001" jornada="22">
+    <local>Ovi</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Vil" jugador="Unai"/>
+      <gol minuto="70" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="59" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="16" equipo="Ovi" jugador="Losada"/>
+      <gol minuto="82" equipo="Zar" jugador="Pablo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Rac</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rac" jugador="Tais"/>
+      <gol minuto="89" equipo="Rac" jugador="Amavisca"/>
+      <gol minuto="69" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/06/2001" jornada="38">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="65" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/2001" jornada="22">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rac" jugador="Ramis"/>
+      <gol minuto="52" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="35" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="75" equipo="Rac" jugador="Mazzoni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Amavisca"/>
+      <gol minuto="16" equipo="Rac" jugador="Espina"/>
+      <gol minuto="42" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/2000" jornada="2">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Dep" jugador="Manuel Pablo"/>
+      <gol minuto="83" equipo="Dep" jugador="Fran"/>
+      <gol minuto="34" equipo="Dep" jugador="Valerón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="74" equipo="Rac" jugador="Rushfeldt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Rac</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rac" jugador="Colsa"/>
+      <gol minuto="58" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="89" equipo="Las" jugador="Álvaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Rac</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mál" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Colsa"/>
+      <gol minuto="17" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="40" equipo="Mal" jugador="Marcos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Rac</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rac" jugador="Preciado"/>
+      <gol minuto="37" equipo="Rac" jugador="Preciado"/>
+      <gol minuto="12" equipo="Num" jugador="Ojeda"/>
+      <gol minuto="78" equipo="Num" jugador="José Manuel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Rac</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rac" jugador="Magallanes"/>
+      <gol minuto="89" equipo="Rac" jugador="Magallanes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/04/2001" jornada="32">
+    <local>Rac</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="18" equipo="Ray" jugador="Bolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="38" equipo="Rea" jugador="Júlio César"/>
+      <gol minuto="77" equipo="Rea" jugador="Khokhlov"/>
+      <gol minuto="35" equipo="Rea" jugador="Llorente"/>
+      <gol minuto="88" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/09/2000" jornada="4">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="89" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rac" jugador="Amavisca"/>
+      <gol minuto="39" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="20" equipo="Vall" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rac" jugador="Jaime"/>
+      <gol minuto="41" equipo="Rac" jugador="Preciado"/>
+      <gol minuto="52" equipo="Vil" jugador="Cagna"/>
+      <gol minuto="80" equipo="Rac" jugador="Ismael"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="34" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="88" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/2000" jornada="7">
+    <local>Ray</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Ath" jugador="Tiko"/>
+      <gol minuto="21" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/2000" jornada="15">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ray" jugador="Bolić"/>
+      <gol minuto="66" equipo="Bar" jugador="Frank de Boer"/>
+      <gol minuto="8" equipo="Bar" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ray" jugador="De Quintana"/>
+      <gol minuto="89" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="86" equipo="Ray" jugador="Mauro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="70" equipo="Dep" jugador="Valerón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="23" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Ray</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="28" equipo="Las" jugador="Pablo Lago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Ray</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ray" jugador="Bolo"/>
+      <gol minuto="58" equipo="Ray" jugador="Bolić"/>
+      <gol minuto="24" equipo="Mál" jugador="Zárate"/>
+      <gol minuto="84" equipo="Ray" jugador="Bartelt"/>
+      <gol minuto="89" equipo="Mál" jugador="Agostinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ray" jugador="De Quintana"/>
+      <gol minuto="42" equipo="Ray" jugador="Quevedo"/>
+      <gol minuto="4" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="62" equipo="Mal" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Ray</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="83" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="24" equipo="Num" jugador="Roșu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/2001" jornada="22">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ray" jugador="Quevedo"/>
+      <gol minuto="64" equipo="Osa" jugador="Alfonso Vera"/>
+      <gol minuto="91" equipo="Ray" jugador="Luis Cembranos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Ray</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ovi" jugador="Danjou"/>
+      <gol minuto="65" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/12/2000" jornada="13">
+    <local>Ray</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="53" equipo="Ray" jugador="Bolić"/>
+      <gol minuto="7" equipo="Rac" jugador="Jaime"/>
+      <gol minuto="80" equipo="Ray" jugador="Mauro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="65" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="72" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="20" equipo="Ray" jugador="Glaucio"/>
+      <gol minuto="24" equipo="Rea" jugador="Jáuregi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/04/2001" jornada="29">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Ayala"/>
+      <gol minuto="49" equipo="Val" jugador="Kily González"/>
+      <gol minuto="84" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="76" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="72" equipo="Val" jugador="Vicente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/2000" jornada="9">
+    <local>Ray</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ray" jugador="Setvalls"/>
+      <gol minuto="66" equipo="Vall" jugador="Heinze"/>
+      <gol minuto="85" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Ray</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/2000" jornada="2">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="80" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/2000" jornada="5">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="6"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="40" equipo="Bar" jugador="Simão"/>
+      <gol minuto="2" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="16" equipo="Bar" jugador="Alfonso"/>
+      <gol minuto="19" equipo="Bar" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Khokhlov"/>
+      <gol minuto="89" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/2000" jornada="3">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="57" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Toledo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/2000" jornada="13">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Las" jugador="Guayre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Khokhlov"/>
+      <gol minuto="89" equipo="Rea" jugador="Tayfun"/>
+      <gol minuto="35" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="4" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/2000" jornada="9">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mal" jugador="Nadal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Rea</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="18" equipo="Rea" jugador="Idiakez"/>
+      <gol minuto="31" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="83" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="56" equipo="Num" jugador="Ojeda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Tayfun"/>
+      <gol minuto="55" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="84" equipo="Rea" jugador="Jankauskas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/2000" jornada="1">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Idiakez"/>
+      <gol minuto="89" equipo="Rac" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/2001" jornada="25">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Llorente"/>
+      <gol minuto="72" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/2000" jornada="7">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="13" equipo="Rel" jugador="Guti"/>
+      <gol minuto="61" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="46" equipo="Rel" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/2001" jornada="33">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="66" equipo="Val" jugador="Zahovič"/>
+      <gol minuto="83" equipo="Val" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Gabilondo"/>
+      <gol minuto="34" equipo="Rea" jugador="Gabilondo"/>
+      <gol minuto="62" equipo="Rea" jugador="Tayfun"/>
+      <gol minuto="89" equipo="Vall" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/2000" jornada="15">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Vil" jugador="Unai"/>
+      <gol minuto="89" equipo="Vil" jugador="Jorge López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Jankauskas"/>
+      <gol minuto="82" equipo="Zar" jugador="Acuña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/05/2001" jornada="36">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="23" equipo="Rel" jugador="Guti"/>
+      <gol minuto="67" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="22" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="82" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/2000" jornada="3">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="17" equipo="Rel" jugador="Guti"/>
+      <gol minuto="47" equipo="Rel" jugador="Guti"/>
+      <gol minuto="64" equipo="Rel" jugador="Munitis"/>
+      <gol minuto="92" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/2001" jornada="25">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="36" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="35" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="69" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/2000" jornada="14">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="11" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="34" equipo="Rel" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/10/2000" jornada="5">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rel" jugador="Guti"/>
+      <gol minuto="18" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/2001" jornada="34">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="24" equipo="Rel" jugador="Figo"/>
+      <gol minuto="48" equipo="Esp" jugador="Rotchen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="14" equipo="Rel" jugador="Guti"/>
+      <gol minuto="87" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="75" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="34" equipo="Las" jugador="Guayre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rel" jugador="Guti"/>
+      <gol minuto="75" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="39" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="42" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="24" equipo="Mál" jugador="Roteta"/>
+      <gol minuto="73" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="29" equipo="Mál" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="91" equipo="Mal" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/2001" jornada="28">
+    <local>Rel</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rel" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/2001" jornada="32">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="36" equipo="Osa" jugador="Àlex Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rel" jugador="Figo"/>
+      <gol minuto="55" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="86" equipo="Rel" jugador="McManaman"/>
+      <gol minuto="69" equipo="Rel" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/02/2001" jornada="23">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 19/12/2000" jornada="16">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rel" jugador="Iván Helguera"/>
+      <gol minuto="73" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="8" equipo="Rel" jugador="Figo"/>
+      <gol minuto="64" equipo="Ray" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rel" jugador="McManaman"/>
+      <gol minuto="82" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="13" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="35" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/2000" jornada="1">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="85" equipo="Rel" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="85" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="77" equipo="Vall" jugador="Kaviedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/2001" jornada="30">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="20" equipo="Rel" jugador="Guti"/>
+      <gol minuto="49" equipo="Rel" jugador="Guti"/>
+      <gol minuto="58" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/01/2001" jornada="12">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rel" jugador="Míchel Salgado"/>
+      <gol minuto="76" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="56" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/04/2001" jornada="30">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Vicente"/>
+      <gol minuto="73" equipo="Ala" jugador="Eggen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/05/2001" jornada="35">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/01/2001" jornada="19">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Frank de Boer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Dep" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/2001" jornada="28">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Val" jugador="Zahovič"/>
+      <gol minuto="22" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="58" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="62" equipo="Val" jugador="Carew"/>
+      <gol minuto="89" equipo="Val" jugador="Vicente"/>
+      <gol minuto="81" equipo="Las" jugador="Guðjónsson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/2000" jornada="15">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Val" jugador="Baraja"/>
+      <gol minuto="41" equipo="Val" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/2000" jornada="2">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Val" jugador="Vicente"/>
+      <gol minuto="49" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="68" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/2001" jornada="22">
+    <local>Val</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="80" equipo="Val" jugador="Diego Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/03/2001" jornada="26">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Val" jugador="Kily González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Kily González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Carew"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="52" equipo="Ray" jugador="Míchel"/>
+      <gol minuto="23" equipo="Ray" jugador="Bolić"/>
+      <gol minuto="89" equipo="Val" jugador="Diego Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/12/2000" jornada="14">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Val" jugador="Carew"/>
+      <gol minuto="87" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/2001" jornada="32">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Val" jugador="Carew"/>
+      <gol minuto="47" equipo="Val" jugador="Carew"/>
+      <gol minuto="82" equipo="Val" jugador="Carew"/>
+      <gol minuto="35" equipo="Vil" jugador="Quique Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/10/2000" jornada="6">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/2000" jornada="10">
+    <local>Vall</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vall" jugador="Ćirić"/>
+      <gol minuto="49" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="55" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/2000" jornada="15">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 10/06/2001" jornada="37">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Vall" jugador="Turiel"/>
+      <gol minuto="60" equipo="Vall" jugador="Kaviedes"/>
+      <gol minuto="3" equipo="Bar" jugador="Guardiola"/>
+      <gol minuto="82" equipo="Bar" jugador="Overmars"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/2001" jornada="26">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cel" jugador="Catanha"/>
+      <gol minuto="65" equipo="Cel" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/2001" jornada="17">
+    <local>Vall</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="75" equipo="Vall" jugador="Pachón"/>
+      <gol minuto="89" equipo="Vall" jugador="Pachón"/>
+      <gol minuto="79" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/11/2000" jornada="8">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="5" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/2001" jornada="22">
+    <local>Vall</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vall" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Vall</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 28/01/2001" jornada="20">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vall" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/2000" jornada="2">
+    <local>Vall</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vall" jugador="Kaviedes"/>
+      <gol minuto="88" equipo="Vall" jugador="Kaviedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/2000" jornada="6">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Osa" jugador="Cruchaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/2001" jornada="30">
+    <local>Vall</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Vall" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rac" jugador="Rushfeldt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/2001" jornada="28">
+    <local>Vall</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="56" equipo="Ray" jugador="Ballesteros"/>
+      <gol minuto="34" equipo="Ray" jugador="Iván Iglesias"/>
+      <gol minuto="89" equipo="Ray" jugador="Bolić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/2000" jornada="12">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vall" jugador="García Calvo"/>
+      <gol minuto="4" equipo="Vall" jugador="Jesús Sánchez"/>
+      <gol minuto="89" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/2001" jornada="19">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="44" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="52" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/12/2000" jornada="13">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 01/10/2000" jornada="4">
+    <local>Vall</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/02/2001" jornada="24">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="21" equipo="Vall" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="89" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/2000" jornada="7">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Vil" jugador="Calleja"/>
+      <gol minuto="65" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="11" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="20" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="60" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="38" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="54" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="93" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vil" jugador="Unai"/>
+      <gol minuto="67" equipo="Vil" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/2000" jornada="9">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="83" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="11" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="89" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="68" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/06/2001" jornada="38">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vil" jugador="Gracia"/>
+      <gol minuto="8" equipo="Vil" jugador="Escoda"/>
+      <gol minuto="89" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Vil</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="33" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="50" equipo="Las" jugador="Schürrer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/2001" jornada="25">
+    <local>Vil</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Vil" jugador="Arruabarrena"/>
+      <gol minuto="44" equipo="Mál" jugador="Darío Silva"/>
+      <gol minuto="83" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="31" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="52" equipo="Mal" jugador="Carreras"/>
+      <gol minuto="72" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/2000" jornada="13">
+    <local>Vil</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Escoda"/>
+      <gol minuto="64" equipo="Vil" jugador="Palermo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/2000" jornada="3">
+    <local>Vil</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vil" jugador="Arruabarrena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vil" jugador="Cagna"/>
+      <gol minuto="36" equipo="Vil" jugador="Jorge López"/>
+      <gol minuto="52" equipo="Vil" jugador="Palermo"/>
+      <gol minuto="88" equipo="Rac" jugador="Mazzoni"/>
+      <gol minuto="73" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="75" equipo="Rac" jugador="Magallanes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/2000" jornada="1">
+    <local>Vil</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="23" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="56" equipo="Ray" jugador="Luis Cembranos"/>
+      <gol minuto="28" equipo="Ray" jugador="Quevedo"/>
+      <gol minuto="87" equipo="Ray" jugador="Hélder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/05/2001" jornada="34">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Vil" jugador="Víctor"/>
+      <gol minuto="24" equipo="Rea" jugador="López Rekarte"/>
+      <gol minuto="51" equipo="Rea" jugador="Tayfun"/>
+      <gol minuto="55" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/11/2000" jornada="11">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/10/2000" jornada="5">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="64" equipo="Vil" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Vil</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Vil" jugador="Jaime Ramos"/>
+      <gol minuto="89" equipo="Vall" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/12/2000" jornada="16">
+    <local>Vil</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vil" jugador="Quique Álvarez"/>
+      <gol minuto="87" equipo="Zar" jugador="José Ignacio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/2000" jornada="3">
+    <local>Zar</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="57" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="39" equipo="Ala" jugador="Desio"/>
+      <gol minuto="21" equipo="Ala" jugador="Javi Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/2001" jornada="27">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="28" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="19" equipo="Ath" jugador="Tiko"/>
+      <gol minuto="72" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/2000" jornada="11">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Zar" jugador="Lanna"/>
+      <gol minuto="57" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="50" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="89" equipo="Bar" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/06/2001" jornada="38">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="52" equipo="Cel" jugador="Catanha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/2001" jornada="29">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="81" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="86" equipo="Dep" jugador="Naybet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/2000" jornada="1">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="93" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/12/2000" jornada="15">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="73" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="80" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/10/2000" jornada="7">
+    <local>Zar</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Montenegro"/>
+      <gol minuto="49" equipo="Mál" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/2000" jornada="13">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="48" equipo="Mal" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/2001" jornada="33">
+    <local>Zar</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="10" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="24" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="75" equipo="Num" jugador="José Manuel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/01/2001" jornada="18">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Zar" jugador="César Jiménez"/>
+      <gol minuto="16" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="24" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="30" equipo="Osa" jugador="Alfredo"/>
+      <gol minuto="35" equipo="Osa" jugador="Iván Rosado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/02/2001" jornada="23">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Zar" jugador="Vellisca"/>
+      <gol minuto="6" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="61" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="44" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="32" equipo="Ovi" jugador="Danjou"/>
+      <gol minuto="69" equipo="Ovi" jugador="Jaime"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/2000" jornada="9">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Zar" jugador="Montenegro"/>
+      <gol minuto="57" equipo="Zar" jugador="Jamelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/2001" jornada="21">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="65" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="22" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="46" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="32" equipo="Zar" jugador="Esnáider"/>
+      <gol minuto="51" equipo="Zar" jugador="Lanna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/05/2001" jornada="36">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Zar" jugador="Sündgren"/>
+      <gol minuto="31" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/2001" jornada="31">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="26" equipo="Zar" jugador="Juanele"/>
+      <gol minuto="66" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="15" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="32" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/2001" jornada="25">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/10/2000" jornada="5">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/05/2001" jornada="35">
+    <local>Zar</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+</liga>

@@ -1,0 +1,3796 @@
+<?xml version="1.0" ?>
+<liga temporada="2018-19">
+  <partido fecha="Lunes 17/12/2018" jornada="16">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/03/2019" jornada="29">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="83" equipo="Atl" jugador="Thomas"/>
+      <gol minuto="58" equipo="Atl" jugador="Morata"/>
+      <gol minuto="11" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/04/2019" jornada="34">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bar" jugador="Aleñá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2018" jornada="2">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 23/02/2019" jornada="25">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/03/2019" jornada="27">
+    <local>Ala</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ala" jugador="Inui"/>
+      <gol minuto="71" equipo="Eib" jugador="Cardona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2018" jornada="3">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ala" jugador="Sobrino"/>
+      <gol minuto="56" equipo="Ala" jugador="Borja Bastón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/09/2018" jornada="6">
+    <local>Ala</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Ala" jugador="Calleri"/>
+      <gol minuto="80" equipo="Get" jugador="Amath"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Ala</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ala" jugador="Wakaso"/>
+      <gol minuto="82" equipo="Ala" jugador="Calleri"/>
+      <gol minuto="85" equipo="Gir" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2018" jornada="12">
+    <local>Ala</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ala" jugador="Jony"/>
+      <gol minuto="35" equipo="Hue" jugador="Moi Gómez"/>
+      <gol minuto="68" equipo="Ala" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Ala</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Leg" jugador="Jonathan Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 11/02/2019" jornada="23">
+    <local>Ala</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ala" jugador="Laguardia"/>
+      <gol minuto="93" equipo="Ala" jugador="Jony"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/01/2019" jornada="21">
+    <local>Ala</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2019" jornada="36">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 06/10/2018" jornada="8">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="95" equipo="Ala" jugador="Manu García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2018" jornada="14">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ala" jugador="Jony"/>
+      <gol minuto="77" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2019" jornada="18">
+    <local>Ala</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ala" jugador="Pina"/>
+      <gol minuto="21" equipo="Ala" jugador="Borja Bastón"/>
+      <gol minuto="13" equipo="Vae" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/04/2019 (21:00)" jornada="33">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ala" jugador="Jony"/>
+      <gol minuto="4" equipo="Ala" jugador="Guidetti"/>
+      <gol minuto="38" equipo="Val" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2018" jornada="10">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ala" jugador="Calleri"/>
+      <gol minuto="10" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="94" equipo="Ala" jugador="Borja Bastón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2019" jornada="35">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ath" jugador="Beñat"/>
+      <gol minuto="45" equipo="Ala" jugador="Borja Bastón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2019" jornada="28">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Williams"/>
+      <gol minuto="84" equipo="Ath" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2019" jornada="23">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 27/01/2019" jornada="21">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="40" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2019" jornada="25">
+    <local>Ath</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 08/03/2019" jornada="27">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="9" equipo="Esp" jugador="Ferreyra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2018" jornada="13">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Get" jugador="Mata"/>
+      <gol minuto="67" equipo="Ath" jugador="Nolaskoain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/12/2018" jornada="15">
+    <local>Ath</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 27/08/2018" jornada="2">
+    <local>Ath</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Yuri"/>
+      <gol minuto="47" equipo="Ath" jugador="Susaeta"/>
+      <gol minuto="71" equipo="Hue" jugador="Miramón"/>
+      <gol minuto="87" equipo="Hue" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/08/2018" jornada="1">
+    <local>Ath</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Nolaskoain"/>
+      <gol minuto="93" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="32" equipo="Leg" jugador="Jonathan Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/04/2019" jornada="30">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ath" jugador="Yuri"/>
+      <gol minuto="27" equipo="Ath" jugador="Williams"/>
+      <gol minuto="89" equipo="Lev" jugador="Cabaco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2019" jornada="32">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="2" equipo="Ath" jugador="Williams"/>
+      <gol minuto="50" equipo="Ath" jugador="Williams"/>
+      <gol minuto="44" equipo="Ray" jugador="Àlex Moreno"/>
+      <gol minuto="85" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 05/10/2018" jornada="8">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="47" equipo="Rea" jugador="Sangalli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2018" jornada="4">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="63" equipo="Rel" jugador="Isco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2019" jornada="19">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Williams"/>
+      <gol minuto="85" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2018" jornada="10">
+    <local>Ath</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/12/2018" jornada="17">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Val" jugador="Óscar Plano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2018" jornada="6">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Vil" jugador="Funes Mori"/>
+      <gol minuto="65" equipo="Vil" jugador="Fornals"/>
+      <gol minuto="88" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2018" jornada="15">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Atl" jugador="Rodri"/>
+      <gol minuto="82" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="25" equipo="Atl" jugador="Kalinić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2018" jornada="12">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Atl" jugador="Godín"/>
+      <gol minuto="80" equipo="Atl" jugador="Rodri"/>
+      <gol minuto="61" equipo="Atl" jugador="Thomas"/>
+      <gol minuto="36" equipo="Ath" jugador="Williams"/>
+      <gol minuto="63" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2018" jornada="13">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Diego Costa"/>
+      <gol minuto="90" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2018" jornada="8">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2019" jornada="32">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="74" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2018" jornada="4">
+    <local>Atl</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Atl" jugador="Garcés"/>
+      <gol minuto="86" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2018" jornada="17">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/01/2019" jornada="21">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="37" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="26" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/04/2019" jornada="30">
+    <local>Atl</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Atl" jugador="Godín"/>
+      <gol minuto="94" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/09/2018" jornada="6">
+    <local>Atl</local>
+    <visitante>Hue</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Atl" jugador="Koke"/>
+      <gol minuto="29" equipo="Atl" jugador="Thomas"/>
+      <gol minuto="16" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2019" jornada="27">
+    <local>Atl</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2019" jornada="19">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/08/2018" jornada="2">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2018" jornada="10">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Godín"/>
+      <gol minuto="60" equipo="Atl" jugador="Filipe Luís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2019" jornada="23">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="15" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="74" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Koke"/>
+      <gol minuto="69" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/04/2019" jornada="34">
+    <local>Atl</local>
+    <visitante>Vae</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="8" equipo="Atl" jugador="Morata"/>
+      <gol minuto="35" equipo="Vae" jugador="Gameiro"/>
+      <gol minuto="80" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2019" jornada="35">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/02/2019" jornada="25">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="30" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2018" jornada="1">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bar" jugador="Messi"/>
+      <gol minuto="92" equipo="Bar" jugador="Messi"/>
+      <gol minuto="84" equipo="Bar" jugador="Coutinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2018" jornada="7">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="83" equipo="Bar" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2019" jornada="31">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+      <gol minuto="85" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2018" jornada="12">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="93" equipo="Bar" jugador="Messi"/>
+      <gol minuto="19" equipo="Bet" jugador="Junior Firpo"/>
+      <gol minuto="70" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="34" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="79" equipo="Bar" jugador="Vidal"/>
+      <gol minuto="82" equipo="Bet" jugador="Canales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2018" jornada="17">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="45" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2019" jornada="19">
+    <local>Bar</local>
+    <visitante>Eib</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Messi"/>
+      <gol minuto="18" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="58" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2019" jornada="29">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Messi"/>
+      <gol minuto="89" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2018" jornada="5">
+    <local>Bar</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="18" equipo="Bar" jugador="Messi"/>
+      <gol minuto="45" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="50" equipo="Gir" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2018" jornada="3">
+    <local>Bar</local>
+    <visitante>Hue</visitante>
+    <resultado local="8" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="51" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="47" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="15" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="40" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="42" equipo="Hue" jugador="Álex Gallar"/>
+      <gol minuto="2" equipo="Hue" jugador="Cucho Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2019" jornada="20">
+    <local>Bar</local>
+    <visitante>Leg</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="72" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="56" equipo="Leg" jugador="Braithwaite"/>
+      <gol minuto="92" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2019" jornada="35">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2019" jornada="27">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="82" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="25" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2019 (20:45)" jornada="33">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bar" jugador="Lenglet"/>
+      <gol minuto="64" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="62" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2018" jornada="10">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bar" jugador="Coutinho"/>
+      <gol minuto="75" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="82" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="50" equipo="Rel" jugador="Marcelo"/>
+      <gol minuto="87" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2018" jornada="9">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="12" equipo="Bar" jugador="Messi"/>
+      <gol minuto="2" equipo="Bar" jugador="Coutinho"/>
+      <gol minuto="78" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="91" equipo="Sev" jugador="Muriel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2019" jornada="22">
+    <local>Bar</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bar" jugador="Messi"/>
+      <gol minuto="23" equipo="Vae" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2019" jornada="24">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/12/2018" jornada="14">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="86" equipo="Bar" jugador="Aleñá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2019" jornada="24">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="28" equipo="Ala" jugador="Maripán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2018" jornada="5">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Bet" jugador="Bartra"/>
+      <gol minuto="68" equipo="Bet" jugador="Canales"/>
+      <gol minuto="17" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="6" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2019" jornada="22">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/03/2019" jornada="28">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Messi"/>
+      <gol minuto="84" equipo="Bar" jugador="Messi"/>
+      <gol minuto="62" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="81" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2018" jornada="11">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bet" jugador="Junior Firpo"/>
+      <gol minuto="87" equipo="Bet" jugador="Canales"/>
+      <gol minuto="32" equipo="Bet" jugador="Loren"/>
+      <gol minuto="69" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="63" equipo="Cel" jugador="Maxi Gómez"/>
+      <gol minuto="84" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2018" jornada="17">
+    <local>Bet</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bet" jugador="Sanabria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/04/2019" jornada="35">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Bet" jugador="Feddal"/>
+      <gol minuto="37" equipo="Esp" jugador="Darder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2019" jornada="26">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Get" jugador="Cabrera"/>
+      <gol minuto="44" equipo="Get" jugador="Mata"/>
+      <gol minuto="75" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2019" jornada="20">
+    <local>Bet</local>
+    <visitante>Gir</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bet" jugador="Loren"/>
+      <gol minuto="12" equipo="Bet" jugador="Tello"/>
+      <gol minuto="35" equipo="Gir" jugador="Aleix García"/>
+      <gol minuto="22" equipo="Gir" jugador="Doumbia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Bet</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="98" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2018" jornada="7">
+    <local>Bet</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/08/2018" jornada="1">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Lev" jugador="Morales"/>
+      <gol minuto="95" equipo="Lev" jugador="Morales"/>
+      <gol minuto="37" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2018" jornada="15">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bet" jugador="Sidnei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2018" jornada="14">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Junior Firpo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2019" jornada="19">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Bet" jugador="Canales"/>
+      <gol minuto="12" equipo="Rel" jugador="Modrić"/>
+      <gol minuto="88" equipo="Rel" jugador="Dani Ceballos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2018" jornada="3">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2019 (20:45)" jornada="33">
+    <local>Bet</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vae" jugador="Guedes"/>
+      <gol minuto="48" equipo="Vae" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2018" jornada="9">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Val" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="64" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="13" equipo="Vil" jugador="Funes Mori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/10/2018" jornada="9">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ala" jugador="Pina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/01/2019" jornada="18">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Williams"/>
+      <gol minuto="19" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2018" jornada="3">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="46" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2019" jornada="36">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2019" jornada="27">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bet" jugador="Jesé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2018" jornada="10">
+    <local>Cel</local>
+    <visitante>Eib</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="5" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="35" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="81" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2018" jornada="1">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Esp" jugador="Hermoso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/10/2018" jornada="7">
+    <local>Cel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Cel" jugador="Maxi Gómez"/>
+      <gol minuto="78" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2019 (13:00)" jornada="33">
+    <local>Cel</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Cel" jugador="Boufal"/>
+      <gol minuto="33" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="48" equipo="Gir" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2018" jornada="14">
+    <local>Cel</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="76" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/12/2018" jornada="16">
+    <local>Cel</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 16/02/2019" jornada="24">
+    <local>Cel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Lev" jugador="Coke"/>
+      <gol minuto="20" equipo="Lev" jugador="Morales"/>
+      <gol minuto="62" equipo="Lev" jugador="Morales"/>
+      <gol minuto="88" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="71" equipo="Ray" jugador="Medrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="90" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2018" jornada="12">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="61" equipo="Cel" jugador="Hugo Mallo"/>
+      <gol minuto="94" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="22" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="91" equipo="Rel" jugador="Dani Ceballos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2019" jornada="22">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Cel" jugador="Okay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2019" jornada="20">
+    <local>Cel</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Araujo"/>
+      <gol minuto="84" equipo="Vae" jugador="Rodrigo"/>
+      <gol minuto="71" equipo="Vae" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2018" jornada="5">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="53" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="8" equipo="Cel" jugador="Maxi Gómez"/>
+      <gol minuto="39" equipo="Val" jugador="Óscar Plano"/>
+      <gol minuto="64" equipo="Val" jugador="Ünal"/>
+      <gol minuto="94" equipo="Val" jugador="Leo Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2019" jornada="29">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="70" equipo="Cel" jugador="Maxi Gómez"/>
+      <gol minuto="15" equipo="Vil" jugador="Pedraza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2018" jornada="11">
+    <local>Eib</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Eib" jugador="Jordán"/>
+      <gol minuto="90" equipo="Eib" jugador="Diop"/>
+      <gol minuto="5" equipo="Ala" jugador="Manu García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2018" jornada="9">
+    <local>Eib</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2019 (16:15)" jornada="33">
+    <local>Eib</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Atl" jugador="Lemar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2019" jornada="38">
+    <local>Eib</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Eib" jugador="Cucurella"/>
+      <gol minuto="45" equipo="Eib" jugador="De Blasis"/>
+      <gol minuto="31" equipo="Bar" jugador="Messi"/>
+      <gol minuto="32" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2019" jornada="36">
+    <local>Eib</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Eib" jugador="Cote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2019" jornada="26">
+    <local>Eib</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 21/01/2019" jornada="20">
+    <local>Eib</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Eib" jugador="De Blasis"/>
+      <gol minuto="24" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="84" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 15/02/2019" jornada="24">
+    <local>Eib</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Eib" jugador="Charles"/>
+      <gol minuto="51" equipo="Get" jugador="Foulquier"/>
+      <gol minuto="36" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2019" jornada="22">
+    <local>Eib</local>
+    <visitante>Gir</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Eib" jugador="Rubén Peña"/>
+      <gol minuto="46" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2018" jornada="1">
+    <local>Eib</local>
+    <visitante>Hue</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Hue" jugador="Álex Gallar"/>
+      <gol minuto="40" equipo="Hue" jugador="Álex Gallar"/>
+      <gol minuto="69" equipo="Eib" jugador="Escalante"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2018" jornada="5">
+    <local>Eib</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2018" jornada="15">
+    <local>Eib</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Eib" jugador="Escalante"/>
+      <gol minuto="65" equipo="Eib" jugador="Charles"/>
+      <gol minuto="8" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="25" equipo="Lev" jugador="Róber Pier"/>
+      <gol minuto="9" equipo="Lev" jugador="Morales"/>
+      <gol minuto="92" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/04/2019" jornada="30">
+    <local>Eib</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Eib" jugador="Charles"/>
+      <gol minuto="39" equipo="Ray" jugador="Pozo"/>
+      <gol minuto="73" equipo="Eib" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 31/08/2018" jornada="3">
+    <local>Eib</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Eib" jugador="Cardona"/>
+      <gol minuto="91" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2018" jornada="13">
+    <local>Eib</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Eib" jugador="Escalante"/>
+      <gol minuto="56" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="51" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2018" jornada="7">
+    <local>Eib</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Sev" jugador="Banega"/>
+      <gol minuto="47" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="99" equipo="Eib" jugador="Jordán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2018" jornada="16">
+    <local>Eib</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vae" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2019" jornada="28">
+    <local>Eib</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Eib" jugador="Orellana"/>
+      <gol minuto="93" equipo="Val" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2019" jornada="18">
+    <local>Eib</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 13/04/2019" jornada="32">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Esp" jugador="Pedrosa"/>
+      <gol minuto="56" equipo="Ala" jugador="Calleri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 05/11/2018" jornada="11">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2019" jornada="36">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2018" jornada="15">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="16" equipo="Bar" jugador="Messi"/>
+      <gol minuto="65" equipo="Bar" jugador="Messi"/>
+      <gol minuto="44" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2018" jornada="16">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Sergio García"/>
+      <gol minuto="43" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="85" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/04/2019" jornada="34">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Esp" jugador="Wu Lei"/>
+      <gol minuto="71" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/09/2018" jornada="6">
+    <local>Esp</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Esp" jugador="Hermoso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/04/2019" jornada="30">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="71" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2018" jornada="13">
+    <local>Esp</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="4" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="6" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="89" equipo="Gir" jugador="Doumbia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 22/02/2019" jornada="25">
+    <local>Esp</local>
+    <visitante>Hue</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Esp" jugador="Granero"/>
+      <gol minuto="46" equipo="Hue" jugador="Etxeita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/01/2019" jornada="18">
+    <local>Esp</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2018" jornada="4">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2019" jornada="23">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="95" equipo="Esp" jugador="Darder"/>
+      <gol minuto="32" equipo="Ray" jugador="Ba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Esp" jugador="Rosales"/>
+      <gol minuto="64" equipo="Esp" jugador="Wu Lei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2019" jornada="21">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Esp" jugador="Léo Baptistão"/>
+      <gol minuto="15" equipo="Rel" jugador="Sergio Ramos"/>
+      <gol minuto="4" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="45" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="82" equipo="Esp" jugador="Rosales"/>
+      <gol minuto="67" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2019" jornada="28">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 26/08/2018" jornada="2">
+    <local>Esp</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Esp" jugador="Granero"/>
+      <gol minuto="69" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2019" jornada="26">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Esp" jugador="Hermoso"/>
+      <gol minuto="64" equipo="Esp" jugador="Wu Lei"/>
+      <gol minuto="1" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="17" equipo="Val" jugador="Alcaraz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2018" jornada="8">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Esp" jugador="Darder"/>
+      <gol minuto="7" equipo="Esp" jugador="Hernán Pérez"/>
+      <gol minuto="44" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="92" equipo="Esp" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/01/2019" jornada="20">
+    <local>Get</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Get" jugador="Mata"/>
+      <gol minuto="46" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="56" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2018" jornada="5">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Atl" jugador="Lemar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2019" jornada="18">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Get" jugador="Mata"/>
+      <gol minuto="20" equipo="Bar" jugador="Messi"/>
+      <gol minuto="39" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2018" jornada="10">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Get" jugador="Foulquier"/>
+      <gol minuto="60" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2019" jornada="23">
+    <local>Get</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Get" jugador="Mata"/>
+      <gol minuto="62" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="4" equipo="Cel" jugador="Araujo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 24/08/2018" jornada="2">
+    <local>Get</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Get" jugador="Ángel"/>
+      <gol minuto="89" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2018" jornada="14">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Get" jugador="Antunes"/>
+      <gol minuto="64" equipo="Get" jugador="Mata"/>
+      <gol minuto="55" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2019" jornada="36">
+    <local>Get</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="77" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/03/2019" jornada="27">
+    <local>Get</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Get" jugador="Mata"/>
+      <gol minuto="35" equipo="Hue" jugador="Enric Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/03/2019" jornada="29">
+    <local>Get</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Leg" jugador="Michael Santos"/>
+      <gol minuto="82" equipo="Leg" jugador="Juanfran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2018" jornada="8">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Lev" jugador="Bardhi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2019" jornada="25">
+    <local>Get</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Get" jugador="Mata"/>
+      <gol minuto="68" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="58" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2018" jornada="16">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/04/2019" jornada="34">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/04/2019 (14:00)" jornada="33">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2018" jornada="12">
+    <local>Get</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Viernes 31/08/2018" jornada="3">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Get" jugador="Maksimović"/>
+      <gol minuto="12" equipo="Get" jugador="Portillo"/>
+      <gol minuto="43" equipo="Vil" jugador="Iborra"/>
+      <gol minuto="87" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2019" jornada="19">
+    <local>Gir</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="49" equipo="Ala" jugador="Borja Bastón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 29/03/2019" jornada="29">
+    <local>Gir</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="58" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="52" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2018" jornada="14">
+    <local>Gir</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/01/2019" jornada="21">
+    <local>Gir</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Semedo"/>
+      <gol minuto="68" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/09/2018" jornada="6">
+    <local>Gir</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/09/2018" jornada="4">
+    <local>Gir</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Gir" jugador="Alcalá"/>
+      <gol minuto="21" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="55" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="33" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="86" equipo="Cel" jugador="Boufal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2018" jornada="8">
+    <local>Gir</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="45" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="71" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2019" jornada="31">
+    <local>Gir</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Darder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/12/2018" jornada="17">
+    <local>Gir</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Gir" jugador="Bernardo"/>
+      <gol minuto="61" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2019" jornada="23">
+    <local>Gir</local>
+    <visitante>Hue</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Hue" jugador="Chimy Ávila"/>
+      <gol minuto="39" equipo="Hue" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2018" jornada="12">
+    <local>Gir</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Gir</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="86" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="61" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2018" jornada="10">
+    <local>Gir</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Gir" jugador="Portu"/>
+      <gol minuto="61" equipo="Ray" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 25/02/2019" jornada="25">
+    <local>Gir</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/08/2018" jornada="2">
+    <local>Gir</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gir" jugador="Borja García"/>
+      <gol minuto="58" equipo="Rel" jugador="Bale"/>
+      <gol minuto="79" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2019" jornada="35">
+    <local>Gir</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Gir" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2019" jornada="27">
+    <local>Gir</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Gir" jugador="Ramalho"/>
+      <gol minuto="89" equipo="Vae" jugador="Ferran Torres"/>
+      <gol minuto="53" equipo="Vae" jugador="Parejo"/>
+      <gol minuto="14" equipo="Vae" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/08/2018" jornada="1">
+    <local>Gir</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/04/2019" jornada="32">
+    <local>Gir</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vil" jugador="Chukwueze"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2019" jornada="28">
+    <local>Hue</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ala" jugador="Calleri"/>
+      <gol minuto="80" equipo="Ala" jugador="Guidetti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/02/2019" jornada="24">
+    <local>Hue</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/01/2019" jornada="20">
+    <local>Hue</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Atl" jugador="Arias"/>
+      <gol minuto="31" equipo="Atl" jugador="Lucas Hernandez"/>
+      <gol minuto="70" equipo="Atl" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2019" jornada="32">
+    <local>Hue</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/01/2019" jornada="18">
+    <local>Hue</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Hue" jugador="Rivera"/>
+      <gol minuto="73" equipo="Hue" jugador="Ferreiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/04/2019" jornada="30">
+    <local>Hue</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Hue" jugador="Pulido"/>
+      <gol minuto="71" equipo="Hue" jugador="Chimy Ávila"/>
+      <gol minuto="14" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="57" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="63" equipo="Hue" jugador="Enric Gallego"/>
+      <gol minuto="81" equipo="Cel" jugador="Boudebouz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/04/2019" jornada="34">
+    <local>Hue</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Hue" jugador="Chimy Ávila"/>
+      <gol minuto="54" equipo="Hue" jugador="Enric Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2018" jornada="9">
+    <local>Hue</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="63" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2018" jornada="11">
+    <local>Hue</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Hue" jugador="Etxeita"/>
+      <gol minuto="90" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2018" jornada="7">
+    <local>Hue</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Hue</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Hue" jugador="Mantovani"/>
+      <gol minuto="83" equipo="Hue" jugador="Mantovani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2018" jornada="13">
+    <local>Hue</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Hue" jugador="Etxeita"/>
+      <gol minuto="23" equipo="Hue" jugador="Rivera"/>
+      <gol minuto="45" equipo="Lev" jugador="Roger"/>
+      <gol minuto="73" equipo="Lev" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/09/2018" jornada="4">
+    <local>Hue</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ray" jugador="Imbula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/09/2018" jornada="5">
+    <local>Hue</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rea" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2018" jornada="15">
+    <local>Hue</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/03/2019" jornada="26">
+    <local>Hue</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Hue" jugador="Juanpi Añor"/>
+      <gol minuto="98" equipo="Hue" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2019" jornada="36">
+    <local>Hue</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="6"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vae" jugador="Wass"/>
+      <gol minuto="20" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="32" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="16" equipo="Vae" jugador="Rodrigo"/>
+      <gol minuto="50" equipo="Vae" jugador="Rodrigo"/>
+      <gol minuto="65" equipo="Hue" jugador="Melero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/02/2019" jornada="22">
+    <local>Hue</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Hue" jugador="Pulido"/>
+      <gol minuto="49" equipo="Hue" jugador="Moi Gómez"/>
+      <gol minuto="18" equipo="Hue" jugador="Enric Gallego"/>
+      <gol minuto="77" equipo="Hue" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2018" jornada="16">
+    <local>Hue</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="90" equipo="Hue" jugador="Longo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/11/2018" jornada="13">
+    <local>Leg</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/04/2019" jornada="34">
+    <local>Leg</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 03/11/2018" jornada="11">
+    <local>Leg</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="82" equipo="Leg" jugador="Carrillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2018" jornada="6">
+    <local>Leg</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Leg" jugador="Óscar Rodríguez"/>
+      <gol minuto="52" equipo="Leg" jugador="El Zhar"/>
+      <gol minuto="12" equipo="Bar" jugador="Coutinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2019" jornada="23">
+    <local>Leg</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="36" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="66" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/04/2019" jornada="35">
+    <local>Leg</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/01/2019" jornada="21">
+    <local>Leg</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="67" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="35" equipo="Eib" jugador="Jordán"/>
+      <gol minuto="29" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Leg</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 07/12/2018" jornada="15">
+    <local>Leg</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Leg" jugador="Nyom"/>
+      <gol minuto="39" equipo="Get" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2019" jornada="28">
+    <local>Leg</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Gir" jugador="Portu"/>
+      <gol minuto="22" equipo="Gir" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2019" jornada="19">
+    <local>Leg</local>
+    <visitante>Hue</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 04/03/2019" jornada="26">
+    <local>Leg</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Leg" jugador="Óscar Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2018" jornada="8">
+    <local>Leg</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Leg" jugador="Carrillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 24/08/2018" jornada="2">
+    <local>Leg</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Leg" jugador="El Zhar"/>
+      <gol minuto="88" equipo="Leg" jugador="El Zhar"/>
+      <gol minuto="11" equipo="Rea" jugador="Zurutuza"/>
+      <gol minuto="17" equipo="Rea" jugador="Illarramendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/04/2019" jornada="32">
+    <local>Leg</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Leg" jugador="Jonathan Silva"/>
+      <gol minuto="51" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2018" jornada="17">
+    <local>Leg</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Leg" jugador="Vesga"/>
+      <gol minuto="91" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2019" jornada="25">
+    <local>Leg</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Leg" jugador="Braithwaite"/>
+      <gol minuto="22" equipo="Vae" jugador="Kondogbia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/04/2019" jornada="30">
+    <local>Leg</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="96" equipo="Leg" jugador="Carrillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2018" jornada="4">
+    <local>Leg</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vil" jugador="Bacca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2018" jornada="7">
+    <local>Lev</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Lev" jugador="Jason"/>
+      <gol minuto="36" equipo="Lev" jugador="Toño"/>
+      <gol minuto="4" equipo="Ala" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/12/2018" jornada="14">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="69" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Lev" jugador="Cabaco"/>
+      <gol minuto="35" equipo="Lev" jugador="Roger"/>
+      <gol minuto="68" equipo="Atl" jugador="Rodri"/>
+      <gol minuto="79" equipo="Atl" jugador="Camello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2018" jornada="16">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="42" equipo="Bar" jugador="Messi"/>
+      <gol minuto="47" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="35" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/04/2019" jornada="34">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Lev" jugador="Coke"/>
+      <gol minuto="8" equipo="Lev" jugador="Campaña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/08/2018" jornada="2">
+    <local>Lev</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Cel" jugador="Pione Sisto"/>
+      <gol minuto="35" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2019" jornada="29">
+    <local>Lev</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="5" equipo="Lev" jugador="Morales"/>
+      <gol minuto="19" equipo="Eib" jugador="Escalante"/>
+      <gol minuto="78" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2019 (12:00)" jornada="33">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="61" equipo="Lev" jugador="Vezo"/>
+      <gol minuto="71" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="64" equipo="Esp" jugador="Marc Roca"/>
+      <gol minuto="15" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2019" jornada="22">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 04/01/2019" jornada="18">
+    <local>Lev</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Lev" jugador="Morales"/>
+      <gol minuto="71" equipo="Gir" jugador="Aleix García"/>
+      <gol minuto="30" equipo="Gir" jugador="Portu"/>
+      <gol minuto="85" equipo="Lev" jugador="Coke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Lev</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Lev" jugador="Roger"/>
+      <gol minuto="69" equipo="Hue" jugador="Chimy Ávila"/>
+      <gol minuto="62" equipo="Hue" jugador="Enric Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2018" jornada="10">
+    <local>Lev</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="14" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/05/2019" jornada="36">
+    <local>Lev</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Lev" jugador="Jason"/>
+      <gol minuto="43" equipo="Lev" jugador="Vezo"/>
+      <gol minuto="13" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="89" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="70" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 09/11/2018" jornada="12">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Lev" jugador="Chema"/>
+      <gol minuto="72" equipo="Rea" jugador="Theo Hernandez"/>
+      <gol minuto="83" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="77" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2019" jornada="25">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="60" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2018" jornada="5">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="6"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Lev" jugador="Roger"/>
+      <gol minuto="20" equipo="Sev" jugador="Carriço"/>
+      <gol minuto="59" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="49" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="11" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="35" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="45" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2018" jornada="3">
+    <local>Lev</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Lev" jugador="Roger"/>
+      <gol minuto="33" equipo="Lev" jugador="Roger"/>
+      <gol minuto="15" equipo="Vae" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2019" jornada="20">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Lev" jugador="Coke"/>
+      <gol minuto="90" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2019" jornada="27">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="96" equipo="Vil" jugador="Chukwueze"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2018" jornada="5">
+    <local>Ray</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="7" equipo="Ala" jugador="Ximo"/>
+      <gol minuto="33" equipo="Ala" jugador="Ibai Gómez"/>
+      <gol minuto="77" equipo="Ala" jugador="Ibai Gómez"/>
+      <gol minuto="55" equipo="Ala" jugador="Calleri"/>
+      <gol minuto="95" equipo="Ala" jugador="Burgui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/10/2018" jornada="3">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ray" jugador="Pozo"/>
+      <gol minuto="66" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2019" jornada="24">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2018" jornada="11">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ray" jugador="Pozo"/>
+      <gol minuto="10" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="90" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="57" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="87" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2019" jornada="29">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="81" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 11/01/2019" jornada="19">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="37" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="77" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="12" equipo="Cel" jugador="Araujo"/>
+      <gol minuto="90" equipo="Ray" jugador="Bebé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/11/2018" jornada="14">
+    <local>Ray</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ray" jugador="Embarba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 28/09/2018" jornada="7">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="45" equipo="Esp" jugador="Granero"/>
+      <gol minuto="19" equipo="Esp" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2018" jornada="9">
+    <local>Ray</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="63" equipo="Get" jugador="Foulquier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/03/2019" jornada="26">
+    <local>Ray</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="85" equipo="Gir" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/04/2019 (18:30)" jornada="33">
+    <local>Ray</local>
+    <visitante>Hue</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 04/02/2019" jornada="22">
+    <local>Ray</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Leg" jugador="Braithwaite"/>
+      <gol minuto="85" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="83" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2018" jornada="17">
+    <local>Ray</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="59" equipo="Lev" jugador="Rochina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2019" jornada="20">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ray" jugador="Comesaña"/>
+      <gol minuto="27" equipo="Ray" jugador="Embarba"/>
+      <gol minuto="38" equipo="Rea" jugador="Héctor Moreno"/>
+      <gol minuto="81" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2019" jornada="35">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/08/2018" jornada="1">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="31" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="45" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="79" equipo="Sev" jugador="André Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2019" jornada="31">
+    <local>Ray</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Ray" jugador="Mario Suárez"/>
+      <gol minuto="32" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ray" jugador="Medrán"/>
+      <gol minuto="80" equipo="Val" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2018" jornada="12">
+    <local>Ray</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="32" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="66" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="80" equipo="Vil" jugador="Sansone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/12/2018" jornada="17">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ala" jugador="Calleri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2019" jornada="22">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="45" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="82" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2019" jornada="26">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Morata"/>
+      <gol minuto="33" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2018" jornada="4">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Elustondo"/>
+      <gol minuto="65" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="62" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/04/2019" jornada="30">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="17" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="56" equipo="Bet" jugador="Canales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 26/11/2018" jornada="13">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Zurutuza"/>
+      <gol minuto="37" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="82" equipo="Cel" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2019" jornada="32">
+    <local>Rea</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="84" equipo="Eib" jugador="Jordán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/01/2019" jornada="19">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rea" jugador="Merino"/>
+      <gol minuto="63" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="32" equipo="Esp" jugador="Naldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2019" jornada="35">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="89" equipo="Get" jugador="Samu Saiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/10/2018" jornada="9">
+    <local>Rea</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/01/2019" jornada="21">
+    <local>Rea</local>
+    <visitante>Hue</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 16/02/2019" jornada="24">
+    <local>Rea</local>
+    <visitante>Leg</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="59" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="74" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 15/03/2019" jornada="28">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Januzaj"/>
+      <gol minuto="79" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/09/2018" jornada="6">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Bautista"/>
+      <gol minuto="30" equipo="Ray" jugador="Advíncula"/>
+      <gol minuto="78" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Zaldua"/>
+      <gol minuto="25" equipo="Rea" jugador="Merino"/>
+      <gol minuto="66" equipo="Rea" jugador="Barrenetxea"/>
+      <gol minuto="5" equipo="Rel" jugador="Brahim Díaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2018" jornada="11">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 29/09/2018" jornada="7">
+    <local>Rea</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vae" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2018" jornada="15">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="53" equipo="Val" jugador="Antoñito"/>
+      <gol minuto="15" equipo="Val" jugador="Toni Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/04/2019" jornada="34">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2019" jornada="22">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="30" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="91" equipo="Rel" jugador="Mariano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2019 (16:15)" jornada="33">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="76" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="90" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2018" jornada="7">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/03/2019" jornada="26">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/05/2019" jornada="38">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Loren"/>
+      <gol minuto="75" equipo="Bet" jugador="Jesé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/03/2019" jornada="28">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rel" jugador="Isco"/>
+      <gol minuto="76" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/04/2019" jornada="31">
+    <local>Rel</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="81" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="38" equipo="Eib" jugador="Cardona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2018" jornada="5">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/08/2018" jornada="1">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rel" jugador="Carvajal"/>
+      <gol minuto="68" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2019" jornada="24">
+    <local>Rel</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="75" equipo="Gir" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2019" jornada="29">
+    <local>Rel</local>
+    <visitante>Hue</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rel" jugador="Dani Ceballos"/>
+      <gol minuto="25" equipo="Rel" jugador="Isco"/>
+      <gol minuto="89" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="74" equipo="Hue" jugador="Etxeita"/>
+      <gol minuto="2" equipo="Hue" jugador="Cucho Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2018" jornada="3">
+    <local>Rel</local>
+    <visitante>Leg</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Bale"/>
+      <gol minuto="49" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="61" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2018" jornada="9">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rel" jugador="Marcelo"/>
+      <gol minuto="6" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2018" jornada="16">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2019" jornada="18">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Rubén Pardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2019" jornada="20">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="92" equipo="Rel" jugador="Modrić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2018" jornada="14">
+    <local>Rel</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rel" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2018" jornada="11">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/05/2019" jornada="36">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Vallejo"/>
+      <gol minuto="2" equipo="Rel" jugador="Mariano"/>
+      <gol minuto="49" equipo="Rel" jugador="Mariano"/>
+      <gol minuto="11" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="94" equipo="Vil" jugador="Jaume Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/04/2019" jornada="30">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Roque Mesa"/>
+      <gol minuto="80" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Sev" jugador="Munir"/>
+      <gol minuto="44" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2019" jornada="18">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="44" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2019" jornada="25">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="41" equipo="Sev" jugador="Mercado"/>
+      <gol minuto="25" equipo="Bar" jugador="Messi"/>
+      <gol minuto="66" equipo="Bar" jugador="Messi"/>
+      <gol minuto="84" equipo="Bar" jugador="Messi"/>
+      <gol minuto="93" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/04/2019" jornada="32">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="25" equipo="Sev" jugador="Munir"/>
+      <gol minuto="58" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="54" equipo="Bet" jugador="Lo Celso"/>
+      <gol minuto="82" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2018" jornada="8">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="63" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="85" equipo="Cel" jugador="Boufal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2019" jornada="23">
+    <local>Sev</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="92" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="88" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="21" equipo="Eib" jugador="Orellana"/>
+      <gol minuto="63" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2018" jornada="12">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Sev" jugador="Mercado"/>
+      <gol minuto="38" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="89" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2018" jornada="4">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Get" jugador="Ángel"/>
+      <gol minuto="39" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2018" jornada="16">
+    <local>Sev</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2018" jornada="10">
+    <local>Sev</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="78" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="93" equipo="Hue" jugador="Pulido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/05/2019" jornada="36">
+    <local>Sev</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Leg" jugador="Óscar Rodríguez"/>
+      <gol minuto="20" equipo="Leg" jugador="Braithwaite"/>
+      <gol minuto="8" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2019" jornada="21">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Promes"/>
+      <gol minuto="71" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="60" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="48" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/04/2019" jornada="34">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Promes"/>
+      <gol minuto="57" equipo="Sev" jugador="Munir"/>
+      <gol minuto="62" equipo="Sev" jugador="Munir"/>
+      <gol minuto="69" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="86" equipo="Sev" jugador="Bryan Gil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2019" jornada="27">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="47" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="57" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="61" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="28" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2018" jornada="6">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="21" equipo="Sev" jugador="André Silva"/>
+      <gol minuto="39" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2019" jornada="29">
+    <local>Sev</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/11/2018" jornada="13">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="André Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2018" jornada="2">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Vae</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vae" jugador="Carlos Soler"/>
+      <gol minuto="33" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="12" equipo="Ala" jugador="Ximo"/>
+      <gol minuto="68" equipo="Vae" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/03/2019" jornada="26">
+    <local>Vae</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vae" jugador="Rodrigo"/>
+      <gol minuto="89" equipo="Vae" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/08/2018" jornada="1">
+    <local>Vae</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vae" jugador="Rodrigo"/>
+      <gol minuto="25" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2018" jornada="8">
+    <local>Vae</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Vae" jugador="Garay"/>
+      <gol minuto="22" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2018" jornada="4">
+    <local>Vae</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 26/09/2018" jornada="6">
+    <local>Vae</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Vae" jugador="Batshuayi"/>
+      <gol minuto="82" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2019" jornada="35">
+    <local>Vae</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2019" jornada="24">
+    <local>Vae</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 17/03/2019" jornada="28">
+    <local>Vae</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 03/11/2018" jornada="11">
+    <local>Vae</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Gir" jugador="Pere Pons"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2018" jornada="17">
+    <local>Vae</local>
+    <visitante>Hue</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Vae" jugador="Piccini"/>
+      <gol minuto="25" equipo="Vae" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2018" jornada="9">
+    <local>Vae</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Vae" jugador="Gayà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2019" jornada="32">
+    <local>Vae</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Vae" jugador="Guedes"/>
+      <gol minuto="2" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="63" equipo="Vae" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2018" jornada="13">
+    <local>Vae</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="61" equipo="Vae" jugador="Santi Mina"/>
+      <gol minuto="76" equipo="Vae" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2019" jornada="23">
+    <local>Vae</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 03/04/2019" jornada="30">
+    <local>Vae</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vae" jugador="Garay"/>
+      <gol minuto="34" equipo="Vae" jugador="Guedes"/>
+      <gol minuto="93" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2018" jornada="15">
+    <local>Vae</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="90" equipo="Vae" jugador="Diakhaby"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2019" jornada="19">
+    <local>Vae</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Vae" jugador="Parejo"/>
+      <gol minuto="82" equipo="Val" jugador="Alcaraz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2019" jornada="21">
+    <local>Vae</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vae" jugador="Diakhaby"/>
+      <gol minuto="50" equipo="Vae" jugador="Cheryshev"/>
+      <gol minuto="85" equipo="Vae" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2018" jornada="4">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Ala" jugador="Ibai Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/05/2019" jornada="36">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Waldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2018" jornada="16">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Val" jugador="Calero"/>
+      <gol minuto="79" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="25" equipo="Atl" jugador="Kalinić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2018" jornada="2">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2019" jornada="25">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bet" jugador="Mandi"/>
+      <gol minuto="86" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2019" jornada="21">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Val" jugador="Keko"/>
+      <gol minuto="56" equipo="Val" jugador="Óscar Plano"/>
+      <gol minuto="16" equipo="Cel" jugador="Pione Sisto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2018" jornada="12">
+    <local>Val</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Viernes 26/10/2018" jornada="10">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Esp" jugador="Borja Iglesias"/>
+      <gol minuto="90" equipo="Val" jugador="Verde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/04/2019" jornada="32">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Sergi Guardiola"/>
+      <gol minuto="13" equipo="Get" jugador="Arambarri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/04/2019" jornada="34">
+    <local>Val</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Val" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2018" jornada="8">
+    <local>Val</local>
+    <visitante>Hue</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Val" jugador="Alcaraz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2018" jornada="14">
+    <local>Val</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Val" jugador="Toni Villa"/>
+      <gol minuto="90" equipo="Val" jugador="Ünal"/>
+      <gol minuto="10" equipo="Leg" jugador="Siovas"/>
+      <gol minuto="41" equipo="Leg" jugador="Óscar Rodríguez"/>
+      <gol minuto="65" equipo="Leg" jugador="Carrillo"/>
+      <gol minuto="74" equipo="Leg" jugador="Carrillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/09/2018" jornada="6">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Val" jugador="Nacho"/>
+      <gol minuto="50" equipo="Val" jugador="Ünal"/>
+      <gol minuto="47" equipo="Lev" jugador="Postigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2019" jornada="18">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ray" jugador="Medrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/03/2019" jornada="29">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Val" jugador="Keko"/>
+      <gol minuto="79" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/03/2019" jornada="27">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Val" jugador="Anuar"/>
+      <gol minuto="33" equipo="Rel" jugador="Varane"/>
+      <gol minuto="85" equipo="Rel" jugador="Modrić"/>
+      <gol minuto="59" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/04/2019" jornada="31">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Sev" jugador="Munir"/>
+      <gol minuto="84" equipo="Sev" jugador="Roque Mesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/05/2019" jornada="38">
+    <local>Val</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vae" jugador="Carlos Soler"/>
+      <gol minuto="53" equipo="Vae" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 08/02/2019" jornada="23">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/03/2019" jornada="26">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ala" jugador="Maripán"/>
+      <gol minuto="77" equipo="Ala" jugador="Inui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2019" jornada="20">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2018" jornada="9">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vil" jugador="Mario Gaspar"/>
+      <gol minuto="51" equipo="Atl" jugador="Filipe Luís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/04/2019" jornada="30">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="61" equipo="Vil" jugador="Iborra"/>
+      <gol minuto="50" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="15" equipo="Bar" jugador="Malcom"/>
+      <gol minuto="12" equipo="Bar" jugador="Coutinho"/>
+      <gol minuto="93" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="80" equipo="Vil" jugador="Bacca"/>
+      <gol minuto="90" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2018" jornada="13">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="51" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="89" equipo="Bet" jugador="Lo Celso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2018" jornada="15">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="49" equipo="Cel" jugador="Okay"/>
+      <gol minuto="51" equipo="Cel" jugador="Maxi Gómez"/>
+      <gol minuto="83" equipo="Vil" jugador="Bacca"/>
+      <gol minuto="87" equipo="Vil" jugador="Bacca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/05/2019" jornada="37">
+    <local>Vil</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2019" jornada="22">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vil" jugador="Iborra"/>
+      <gol minuto="81" equipo="Esp" jugador="Rosales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2019" jornada="19">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="88" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 31/08/2018" jornada="3">
+    <local>Vil</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Gir" jugador="Stuani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/04/2019" jornada="35">
+    <local>Vil</local>
+    <visitante>Hue</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vil" jugador="Fornals"/>
+      <gol minuto="77" equipo="Hue" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/04/2019 (18:30)" jornada="33">
+    <local>Vil</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="63" equipo="Vil" jugador="Bacca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2018" jornada="11">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Vil" jugador="Pedraza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/03/2019" jornada="28">
+    <local>Vil</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="52" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="20" equipo="Ray" jugador="Mario Suárez"/>
+      <gol minuto="87" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/08/2018" jornada="1">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="40" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="70" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 03/01/2019" jornada="17">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="82" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="20" equipo="Rel" jugador="Varane"/>
+      <gol minuto="6" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2019" jornada="24">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vil" jugador="Álvaro"/>
+      <gol minuto="86" equipo="Vil" jugador="Pedraza"/>
+      <gol minuto="45" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2018" jornada="5">
+    <local>Vil</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/09/2018" jornada="7">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Leo Suárez"/>
+    </goleadores>
+  </partido>
+</liga>

@@ -1,0 +1,3803 @@
+<?xml version="1.0" ?>
+<liga temporada="1992-93">
+  <partido fecha="Miércoles 26/05/1993" jornada="32">
+    <local>Alb</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Alb" jugador="Dos Santos"/>
+      <gol minuto="10" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="40" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="50" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="55" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="60" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="63" equipo="Alb" jugador="Antonio"/>
+      <gol minuto="81" equipo="Alb" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/04/1993" jornada="28">
+    <local>Alb</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="22" equipo="Alb" jugador="Rommel"/>
+      <gol minuto="11" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Alb</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="23" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Alb</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="1" equipo="Alb" jugador="Rommel"/>
+      <gol minuto="29" equipo="Alb" jugador="Rommel"/>
+      <gol minuto="65" equipo="Alb" jugador="Rommel"/>
+      <gol minuto="87" equipo="Alb" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Alb</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Alb" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Alb</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Alb" jugador="Geli"/>
+      <gol minuto="80" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Alb</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Alb" jugador="Zalazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Alb</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Alb" jugador="Geli"/>
+      <gol minuto="47" equipo="Alb" jugador="Chesa"/>
+      <gol minuto="65" equipo="Alb" jugador="Antonio"/>
+      <gol minuto="59" equipo="Log" jugador="Linde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Alb</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Alb</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="24" equipo="Alb" jugador="Chesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Alb</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Alb" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Alb</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="2"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="57" equipo="Rea" jugador="Prosinečki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Alb</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Alb" jugador="Pinilla"/>
+      <gol minuto="36" equipo="Real" jugador="Imanol"/>
+      <gol minuto="63" equipo="Real" jugador="Carlos Xavier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Alb</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Alb" jugador="Antonio"/>
+      <gol minuto="12" equipo="Alb" jugador="Pinilla"/>
+      <gol minuto="60" equipo="Alb" jugador="Geli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Alb</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Alb" jugador="Catali"/>
+      <gol minuto="63" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="89" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="47" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="53" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="83" equipo="Sev" jugador="Andrades"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Alb</local>
+    <visitante>Spo</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Alb" jugador="Menéndez"/>
+      <gol minuto="67" equipo="Alb" jugador="Julio Soler"/>
+      <gol minuto="85" equipo="Alb" jugador="Rommel"/>
+      <gol minuto="10" equipo="Alb" jugador="Dos Santos"/>
+      <gol minuto="20" equipo="Alb" jugador="Dos Santos"/>
+      <gol minuto="63" equipo="Alb" jugador="Dos Santos"/>
+      <gol minuto="25" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="1" equipo="Spo" jugador="Christiansen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Alb</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Alb" jugador="Rommel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Alb</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Alb</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="86" equipo="Zar" jugador="García Sanjuán"/>
+      <gol minuto="23" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="81" equipo="Zar" jugador="Seba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Ath</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="29" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="69" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="60" equipo="Alb" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="79" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="84" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/04/1993" jornada="29">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="32" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="54" equipo="Cád" jugador="Milanko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cel" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Estíbariz"/>
+      <gol minuto="22" equipo="Ath" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Ath</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ath" jugador="Larrazabal"/>
+      <gol minuto="68" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/03/1993" jornada="25">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="Carlos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ath" jugador="Andrinúa"/>
+      <gol minuto="20" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="37" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="83" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="89" equipo="Ray" jugador="Josete"/>
+      <gol minuto="14" equipo="Ray" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ath" jugador="Urrutia"/>
+      <gol minuto="44" equipo="Rea" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Ath</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="39" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="81" equipo="Rel" jugador="Boerebach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="43" equipo="Sev" jugador="Marcos"/>
+      <gol minuto="79" equipo="Ath" jugador="Luke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Ath</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="89" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="55" equipo="Ten" jugador="Redondo"/>
+      <gol minuto="48" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Fernando"/>
+      <gol minuto="77" equipo="Val" jugador="Robert"/>
+      <gol minuto="13" equipo="Val" jugador="Álvaro Cervera"/>
+      <gol minuto="72" equipo="Ath" jugador="Carlos García"/>
+      <gol minuto="89" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="52" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="26" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="17" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="34" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Atl</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="77" equipo="Atl" jugador="Futre"/>
+      <gol minuto="17" equipo="Atl" jugador="Moya"/>
+      <gol minuto="89" equipo="Alb" jugador="Chesa"/>
+      <gol minuto="71" equipo="Alb" jugador="Julio Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="84" equipo="Atl" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/09/1992" jornada="3">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="2"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Futre"/>
+      <gol minuto="89" equipo="Bar" jugador="Amor"/>
+      <gol minuto="4" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="8" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="47" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="88" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Atl" jugador="Lukić"/>
+      <gol minuto="12" equipo="Cel" jugador="Gil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Juanito"/>
+      <gol minuto="50" equipo="Atl" jugador="Juanito"/>
+      <gol minuto="82" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Moya"/>
+      <gol minuto="51" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="44" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Atl</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/05/1993" jornada="33">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="3"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Donato"/>
+      <gol minuto="63" equipo="Atl" jugador="Moya"/>
+      <gol minuto="83" equipo="Osa" jugador="Larrainzar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Schuster"/>
+      <gol minuto="63" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="88" equipo="Ovi" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/01/1993" jornada="18">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Sabas"/>
+      <gol minuto="27" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Atl</local>
+    <visitante>Real</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="80" equipo="Atl" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Atl" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="84" equipo="Spo" jugador="Abelardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Atl</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Atl" jugador="Solozábal"/>
+      <gol minuto="81" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="88" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="89" equipo="Ten" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1992" jornada="13">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="31" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Juanito"/>
+      <gol minuto="82" equipo="Atl" jugador="Juanito"/>
+      <gol minuto="40" equipo="Zar" jugador="Lizarralde"/>
+      <gol minuto="72" equipo="Zar" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Bar</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="12" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="11" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="87" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="36" equipo="Alb" jugador="Pinilla"/>
+      <gol minuto="78" equipo="Alb" jugador="Zago"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/11/1992" jornada="10">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="61" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/02/1993" jornada="22">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="45" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="23" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="89" equipo="Cád" jugador="Fali"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bar" jugador="Nadal"/>
+      <gol minuto="43" equipo="Bar" jugador="Witschge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/03/1993" jornada="26">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Amor"/>
+      <gol minuto="26" equipo="Bar" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Nadal"/>
+      <gol minuto="77" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="30" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="72" equipo="Bar" jugador="Witschge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Bar</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="47" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="18" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="79" equipo="Bar" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/03/1993" jornada="14">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Amor"/>
+      <gol minuto="12" equipo="Bar" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="22" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="7" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/09/1992" jornada="1">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="87" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Bar</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="25" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="3" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="53" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/06/1993" jornada="36">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bar" jugador="Nadal"/>
+      <gol minuto="46" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="15" equipo="Sev" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="7" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="12" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="78" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="70" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="83" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="71" equipo="Spo" jugador="Scotto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Bar</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Pablo Alfaro"/>
+      <gol minuto="11" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="34" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="48" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Laudrup"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Cád</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cád" jugador="Macedo"/>
+      <gol minuto="53" equipo="Alb" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cád" jugador="Arteaga"/>
+      <gol minuto="62" equipo="Cád" jugador="Quino"/>
+      <gol minuto="7" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="50" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="13" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cád" jugador="Arteaga"/>
+      <gol minuto="66" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="12" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="39" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="78" equipo="Bar" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Cád" jugador="Kiko"/>
+      <gol minuto="64" equipo="Cel" jugador="Salillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Cád</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Dep" jugador="Fran"/>
+      <gol minuto="28" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="64" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Cád</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Cád" jugador="Arteaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Cád</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Cád" jugador="Arteaga"/>
+      <gol minuto="24" equipo="Cád" jugador="Quevedo"/>
+      <gol minuto="75" equipo="Log" jugador="Cléber"/>
+      <gol minuto="78" equipo="Log" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Osa" jugador="Merino"/>
+      <gol minuto="87" equipo="Osa" jugador="Aguilà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Cád</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Cád</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Cád" jugador="Francis"/>
+      <gol minuto="89" equipo="Ray" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1992" jornada="11">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Cád" jugador="Oliva"/>
+      <gol minuto="65" equipo="Rea" jugador="Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Cád</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Real" jugador="Uría"/>
+      <gol minuto="80" equipo="Cád" jugador="Fali"/>
+      <gol minuto="85" equipo="Cád" jugador="Fali"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Cád" jugador="Carmelo"/>
+      <gol minuto="20" equipo="Cád" jugador="Javi"/>
+      <gol minuto="13" equipo="Cád" jugador="Kiko"/>
+      <gol minuto="72" equipo="Rel" jugador="Alejandro"/>
+      <gol minuto="41" equipo="Rel" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Cád</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Cád" jugador="Arteaga"/>
+      <gol minuto="49" equipo="Cád" jugador="Barla"/>
+      <gol minuto="89" equipo="Spo" jugador="Iordanov"/>
+      <gol minuto="10" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="82" equipo="Spo" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Cád</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ten" jugador="Ezequiel Castillo"/>
+      <gol minuto="83" equipo="Ten" jugador="Ezequiel Castillo"/>
+      <gol minuto="52" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Leonardo"/>
+      <gol minuto="25" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Cád</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Darío Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Cel</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Alb" jugador="Pinilla"/>
+      <gol minuto="77" equipo="Cel" jugador="Salillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Futre"/>
+      <gol minuto="66" equipo="Atl" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="27" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="77" equipo="Cel" jugador="Salva"/>
+      <gol minuto="85" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Cel" jugador="Ratković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Esp" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Cel</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="49" equipo="Cel" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 15/05/1993" jornada="33">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Cel</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cel" jugador="Bursać"/>
+      <gol minuto="68" equipo="Cel" jugador="Bursać"/>
+      <gol minuto="31" equipo="Real" jugador="Oceano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Cel" jugador="Salillas"/>
+      <gol minuto="77" equipo="Rel" jugador="Limperger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="3" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="9" equipo="Sev" jugador="Bango"/>
+      <gol minuto="6" equipo="Sev" jugador="Maradona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Cel</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ten" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Zar" jugador="Solana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Dep</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Dep" jugador="Aldana"/>
+      <gol minuto="48" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="1" equipo="Dep" jugador="Claudio"/>
+      <gol minuto="77" equipo="Alb" jugador="Zalazar"/>
+      <gol minuto="10" equipo="Alb" jugador="Rommel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Aldana"/>
+      <gol minuto="17" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="46" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/04/1993" jornada="30">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 17/10/1992" jornada="7">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/06/1993" jornada="36">
+    <local>Dep</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Ribera"/>
+      <gol minuto="89" equipo="Dep" jugador="Djukić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="35" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="80" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Dep</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Nando"/>
+      <gol minuto="37" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="86" equipo="Osa" jugador="Cholo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Claudio"/>
+      <gol minuto="89" equipo="Ovi" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/06/1993" jornada="38">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Dep" jugador="Nando"/>
+      <gol minuto="67" equipo="Ray" jugador="García Cortés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/10/1992" jornada="5">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="65" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="21" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="25" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Dep</local>
+    <visitante>Real</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Dep" jugador="López Rekarte"/>
+      <gol minuto="11" equipo="Dep" jugador="Aldana"/>
+      <gol minuto="64" equipo="Dep" jugador="Aldana"/>
+      <gol minuto="74" equipo="Dep" jugador="Fran"/>
+      <gol minuto="34" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="44" equipo="Real" jugador="Imanol"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Dep" jugador="Ribera"/>
+      <gol minuto="39" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="70" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="10" equipo="Dep" jugador="Claudio"/>
+      <gol minuto="83" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/02/1993" jornada="21">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Dep" jugador="Fran"/>
+      <gol minuto="85" equipo="Dep" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Dep</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Fran"/>
+      <gol minuto="80" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="87" equipo="Spo" jugador="Scotto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Dep</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Dep" jugador="Fran"/>
+      <gol minuto="76" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="89" equipo="Ten" jugador="Ezequiel Castillo"/>
+      <gol minuto="88" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Dep" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Esp</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="88" equipo="Esp" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Lluís"/>
+      <gol minuto="60" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Atl" jugador="Moya"/>
+      <gol minuto="13" equipo="Atl" jugador="Futre"/>
+      <gol minuto="69" equipo="Atl" jugador="Futre"/>
+      <gol minuto="85" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Esp</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Cád" jugador="Quevedo"/>
+      <gol minuto="33" equipo="Cád" jugador="Kiko"/>
+      <gol minuto="60" equipo="Esp" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Esp</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="13" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="60" equipo="Esp" jugador="Korneev"/>
+      <gol minuto="73" equipo="Osa" jugador="Kosecki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="Lluís"/>
+      <gol minuto="85" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ray" jugador="Momparlet"/>
+      <gol minuto="35" equipo="Esp" jugador="Korneev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="7" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="50" equipo="Rea" jugador="Prosinečki"/>
+      <gol minuto="65" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Esp</local>
+    <visitante>Real</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="9" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="37" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="10" equipo="Esp" jugador="Lluís"/>
+      <gol minuto="62" equipo="Real" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Esp" jugador="Mino"/>
+      <gol minuto="58" equipo="Rel" jugador="Boerebach"/>
+      <gol minuto="84" equipo="Esp" jugador="Korneev"/>
+      <gol minuto="89" equipo="Esp" jugador="Korneev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Esp" jugador="Ayúcar"/>
+      <gol minuto="66" equipo="Sev" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Esp" jugador="Lluís"/>
+      <gol minuto="76" equipo="Spo" jugador="Iván Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Esp</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 09/01/1993" jornada="17">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="80" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Esp" jugador="Francisco"/>
+      <gol minuto="63" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Log</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Log</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ath" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Log</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Log" jugador="Eraña"/>
+      <gol minuto="78" equipo="Log" jugador="Salenko"/>
+      <gol minuto="74" equipo="Atl" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1992" jornada="9">
+    <local>Log</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Log" jugador="Cléber"/>
+      <gol minuto="17" equipo="Bar" jugador="Amor"/>
+      <gol minuto="45" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Log</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Log" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/09/1992" jornada="3">
+    <local>Log</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cel" jugador="Ratković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Log</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="55" equipo="Dep" jugador="Claudio"/>
+      <gol minuto="89" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Log</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Log</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Log" jugador="Poyatos"/>
+      <gol minuto="53" equipo="Osa" jugador="Aguilà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Log</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Log" jugador="Linde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Log</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Log</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Luis Enrique"/>
+      <gol minuto="15" equipo="Rea" jugador="Martín Vázquez"/>
+      <gol minuto="83" equipo="Rea" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Log</local>
+    <visitante>Real</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Real" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Log</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Balint"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Log</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Log" jugador="García Pitarch"/>
+      <gol minuto="78" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Log</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Spo" jugador="Cela"/>
+      <gol minuto="17" equipo="Spo" jugador="Cela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Log</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Log" jugador="Iturrino"/>
+      <gol minuto="15" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Log</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Log" jugador="Poyatos"/>
+      <gol minuto="69" equipo="Log" jugador="Eraña"/>
+      <gol minuto="83" equipo="Log" jugador="Eraña"/>
+      <gol minuto="27" equipo="Val" jugador="Leonardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Log</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Osa</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Osa" jugador="Merino"/>
+      <gol minuto="33" equipo="Osa" jugador="Urban"/>
+      <gol minuto="67" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Osa" jugador="Urban"/>
+      <gol minuto="20" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="42" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Osa" jugador="Kosecki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Osa" jugador="Merino"/>
+      <gol minuto="52" equipo="Cád" jugador="Javi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Osa" jugador="Larrainzar"/>
+      <gol minuto="59" equipo="Osa" jugador="Kosecki"/>
+      <gol minuto="89" equipo="Osa" jugador="Aguilà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Osa" jugador="Kosecki"/>
+      <gol minuto="48" equipo="Dep" jugador="Fran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Esp" jugador="Ayúcar"/>
+      <gol minuto="27" equipo="Esp" jugador="Francisco"/>
+      <gol minuto="46" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="89" equipo="Osa" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Osa</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Osa" jugador="Kosecki"/>
+      <gol minuto="89" equipo="Log" jugador="Uribarrena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Osa</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Osa" jugador="Spasić"/>
+      <gol minuto="41" equipo="Osa" jugador="Merino"/>
+      <gol minuto="34" equipo="Ovi" jugador="Cristóbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Osa" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Osa</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Osa" jugador="Spasić"/>
+      <gol minuto="76" equipo="Osa" jugador="Kosecki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Osa" jugador="Aguilà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Sev" jugador="Rafa Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Osa" jugador="Martín González"/>
+      <gol minuto="9" equipo="Osa" jugador="Aguilà"/>
+      <gol minuto="26" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Osa</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Osa" jugador="Kosecki"/>
+      <gol minuto="48" equipo="Ten" jugador="Redondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1992" jornada="4">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Osa" jugador="Pascual"/>
+      <gol minuto="10" equipo="Osa" jugador="Merino"/>
+      <gol minuto="28" equipo="Val" jugador="Robert"/>
+      <gol minuto="65" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Osa" jugador="Angelov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Ovi</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ovi" jugador="Lăcătuș"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Donato"/>
+      <gol minuto="51" equipo="Atl" jugador="Futre"/>
+      <gol minuto="72" equipo="Atl" jugador="Moya"/>
+      <gol minuto="84" equipo="Atl" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/05/1993" jornada="33">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 11/03/1993" jornada="24">
+    <local>Ovi</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ovi" jugador="Rivas"/>
+      <gol minuto="45" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ovi" jugador="Armando"/>
+      <gol minuto="66" equipo="Ovi" jugador="Rivas"/>
+      <gol minuto="2" equipo="Ovi" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ovi" jugador="Vinyals"/>
+      <gol minuto="15" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="71" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="41" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="72" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Esp" jugador="Fonseca"/>
+      <gol minuto="54" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="84" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Ovi</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Ovi</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="21" equipo="Osa" jugador="Sánchez Jara"/>
+      <gol minuto="44" equipo="Osa" jugador="Larrainzar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Ovi</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="51" equipo="Ray" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/05/1993" jornada="31">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="2" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="63" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="89" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Ovi</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ovi" jugador="Lăcătuș"/>
+      <gol minuto="89" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="48" equipo="Real" jugador="Imanol"/>
+      <gol minuto="28" equipo="Real" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ovi" jugador="Pirri Mori"/>
+      <gol minuto="8" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="74" equipo="Ovi" jugador="Vinyals"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Ovi</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ovi" jugador="Paco"/>
+      <gol minuto="11" equipo="Sev" jugador="Bango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/05/1993" jornada="35">
+    <local>Ovi</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="53" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="16" equipo="Spo" jugador="Abelardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Ovi</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="27" equipo="Ten" jugador="Antonio Mata"/>
+      <gol minuto="89" equipo="Ten" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ovi" jugador="Carlos"/>
+      <gol minuto="82" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="78" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="89" equipo="Ovi" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Ray</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ray" jugador="Calderón"/>
+      <gol minuto="73" equipo="Ray" jugador="Argenta"/>
+      <gol minuto="79" equipo="Alb" jugador="Chesa"/>
+      <gol minuto="40" equipo="Alb" jugador="Cordero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/02/1993" jornada="22">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ray" jugador="Calderón"/>
+      <gol minuto="3" equipo="Ray" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ray" jugador="Polster"/>
+      <gol minuto="19" equipo="Ray" jugador="Polster"/>
+      <gol minuto="85" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="80" equipo="Bar" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Ray</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ray" jugador="Calderón"/>
+      <gol minuto="79" equipo="Cád" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 23/01/1993" jornada="19">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ray" jugador="Pedro Riesco"/>
+      <gol minuto="89" equipo="Dep" jugador="Bebeto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ray" jugador="Pedro Riesco"/>
+      <gol minuto="41" equipo="Esp" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Ray</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="Višnjić"/>
+      <gol minuto="55" equipo="Ray" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ray" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Ray</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ray" jugador="Miguel"/>
+      <gol minuto="54" equipo="Ray" jugador="Polster"/>
+      <gol minuto="38" equipo="Ovi" jugador="Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ray" jugador="Pedro Riesco"/>
+      <gol minuto="23" equipo="Ray" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/05/1993" jornada="31">
+    <local>Ray</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ray" jugador="Polster"/>
+      <gol minuto="84" equipo="Real" jugador="Pikabea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ray" jugador="Calderón"/>
+      <gol minuto="52" equipo="Rel" jugador="Fenoll"/>
+      <gol minuto="71" equipo="Ray" jugador="Marcelo Rocha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Carvajal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Ray</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ray" jugador="Polster"/>
+      <gol minuto="53" equipo="Ray" jugador="Polster"/>
+      <gol minuto="19" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="65" equipo="Spo" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Ray</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ray" jugador="Argenta"/>
+      <gol minuto="84" equipo="Ray" jugador="Pablo"/>
+      <gol minuto="64" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="59" equipo="Ten" jugador="Del Solar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/09/1992" jornada="4">
+    <local>Rea</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="52" equipo="Rea" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/10/1992" jornada="8">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="3" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/06/1993" jornada="37">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rea" jugador="Hierro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1993" jornada="20">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="15" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="74" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="64" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="33" equipo="Cád" jugador="Macedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/02/1993" jornada="24">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rea" jugador="Míchel"/>
+      <gol minuto="55" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="33" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="57" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="89" equipo="Rea" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Rea</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="89" equipo="Log" jugador="Abadía"/>
+      <gol minuto="88" equipo="Rea" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="83" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="87" equipo="Rea" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="48" equipo="Rea" jugador="Martín Vázquez"/>
+      <gol minuto="22" equipo="Ovi" jugador="Berto"/>
+      <gol minuto="79" equipo="Rea" jugador="Milla"/>
+      <gol minuto="66" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="46" equipo="Ray" jugador="Pedro Riesco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/06/1993" jornada="36">
+    <local>Rea</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Milla"/>
+      <gol minuto="89" equipo="Rea" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="70" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="85" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="32" equipo="Rea" jugador="Míchel"/>
+      <gol minuto="15" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="38" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="40" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Rea</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="89" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 08/10/1992" jornada="6">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="89" equipo="Rea" jugador="Prosinečki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="19" equipo="Rea" jugador="Sanchis"/>
+      <gol minuto="34" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="87" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Real</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Real" jugador="Alkiza"/>
+      <gol minuto="86" equipo="Real" jugador="Oceano"/>
+      <gol minuto="63" equipo="Alb" jugador="Geli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Real</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Real" jugador="Alkiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/01/1993" jornada="16">
+    <local>Real</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Real</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Real" jugador="Kodro"/>
+      <gol minuto="62" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Real</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Real" jugador="Imaz"/>
+      <gol minuto="24" equipo="Real" jugador="Fuentes"/>
+      <gol minuto="89" equipo="Real" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Real</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Real" jugador="Alkiza"/>
+      <gol minuto="43" equipo="Cel" jugador="Mosquera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1992" jornada="4">
+    <local>Real</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Dep" jugador="Claudio"/>
+      <gol minuto="85" equipo="Dep" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Real</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Real" jugador="Lumbreras"/>
+      <gol minuto="56" equipo="Real" jugador="Oceano"/>
+      <gol minuto="67" equipo="Real" jugador="Fuentes"/>
+      <gol minuto="3" equipo="Real" jugador="Kodro"/>
+      <gol minuto="72" equipo="Esp" jugador="Lluís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Real</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Real" jugador="Alaba"/>
+      <gol minuto="7" equipo="Real" jugador="Kodro"/>
+      <gol minuto="82" equipo="Real" jugador="Loinaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Real</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Real" jugador="Kodro"/>
+      <gol minuto="14" equipo="Osa" jugador="José Mari"/>
+      <gol minuto="38" equipo="Osa" jugador="Urban"/>
+      <gol minuto="79" equipo="Osa" jugador="Pascual"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Real</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Real" jugador="Oceano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Real</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Real" jugador="Kodro"/>
+      <gol minuto="54" equipo="Ray" jugador="Višnjić"/>
+      <gol minuto="84" equipo="Ray" jugador="Calderón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Real</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Real" jugador="Imaz"/>
+      <gol minuto="26" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="9" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="46" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="63" equipo="Rea" jugador="Zamorano"/>
+      <gol minuto="83" equipo="Rea" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Real</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Real" jugador="Kodro"/>
+      <gol minuto="75" equipo="Rel" jugador="Joseba Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/12/1992" jornada="14">
+    <local>Real</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Real" jugador="Alkiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1992" jornada="2">
+    <local>Real</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="3" equipo="Spo" jugador="Scotto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Real</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Real" jugador="Oceano"/>
+      <gol minuto="60" equipo="Real" jugador="Oceano"/>
+      <gol minuto="3" equipo="Real" jugador="Kodro"/>
+      <gol minuto="49" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Real</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Real" jugador="Imaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Real</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Real" jugador="Carlos Xavier"/>
+      <gol minuto="89" equipo="Zar" jugador="Aguado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Rel</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/04/1993" jornada="30">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rel" jugador="Edu"/>
+      <gol minuto="89" equipo="Ath" jugador="Eskurza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/03/1993" jornada="24">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="53" equipo="Atl" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cád" jugador="Barla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rel" jugador="Herrera"/>
+      <gol minuto="29" equipo="Cel" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rel" jugador="Boerebach"/>
+      <gol minuto="74" equipo="Esp" jugador="Lluís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Rel</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Joseba Aguirre"/>
+      <gol minuto="66" equipo="Rel" jugador="Joseba Aguirre"/>
+      <gol minuto="49" equipo="Log" jugador="Poyatos"/>
+      <gol minuto="52" equipo="Log" jugador="Poyatos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/06/1993" jornada="38">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ovi" jugador="Janković"/>
+      <gol minuto="82" equipo="Rel" jugador="Fenoll"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ray" jugador="Josete"/>
+      <gol minuto="89" equipo="Ray" jugador="Pedro Riesco"/>
+      <gol minuto="21" equipo="Ray" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Emilio"/>
+      <gol minuto="6" equipo="Rea" jugador="Martín Vázquez"/>
+      <gol minuto="66" equipo="Rea" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Rel</local>
+    <visitante>Real</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rel" jugador="Loren"/>
+      <gol minuto="50" equipo="Rel" jugador="Balint"/>
+      <gol minuto="85" equipo="Rel" jugador="Balint"/>
+      <gol minuto="35" equipo="Rel" jugador="Edu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Sev" jugador="Bango"/>
+      <gol minuto="45" equipo="Sev" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rel" jugador="Limperger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Rel</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ten" jugador="Redondo"/>
+      <gol minuto="38" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="47" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="Limperger"/>
+      <gol minuto="77" equipo="Val" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Joseba Aguirre"/>
+      <gol minuto="86" equipo="Zar" jugador="Gay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Sev</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="6" equipo="Sev" jugador="Bango"/>
+      <gol minuto="80" equipo="Sev" jugador="Maradona"/>
+      <gol minuto="23" equipo="Alb" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Simeone"/>
+      <gol minuto="20" equipo="Sev" jugador="Conte"/>
+      <gol minuto="68" equipo="Sev" jugador="Conte"/>
+      <gol minuto="70" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/11/1992" jornada="12">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="13" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="81" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Rafa Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Sev" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1992" jornada="2">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Conte"/>
+      <gol minuto="27" equipo="Dep" jugador="Fran"/>
+      <gol minuto="75" equipo="Dep" jugador="Bebeto"/>
+      <gol minuto="24" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Sev" jugador="Martagón"/>
+      <gol minuto="37" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1992" jornada="4">
+    <local>Sev</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Bango"/>
+      <gol minuto="16" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="65" equipo="Sev" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1992" jornada="13">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Sev</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Sev" jugador="Simeone"/>
+      <gol minuto="7" equipo="Ray" jugador="Josete"/>
+      <gol minuto="49" equipo="Ray" jugador="Pedro Riesco"/>
+      <gol minuto="72" equipo="Sev" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/12/1992" jornada="15">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Marcos"/>
+      <gol minuto="32" equipo="Sev" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Sev</local>
+    <visitante>Real</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Sev" jugador="Simeone"/>
+      <gol minuto="32" equipo="Sev" jugador="Conte"/>
+      <gol minuto="46" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="85" equipo="Real" jugador="Uría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Monchu"/>
+      <gol minuto="89" equipo="Rel" jugador="Edu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Sev" jugador="Maradona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/05/1993" jornada="35">
+    <local>Sev</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="Rafa Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="52" equipo="Sev" jugador="Šuker"/>
+      <gol minuto="81" equipo="Val" jugador="Fernando"/>
+      <gol minuto="20" equipo="Val" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Spo</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Spo" jugador="Emilio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="33" equipo="Ath" jugador="Garitano"/>
+      <gol minuto="12" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="43" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Spo" jugador="Juanele"/>
+      <gol minuto="86" equipo="Spo" jugador="Christiansen"/>
+      <gol minuto="84" equipo="Atl" jugador="Lukić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="78" equipo="Spo" jugador="Iordanov"/>
+      <gol minuto="1" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Spo</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Spo" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Cel" jugador="Otero"/>
+      <gol minuto="47" equipo="Cel" jugador="Ratković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Spo</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Dep" jugador="Albístegi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Esp" jugador="Korneev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Spo</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Spo" jugador="Ablanedo I"/>
+      <gol minuto="46" equipo="Log" jugador="Salenko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Spo</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ovi" jugador="Lăcătuș"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Spo</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Spo" jugador="Iván Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Spo</local>
+    <visitante>Real</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Spo" jugador="Abelardo"/>
+      <gol minuto="37" equipo="Real" jugador="Uría"/>
+      <gol minuto="52" equipo="Real" jugador="Uría"/>
+      <gol minuto="29" equipo="Real" jugador="Luis Pérez"/>
+      <gol minuto="67" equipo="Real" jugador="Luis Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Sev" jugador="Conte"/>
+      <gol minuto="73" equipo="Sev" jugador="Conte"/>
+      <gol minuto="21" equipo="Sev" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/02/1993" jornada="23">
+    <local>Spo</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Spo" jugador="Iordanov"/>
+      <gol minuto="67" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="45" equipo="Ten" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Spo" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/05/1993" jornada="32">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Spo" jugador="Manjarín"/>
+      <gol minuto="74" equipo="Spo" jugador="Christiansen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1993" jornada="24">
+    <local>Ten</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="45" equipo="Alb" jugador="Cordero"/>
+      <gol minuto="40" equipo="Alb" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1993" jornada="28">
+    <local>Ten</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="56" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="60" equipo="Ath" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1993" jornada="20">
+    <local>Ten</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Ten" jugador="Chano"/>
+      <gol minuto="19" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="51" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="61" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1992" jornada="2">
+    <local>Ten</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="83" equipo="Ten" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1992" jornada="12">
+    <local>Ten</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ten" jugador="Pier"/>
+      <gol minuto="24" equipo="Cád" jugador="Fali"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1993" jornada="34">
+    <local>Ten</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ten" jugador="César Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/10/1992" jornada="6">
+    <local>Ten</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="60" equipo="Ten" jugador="Redondo"/>
+      <gol minuto="24" equipo="Ten" jugador="Chano"/>
+      <gol minuto="3" equipo="Dep" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1993" jornada="30">
+    <local>Ten</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="4" equipo="Ten" jugador="Pizzi"/>
+      <gol minuto="32" equipo="Esp" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1992" jornada="8">
+    <local>Ten</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ten" jugador="Pizzi"/>
+      <gol minuto="85" equipo="Log" jugador="Linde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Ten</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ten" jugador="Dertycia"/>
+      <gol minuto="61" equipo="Ten" jugador="Quique Estebaranz"/>
+      <gol minuto="80" equipo="Osa" jugador="Urban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1993" jornada="32">
+    <local>Ten</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ovi" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Ten</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ten" jugador="Pier"/>
+      <gol minuto="64" equipo="Ten" jugador="Pizzi"/>
+      <gol minuto="84" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Ten</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ten" jugador="Chano"/>
+      <gol minuto="11" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Ten</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/02/1993" jornada="22">
+    <local>Ten</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ten" jugador="César Gómez"/>
+      <gol minuto="37" equipo="Ten" jugador="Chano"/>
+      <gol minuto="89" equipo="Ten" jugador="Dertycia"/>
+      <gol minuto="48" equipo="Rel" jugador="Tendillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Ten</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="10" rojas="3"/>
+    <goleadores>
+      <gol minuto="71" equipo="Ten" jugador="Dertycia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1992" jornada="4">
+    <local>Ten</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Spo" jugador="Muñiz"/>
+      <gol minuto="67" equipo="Spo" jugador="Iván Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1993" jornada="26">
+    <local>Ten</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/11/1992" jornada="10">
+    <local>Ten</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ten" jugador="Ezequiel Castillo"/>
+      <gol minuto="8" equipo="Ten" jugador="Pier"/>
+      <gol minuto="88" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="14" equipo="Zar" jugador="Seba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1992" jornada="11">
+    <local>Val</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="56" equipo="Val" jugador="Penev"/>
+      <gol minuto="79" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/05/1993" jornada="34">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Tomás"/>
+      <gol minuto="55" equipo="Val" jugador="Eloy"/>
+      <gol minuto="62" equipo="Val" jugador="Penev"/>
+      <gol minuto="89" equipo="Ath" jugador="Carlos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/05/1993" jornada="32">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/03/1993" jornada="27">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Fernando"/>
+      <gol minuto="75" equipo="Val" jugador="Álvaro Cervera"/>
+      <gol minuto="2" equipo="Bar" jugador="Nadal"/>
+      <gol minuto="64" equipo="Bar" jugador="Laudrup"/>
+      <gol minuto="87" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="53" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1993" jornada="18">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Val" jugador="Fernando"/>
+      <gol minuto="89" equipo="Val" jugador="Fernando"/>
+      <gol minuto="80" equipo="Val" jugador="Robert"/>
+      <gol minuto="12" equipo="Val" jugador="Penev"/>
+      <gol minuto="76" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Álvaro Cervera"/>
+      <gol minuto="72" equipo="Cel" jugador="Ratković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/05/1993" jornada="31">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Val" jugador="Penev"/>
+      <gol minuto="29" equipo="Val" jugador="Penev"/>
+      <gol minuto="46" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/06/1993" jornada="36">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Val" jugador="Juan Sánchez"/>
+      <gol minuto="81" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1992" jornada="14">
+    <local>Val</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Camarasa"/>
+      <gol minuto="2" equipo="Val" jugador="Penev"/>
+      <gol minuto="16" equipo="Log" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Val" jugador="Robert"/>
+      <gol minuto="70" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1993" jornada="38">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Ibáñez"/>
+      <gol minuto="59" equipo="Val" jugador="Tomás"/>
+      <gol minuto="89" equipo="Val" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/09/1992" jornada="1">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Val" jugador="Penev"/>
+      <gol minuto="47" equipo="Rea" jugador="Míchel"/>
+      <gol minuto="89" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Val</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="64" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1992" jornada="9">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Val" jugador="Leonardo"/>
+      <gol minuto="40" equipo="Val" jugador="Fernando"/>
+      <gol minuto="4" equipo="Val" jugador="Eloy"/>
+      <gol minuto="20" equipo="Val" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/09/1992" jornada="3">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Val" jugador="Tomás"/>
+      <gol minuto="39" equipo="Sev" jugador="Simeone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Fernando"/>
+      <gol minuto="66" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Val</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Arroyo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1993" jornada="16">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1993" jornada="33">
+    <local>Zar</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Alb" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1993" jornada="37">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="58" equipo="Ath" jugador="Valverde"/>
+      <gol minuto="2" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1993" jornada="19">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Zar" jugador="Gay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1992" jornada="11">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="6"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Koeman"/>
+      <gol minuto="41" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="51" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="67" equipo="Bar" jugador="Stoichkov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1993" jornada="21">
+    <local>Zar</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1992" jornada="5">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1992" jornada="15">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Dep" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/09/1992" jornada="1">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1993" jornada="17">
+    <local>Zar</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="60" equipo="Log" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1992" jornada="7">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Zar" jugador="Gay"/>
+      <gol minuto="24" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="43" equipo="Osa" jugador="Martín Domínguez"/>
+      <gol minuto="39" equipo="Zar" jugador="Moisés"/>
+      <gol minuto="63" equipo="Osa" jugador="Aguilà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1992" jornada="3">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Zar" jugador="Gay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1993" jornada="23">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="25" equipo="Zar" jugador="Gay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1992" jornada="9">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rea" jugador="Zamorano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1993" jornada="27">
+    <local>Zar</local>
+    <visitante>Real</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Real" jugador="Carlos Xavier"/>
+      <gol minuto="48" equipo="Zar" jugador="García Sanjuán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1993" jornada="31">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="37" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="55" equipo="Rel" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1993" jornada="25">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="30" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="18" equipo="Sev" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1992" jornada="13">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="89" equipo="Spo" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1993" jornada="29">
+    <local>Zar</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="29" equipo="Ten" jugador="Pizzi"/>
+      <gol minuto="54" equipo="Ten" jugador="Pizzi"/>
+      <gol minuto="52" equipo="Zar" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1993" jornada="35">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="45" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="73" equipo="Val" jugador="Penev"/>
+    </goleadores>
+  </partido>
+</liga>

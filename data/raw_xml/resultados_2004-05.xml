@@ -1,0 +1,3845 @@
+<?xml version="1.0" ?>
+<liga temporada="2004-05">
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Alb</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Alb" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Alb</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Atl" jugador="Ibagaza"/>
+      <gol minuto="85" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2004" jornada="15">
+    <local>Alb</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Alb" jugador="Mark González"/>
+      <gol minuto="1" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="85" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2004" jornada="10">
+    <local>Alb</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Alb</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Dep" jugador="Coloccini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Alb</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Alb" jugador="Redondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Alb</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="49" equipo="Alb" jugador="Buades"/>
+      <gol minuto="85" equipo="Get" jugador="Gabi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Alb</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Alb" jugador="Mark González"/>
+      <gol minuto="50" equipo="Alb" jugador="Redondo"/>
+      <gol minuto="38" equipo="Alb" jugador="Francisco"/>
+      <gol minuto="59" equipo="Lev" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Alb</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="53" equipo="Mál" jugador="Duda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Alb</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Alb</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Alb" jugador="Mark González"/>
+      <gol minuto="85" equipo="Num" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Alb</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Alb</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Alb</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Alb" jugador="Redondo"/>
+      <gol minuto="14" equipo="Rea" jugador="Iván Helguera"/>
+      <gol minuto="45" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Alb</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="32" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="82" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="90" equipo="Rel" jugador="Gari Uranga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Alb</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Renato"/>
+      <gol minuto="45" equipo="Sev" jugador="Antoñito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2004" jornada="14">
+    <local>Alb</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Alb</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="86" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="34" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="31" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Alb</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Zar" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Ath</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="40" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="12" equipo="Alb" jugador="Rubén Castro"/>
+      <gol minuto="94" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2004" jornada="15">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/10/2004" jornada="9">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="10" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="47" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="32" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="34" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="11" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="4" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="24" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="79" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Iraola"/>
+      <gol minuto="56" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="92" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="30" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/03/2005" jornada="25">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="64" equipo="Get" jugador="Kome"/>
+      <gol minuto="79" equipo="Get" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="52" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="72" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="87" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="76" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="10" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Ath</local>
+    <visitante>Num</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Num" jugador="Carlos Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2005" jornada="20">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="64" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="58" equipo="Osa" jugador="Puñal"/>
+      <gol minuto="14" equipo="Osa" jugador="Pablo García"/>
+      <gol minuto="47" equipo="Osa" jugador="Webó"/>
+      <gol minuto="90" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="85" equipo="Ath" jugador="Tiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2004" jornada="13">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="6" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="62" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2004" jornada="5">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="10" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="51" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2005" jornada="31">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="36" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="93" equipo="Ath" jugador="Tiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="6" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="77" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="87" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2004" jornada="2">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="65" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="76" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="52" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="60" equipo="Vil" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2005" jornada="35">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="54" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2005" jornada="21">
+    <local>Atl</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Pablo Ibáñez"/>
+      <gol minuto="28" equipo="Atl" jugador="Ibagaza"/>
+      <gol minuto="10" equipo="Alb" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2005" jornada="34">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Colsa"/>
+      <gol minuto="65" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="22" equipo="Bar" jugador="Van Bronckhorst"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2005" jornada="32">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Núñez"/>
+      <gol minuto="90" equipo="Atl" jugador="Núñez"/>
+      <gol minuto="54" equipo="Get" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 28/08/2004" jornada="1">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Salva"/>
+      <gol minuto="85" equipo="Atl" jugador="Salva"/>
+      <gol minuto="87" equipo="Atl" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Atl</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="Pablo Ibáñez"/>
+      <gol minuto="77" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Salva"/>
+      <gol minuto="16" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="45" equipo="Osa" jugador="Valdo"/>
+      <gol minuto="73" equipo="Osa" jugador="Morales"/>
+      <gol minuto="54" equipo="Atl" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Solari"/>
+      <gol minuto="14" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="83" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2005" jornada="25">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2005" jornada="27">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Antonio López"/>
+      <gol minuto="36" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="16" equipo="Atl" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2004" jornada="5">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Atl" jugador="Salva"/>
+      <gol minuto="2" equipo="Zar" jugador="Sávio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Bar</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="91" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2005" jornada="28">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Deco"/>
+      <gol minuto="38" equipo="Bar" jugador="Giuly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="74" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="39" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="90" equipo="Bar" jugador="Van Bronckhorst"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2004" jornada="10">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="35" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="6" equipo="Dep" jugador="Fran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 01/03/2005" jornada="26">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="29" equipo="Bar" jugador="Ronaldinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/12/2004" jornada="17">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Deco"/>
+      <gol minuto="86" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="60" equipo="Lev" jugador="Jofre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2004" jornada="14">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Deco"/>
+      <gol minuto="60" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="24" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="89" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2005" jornada="24">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Deco"/>
+      <gol minuto="16" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Bar</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Larsson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="90" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2005" jornada="20">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Deco"/>
+      <gol minuto="74" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="7" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2004" jornada="12">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Van Bronckhorst"/>
+      <gol minuto="23" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2004" jornada="2">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="79" equipo="Bar" jugador="Larsson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2004" jornada="16">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Fiore"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="37" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="48" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="17" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="86" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2004" jornada="4">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="26" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="46" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="14" equipo="Zar" jugador="Villa"/>
+      <gol minuto="78" equipo="Bar" jugador="Van Bronckhorst"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2005" jornada="29">
+    <local>Bet</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Rivas"/>
+      <gol minuto="50" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="74" equipo="Alb" jugador="Mark González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="58" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="38" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/12/2004" jornada="17">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2004" jornada="11">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bet" jugador="Edú"/>
+      <gol minuto="68" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="71" equipo="Bar" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="56" equipo="Bet" jugador="Assunção"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Edú"/>
+      <gol minuto="19" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="51" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="65" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="42" equipo="Esp" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bet" jugador="Rivas"/>
+      <gol minuto="47" equipo="Get" jugador="Pernía"/>
+      <gol minuto="15" equipo="Get" jugador="Vivar Dorado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bet" jugador="Edú"/>
+      <gol minuto="31" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="67" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="24" equipo="Lev" jugador="Rivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Bet</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="43" equipo="Mál" jugador="Gerardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bet" jugador="Edú"/>
+      <gol minuto="85" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Bet</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="24" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="45" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="47" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bet" jugador="Rivas"/>
+      <gol minuto="11" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="81" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="18" equipo="Osa" jugador="Valdo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bet" jugador="Edú"/>
+      <gol minuto="71" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="90" equipo="Rac" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2004" jornada="7">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="65" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="52" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="4" equipo="Rel" jugador="Labaka"/>
+      <gol minuto="66" equipo="Rel" jugador="Barkero"/>
+      <gol minuto="87" equipo="Rel" jugador="Gari Uranga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2005" jornada="35">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2004" jornada="6">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bet" jugador="Edú"/>
+      <gol minuto="9" equipo="Val" jugador="Di Vaio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="39" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="54" equipo="Vil" jugador="Guayre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2005" jornada="37">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="81" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="68" equipo="Bet" jugador="Oliveira"/>
+      <gol minuto="35" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="90" equipo="Zar" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Dep</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Orbaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Dep" jugador="Capdevila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2005" jornada="29">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Giuly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2004" jornada="5">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Dep" jugador="Víctor"/>
+      <gol minuto="61" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Dep" jugador="Andrade"/>
+      <gol minuto="22" equipo="Dep" jugador="Tristán"/>
+      <gol minuto="17" equipo="Esp" jugador="Fredson"/>
+      <gol minuto="81" equipo="Dep" jugador="Valerón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2004" jornada="7">
+    <local>Dep</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Dep" jugador="Sergio"/>
+      <gol minuto="90" equipo="Get" jugador="Mario Cotelo"/>
+      <gol minuto="72" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Dep</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Mal" jugador="Farinós"/>
+      <gol minuto="68" equipo="Mal" jugador="Ōkubo"/>
+      <gol minuto="37" equipo="Mal" jugador="Arango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Dep</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="80" equipo="Num" jugador="Carlos Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="62" equipo="Osa" jugador="Milošević"/>
+      <gol minuto="80" equipo="Osa" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Dep" jugador="Luque"/>
+      <gol minuto="58" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="63" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="83" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="70" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2005" jornada="25">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Dep" jugador="Luque"/>
+      <gol minuto="27" equipo="Dep" jugador="Munitis"/>
+      <gol minuto="32" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="51" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="93" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="42" equipo="Sev" jugador="Carlitos"/>
+      <gol minuto="51" equipo="Dep" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Dep" jugador="Pandiani"/>
+      <gol minuto="44" equipo="Val" jugador="Rufete"/>
+      <gol minuto="43" equipo="Val" jugador="Vicente"/>
+      <gol minuto="51" equipo="Val" jugador="Baraja"/>
+      <gol minuto="18" equipo="Val" jugador="Corradi"/>
+      <gol minuto="35" equipo="Val" jugador="Di Vaio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Vil" jugador="Arzo"/>
+      <gol minuto="64" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Dep" jugador="Pablo Amo"/>
+      <gol minuto="51" equipo="Dep" jugador="Luque"/>
+      <gol minuto="56" equipo="Zar" jugador="Milito"/>
+      <gol minuto="35" equipo="Zar" jugador="Cani"/>
+      <gol minuto="68" equipo="Zar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2005" jornada="25">
+    <local>Esp</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="22" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="58" equipo="Alb" jugador="Pacheco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Lopo"/>
+      <gol minuto="33" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2004" jornada="13">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Dani"/>
+      <gol minuto="55" equipo="Atl" jugador="Nano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2004" jornada="7">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Deco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Esp" jugador="De la Peña"/>
+      <gol minuto="50" equipo="Bet" jugador="Assunção"/>
+      <gol minuto="86" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2004" jornada="1">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Soldevilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="Amavisca"/>
+      <gol minuto="65" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="23" equipo="Lev" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="De la Peña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Esp" jugador="Pochettino"/>
+      <gol minuto="35" equipo="Esp" jugador="Òscar Serrano"/>
+      <gol minuto="60" equipo="Mal" jugador="Pereyra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Esp</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Esp" jugador="Amavisca"/>
+      <gol minuto="57" equipo="Esp" jugador="Coro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="De la Peña"/>
+      <gol minuto="32" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="37" equipo="Esp" jugador="Fredson"/>
+      <gol minuto="83" equipo="Esp" jugador="Fredson"/>
+      <gol minuto="16" equipo="Osa" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Esp" jugador="Dani"/>
+      <gol minuto="55" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2004" jornada="3">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2005" jornada="29">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="77" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Jordi López"/>
+      <gol minuto="17" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="73" equipo="Esp" jugador="Soriano"/>
+      <gol minuto="90" equipo="Sev" jugador="Dani Alves"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Val" jugador="Rufete"/>
+      <gol minuto="90" equipo="Esp" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="34" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="90" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="60" equipo="Zar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Get</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Get" jugador="Vivar Dorado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Get" jugador="Pachón"/>
+      <gol minuto="60" equipo="Get" jugador="Pachón"/>
+      <gol minuto="64" equipo="Get" jugador="Pachón"/>
+      <gol minuto="51" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2005" jornada="19">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Get" jugador="Pachón"/>
+      <gol minuto="35" equipo="Atl" jugador="Jorge Larena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2004" jornada="13">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Deco"/>
+      <gol minuto="20" equipo="Bar" jugador="Márquez"/>
+      <gol minuto="59" equipo="Get" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bet" jugador="Rivas"/>
+      <gol minuto="75" equipo="Bet" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Get</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Get" jugador="Gabi"/>
+      <gol minuto="41" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Get" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Get</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Get" jugador="Gallardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Get" jugador="Nano Rivas"/>
+      <gol minuto="39" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="52" equipo="Mal" jugador="Arango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Get</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Get" jugador="Kome"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Get</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Get" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Get" jugador="Albiol"/>
+      <gol minuto="47" equipo="Get" jugador="Riki"/>
+      <gol minuto="86" equipo="Rea" jugador="Solari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Get" jugador="Míchel"/>
+      <gol minuto="42" equipo="Get" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Get" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Get" jugador="Nano Rivas"/>
+      <gol minuto="7" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="58" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Get</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Get" jugador="Nano Rivas"/>
+      <gol minuto="35" equipo="Get" jugador="Mario Cotelo"/>
+      <gol minuto="12" equipo="Get" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2004" jornada="16">
+    <local>Lev</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Lev" jugador="Culebras"/>
+      <gol minuto="30" equipo="Alb" jugador="Gaspar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Lev" jugador="Jesule"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/05/2005" jornada="36">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Lev" jugador="Rivera"/>
+      <gol minuto="60" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Lev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Esp" jugador="Lopo"/>
+      <gol minuto="51" equipo="Esp" jugador="Òscar Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Lev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Mál" jugador="Baiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Lev" jugador="Sergio García"/>
+      <gol minuto="26" equipo="Lev" jugador="Manchev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Lev</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Lev" jugador="Ettien"/>
+      <gol minuto="22" equipo="Num" jugador="Graff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="22" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="36" equipo="Lev" jugador="Manchev"/>
+      <gol minuto="63" equipo="Lev" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Lev</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Lev" jugador="Nacho"/>
+      <gol minuto="88" equipo="Lev" jugador="Ettien"/>
+      <gol minuto="18" equipo="Rac" jugador="Aganzo"/>
+      <gol minuto="47" equipo="Lev" jugador="Manchev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="83" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Lev" jugador="Nacho"/>
+      <gol minuto="47" equipo="Lev" jugador="Congo"/>
+      <gol minuto="53" equipo="Rel" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Makukula"/>
+      <gol minuto="32" equipo="Sev" jugador="Antoñito"/>
+      <gol minuto="84" equipo="Sev" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Lev" jugador="Rivera"/>
+      <gol minuto="88" equipo="Vil" jugador="Senna"/>
+      <gol minuto="3" equipo="Vil" jugador="Guayre"/>
+      <gol minuto="27" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="60" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="71" equipo="Lev" jugador="Reggi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Lev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Mál</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Alb" jugador="Momo"/>
+      <gol minuto="9" equipo="Alb" jugador="Viaud"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Mál" jugador="Juan Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Mál" jugador="Juan Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Oleguer"/>
+      <gol minuto="33" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="67" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="89" equipo="Bar" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2005" jornada="28">
+    <local>Mál</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="4" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="17" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2004" jornada="8">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Mál" jugador="Wanchope"/>
+      <gol minuto="85" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Mál" jugador="Juanito"/>
+      <gol minuto="26" equipo="Mál" jugador="Miguel Ángel"/>
+      <gol minuto="8" equipo="Mál" jugador="Juan Rodríguez"/>
+      <gol minuto="72" equipo="Esp" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Mál</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="32" equipo="Get" jugador="Nano Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Mál</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mál" jugador="Amoroso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Mál</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Mál</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Mál" jugador="Miguel Ángel"/>
+      <gol minuto="20" equipo="Mál" jugador="Amoroso"/>
+      <gol minuto="8" equipo="Mál" jugador="Wanchope"/>
+      <gol minuto="67" equipo="Num" jugador="Ochoa"/>
+      <gol minuto="89" equipo="Mál" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mál" jugador="Wanchope"/>
+      <gol minuto="23" equipo="Mál" jugador="Amoroso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Mál</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="90" equipo="Mál" jugador="Amoroso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Mál" jugador="Valcarce"/>
+      <gol minuto="59" equipo="Rel" jugador="Labaka"/>
+      <gol minuto="70" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="81" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="11" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="51" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/2005" jornada="19">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/11/2004" jornada="12">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Xisco"/>
+      <gol minuto="45" equipo="Val" jugador="Corradi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Mál</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Vil" jugador="Riquelme"/>
+      <gol minuto="65" equipo="Vil" jugador="Cazorla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Mál</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Mal</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mal" jugador="Tuni"/>
+      <gol minuto="27" equipo="Alb" jugador="Mark González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Ōkubo"/>
+      <gol minuto="48" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="63" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="30" equipo="Ath" jugador="Gurpegui"/>
+      <gol minuto="58" equipo="Ath" jugador="Orbaiz"/>
+      <gol minuto="27" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2004" jornada="11">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Mal" jugador="Arango"/>
+      <gol minuto="83" equipo="Atl" jugador="Colsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="10" equipo="Bar" jugador="Larsson"/>
+      <gol minuto="77" equipo="Mal" jugador="Delibašić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Mal" jugador="Pereyra"/>
+      <gol minuto="53" equipo="Bet" jugador="Assunção"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mal" jugador="Ōkubo"/>
+      <gol minuto="56" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="50" equipo="Dep" jugador="Luque"/>
+      <gol minuto="62" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Campano"/>
+      <gol minuto="81" equipo="Mal" jugador="Campano"/>
+      <gol minuto="10" equipo="Esp" jugador="Ibarra"/>
+      <gol minuto="89" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="70" equipo="Mal" jugador="Arango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="36" equipo="Mal" jugador="Arango"/>
+      <gol minuto="25" equipo="Get" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2005" jornada="25">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="81" equipo="Lev" jugador="Jofre"/>
+      <gol minuto="64" equipo="Lev" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Mal</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="82" equipo="Mál" jugador="Wanchope"/>
+      <gol minuto="70" equipo="Mal" jugador="Delibašić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Mal</local>
+    <visitante>Num</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="87" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="80" equipo="Mal" jugador="Delibašić"/>
+      <gol minuto="20" equipo="Num" jugador="Tevenet"/>
+      <gol minuto="55" equipo="Num" jugador="Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Osa" jugador="Valdo"/>
+      <gol minuto="41" equipo="Osa" jugador="Valdo"/>
+      <gol minuto="80" equipo="Mal" jugador="Perera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Mal" jugador="Jorge López"/>
+      <gol minuto="3" equipo="Rac" jugador="Pedro López"/>
+      <gol minuto="90" equipo="Rac" jugador="Benayoun"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="15" equipo="Mal" jugador="Romeo"/>
+      <gol minuto="54" equipo="Mal" jugador="Romeo"/>
+      <gol minuto="7" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="16" equipo="Rel" jugador="Gari Uranga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mal" jugador="Luis García"/>
+      <gol minuto="22" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="85" equipo="Zar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Num</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/01/2005" jornada="18">
+    <local>Num</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Num" jugador="Tevenet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2005" jornada="31">
+    <local>Num</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Num" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2005" jornada="25">
+    <local>Num</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Num" jugador="Juanlu"/>
+      <gol minuto="46" equipo="Bar" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2004" jornada="1">
+    <local>Num</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Num" jugador="Juanlu"/>
+      <gol minuto="45" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Num</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Num</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Num</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Num" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Num</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Num" jugador="Jaime Molina"/>
+      <gol minuto="64" equipo="Lev" jugador="Nacho"/>
+      <gol minuto="59" equipo="Lev" jugador="Sergio García"/>
+      <gol minuto="30" equipo="Lev" jugador="Manchev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Num</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Juan Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Num</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Mal" jugador="Iuliano"/>
+      <gol minuto="55" equipo="Mal" jugador="Víctor Casadesús"/>
+      <gol minuto="80" equipo="Num" jugador="Carlos Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Num</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Num" jugador="Miguel Pérez"/>
+      <gol minuto="12" equipo="Osa" jugador="Juanma Ortiz"/>
+      <gol minuto="16" equipo="Osa" jugador="Aloisi"/>
+      <gol minuto="72" equipo="Num" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Num</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Num" jugador="Tarantino"/>
+      <gol minuto="5" equipo="Num" jugador="Pablo Sanz"/>
+      <gol minuto="24" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="44" equipo="Rac" jugador="Aganzo"/>
+      <gol minuto="53" equipo="Rac" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Num</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Num" jugador="Miguel"/>
+      <gol minuto="82" equipo="Rea" jugador="Míchel Salgado"/>
+      <gol minuto="62" equipo="Rea" jugador="Beckham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Num</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rel" jugador="Labaka"/>
+      <gol minuto="80" equipo="Rel" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Num</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Num" jugador="Antonio"/>
+      <gol minuto="82" equipo="Num" jugador="Osorio"/>
+      <gol minuto="63" equipo="Sev" jugador="Puerta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2005" jornada="34">
+    <local>Num</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Num" jugador="Tevenet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Num</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Num" jugador="Carlos Merino"/>
+      <gol minuto="27" equipo="Vil" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Num</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Num" jugador="Osorio"/>
+      <gol minuto="32" equipo="Num" jugador="Osorio"/>
+      <gol minuto="37" equipo="Zar" jugador="Milito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Osa</local>
+    <visitante>Alb</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Osa" jugador="Valdo"/>
+      <gol minuto="19" equipo="Osa" jugador="Puñal"/>
+      <gol minuto="41" equipo="Alb" jugador="Buades"/>
+      <gol minuto="51" equipo="Alb" jugador="Redondo"/>
+      <gol minuto="65" equipo="Osa" jugador="David López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Osa" jugador="Milošević"/>
+      <gol minuto="16" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/04/2005" jornada="33">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Osa" jugador="Aloisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2005" jornada="27">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2004" jornada="3">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Osa" jugador="Aloisi"/>
+      <gol minuto="82" equipo="Osa" jugador="Milošević"/>
+      <gol minuto="33" equipo="Bet" jugador="Melli"/>
+      <gol minuto="64" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Dep" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2005" jornada="37">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Osa" jugador="Moha"/>
+      <gol minuto="44" equipo="Osa" jugador="Milošević"/>
+      <gol minuto="45" equipo="Get" jugador="Pachón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Lev" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2005" jornada="25">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="6"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Osa" jugador="Aloisi"/>
+      <gol minuto="12" equipo="Mál" jugador="Duda"/>
+      <gol minuto="79" equipo="Mál" jugador="Juan Rodríguez"/>
+      <gol minuto="3" equipo="Mál" jugador="Miguel Ángel"/>
+      <gol minuto="38" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="51" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="81" equipo="Mál" jugador="Wanchope"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2005" jornada="35">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Osa" jugador="Milošević"/>
+      <gol minuto="33" equipo="Mal" jugador="Farinós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Osa</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Osa" jugador="Morales"/>
+      <gol minuto="68" equipo="Osa" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Osa" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Osa" jugador="Webó"/>
+      <gol minuto="79" equipo="Rea" jugador="Iván Helguera"/>
+      <gol minuto="76" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Osa" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Osa" jugador="Muñoz"/>
+      <gol minuto="85" equipo="Osa" jugador="Morales"/>
+      <gol minuto="56" equipo="Osa" jugador="Webó"/>
+      <gol minuto="37" equipo="Sev" jugador="Carlitos"/>
+      <gol minuto="90" equipo="Osa" jugador="Moha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Jueves 28/04/2005" jornada="29">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Osa" jugador="Webó"/>
+      <gol minuto="73" equipo="Vil" jugador="Sorín"/>
+      <gol minuto="8" equipo="Vil" jugador="Senna"/>
+      <gol minuto="66" equipo="Osa" jugador="Juanma Ortiz"/>
+      <gol minuto="89" equipo="Osa" jugador="Aloisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Osa" jugador="Morales"/>
+      <gol minuto="14" equipo="Zar" jugador="Óscar González"/>
+      <gol minuto="64" equipo="Zar" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Rac</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rac" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="99" equipo="Ath" jugador="Tiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="50" equipo="Rac" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bar" jugador="Giuly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="80" equipo="Bet" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="22" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="90" equipo="Dep" jugador="Pandiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="43" equipo="Esp" jugador="Jarque"/>
+      <gol minuto="49" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Rac</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rac" jugador="Ayoze"/>
+      <gol minuto="36" equipo="Rac" jugador="Arizmendi"/>
+      <gol minuto="52" equipo="Get" jugador="Vivar Dorado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Rac</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="60" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="53" equipo="Lev" jugador="Nacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Rac</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="25" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="86" equipo="Mál" jugador="César Navas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rac" jugador="Anderson Silva"/>
+      <gol minuto="51" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="4" equipo="Rac" jugador="Aganzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Rac</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rac" jugador="Morán"/>
+      <gol minuto="87" equipo="Rac" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="19" equipo="Osa" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2004" jornada="16">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rac" jugador="Javi Guerrero"/>
+      <gol minuto="23" equipo="Rac" jugador="Benayoun"/>
+      <gol minuto="92" equipo="Rea" jugador="Zidane"/>
+      <gol minuto="34" equipo="Rea" jugador="Owen"/>
+      <gol minuto="60" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rac" jugador="Anderson Silva"/>
+      <gol minuto="8" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="10" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="35" equipo="Rel" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Rac" jugador="Juanma"/>
+      <gol minuto="59" equipo="Vil" jugador="Sonny Anderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/2004" jornada="11">
+    <local>Rea</local>
+    <visitante>Alb</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Samuel"/>
+      <gol minuto="27" equipo="Rea" jugador="Zidane"/>
+      <gol minuto="31" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="2" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="90" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="15" equipo="Alb" jugador="Francisco"/>
+      <gol minuto="88" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2005" jornada="24">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Iraola"/>
+      <gol minuto="57" equipo="Ath" jugador="Del Horno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/05/2005" jornada="37">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Zidane"/>
+      <gol minuto="65" equipo="Rea" jugador="Owen"/>
+      <gol minuto="45" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="19" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="73" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="28" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Iván Helguera"/>
+      <gol minuto="40" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="19" equipo="Rea" jugador="Owen"/>
+      <gol minuto="59" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Dep" jugador="Luque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2005" jornada="22">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rea" jugador="Zidane"/>
+      <gol minuto="29" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="75" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="84" equipo="Rea" jugador="Gravesen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Owen"/>
+      <gol minuto="78" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Figo"/>
+      <gol minuto="55" equipo="Rea" jugador="Beckham"/>
+      <gol minuto="43" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="51" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="86" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Roberto Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rea" jugador="Samuel"/>
+      <gol minuto="41" equipo="Mal" jugador="Campano"/>
+      <gol minuto="90" equipo="Rea" jugador="Solari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2004" jornada="2">
+    <local>Rea</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rea" jugador="Beckham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2004" jornada="4">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Beckham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2005" jornada="35">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Owen"/>
+      <gol minuto="53" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="71" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="90" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="72" equipo="Rel" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Sev" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2004" jornada="8">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/04/2005" jornada="33">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rea" jugador="Míchel Salgado"/>
+      <gol minuto="69" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2005" jornada="19">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="53" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="20" equipo="Zar" jugador="Villa"/>
+      <gol minuto="85" equipo="Rea" jugador="Owen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Rel</local>
+    <visitante>Alb</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="48" equipo="Alb" jugador="Pacheco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rel" jugador="Gabilondo"/>
+      <gol minuto="56" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="70" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="39" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="42" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2004" jornada="6">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/05/2005" jornada="38">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/12/2004" jornada="14">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2005" jornada="32">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rel" jugador="Gari Uranga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Esp" jugador="Maxi Rodríguez"/>
+      <gol minuto="76" equipo="Esp" jugador="Maxi Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="41" equipo="Lev" jugador="Harte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Edgar"/>
+      <gol minuto="57" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="67" equipo="Mál" jugador="Baiano"/>
+      <gol minuto="82" equipo="Rel" jugador="Agirretxe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mal" jugador="Arango"/>
+      <gol minuto="84" equipo="Rel" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Rel</local>
+    <visitante>Num</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="86" equipo="Rel" jugador="Barkero"/>
+      <gol minuto="50" equipo="Num" jugador="Tevenet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2005" jornada="30">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rel" jugador="Karpin"/>
+      <gol minuto="42" equipo="Rel" jugador="Gari Uranga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2005" jornada="34">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Ronaldo"/>
+      <gol minuto="90" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2005" jornada="24">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2005" jornada="22">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Aranburu"/>
+      <gol minuto="45" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="90" equipo="Rel" jugador="Nihat"/>
+      <gol minuto="82" equipo="Val" jugador="Baraja"/>
+      <gol minuto="8" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="89" equipo="Val" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Vil" jugador="Riquelme"/>
+      <gol minuto="57" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="81" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="90" equipo="Vil" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Zar" jugador="Zapater"/>
+      <gol minuto="75" equipo="Rel" jugador="Barkero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Sev</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Sev" jugador="Renato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="66" equipo="Sev" jugador="Carlitos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Sev" jugador="Aitor Ocio"/>
+      <gol minuto="52" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="86" equipo="Atl" jugador="Pablo Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/2005" jornada="21">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="74" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="48" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Sev" jugador="Javi Navarro"/>
+      <gol minuto="3" equipo="Sev" jugador="Dani Alves"/>
+      <gol minuto="43" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="13" equipo="Sev" jugador="Adriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Sev" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2005" jornada="18">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Sev" jugador="Renato"/>
+      <gol minuto="46" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="54" equipo="Sev" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Mál" jugador="Duda"/>
+      <gol minuto="90" equipo="Mál" jugador="Baiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Sev" jugador="Antonio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2005" jornada="30">
+    <local>Sev</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Sev" jugador="Adriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2005" jornada="32">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Osa" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2005" jornada="25">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="84" equipo="Rac" jugador="Regueiro"/>
+      <gol minuto="41" equipo="Rac" jugador="Aganzo"/>
+      <gol minuto="77" equipo="Sev" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/05/2005" jornada="36">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Sergio Ramos"/>
+      <gol minuto="88" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="74" equipo="Rea" jugador="Zidane"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Sergio Ramos"/>
+      <gol minuto="66" equipo="Sev" jugador="Darío Silva"/>
+      <gol minuto="34" equipo="Rel" jugador="Rossato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Jesuli"/>
+      <gol minuto="45" equipo="Val" jugador="David Navarro"/>
+      <gol minuto="61" equipo="Val" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2005" jornada="23">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Zar" jugador="Milito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2005" jornada="33">
+    <local>Val</local>
+    <visitante>Alb</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Angulo"/>
+      <gol minuto="69" equipo="Val" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="60" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="73" equipo="Val" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2004" jornada="9">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Angulo"/>
+      <gol minuto="77" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2005" jornada="35">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="29" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2005" jornada="25">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Baraja"/>
+      <gol minuto="71" equipo="Val" jugador="Mista"/>
+      <gol minuto="13" equipo="Bet" jugador="Assunção"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2005" jornada="23">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="45" equipo="Dep" jugador="Scaloni"/>
+      <gol minuto="72" equipo="Dep" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2004" jornada="17">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Val" jugador="Baraja"/>
+      <gol minuto="81" equipo="Val" jugador="Mista"/>
+      <gol minuto="87" equipo="Val" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Val" jugador="Rufete"/>
+      <gol minuto="35" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="74" equipo="Get" jugador="Pernía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2005" jornada="18">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Baraja"/>
+      <gol minuto="59" equipo="Val" jugador="Mista"/>
+      <gol minuto="73" equipo="Lev" jugador="Congo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2005" jornada="31">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="45" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="93" equipo="Mál" jugador="Duda"/>
+      <gol minuto="33" equipo="Mál" jugador="Baiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2004" jornada="13">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Moretti"/>
+      <gol minuto="64" equipo="Val" jugador="Baraja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2004" jornada="15">
+    <local>Val</local>
+    <visitante>Num</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Marchena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Vicente"/>
+      <gol minuto="45" equipo="Val" jugador="Fiore"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2005" jornada="27">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Val" jugador="Aimar"/>
+      <gol minuto="27" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2004" jornada="3">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="50" equipo="Val" jugador="Di Vaio"/>
+      <gol minuto="74" equipo="Val" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="64" equipo="Sev" jugador="Júlio Baptista"/>
+      <gol minuto="81" equipo="Sev" jugador="Aranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 30/08/2004" jornada="1">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Marchena"/>
+      <gol minuto="38" equipo="Val" jugador="Baraja"/>
+      <gol minuto="78" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/11/2004" jornada="11">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Vil</local>
+    <visitante>Alb</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/04/2005" jornada="30">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Vil" jugador="José Mari"/>
+      <gol minuto="32" equipo="Vil" jugador="José Mari"/>
+      <gol minuto="56" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="21" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2005" jornada="24">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Vil" jugador="Sorín"/>
+      <gol minuto="62" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="26" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="39" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Vil" jugador="Gonzalo"/>
+      <gol minuto="30" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="85" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/11/2004" jornada="12">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Dep" jugador="Luque"/>
+      <gol minuto="31" equipo="Dep" jugador="Tristán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2005" jornada="28">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Vil" jugador="Sorín"/>
+      <gol minuto="25" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="28" equipo="Esp" jugador="Lopo"/>
+      <gol minuto="82" equipo="Vil" jugador="Figueroa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="13" equipo="Vil" jugador="Sorín"/>
+      <gol minuto="17" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="52" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/05/2005" jornada="38">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vil" jugador="Josico"/>
+      <gol minuto="45" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="87" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="22" equipo="Lev" jugador="Reggi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Vil</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vil" jugador="Peña"/>
+      <gol minuto="65" equipo="Vil" jugador="Riquelme"/>
+      <gol minuto="83" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2005" jornada="26">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="62" equipo="Vil" jugador="Figueroa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2004" jornada="8">
+    <local>Vil</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vil" jugador="Riquelme"/>
+      <gol minuto="60" equipo="Vil" jugador="Héctor Font"/>
+      <gol minuto="67" equipo="Vil" jugador="Héctor Font"/>
+      <gol minuto="85" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2004" jornada="10">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Vil" jugador="Gonzalo"/>
+      <gol minuto="66" equipo="Vil" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2005" jornada="22">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vil" jugador="Forlán"/>
+      <gol minuto="23" equipo="Rac" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/2004" jornada="2">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 22/09/2004" jornada="4">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/01/2005" jornada="20">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vil" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2004" jornada="6">
+    <local>Vil</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Vil" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2004" jornada="3">
+    <local>Zar</local>
+    <visitante>Alb</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Zar" jugador="Villa"/>
+      <gol minuto="57" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="1" equipo="Zar" jugador="Javi Moreno"/>
+      <gol minuto="52" equipo="Zar" jugador="Javi Moreno"/>
+      <gol minuto="40" equipo="Alb" jugador="Redondo"/>
+      <gol minuto="32" equipo="Alb" jugador="Pacheco"/>
+      <gol minuto="89" equipo="Alb" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2004" jornada="16">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="78" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2005" jornada="29">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/02/2005" jornada="23">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Zar" jugador="Galletti"/>
+      <gol minuto="71" equipo="Bar" jugador="Márquez"/>
+      <gol minuto="29" equipo="Bar" jugador="Giuly"/>
+      <gol minuto="39" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2005" jornada="18">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Zar" jugador="Sávio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2005" jornada="36">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Generelo"/>
+      <gol minuto="65" equipo="Zar" jugador="Generelo"/>
+      <gol minuto="26" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="37" equipo="Dep" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2004" jornada="14">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2004" jornada="1">
+    <local>Zar</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Zar" jugador="Álvaro"/>
+      <gol minuto="79" equipo="Zar" jugador="Álvaro"/>
+      <gol minuto="63" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="16" equipo="Get" jugador="José Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2004" jornada="5">
+    <local>Zar</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="51" equipo="Zar" jugador="Javi Moreno"/>
+      <gol minuto="74" equipo="Zar" jugador="Javi Moreno"/>
+      <gol minuto="76" equipo="Lev" jugador="Celestini"/>
+      <gol minuto="26" equipo="Lev" jugador="Manchev"/>
+      <gol minuto="44" equipo="Lev" jugador="Manchev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/2005" jornada="21">
+    <local>Zar</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Zar" jugador="Cani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2004" jornada="12">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2005" jornada="32">
+    <local>Zar</local>
+    <visitante>Num</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Zar" jugador="Ponzio"/>
+      <gol minuto="64" equipo="Zar" jugador="Villa"/>
+      <gol minuto="71" equipo="Zar" jugador="Villa"/>
+      <gol minuto="83" equipo="Zar" jugador="Sávio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2005" jornada="34">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Zar" jugador="Generelo"/>
+      <gol minuto="59" equipo="Zar" jugador="Óscar González"/>
+      <gol minuto="11" equipo="Zar" jugador="Villa"/>
+      <gol minuto="85" equipo="Zar" jugador="Villa"/>
+      <gol minuto="40" equipo="Zar" jugador="Sávio"/>
+      <gol minuto="65" equipo="Osa" jugador="Moha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2005" jornada="27">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Zar" jugador="Capi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/05/2005" jornada="38">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Zar" jugador="Óscar González"/>
+      <gol minuto="52" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="24" equipo="Rea" jugador="Owen"/>
+      <gol minuto="90" equipo="Rea" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2004" jornada="7">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Zar" jugador="Sávio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2004" jornada="9">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="Villa"/>
+      <gol minuto="13" equipo="Zar" jugador="Galletti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2005" jornada="30">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Zar" jugador="Generelo"/>
+      <gol minuto="85" equipo="Val" jugador="Caneira"/>
+      <gol minuto="81" equipo="Val" jugador="Corradi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2005" jornada="25">
+    <local>Zar</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Zar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+</liga>

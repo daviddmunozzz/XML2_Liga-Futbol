@@ -1,0 +1,3875 @@
+<?xml version="1.0" ?>
+<liga temporada="2007-08">
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Alm</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Alm</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Alm</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Alm" jugador="Pulido"/>
+      <gol minuto="17" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="56" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="85" equipo="Alm" jugador="Kalu Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Alm</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Alm" jugador="Pulido"/>
+      <gol minuto="43" equipo="Bet" jugador="Odonkor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Alm</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Alm" jugador="Pulido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Alm</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Alm" jugador="Kalu Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2007" jornada="17">
+    <local>Alm</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Get" jugador="Licht"/>
+      <gol minuto="85" equipo="Get" jugador="Granero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Alm</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Alm" jugador="Soriano"/>
+      <gol minuto="36" equipo="Alm" jugador="Felipe Melo"/>
+      <gol minuto="89" equipo="Lev" jugador="Iborra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Alm</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Alm" jugador="Mané"/>
+      <gol minuto="77" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Alm</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Alm</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Alm</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rac" jugador="Garay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2008" jornada="22">
+    <local>Alm</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Alm" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Alm</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rec" jugador="Jesús Vázquez"/>
+      <gol minuto="40" equipo="Rec" jugador="Sinama-Pongolle"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2007" jornada="14">
+    <local>Alm</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Alm" jugador="Acasiete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Alm</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Alm" jugador="Negredo"/>
+      <gol minuto="79" equipo="Vae" jugador="Moretti"/>
+      <gol minuto="46" equipo="Vae" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Alm</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Alm</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Alm" jugador="Acasiete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Alm</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Ath</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="61" equipo="Alm" jugador="Felipe Melo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="77" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2007" jornada="9">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ath" jugador="David López"/>
+      <gol minuto="90" equipo="Dep" jugador="Taborda"/>
+      <gol minuto="62" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Garmendia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="2" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="70" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Ath</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/12/2007" jornada="15">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Ath</local>
+    <visitante>Rec</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="61" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2008" jornada="19">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="67" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Ath</local>
+    <visitante>Vae</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ath" jugador="Iraola"/>
+      <gol minuto="49" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="66" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="77" equipo="Vae" jugador="Villa"/>
+      <gol minuto="93" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Gabilondo"/>
+      <gol minuto="69" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="82" equipo="Vil" jugador="Capdevila"/>
+      <gol minuto="65" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2007" jornada="3">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Susaeta"/>
+      <gol minuto="16" equipo="Zar" jugador="Diego Milito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Atl</local>
+    <visitante>Alm</visitante>
+    <resultado local="6" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="Antonio López"/>
+      <gol minuto="33" equipo="Atl" jugador="Simão"/>
+      <gol minuto="45" equipo="Atl" jugador="Simão"/>
+      <gol minuto="53" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="80" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="17" equipo="Alm" jugador="Juanma Ortiz"/>
+      <gol minuto="10" equipo="Alm" jugador="Felipe Melo"/>
+      <gol minuto="36" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2008" jornada="26">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="70" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="30" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="73" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/2008" jornada="33">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="15" equipo="Bet" jugador="Juande"/>
+      <gol minuto="66" equipo="Bet" jugador="Capi"/>
+      <gol minuto="49" equipo="Bet" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Simão"/>
+      <gol minuto="84" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="52" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="12" rojas="3"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Atl" jugador="Simão"/>
+      <gol minuto="39" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="53" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Pernía"/>
+      <gol minuto="18" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Atl</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="81" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="69" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="76" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="86" equipo="Atl" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="41" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/05/2008" jornada="35">
+    <local>Atl</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Camacho"/>
+      <gol minuto="74" equipo="Atl" jugador="Camacho"/>
+      <gol minuto="54" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="1" equipo="Atl" jugador="Maniche"/>
+      <gol minuto="16" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="14" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="92" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="91" equipo="Atl" jugador="Jurado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Atl</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="55" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="2" equipo="Atl" jugador="Maniche"/>
+      <gol minuto="47" equipo="Val" jugador="Sisi"/>
+      <gol minuto="39" equipo="Val" jugador="Víctor"/>
+      <gol minuto="53" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Pablo Ibáñez"/>
+      <gol minuto="24" equipo="Atl" jugador="Simão"/>
+      <gol minuto="61" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="41" equipo="Vil" jugador="Fabricio Fuentes"/>
+      <gol minuto="30" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="69" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="89" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Luis García"/>
+      <gol minuto="90" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="33" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Bar</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bar" jugador="Henry"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Yaya Touré"/>
+      <gol minuto="8" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="70" equipo="Ath" jugador="Susaeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Deco"/>
+      <gol minuto="89" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="19" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Henry"/>
+      <gol minuto="52" equipo="Bar" jugador="Ronaldinho"/>
+      <gol minuto="90" equipo="Bar" jugador="Ronaldinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="2" equipo="Dep" jugador="Cristian"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/2008" jornada="33">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="14" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="44" equipo="Bar" jugador="Messi"/>
+      <gol minuto="55" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="61" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="86" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Henry"/>
+      <gol minuto="56" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="67" equipo="Mal" jugador="Borja Valero"/>
+      <gol minuto="89" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="70" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/01/2008" jornada="19">
+    <local>Bar</local>
+    <visitante>Mur</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bar" jugador="Guðjohnsen"/>
+      <gol minuto="76" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="86" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="51" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Henry"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2007" jornada="13">
+    <local>Bar</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bar" jugador="Milito"/>
+      <gol minuto="65" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2007" jornada="4">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Messi"/>
+      <gol minuto="92" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Bar</local>
+    <visitante>Vae</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="14" equipo="Bar" jugador="Henry"/>
+      <gol minuto="58" equipo="Bar" jugador="Henry"/>
+      <gol minuto="72" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="78" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="61" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="83" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="23" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bar" jugador="Xavi"/>
+      <gol minuto="80" equipo="Vil" jugador="Tomasson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bar" jugador="Márquez"/>
+      <gol minuto="21" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="4" equipo="Bar" jugador="Messi"/>
+      <gol minuto="10" equipo="Bar" jugador="Messi"/>
+      <gol minuto="9" equipo="Zar" jugador="Zapater"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Bet</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Pavone"/>
+      <gol minuto="82" equipo="Bet" jugador="Pavone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2008" jornada="28">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bet" jugador="Mark González"/>
+      <gol minuto="8" equipo="Ath" jugador="Yeste"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Atl" jugador="Raúl García"/>
+      <gol minuto="33" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/2008" jornada="30">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bet" jugador="Juanito"/>
+      <gol minuto="62" equipo="Bet" jugador="Edú"/>
+      <gol minuto="78" equipo="Bet" jugador="Edú"/>
+      <gol minuto="13" equipo="Bar" jugador="Bojan"/>
+      <gol minuto="15" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/02/2008" jornada="22">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Pablo Amo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Bet" jugador="Sóbis"/>
+      <gol minuto="32" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="41" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="83" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Edú"/>
+      <gol minuto="3" equipo="Bet" jugador="Pavone"/>
+      <gol minuto="77" equipo="Get" jugador="Manu del Moral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Lev" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Bet" jugador="Xisco"/>
+      <gol minuto="90" equipo="Bet" jugador="Edú"/>
+      <gol minuto="77" equipo="Bet" jugador="Sóbis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Bet</local>
+    <visitante>Mur</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bet" jugador="Edú"/>
+      <gol minuto="56" equipo="Bet" jugador="Pavone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Osa" jugador="Cruchaga"/>
+      <gol minuto="54" equipo="Osa" jugador="Carlos Vela"/>
+      <gol minuto="51" equipo="Osa" jugador="Dady"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Xisco"/>
+      <gol minuto="86" equipo="Rac" jugador="Jorge López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2008" jornada="24">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bet" jugador="Edú"/>
+      <gol minuto="35" equipo="Bet" jugador="Mark González"/>
+      <gol minuto="9" equipo="Rea" jugador="Drenthe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Bet</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bet" jugador="Edú"/>
+      <gol minuto="57" equipo="Rec" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="30" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Bet</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bet" jugador="Sóbis"/>
+      <gol minuto="68" equipo="Vae" jugador="Miguel"/>
+      <gol minuto="82" equipo="Vae" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vil" jugador="Senna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="D'Alessandro"/>
+      <gol minuto="80" equipo="Bet" jugador="Pavone"/>
+      <gol minuto="90" equipo="Bet" jugador="Pavone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Dep</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Alm" jugador="Soriano"/>
+      <gol minuto="50" equipo="Alm" jugador="Crusat"/>
+      <gol minuto="18" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Coloccini"/>
+      <gol minuto="79" equipo="Dep" jugador="Filipe Luís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Atl" jugador="Jurado"/>
+      <gol minuto="52" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="39" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/04/2008" jornada="34">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Dep" jugador="Pablo Amo"/>
+      <gol minuto="54" equipo="Dep" jugador="Juan Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Dep" jugador="Guardado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Dep" jugador="Coloccini"/>
+      <gol minuto="24" equipo="Dep" jugador="Lafita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2008" jornada="23">
+    <local>Dep</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Get" jugador="Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Dep</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Dep</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="46" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="49" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="1" equipo="Mur" jugador="De Lucas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Plašil"/>
+      <gol minuto="88" equipo="Osa" jugador="Dady"/>
+      <gol minuto="83" equipo="Dep" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2008" jornada="28">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Dep</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rec" jugador="Carlos Martins"/>
+      <gol minuto="46" equipo="Rec" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2008" jornada="26">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Lafita"/>
+      <gol minuto="25" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2007" jornada="8">
+    <local>Dep</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="15" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="37" equipo="Vae" jugador="Morientes"/>
+      <gol minuto="73" equipo="Vae" jugador="Morientes"/>
+      <gol minuto="87" equipo="Dep" jugador="Bodipo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Dep" jugador="Lopo"/>
+      <gol minuto="71" equipo="Dep" jugador="Guardado"/>
+      <gol minuto="46" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="82" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Vil" jugador="Matías Fernández"/>
+      <gol minuto="90" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Dep" jugador="Coloccini"/>
+      <gol minuto="16" equipo="Zar" jugador="Diego Milito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Esp</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Alm" jugador="Felipe Melo"/>
+      <gol minuto="54" equipo="Alm" jugador="Crusat"/>
+      <gol minuto="87" equipo="Alm" jugador="Paunović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="2" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 08/05/2008" jornada="36">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="30" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2007" jornada="14">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bar" jugador="Iniesta"/>
+      <gol minuto="68" equipo="Esp" jugador="Coro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="45" equipo="Bet" jugador="Rivera"/>
+      <gol minuto="90" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2007" jornada="16">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Esp" jugador="Jarque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="12" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/11/2007" jornada="10">
+    <local>Esp</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Osa" jugador="Astudillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rac" jugador="Òscar Serrano"/>
+      <gol minuto="24" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="89" equipo="Rac" jugador="Iván Bolado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2007" jornada="8">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Esp" jugador="Riera"/>
+      <gol minuto="52" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="90" equipo="Rea" jugador="Sergio Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Esp</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="25" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="39" equipo="Esp" jugador="Ewerthon"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2008" jornada="24">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="77" equipo="Sev" jugador="Capel"/>
+      <gol minuto="73" equipo="Sev" jugador="Poulsen"/>
+      <gol minuto="5" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="10" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="75" equipo="Esp" jugador="Coro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/2008" jornada="26">
+    <local>Esp</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Esp" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2008" jornada="18">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Esp" jugador="Valdo"/>
+      <gol minuto="8" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="35" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Get</local>
+    <visitante>Alm</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Get" jugador="Albín"/>
+      <gol minuto="4" equipo="Alm" jugador="Crusat"/>
+      <gol minuto="62" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="68" equipo="Get" jugador="Manu del Moral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Get" jugador="Casquero"/>
+      <gol minuto="28" equipo="Get" jugador="Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Get" jugador="Albín"/>
+      <gol minuto="39" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2007" jornada="12">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="89" equipo="Get" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="68" equipo="Bet" jugador="Nano Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Get</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Esp" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Get" jugador="Braulio"/>
+      <gol minuto="89" equipo="Get" jugador="Braulio"/>
+      <gol minuto="14" equipo="Lev" jugador="Riga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="1" equipo="Get" jugador="Mario Cotelo"/>
+      <gol minuto="11" equipo="Get" jugador="Albín"/>
+      <gol minuto="79" equipo="Mal" jugador="Ramis"/>
+      <gol minuto="76" equipo="Mal" jugador="Arango"/>
+      <gol minuto="13" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Get</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Get" jugador="Casquero"/>
+      <gol minuto="54" equipo="Get" jugador="Kepa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Osa" jugador="Miguel Flaño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Get</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Get" jugador="Gavilán"/>
+      <gol minuto="53" equipo="Rac" jugador="Smolarek"/>
+      <gol minuto="65" equipo="Get" jugador="Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rea" jugador="Sergio Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Get</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="90" equipo="Get" jugador="Manu del Moral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2008" jornada="20">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Get" jugador="Casquero"/>
+      <gol minuto="57" equipo="Get" jugador="Albín"/>
+      <gol minuto="88" equipo="Sev" jugador="Dragutinović"/>
+      <gol minuto="15" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="90" equipo="Get" jugador="Contra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Get</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Val" jugador="Vivar Dorado"/>
+      <gol minuto="75" equipo="Val" jugador="Vivar Dorado"/>
+      <gol minuto="67" equipo="Val" jugador="Álvaro Rubio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="78" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="85" equipo="Get" jugador="Kepa"/>
+      <gol minuto="83" equipo="Vil" jugador="Cazorla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Get</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Lev</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Lev" jugador="Riganò"/>
+      <gol minuto="15" equipo="Lev" jugador="Riganò"/>
+      <gol minuto="34" equipo="Lev" jugador="Riganò"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Lev" jugador="Riganò"/>
+      <gol minuto="8" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="72" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2007" jornada="6">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Henry"/>
+      <gol minuto="23" equipo="Bar" jugador="Henry"/>
+      <gol minuto="48" equipo="Bar" jugador="Henry"/>
+      <gol minuto="50" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Lev" jugador="Tommasi"/>
+      <gol minuto="80" equipo="Lev" jugador="Javi Fuego"/>
+      <gol minuto="40" equipo="Lev" jugador="Riga"/>
+      <gol minuto="49" equipo="Lev" jugador="Riga"/>
+      <gol minuto="8" equipo="Bet" jugador="Arzu"/>
+      <gol minuto="51" equipo="Bet" jugador="Pavone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Lev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="78" equipo="Lev" jugador="Juanma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Lev" jugador="Juanma"/>
+      <gol minuto="53" equipo="Lev" jugador="Pedro León"/>
+      <gol minuto="43" equipo="Lev" jugador="Berson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Lev" jugador="Álvaro"/>
+      <gol minuto="19" equipo="Lev" jugador="Geijo"/>
+      <gol minuto="30" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="77" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2007" jornada="2">
+    <local>Lev</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Lev" jugador="Álvaro"/>
+      <gol minuto="58" equipo="Lev" jugador="Geijo"/>
+      <gol minuto="20" equipo="Osa" jugador="Monreal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Lev</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Lev" jugador="Riga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Lev</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rec" jugador="Jesús Vázquez"/>
+      <gol minuto="38" equipo="Rec" jugador="Camuñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2007" jornada="8">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Lev</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Lev" jugador="José Serrano"/>
+      <gol minuto="35" equipo="Vae" jugador="Mata"/>
+      <gol minuto="65" equipo="Vae" jugador="Angulo"/>
+      <gol minuto="13" equipo="Vae" jugador="Villa"/>
+      <gol minuto="29" equipo="Vae" jugador="Villa"/>
+      <gol minuto="66" equipo="Vae" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Víctor"/>
+      <gol minuto="23" equipo="Val" jugador="Llorente"/>
+      <gol minuto="87" equipo="Val" jugador="Borja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Lev" jugador="Miguel Ángel"/>
+      <gol minuto="26" equipo="Vil" jugador="Matías Fernández"/>
+      <gol minuto="83" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Lev</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Lev" jugador="Riga"/>
+      <gol minuto="21" equipo="Lev" jugador="Geijo"/>
+      <gol minuto="65" equipo="Zar" jugador="Óscar González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Mal</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Arango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/01/2008" jornada="18">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Márquez"/>
+      <gol minuto="90" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Mal" jugador="Varela"/>
+      <gol minuto="69" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/2008" jornada="29">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Mal" jugador="Arango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/10/2007" jornada="9">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Mal" jugador="Arango"/>
+      <gol minuto="68" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Mal" jugador="Arango"/>
+      <gol minuto="77" equipo="Mal" jugador="Arango"/>
+      <gol minuto="1" equipo="Get" jugador="Sousa"/>
+      <gol minuto="47" equipo="Get" jugador="Sousa"/>
+      <gol minuto="90" equipo="Mal" jugador="Ramis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="56" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Mal</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Mur" jugador="Iñigo"/>
+      <gol minuto="68" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="89" equipo="Mal" jugador="Trejo"/>
+      <gol minuto="72" equipo="Osa" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Mal" jugador="Nunes"/>
+      <gol minuto="89" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="82" equipo="Mal" jugador="Trejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2008" jornada="31">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="72" equipo="Mal" jugador="Borja Valero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Mal</local>
+    <visitante>Rec</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Mal" jugador="Borja Valero"/>
+      <gol minuto="40" equipo="Mal" jugador="Borja Valero"/>
+      <gol minuto="18" equipo="Mal" jugador="Arango"/>
+      <gol minuto="47" equipo="Mal" jugador="Arango"/>
+      <gol minuto="48" equipo="Mal" jugador="Arango"/>
+      <gol minuto="21" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="32" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="39" equipo="Rec" jugador="Marco Ruben"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="76" equipo="Sev" jugador="Dani Alves"/>
+      <gol minuto="43" equipo="Sev" jugador="Renato"/>
+      <gol minuto="87" equipo="Mal" jugador="Webó"/>
+      <gol minuto="66" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2007" jornada="11">
+    <local>Mal</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vae" jugador="Morientes"/>
+      <gol minuto="61" equipo="Vae" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Mal" jugador="Nunes"/>
+      <gol minuto="51" equipo="Mal" jugador="Arango"/>
+      <gol minuto="87" equipo="Mal" jugador="Arango"/>
+      <gol minuto="5" equipo="Val" jugador="Ogbeche"/>
+      <gol minuto="25" equipo="Val" jugador="Víctor"/>
+      <gol minuto="83" equipo="Mal" jugador="Víctor Casadesús"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="65" equipo="Mal" jugador="Webó"/>
+      <gol minuto="55" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="93" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="91" equipo="Mal" jugador="Chori Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Mur</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="41" equipo="Alm" jugador="Felipe Melo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Mur</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Mur" jugador="Iván Alonso"/>
+      <gol minuto="31" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="82" equipo="Ath" jugador="Gabilondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Mur</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Agüero"/>
+      <gol minuto="80" equipo="Mur" jugador="Gallardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/05/2008" jornada="38">
+    <local>Mur</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Mur" jugador="Ochoa"/>
+      <gol minuto="32" equipo="Bar" jugador="Giovani dos Santos"/>
+      <gol minuto="51" equipo="Bar" jugador="Giovani dos Santos"/>
+      <gol minuto="65" equipo="Bar" jugador="Giovani dos Santos"/>
+      <gol minuto="25" equipo="Bar" jugador="Henry"/>
+      <gol minuto="22" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="84" equipo="Mur" jugador="Abel Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Mur</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Mur</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Dep" jugador="Guardado"/>
+      <gol minuto="55" equipo="Dep" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Mur</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mur" jugador="Iván Alonso"/>
+      <gol minuto="84" equipo="Mur" jugador="Richi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Mur</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Get" jugador="Pablo Hernández"/>
+      <gol minuto="85" equipo="Get" jugador="Casquero"/>
+      <gol minuto="83" equipo="Get" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Mur</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Mur" jugador="Iván Alonso"/>
+      <gol minuto="72" equipo="Lev" jugador="Álvaro"/>
+      <gol minuto="91" equipo="Lev" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Mur</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Mal" jugador="Arango"/>
+      <gol minuto="8" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="46" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="84" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="89" equipo="Mur" jugador="Baiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Mur</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Mur" jugador="Goitom"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Mur</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rac" jugador="Smolarek"/>
+      <gol minuto="56" equipo="Mur" jugador="Goitom"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2007" jornada="13">
+    <local>Mur</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Mur" jugador="De Lucas"/>
+      <gol minuto="8" equipo="Rea" jugador="Robinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Mur</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Mur" jugador="Regueiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/04/2008" jornada="34">
+    <local>Mur</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Mur</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Mur" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Mur</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2008" jornada="23">
+    <local>Mur</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2007" jornada="1">
+    <local>Mur</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Mur" jugador="Mejía"/>
+      <gol minuto="68" equipo="Mur" jugador="Baiano"/>
+      <gol minuto="30" equipo="Zar" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Osa</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Osa" jugador="Cruchaga"/>
+      <gol minuto="6" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="20" equipo="Alm" jugador="Corona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Osa" jugador="Carlos Vela"/>
+      <gol minuto="67" equipo="Osa" jugador="Dady"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Osa" jugador="Carlos Vela"/>
+      <gol minuto="1" equipo="Osa" jugador="Kike Sola"/>
+      <gol minuto="26" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="75" equipo="Osa" jugador="Héctor Font"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bet" jugador="Mark González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Esp" jugador="Àngel"/>
+      <gol minuto="32" equipo="Esp" jugador="Valdo"/>
+      <gol minuto="74" equipo="Osa" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Get" jugador="Granero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Osa" jugador="Juanfran"/>
+      <gol minuto="76" equipo="Osa" jugador="Javi García"/>
+      <gol minuto="31" equipo="Osa" jugador="Pandiani"/>
+      <gol minuto="51" equipo="Osa" jugador="Pandiani"/>
+      <gol minuto="33" equipo="Lev" jugador="Ettien"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Plašil"/>
+      <gol minuto="8" equipo="Osa" jugador="Héctor Font"/>
+      <gol minuto="48" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="90" equipo="Osa" jugador="Hugo Viana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Osa</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Osa" jugador="Juanfran"/>
+      <gol minuto="2" equipo="Osa" jugador="Dady"/>
+      <gol minuto="89" equipo="Mur" jugador="Abel Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rac" jugador="Colsa"/>
+      <gol minuto="83" equipo="Rac" jugador="Pablo Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rea" jugador="Robben"/>
+      <gol minuto="87" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/2008" jornada="31">
+    <local>Osa</local>
+    <visitante>Rec</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rec" jugador="Sinama-Pongolle"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/12/2007" jornada="2">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Osa" jugador="Plašil"/>
+      <gol minuto="46" equipo="Sev" jugador="Jesús Navas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/12/2007" jornada="15">
+    <local>Osa</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Val" jugador="Jonathan Sesma"/>
+      <gol minuto="35" equipo="Val" jugador="Álvaro Rubio"/>
+      <gol minuto="73" equipo="Osa" jugador="Dady"/>
+      <gol minuto="78" equipo="Osa" jugador="Dady"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="79" equipo="Osa" jugador="Javi García"/>
+      <gol minuto="34" equipo="Osa" jugador="Dady"/>
+      <gol minuto="36" equipo="Vil" jugador="Godín"/>
+      <gol minuto="20" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Osa" jugador="Plašil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Rac</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Atl" jugador="Forlán"/>
+      <gol minuto="73" equipo="Atl" jugador="Forlán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rac" jugador="Garay"/>
+      <gol minuto="50" equipo="Rac" jugador="Duscher"/>
+      <gol minuto="87" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rac" jugador="Jorge López"/>
+      <gol minuto="24" equipo="Dep" jugador="Coloccini"/>
+      <gol minuto="1" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="42" equipo="Dep" jugador="Xisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Rac</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rac" jugador="Òscar Serrano"/>
+      <gol minuto="74" equipo="Rac" jugador="Jorge López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Rac</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rac" jugador="Jorge López"/>
+      <gol minuto="29" equipo="Rac" jugador="Duscher"/>
+      <gol minuto="83" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="11" equipo="Mal" jugador="Webó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Rac</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rac" jugador="Jorge López"/>
+      <gol minuto="58" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="12" equipo="Mur" jugador="Aquino"/>
+      <gol minuto="28" equipo="Mur" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rac" jugador="Iván Bolado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="93" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Rac</local>
+    <visitante>Rec</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="90" equipo="Rac" jugador="Smolarek"/>
+      <gol minuto="81" equipo="Rac" jugador="Órteman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="65" equipo="Sev" jugador="Fazio"/>
+      <gol minuto="89" equipo="Sev" jugador="Renato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Rac</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rac" jugador="Jorge López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rac" jugador="Smolarek"/>
+      <gol minuto="89" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="76" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rac" jugador="Iván Bolado"/>
+      <gol minuto="60" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="90" equipo="Rac" jugador="Tchité"/>
+      <gol minuto="83" equipo="Zar" jugador="Celades"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2007" jornada="3">
+    <local>Rea</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="36" equipo="Rea" jugador="Saviola"/>
+      <gol minuto="72" equipo="Alm" jugador="Kalu Uche"/>
+      <gol minuto="87" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rea" jugador="Saviola"/>
+      <gol minuto="74" equipo="Rea" jugador="Robben"/>
+      <gol minuto="76" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2007" jornada="1">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="14" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="1" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rea" jugador="Robben"/>
+      <gol minuto="12" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="86" equipo="Bar" jugador="Henry"/>
+      <gol minuto="62" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/09/2007" jornada="5">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rea" jugador="Júlio Baptista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="2" equipo="Dep" jugador="Xisco"/>
+      <gol minuto="78" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2008" jornada="27">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="28" equipo="Esp" jugador="Valdo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/02/2008" jornada="25">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Get" jugador="Uche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="78" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="55" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="22" equipo="Rea" jugador="Van Nistelrooy"/>
+      <gol minuto="40" equipo="Rea" jugador="Van Nistelrooy"/>
+      <gol minuto="53" equipo="Lev" jugador="Geijo"/>
+      <gol minuto="64" equipo="Lev" jugador="Geijo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="16" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="62" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="72" equipo="Rea" jugador="Van Nistelrooy"/>
+      <gol minuto="13" equipo="Mal" jugador="Varela"/>
+      <gol minuto="36" equipo="Mal" jugador="Varela"/>
+      <gol minuto="57" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Rea</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Sneijder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="15" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/12/2007" jornada="14">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="69" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="72" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Rea</local>
+    <visitante>Rec</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rea" jugador="Van Nistelrooy"/>
+      <gol minuto="92" equipo="Rea" jugador="Higuaín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Heinze"/>
+      <gol minuto="64" equipo="Rea" jugador="Higuaín"/>
+      <gol minuto="38" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="37" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Rea</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="56" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="33" equipo="Vae" jugador="Villa"/>
+      <gol minuto="87" equipo="Vae" jugador="Arizmendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="7" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Júlio Baptista"/>
+      <gol minuto="43" equipo="Rea" jugador="Guti"/>
+      <gol minuto="61" equipo="Rea" jugador="Guti"/>
+      <gol minuto="32" equipo="Rea" jugador="Robben"/>
+      <gol minuto="30" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="79" equipo="Rea" jugador="Drenthe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="52" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="75" equipo="Vil" jugador="Capdevila"/>
+      <gol minuto="15" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="76" equipo="Rea" jugador="Sneijder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="65" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Rec</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="19" equipo="Alm" jugador="Mané"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Rec</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Rec</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/04/2008" jornada="32">
+    <local>Rec</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rec" jugador="Marco Ruben"/>
+      <gol minuto="71" equipo="Rec" jugador="Marco Ruben"/>
+      <gol minuto="1" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="46" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Rec</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="39" equipo="Bet" jugador="Nano Rivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Rec</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rec" jugador="Beto"/>
+      <gol minuto="87" equipo="Rec" jugador="Cáceres"/>
+      <gol minuto="56" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="80" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/09/2007" jornada="4">
+    <local>Rec</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rec" jugador="Javi Guerrero"/>
+      <gol minuto="60" equipo="Rec" jugador="Javi Guerrero"/>
+      <gol minuto="4" equipo="Esp" jugador="Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Rec</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rec" jugador="Camuñas"/>
+      <gol minuto="43" equipo="Get" jugador="Granero"/>
+      <gol minuto="90" equipo="Get" jugador="Manu del Moral"/>
+      <gol minuto="1" equipo="Get" jugador="Albín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Rec</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rec" jugador="Camuñas"/>
+      <gol minuto="9" equipo="Rec" jugador="Ersen Martin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Rec</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="78" equipo="Mal" jugador="Tuni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2008" jornada="28">
+    <local>Rec</local>
+    <visitante>Mur</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rec" jugador="Marco Ruben"/>
+      <gol minuto="18" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="70" equipo="Rec" jugador="Sinama-Pongolle"/>
+      <gol minuto="16" equipo="Mur" jugador="De Lucas"/>
+      <gol minuto="84" equipo="Rec" jugador="Marcos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Rec</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rec" jugador="Carlos Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Rec</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/03/2008" jornada="26">
+    <local>Rec</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rec" jugador="Cáceres"/>
+      <gol minuto="90" equipo="Rec" jugador="Carlos Martins"/>
+      <gol minuto="29" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="74" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="89" equipo="Rea" jugador="Robinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Rec</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="45" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="83" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="88" equipo="Rec" jugador="Beto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Rec</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Vae" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Rec</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Llorente"/>
+      <gol minuto="89" equipo="Rec" jugador="Javi Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Rec</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="81" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Rec</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rec" jugador="Carlos Martins"/>
+      <gol minuto="41" equipo="Rec" jugador="Carlos Martins"/>
+      <gol minuto="21" equipo="Zar" jugador="Diego Milito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/2008" jornada="33">
+    <local>Sev</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="67" equipo="Alm" jugador="Juanma Ortiz"/>
+      <gol minuto="52" equipo="Alm" jugador="Negredo"/>
+      <gol minuto="68" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="41" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="80" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="77" equipo="Sev" jugador="Keita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/2008" jornada="29">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Capel"/>
+      <gol minuto="13" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="57" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/02/2008" jornada="23">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sev" jugador="Capel"/>
+      <gol minuto="74" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Sev" jugador="Dani Alves"/>
+      <gol minuto="25" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="41" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/09/2007" jornada="5">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Esp" jugador="Àngel"/>
+      <gol minuto="54" equipo="Esp" jugador="Luis García"/>
+      <gol minuto="64" equipo="Sev" jugador="Koné"/>
+      <gol minuto="88" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/08/2007" jornada="1">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="66" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="1" equipo="Get" jugador="Pablo Hernández"/>
+      <gol minuto="81" equipo="Sev" jugador="Kerzhakov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sev" jugador="Keita"/>
+      <gol minuto="47" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="4" equipo="Lev" jugador="Riga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/11/2007" jornada="13">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="16" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="37" equipo="Mal" jugador="Varela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Sev</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="92" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/01/2008" jornada="21">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="2"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Poulsen"/>
+      <gol minuto="69" equipo="Osa" jugador="Kike Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2007" jornada="17">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="Jesús Navas"/>
+      <gol minuto="25" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="49" equipo="Rac" jugador="Garay"/>
+      <gol minuto="88" equipo="Sev" jugador="Adriano"/>
+      <gol minuto="65" equipo="Sev" jugador="Chevantón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/11/2007" jornada="11">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Keita"/>
+      <gol minuto="20" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/09/2007" jornada="3">
+    <local>Sev</local>
+    <visitante>Rec</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="53" equipo="Sev" jugador="Kanouté"/>
+      <gol minuto="11" equipo="Sev" jugador="Kerzhakov"/>
+      <gol minuto="74" equipo="Sev" jugador="Kerzhakov"/>
+      <gol minuto="54" equipo="Rec" jugador="Aitor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Sev</local>
+    <visitante>Vae</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Sev" jugador="Poulsen"/>
+      <gol minuto="85" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="9" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Renato"/>
+      <gol minuto="40" equipo="Sev" jugador="Renato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2008" jornada="25">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Sev" jugador="Keita"/>
+      <gol minuto="20" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="26" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/01/2008" jornada="21">
+    <local>Vae</local>
+    <visitante>Alm</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Alm" jugador="Felipe Melo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Vae</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Yeste"/>
+      <gol minuto="60" equipo="Ath" jugador="Llorente"/>
+      <gol minuto="92" equipo="Ath" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/2008" jornada="38">
+    <local>Vae</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vae" jugador="Villa"/>
+      <gol minuto="55" equipo="Vae" jugador="Villa"/>
+      <gol minuto="75" equipo="Atl" jugador="Agüero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/12/2007" jornada="16">
+    <local>Vae</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Guðjohnsen"/>
+      <gol minuto="12" equipo="Bar" jugador="Eto'o"/>
+      <gol minuto="26" equipo="Bar" jugador="Eto'o"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/02/2008" jornada="23">
+    <local>Vae</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Vae" jugador="Silva"/>
+      <gol minuto="15" equipo="Vae" jugador="Villa"/>
+      <gol minuto="88" equipo="Vae" jugador="Villa"/>
+      <gol minuto="46" equipo="Bet" jugador="Edú"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/2008" jornada="27">
+    <local>Vae</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vae" jugador="Mata"/>
+      <gol minuto="23" equipo="Vae" jugador="Villa"/>
+      <gol minuto="36" equipo="Dep" jugador="Sergio"/>
+      <gol minuto="44" equipo="Dep" jugador="Lafita"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/10/2007" jornada="7">
+    <local>Vae</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vae" jugador="Baraja"/>
+      <gol minuto="19" equipo="Esp" jugador="Riera"/>
+      <gol minuto="79" equipo="Esp" jugador="Luis García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/09/2007" jornada="5">
+    <local>Vae</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vae" jugador="Silva"/>
+      <gol minuto="31" equipo="Vae" jugador="Villa"/>
+      <gol minuto="76" equipo="Get" jugador="Braulio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/01/2008" jornada="18">
+    <local>Vae</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Vae</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Ramis"/>
+      <gol minuto="11" equipo="Mal" jugador="Güiza"/>
+      <gol minuto="57" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/11/2007" jornada="12">
+    <local>Vae</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Vae" jugador="Iván Helguera"/>
+      <gol minuto="25" equipo="Vae" jugador="Villa"/>
+      <gol minuto="50" equipo="Vae" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Vae</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Vae" jugador="Joaquín"/>
+      <gol minuto="52" equipo="Vae" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/2008" jornada="32">
+    <local>Vae</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rac" jugador="Colsa"/>
+      <gol minuto="82" equipo="Rac" jugador="Tchité"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Vae</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vae" jugador="Angulo"/>
+      <gol minuto="29" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="64" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="1" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="24" equipo="Rea" jugador="Van Nistelrooy"/>
+      <gol minuto="36" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/02/2008" jornada="25">
+    <local>Vae</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vae" jugador="Mata"/>
+      <gol minuto="52" equipo="Rec" jugador="Carlos Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/2008" jornada="28">
+    <local>Vae</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Vae" jugador="Albiol"/>
+      <gol minuto="12" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="22" equipo="Sev" jugador="Luís Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/09/2007" jornada="3">
+    <local>Vae</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Vae" jugador="Morientes"/>
+      <gol minuto="10" equipo="Val" jugador="Kome"/>
+      <gol minuto="89" equipo="Vae" jugador="Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/08/2007" jornada="1">
+    <local>Vae</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="15" equipo="Vil" jugador="Tomasson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 07/05/2008" jornada="36">
+    <local>Vae</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vae" jugador="Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/2008" jornada="34">
+    <local>Val</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Jonathan Sesma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/10/2007" jornada="8">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="31" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/2008" jornada="32">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Maxi Rodríguez"/>
+      <gol minuto="88" equipo="Val" jugador="Ogbeche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/11/2007" jornada="10">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Llorente"/>
+      <gol minuto="41" equipo="Bar" jugador="Ronaldinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Val" jugador="García Calvo"/>
+      <gol minuto="71" equipo="Val" jugador="Sisi"/>
+      <gol minuto="53" equipo="Dep" jugador="Taborda"/>
+      <gol minuto="77" equipo="Dep" jugador="Riki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Val" jugador="Llorente"/>
+      <gol minuto="33" equipo="Val" jugador="Llorente"/>
+      <gol minuto="58" equipo="Esp" jugador="Torrejón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Jonathan Sesma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Val</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Llorente"/>
+      <gol minuto="27" equipo="Mur" jugador="De Lucas"/>
+      <gol minuto="80" equipo="Mur" jugador="Iván Alonso"/>
+      <gol minuto="75" equipo="Mur" jugador="Baiano"/>
+      <gol minuto="87" equipo="Mur" jugador="Abel Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Rac" jugador="Duscher"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Val" jugador="Pedro López"/>
+      <gol minuto="86" equipo="Rea" jugador="Saviola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Val</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Val" jugador="Llorente"/>
+      <gol minuto="22" equipo="Val" jugador="Llorente"/>
+      <gol minuto="87" equipo="Val" jugador="Llorente"/>
+      <gol minuto="43" equipo="Rec" jugador="Camuñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/12/2007" jornada="16">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Val</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Vae" jugador="Villa"/>
+      <gol minuto="59" equipo="Vae" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/12/2007" jornada="14">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Val" jugador="Víctor"/>
+      <gol minuto="18" equipo="Val" jugador="Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/2008" jornada="30">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Llorente"/>
+      <gol minuto="29" equipo="Zar" jugador="Zapater"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Vil</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="52" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/09/2007" jornada="6">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Vil" jugador="Fabricio Fuentes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/2008" jornada="30">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="43" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="65" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/10/2007" jornada="8">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="24" equipo="Bar" jugador="Bojan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bet" jugador="Capi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="67" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="57" equipo="Dep" jugador="Pablo Amo"/>
+      <gol minuto="90" equipo="Dep" jugador="Guardado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Vil" jugador="Javi Venta"/>
+      <gol minuto="41" equipo="Vil" jugador="Pirès"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/2008" jornada="35">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="43" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 31/10/2007" jornada="10">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Vil" jugador="Cygan"/>
+      <gol minuto="2" equipo="Vil" jugador="Guille Franco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Vil</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Vil" jugador="Rossi"/>
+      <gol minuto="88" equipo="Vil" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/2008" jornada="26">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/02/2008" jornada="24">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/09/2007" jornada="2">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="73" equipo="Rea" jugador="Sneijder"/>
+      <gol minuto="80" equipo="Rea" jugador="Guti"/>
+      <gol minuto="38" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="50" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/12/2007" jornada="17">
+    <local>Vil</local>
+    <visitante>Rec</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vil" jugador="Nihat"/>
+      <gol minuto="37" equipo="Rec" jugador="Camuñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/11/2007" jornada="12">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vil" jugador="Guille Franco"/>
+      <gol minuto="67" equipo="Vil" jugador="Guille Franco"/>
+      <gol minuto="49" equipo="Sev" jugador="Luís Fabiano"/>
+      <gol minuto="34" equipo="Sev" jugador="Kanouté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/01/2008" jornada="20">
+    <local>Vil</local>
+    <visitante>Vae</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Vil" jugador="Capdevila"/>
+      <gol minuto="5" equipo="Vil" jugador="Pirès"/>
+      <gol minuto="69" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/2008" jornada="33">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="16" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/2008" jornada="28">
+    <local>Vil</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vil" jugador="Nihat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/2008" jornada="29">
+    <local>Zar</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="87" equipo="Alm" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/02/2008" jornada="22">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Zar" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/2008" jornada="27">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Simão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/02/2008" jornada="24">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="33" equipo="Bar" jugador="Henry"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/2008" jornada="31">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bet" jugador="Mark González"/>
+      <gol minuto="16" equipo="Bet" jugador="Mark González"/>
+      <gol minuto="63" equipo="Bet" jugador="Pavone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/05/2008" jornada="35">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Zar" jugador="Ayala"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/12/2007" jornada="15">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="14" equipo="Esp" jugador="Zabaleta"/>
+      <gol minuto="10" equipo="Esp" jugador="Valdo"/>
+      <gol minuto="7" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="85" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="89" equipo="Zar" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/11/2007" jornada="13">
+    <local>Zar</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Get" jugador="Sousa"/>
+      <gol minuto="80" equipo="Zar" jugador="D'Alessandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/10/2007" jornada="7">
+    <local>Zar</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Zar" jugador="Sergio García"/>
+      <gol minuto="72" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="82" equipo="Zar" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/01/2008" jornada="19">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="36" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="17" equipo="Mal" jugador="Varela"/>
+      <gol minuto="61" equipo="Mal" jugador="Güiza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/01/2008" jornada="20">
+    <local>Zar</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="61" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="81" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="90" equipo="Mur" jugador="Iván Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/09/2007" jornada="4">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Zar" jugador="Matuzalem"/>
+      <gol minuto="23" equipo="Osa" jugador="Juanfran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/09/2007" jornada="2">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="54" equipo="Rac" jugador="Òscar Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/2008" jornada="37">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Sergio Fernández"/>
+      <gol minuto="20" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="76" equipo="Rea" jugador="Robinho"/>
+      <gol minuto="26" equipo="Rea" jugador="Van Nistelrooy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/2008" jornada="33">
+    <local>Zar</local>
+    <visitante>Rec</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="3"/>
+    <goleadores>
+      <gol minuto="2" equipo="Zar" jugador="Sergio García"/>
+      <gol minuto="21" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="77" equipo="Zar" jugador="Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/09/2007" jornada="6">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Zar" jugador="D'Alessandro"/>
+      <gol minuto="86" equipo="Zar" jugador="Sergio García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/12/2007" jornada="17">
+    <local>Zar</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vae" jugador="Silva"/>
+      <gol minuto="75" equipo="Vae" jugador="Žigić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/11/2007" jornada="11">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="91" equipo="Zar" jugador="Diego Milito"/>
+      <gol minuto="32" equipo="Val" jugador="Álvaro Rubio"/>
+      <gol minuto="28" equipo="Val" jugador="Víctor"/>
+      <gol minuto="30" equipo="Val" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/10/2007" jornada="9">
+    <local>Zar</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Zar" jugador="Óscar González"/>
+      <gol minuto="78" equipo="Zar" jugador="Sergio García"/>
+      <gol minuto="36" equipo="Zar" jugador="Oliveira"/>
+      <gol minuto="81" equipo="Vil" jugador="Pirès"/>
+    </goleadores>
+  </partido>
+</liga>

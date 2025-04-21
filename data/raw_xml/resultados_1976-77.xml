@@ -1,0 +1,3098 @@
+<?xml version="1.0" ?>
+<liga temporada="1976-77">
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1976" jornada="6">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="16" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="4" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="71" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Ath</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="42" equipo="Ath" jugador="Dani"/>
+      <gol minuto="78" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="60" equipo="CD" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="36" equipo="Ath" jugador="Amorrortu"/>
+      <gol minuto="32" equipo="Cel" jugador="Poli"/>
+      <gol minuto="78" equipo="Cel" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Ath</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="59" equipo="Elc" jugador="Cristo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Dani"/>
+      <gol minuto="52" equipo="Ath" jugador="Dani"/>
+      <gol minuto="35" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="62" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="75" equipo="Esp" jugador="Osorio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="43" equipo="Ath" jugador="Rojo II"/>
+      <gol minuto="64" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ath" jugador="Irureta"/>
+      <gol minuto="85" equipo="Ath" jugador="Dani"/>
+      <gol minuto="68" equipo="Las" jugador="Brindisi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1976" jornada="1">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="60" equipo="Ath" jugador="Dani"/>
+      <gol minuto="38" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="2" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="25" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="51" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="89" equipo="Ath" jugador="Dani"/>
+      <gol minuto="13" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Ath</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Dani"/>
+      <gol minuto="41" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/1976" jornada="8">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="37" equipo="Ath" jugador="Dani"/>
+      <gol minuto="28" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="89" equipo="Ath" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/1977" jornada="28">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="43" equipo="Val" jugador="Rep"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="76" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="5" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="59" equipo="Zar" jugador="Rubial"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Atl" jugador="Alberto"/>
+      <gol minuto="43" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="32" equipo="Ath" jugador="Villar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Atl" jugador="Heredia"/>
+      <gol minuto="44" equipo="Atl" jugador="Leal"/>
+      <gol minuto="14" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="52" equipo="Bar" jugador="Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Robi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Atl</local>
+    <visitante>Bur</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bur" jugador="Krešić"/>
+      <gol minuto="83" equipo="Bur" jugador="Valdés"/>
+      <gol minuto="48" equipo="Bur" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="14" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Atl" jugador="Robi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Atl" jugador="Luis Pereira"/>
+      <gol minuto="54" equipo="Atl" jugador="Leal"/>
+      <gol minuto="84" equipo="Atl" jugador="Salcedo"/>
+      <gol minuto="77" equipo="Atl" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Atl" jugador="Bermejo"/>
+      <gol minuto="65" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Atl" jugador="Rubén Ayala"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="Luis Pereira"/>
+      <gol minuto="88" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="4" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="86" equipo="Atl" jugador="Leivinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Atl" jugador="Bermejo"/>
+      <gol minuto="60" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="78" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="1" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="30" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="85" equipo="Rea" jugador="Kortabarría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Panadero Díaz"/>
+      <gol minuto="2" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="66" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="81" equipo="Atl" jugador="Bermejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Atl</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="84" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="79" equipo="Sal" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Luis Pereira"/>
+      <gol minuto="72" equipo="Atl" jugador="Luis Pereira"/>
+      <gol minuto="66" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="51" equipo="Sev" jugador="Sanjosé"/>
+      <gol minuto="33" equipo="Sev" jugador="Scotta"/>
+      <gol minuto="58" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="61" equipo="Val" jugador="Eloy"/>
+      <gol minuto="46" equipo="Val" jugador="Kempes"/>
+      <gol minuto="70" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Atl" jugador="Rubén Ayala"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Irureta"/>
+      <gol minuto="42" equipo="Ath" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/1977" jornada="24">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Botella"/>
+      <gol minuto="67" equipo="Bar" jugador="Botella"/>
+      <gol minuto="3" equipo="Bar" jugador="Clares"/>
+      <gol minuto="30" equipo="Bet" jugador="Cardeñosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Bar</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bar" jugador="Clares"/>
+      <gol minuto="88" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="18" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="25" equipo="CD" jugador="Esteban Vigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="4" equipo="Bar" jugador="Carreño"/>
+      <gol minuto="34" equipo="Bar" jugador="Clares"/>
+      <gol minuto="56" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="87" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="7" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="68" equipo="Bar" jugador="Heredia"/>
+      <gol minuto="66" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="63" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="20" equipo="Bar" jugador="Clares"/>
+      <gol minuto="38" equipo="Bar" jugador="Clares"/>
+      <gol minuto="34" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="89" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Clares"/>
+      <gol minuto="59" equipo="Hér" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="87" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="7" equipo="Bar" jugador="Heredia"/>
+      <gol minuto="52" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="7" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="38" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="60" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="29" equipo="Bar" jugador="Tente Sánchez"/>
+      <gol minuto="25" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="86" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="63" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="71" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="73" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="53" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="86" equipo="Bar" jugador="Heredia"/>
+      <gol minuto="52" equipo="Rel" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Bar</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="25" equipo="Bar" jugador="Sotil"/>
+      <gol minuto="14" equipo="Bar" jugador="Clares"/>
+      <gol minuto="32" equipo="Bar" jugador="Clares"/>
+      <gol minuto="55" equipo="Sal" jugador="Rezza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Amarillo"/>
+      <gol minuto="69" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="65" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Bar" jugador="Amarillo"/>
+      <gol minuto="25" equipo="Bar" jugador="Clares"/>
+      <gol minuto="47" equipo="Bar" jugador="Clares"/>
+      <gol minuto="83" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Olmo"/>
+      <gol minuto="13" equipo="Bar" jugador="Clares"/>
+      <gol minuto="26" equipo="Zar" jugador="Víctor Muñoz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bet" jugador="López"/>
+      <gol minuto="48" equipo="Bet" jugador="Ladinszky"/>
+      <gol minuto="61" equipo="Ath" jugador="Bengoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bet" jugador="Ladinszky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bet" jugador="Ladinszky"/>
+      <gol minuto="56" equipo="Bar" jugador="Heredia"/>
+      <gol minuto="86" equipo="Bar" jugador="Heredia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Bet</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="López"/>
+      <gol minuto="2" equipo="Bur" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/1977" jornada="31">
+    <local>Bet</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="CD" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bet" jugador="Ladinszky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Bet</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bet" jugador="Cobo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="46" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="64" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="14" equipo="Bet" jugador="Megido"/>
+      <gol minuto="72" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Bet</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="35" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="34" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="24" equipo="Rac" jugador="Aitor Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bet" jugador="Megido"/>
+      <gol minuto="80" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bet" jugador="Mühren"/>
+      <gol minuto="63" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Bet</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bet" jugador="Cobo"/>
+      <gol minuto="86" equipo="Bet" jugador="García Soriano"/>
+      <gol minuto="53" equipo="Sal" jugador="Galleguillos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1976" jornada="2">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="53" equipo="Bet" jugador="García Soriano"/>
+      <gol minuto="75" equipo="Zar" jugador="Arrúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Bur</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bur" jugador="Viteri"/>
+      <gol minuto="40" equipo="Ath" jugador="Churruca"/>
+      <gol minuto="42" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Bur</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bur" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Bur</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bur" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Bur</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bur" jugador="Floro Garrido"/>
+      <gol minuto="2" equipo="Bet" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Bur</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bur" jugador="Katić"/>
+      <gol minuto="79" equipo="Bur" jugador="Katić"/>
+      <gol minuto="53" equipo="Bur" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Bur</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Bur</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bur" jugador="Quini"/>
+      <gol minuto="52" equipo="Bur" jugador="Quini"/>
+      <gol minuto="86" equipo="Bur" jugador="Quini"/>
+      <gol minuto="89" equipo="Elc" jugador="Finarolli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Bur</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Esp" jugador="Caszely"/>
+      <gol minuto="58" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Bur</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Hér" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Bur</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bur" jugador="Quini"/>
+      <gol minuto="52" equipo="Bur" jugador="Quini"/>
+      <gol minuto="84" equipo="Bur" jugador="Quini"/>
+      <gol minuto="18" equipo="Bur" jugador="Katić"/>
+      <gol minuto="37" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Bur</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bur" jugador="Viteri"/>
+      <gol minuto="75" equipo="Rac" jugador="Chinchón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Bur</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bur" jugador="Cos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Bur</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Bur" jugador="Krešić"/>
+      <gol minuto="35" equipo="Bur" jugador="Juanito"/>
+      <gol minuto="62" equipo="Bur" jugador="Juanito"/>
+      <gol minuto="56" equipo="Rel" jugador="Jensen"/>
+      <gol minuto="64" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Bur</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sal" jugador="Juanjo"/>
+      <gol minuto="15" equipo="Sal" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Bur</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bur" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Bur</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bur" jugador="Quini"/>
+      <gol minuto="39" equipo="Bur" jugador="Quini"/>
+      <gol minuto="75" equipo="Bur" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Bur</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bur" jugador="Katić"/>
+      <gol minuto="37" equipo="Bur" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Amorrortu"/>
+      <gol minuto="88" equipo="Ath" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/09/1976" jornada="4">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="CD" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>CD</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>CD</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="CD" jugador="Migueli"/>
+      <gol minuto="58" equipo="Bur" jugador="Juanito"/>
+      <gol minuto="76" equipo="Bur" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="CD" jugador="Aicart"/>
+      <gol minuto="89" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>CD</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="57" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="2" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="47" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="56" equipo="Elc" jugador="Finarolli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>CD</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="45" equipo="Hér" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/1977" jornada="32">
+    <local>CD</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Las" jugador="Juani"/>
+      <gol minuto="11" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>CD</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="CD" jugador="Migueli"/>
+      <gol minuto="9" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="10" equipo="Rac" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="CD" jugador="Juan Carlos"/>
+      <gol minuto="33" equipo="CD" jugador="Castronovo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="CD" jugador="Juan Carlos"/>
+      <gol minuto="37" equipo="CD" jugador="Orozco"/>
+      <gol minuto="80" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1976" jornada="2">
+    <local>CD</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="CD" jugador="Aráez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>CD</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="CD" jugador="Quevedo"/>
+      <gol minuto="50" equipo="CD" jugador="Quevedo"/>
+      <gol minuto="3" equipo="Zar" jugador="Planelles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/1976" jornada="2">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cel" jugador="Mori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Martes 22/02/1977" jornada="23">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Cel</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Juan"/>
+      <gol minuto="48" equipo="Cel" jugador="Mori"/>
+      <gol minuto="14" equipo="Bur" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/03/1977" jornada="27">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Manolo"/>
+      <gol minuto="46" equipo="Cel" jugador="Mori"/>
+      <gol minuto="40" equipo="CD" jugador="Nacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Elc" jugador="Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Cel" jugador="Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Cel</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Cel" jugador="Juan"/>
+      <gol minuto="79" equipo="Cel" jugador="Juan"/>
+      <gol minuto="14" equipo="Hér" jugador="Saccardi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Cel" jugador="Suárez"/>
+      <gol minuto="75" equipo="Cel" jugador="Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Cel" jugador="Fenoy"/>
+      <gol minuto="35" equipo="Cel" jugador="Del Cura"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Cel</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Sal" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Cel" jugador="Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Elc</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="75" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Atl" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Elc</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Elc" jugador="Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1976" jornada="2">
+    <local>Elc</local>
+    <visitante>Bur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Elc</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Elc" jugador="Félix"/>
+      <gol minuto="56" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="36" equipo="Elc" jugador="Trobbiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Elc" jugador="Félix"/>
+      <gol minuto="33" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="7" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="51" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="68" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="66" equipo="Esp" jugador="Jeremias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Elc</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="50" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="72" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Elc</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="31" equipo="Elc" jugador="Trobbiani"/>
+      <gol minuto="44" equipo="Las" jugador="Miguel Ángel"/>
+      <gol minuto="46" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Elc</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Elc" jugador="Montero"/>
+      <gol minuto="71" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="15" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="22" equipo="Rac" jugador="Aitor Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Elc" jugador="Finarolli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/1977" jornada="29">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="70" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Elc</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Elc" jugador="Antón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Elc</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="66" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="70" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="51" equipo="Val" jugador="Kempes"/>
+      <gol minuto="79" equipo="Val" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Elc</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Elc" jugador="Finarolli"/>
+      <gol minuto="71" equipo="Elc" jugador="Trobbiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="43" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="23" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="58" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="30" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="44" equipo="Atl" jugador="Leivinha"/>
+      <gol minuto="45" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="72" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="62" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="81" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="27" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="20" equipo="Bet" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Esp</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bur" jugador="Viteri"/>
+      <gol minuto="89" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="3" equipo="Esp" jugador="Caszely"/>
+      <gol minuto="15" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Esp" jugador="Osorio"/>
+      <gol minuto="83" equipo="Esp" jugador="Jeremias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Esp" jugador="Osorio"/>
+      <gol minuto="68" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="43" equipo="Esp" jugador="Cino"/>
+      <gol minuto="89" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Esp" jugador="Cino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Esp" jugador="Fernández Amado"/>
+      <gol minuto="32" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="87" equipo="Rac" jugador="Zuviría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Osorio"/>
+      <gol minuto="75" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="74" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="70" equipo="Esp" jugador="Canito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Esp</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="9" equipo="Esp" jugador="Cino"/>
+      <gol minuto="83" equipo="Esp" jugador="Cino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Esp" jugador="Osorio"/>
+      <gol minuto="30" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1976" jornada="2">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Caszely"/>
+      <gol minuto="60" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Hér" jugador="Rivera"/>
+      <gol minuto="56" equipo="Hér" jugador="Lübeke"/>
+      <gol minuto="79" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="71" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="67" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="6" equipo="Bar" jugador="Heredia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Hér</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Hér" jugador="San Cayetano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Hér</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Hér" jugador="Charles"/>
+      <gol minuto="47" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="75" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Hér</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Hér" jugador="San Cayetano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Hér</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="70" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Hér</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Elc" jugador="Antón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="21" equipo="Hér" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Hér</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Hér" jugador="Aracil"/>
+      <gol minuto="63" equipo="Hér" jugador="Aracil"/>
+      <gol minuto="53" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Hér</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Hér" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Hér</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Hér" jugador="Juan"/>
+      <gol minuto="7" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="17" equipo="Hér" jugador="San Cayetano"/>
+      <gol minuto="54" equipo="Hér" jugador="San Cayetano"/>
+      <gol minuto="44" equipo="Sal" jugador="Ameijenda"/>
+      <gol minuto="68" equipo="Sal" jugador="Ameijenda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Hér</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Val" jugador="Kempes"/>
+      <gol minuto="89" equipo="Hér" jugador="Aracil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Hér" jugador="Giuliano"/>
+      <gol minuto="84" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/1977" jornada="17">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="16" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="89" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/1976" jornada="12">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Las" jugador="Fernández"/>
+      <gol minuto="66" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/01/1977" jornada="18">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Las" jugador="Germán"/>
+      <gol minuto="81" equipo="Las" jugador="Morete"/>
+      <gol minuto="1" equipo="Bar" jugador="Neeskens"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/1977" jornada="28">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Las" jugador="Morete"/>
+      <gol minuto="20" equipo="Bet" jugador="Mühren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Las</local>
+    <visitante>Bur</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Las" jugador="Wolff"/>
+      <gol minuto="32" equipo="Las" jugador="Fernández"/>
+      <gol minuto="38" equipo="Las" jugador="Morete"/>
+      <gol minuto="48" equipo="Las" jugador="Morete"/>
+      <gol minuto="65" equipo="Bur" jugador="Palmer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/1976" jornada="15">
+    <local>Las</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Las" jugador="Castellano"/>
+      <gol minuto="70" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="5" equipo="CD" jugador="Castronovo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Las" jugador="Juani"/>
+      <gol minuto="12" equipo="Las" jugador="Fernández"/>
+      <gol minuto="17" equipo="Las" jugador="Fernández"/>
+      <gol minuto="84" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Las</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Las" jugador="Hernández"/>
+      <gol minuto="62" equipo="Las" jugador="Juani"/>
+      <gol minuto="32" equipo="Las" jugador="Fernández"/>
+      <gol minuto="65" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1976" jornada="2">
+    <local>Las</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/1976" jornada="13">
+    <local>Las</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Las" jugador="Wolff"/>
+      <gol minuto="26" equipo="Las" jugador="Morete"/>
+      <gol minuto="71" equipo="Las" jugador="Morete"/>
+      <gol minuto="14" equipo="Rac" jugador="Zuviría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Las" jugador="Juani"/>
+      <gol minuto="8" equipo="Las" jugador="Fernández"/>
+      <gol minuto="67" equipo="Las" jugador="Morete"/>
+      <gol minuto="71" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="62" equipo="Rel" jugador="Guerini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Las</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="62" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/01/1977" jornada="20">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Las" jugador="Juani"/>
+      <gol minuto="30" equipo="Las" jugador="Juani"/>
+      <gol minuto="50" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="60" equipo="Las" jugador="Brindisi"/>
+      <gol minuto="70" equipo="Sev" jugador="Lora"/>
+      <gol minuto="59" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1976" jornada="6">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Las" jugador="Juani"/>
+      <gol minuto="29" equipo="Val" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/1977" jornada="22">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Las" jugador="Juani"/>
+      <gol minuto="36" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="68" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="10" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="26" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="65" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/1976" jornada="2">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rac" jugador="Barrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rac" jugador="Quinito"/>
+      <gol minuto="74" equipo="Rac" jugador="Quinito"/>
+      <gol minuto="23" equipo="Rac" jugador="Aitor Aguirre"/>
+      <gol minuto="52" equipo="Rac" jugador="Aitor Aguirre"/>
+      <gol minuto="83" equipo="Bet" jugador="Sabaté"/>
+      <gol minuto="76" equipo="Bet" jugador="Mühren"/>
+      <gol minuto="78" equipo="Bet" jugador="Mühren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Rac</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rac" jugador="Zuviría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Rac</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rac" jugador="Giménez"/>
+      <gol minuto="74" equipo="Rac" jugador="Giménez"/>
+      <gol minuto="89" equipo="Rac" jugador="Giménez"/>
+      <gol minuto="2" equipo="CD" jugador="Santi"/>
+      <gol minuto="33" equipo="CD" jugador="Castronovo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rac" jugador="Zuviría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Rac</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rac" jugador="Manolo Díaz"/>
+      <gol minuto="65" equipo="Rac" jugador="Portu"/>
+      <gol minuto="74" equipo="Elc" jugador="Sitjà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rac" jugador="Juan Carlos"/>
+      <gol minuto="11" equipo="Rac" jugador="Quinito"/>
+      <gol minuto="89" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="21" equipo="Esp" jugador="Cino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Rac</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="76" equipo="Hér" jugador="Giuliano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Rac</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rac" jugador="Juan Carlos"/>
+      <gol minuto="49" equipo="Las" jugador="Miguel Ángel"/>
+      <gol minuto="85" equipo="Rac" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rac" jugador="Quinito"/>
+      <gol minuto="59" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="72" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="45" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="53" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="44" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Rac</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Sal" jugador="Ameijenda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rac" jugador="Zuviría"/>
+      <gol minuto="57" equipo="Rac" jugador="Aitor Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rac" jugador="Aitor Aguirre"/>
+      <gol minuto="86" equipo="Rac" jugador="Aitor Aguirre"/>
+      <gol minuto="38" equipo="Val" jugador="Kempes"/>
+      <gol minuto="51" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rac" jugador="Aitor Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="3" equipo="Rea" jugador="Gaztelu"/>
+      <gol minuto="27" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="31" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/1976" jornada="4">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="50" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 23/10/1976" jornada="7">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="10" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="67" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Rea</local>
+    <visitante>Bur</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="71" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="76" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="83" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="49" equipo="Bur" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Kortabarría"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="56" equipo="Rea" jugador="Diego"/>
+      <gol minuto="60" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="89" equipo="Rea" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Diego"/>
+      <gol minuto="30" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="76" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="73" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="63" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="72" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rea" jugador="Muruzábal"/>
+      <gol minuto="72" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="81" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/1977" jornada="25">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="17" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="89" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="84" equipo="Rac" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="80" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Rea</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/06/1977" jornada="33">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/1976" jornada="2">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Saura"/>
+      <gol minuto="67" equipo="Val" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="79" equipo="Rea" jugador="Idígoras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/1976" jornada="2">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="64" equipo="Ath" jugador="Irureta"/>
+      <gol minuto="28" equipo="Ath" jugador="Dani"/>
+      <gol minuto="22" equipo="Ath" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="41" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Bet" jugador="Ladinszky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/1976" jornada="6">
+    <local>Rel</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="65" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="73" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="51" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="28" equipo="CD" jugador="Vilches"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="63" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="4" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="82" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="38" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="62" equipo="Elc" jugador="Finarolli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="82" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="53" equipo="Rel" jugador="Jensen"/>
+      <gol minuto="38" equipo="Esp" jugador="Caszely"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Guerini"/>
+      <gol minuto="52" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="89" equipo="Rel" jugador="Rubiñán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rel" jugador="Camacho"/>
+      <gol minuto="25" equipo="Rel" jugador="Del Bosque"/>
+      <gol minuto="51" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Jensen"/>
+      <gol minuto="59" equipo="Rel" jugador="Jensen"/>
+      <gol minuto="88" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="51" equipo="Rac" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="7" equipo="Rel" jugador="Jensen"/>
+      <gol minuto="41" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="68" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/1977" jornada="18">
+    <local>Rel</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Sal" jugador="João Alves"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/10/1976" jornada="8">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rel" jugador="Rubiñán"/>
+      <gol minuto="56" equipo="Rel" jugador="Camacho"/>
+      <gol minuto="48" equipo="Rel" jugador="Vitoria"/>
+      <gol minuto="79" equipo="Zar" jugador="Planelles"/>
+      <gol minuto="77" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/1976" jornada="4">
+    <local>Sal</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Sal" jugador="Juanito"/>
+      <gol minuto="80" equipo="Sal" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/01/1977" jornada="20">
+    <local>Sal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Sal" jugador="Juanjo"/>
+      <gol minuto="89" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/1977" jornada="22">
+    <local>Sal</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sal" jugador="João Alves"/>
+      <gol minuto="66" equipo="Sal" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Sal</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Gordillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/1976" jornada="8">
+    <local>Sal</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sal" jugador="Rezza"/>
+      <gol minuto="47" equipo="Sal" jugador="João Alves"/>
+      <gol minuto="84" equipo="Sal" jugador="Pérez"/>
+      <gol minuto="25" equipo="Bur" jugador="Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Sal</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Sal" jugador="Juanjo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Sal</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Sal</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Sal" jugador="Morón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Sal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sal" jugador="Galleguillos"/>
+      <gol minuto="60" equipo="Esp" jugador="Fernández Amado"/>
+      <gol minuto="77" equipo="Sal" jugador="Lacasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/1976" jornada="6">
+    <local>Sal</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Sal" jugador="Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Sal</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Sal</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Sal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Sal" jugador="Morón"/>
+      <gol minuto="25" equipo="Rea" jugador="Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Sal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rel" jugador="Breitner"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/1977" jornada="24">
+    <local>Sal</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Sal" jugador="Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/11/1976" jornada="10">
+    <local>Sal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/1977" jornada="26">
+    <local>Sal</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Sev" jugador="Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/1977" jornada="28">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Scotta"/>
+      <gol minuto="6" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="79" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Montero"/>
+      <gol minuto="61" equipo="Sev" jugador="Scotta"/>
+      <gol minuto="39" equipo="Bet" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/1976" jornada="12">
+    <local>Sev</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Julián Rubio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Sev</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Sev" jugador="Scotta"/>
+      <gol minuto="6" equipo="Sev" jugador="Cantudo"/>
+      <gol minuto="67" equipo="CD" jugador="Aicart"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/1977" jornada="32">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Sev" jugador="Scotta"/>
+      <gol minuto="25" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1976" jornada="1">
+    <local>Sev</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/05/1977" jornada="34">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Sev</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Sev" jugador="Cantudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Sev" jugador="Yiyi"/>
+      <gol minuto="69" equipo="Sev" jugador="Cantudo"/>
+      <gol minuto="60" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Sev" jugador="Scotta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rea" jugador="Gaztelu"/>
+      <gol minuto="37" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="46" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sev" jugador="Julián Rubio"/>
+      <gol minuto="55" equipo="Rel" jugador="Guerini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Sev</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Sev" jugador="Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/1976" jornada="14">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/04/1977" jornada="30">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Sanjosé"/>
+      <gol minuto="25" equipo="Sev" jugador="Julián Rubio"/>
+      <gol minuto="74" equipo="Sev" jugador="Jaén"/>
+      <gol minuto="80" equipo="Sev" jugador="Jaén"/>
+      <gol minuto="49" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Kempes"/>
+      <gol minuto="85" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/1977" jornada="17">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Kempes"/>
+      <gol minuto="77" equipo="Val" jugador="Kempes"/>
+      <gol minuto="18" equipo="Atl" jugador="Leal"/>
+      <gol minuto="53" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="64" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Asensi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Val" jugador="Diarte"/>
+      <gol minuto="75" equipo="Val" jugador="Diarte"/>
+      <gol minuto="88" equipo="Bet" jugador="Mühren"/>
+      <gol minuto="38" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/1976" jornada="15">
+    <local>Val</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Val" jugador="Rep"/>
+      <gol minuto="82" equipo="Val" jugador="Rep"/>
+      <gol minuto="35" equipo="Val" jugador="Kempes"/>
+      <gol minuto="1" equipo="Bur" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Val" jugador="Juan Carlos"/>
+      <gol minuto="30" equipo="Val" jugador="Rep"/>
+      <gol minuto="65" equipo="Val" jugador="Kempes"/>
+      <gol minuto="69" equipo="CD" jugador="Aráez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/09/1976" jornada="1">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Kempes"/>
+      <gol minuto="65" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Kempes"/>
+      <gol minuto="86" equipo="Val" jugador="Kempes"/>
+      <gol minuto="46" equipo="Val" jugador="Diarte"/>
+      <gol minuto="12" equipo="Esp" jugador="Caszely"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Val" jugador="Rep"/>
+      <gol minuto="14" equipo="Val" jugador="Kempes"/>
+      <gol minuto="2" equipo="Val" jugador="Diarte"/>
+      <gol minuto="80" equipo="Hér" jugador="Lübeke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Diarte"/>
+      <gol minuto="68" equipo="Las" jugador="Félix"/>
+      <gol minuto="26" equipo="Las" jugador="Miguel Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Kempes"/>
+      <gol minuto="5" equipo="Val" jugador="Diarte"/>
+      <gol minuto="49" equipo="Val" jugador="Diarte"/>
+      <gol minuto="62" equipo="Rac" jugador="Geñupi"/>
+      <gol minuto="79" equipo="Rac" jugador="Aitor Aguirre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Val" jugador="Rep"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Val</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Rep"/>
+      <gol minuto="89" equipo="Val" jugador="Rep"/>
+      <gol minuto="49" equipo="Val" jugador="Kempes"/>
+      <gol minuto="70" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/1977" jornada="33">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/03/1977" jornada="27">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="83" equipo="Ath" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/1977" jornada="32">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="19" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/1976" jornada="11">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/02/1977" jornada="21">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Zar" jugador="Juanjo"/>
+      <gol minuto="16" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/1977" jornada="31">
+    <local>Zar</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="74" equipo="Bur" jugador="Floro Garrido"/>
+      <gol minuto="84" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/1977" jornada="25">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="51" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="36" equipo="CD" jugador="Santi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/1977" jornada="34">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/1976" jornada="3">
+    <local>Zar</local>
+    <visitante>Elc</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="31" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="14" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="38" equipo="Zar" jugador="Porta"/>
+      <gol minuto="47" equipo="Zar" jugador="Porta"/>
+      <gol minuto="87" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="89" equipo="Elc" jugador="Cristo"/>
+      <gol minuto="57" equipo="Elc" jugador="Trobbiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/1977" jornada="19">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Zar" jugador="González"/>
+      <gol minuto="14" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="69" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="40" equipo="Esp" jugador="Osorio"/>
+      <gol minuto="69" equipo="Esp" jugador="Jeremias"/>
+      <gol minuto="34" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/1977" jornada="29">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Zar" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/1976" jornada="5">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="64" equipo="Zar" jugador="Porta"/>
+      <gol minuto="65" equipo="Las" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/1977" jornada="23">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="43" equipo="Zar" jugador="Rui Jordão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/09/1976" jornada="1">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="16" equipo="Rea" jugador="Idígoras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/1976" jornada="7">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="83" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="86" equipo="Rel" jugador="Uría"/>
+      <gol minuto="22" equipo="Rel" jugador="Velázquez"/>
+      <gol minuto="36" equipo="Rel" jugador="Velázquez"/>
+      <gol minuto="26" equipo="Rel" jugador="Jensen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/1976" jornada="9">
+    <local>Zar</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Zar" jugador="Arrúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/1976" jornada="13">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/01/1977" jornada="16">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="87" equipo="Zar" jugador="Rui Jordão"/>
+      <gol minuto="59" equipo="Val" jugador="Juan Carlos"/>
+      <gol minuto="75" equipo="Val" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+</liga>

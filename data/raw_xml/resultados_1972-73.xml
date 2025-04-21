@@ -1,0 +1,2934 @@
+<?xml version="1.0" ?>
+<liga temporada="1972-73">
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Txetxu Rojo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="72" equipo="Bet" jugador="Roselló"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Ath</local>
+    <visitante>Bur</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ath" jugador="Uriarte"/>
+      <gol minuto="3" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="66" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="78" equipo="Ath" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Ath</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="67" equipo="Cas" jugador="Del Bosque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1972" jornada="2">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Lezcano"/>
+      <gol minuto="87" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="29" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="80" equipo="Ath" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/1973" jornada="32">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ath" jugador="Gisasola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="22" equipo="Ath" jugador="Viteri"/>
+      <gol minuto="24" equipo="Ath" jugador="Viteri"/>
+      <gol minuto="55" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="57" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="75" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="78" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="25" equipo="Rea" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Uriarte"/>
+      <gol minuto="57" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="39" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/1972" jornada="4">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="85" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="74" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Bezerra"/>
+      <gol minuto="62" equipo="Ath" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="53" equipo="Atl" jugador="Bezerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Leal"/>
+      <gol minuto="36" equipo="Bet" jugador="Del Pozo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Atl</local>
+    <visitante>Bur</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="69" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="71" equipo="Atl" jugador="Adelardo"/>
+      <gol minuto="27" equipo="Atl" jugador="Bezerra"/>
+      <gol minuto="6" equipo="Bur" jugador="Requejo"/>
+      <gol minuto="86" equipo="Bur" jugador="Burguete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Atl" jugador="Adelardo"/>
+      <gol minuto="36" equipo="CD" jugador="Vilanova"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Atl</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/11/1972" jornada="9">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="73" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="30" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="10" equipo="Atl" jugador="Salcedo"/>
+      <gol minuto="26" equipo="Atl" jugador="Salcedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="63" equipo="Atl" jugador="Adelardo"/>
+      <gol minuto="66" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="78" equipo="Dep" jugador="Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="85" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="46" equipo="Gra" jugador="Chirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="10" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="53" equipo="Atl" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Ovejero"/>
+      <gol minuto="22" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="53" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/10/1972" jornada="7">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="64" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="28" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Atl" jugador="Bezerra"/>
+      <gol minuto="87" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="57" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1972" jornada="1">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="71" equipo="Val" jugador="Adorno"/>
+      <gol minuto="44" equipo="Val" jugador="Quino"/>
+      <gol minuto="62" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Gallego"/>
+      <gol minuto="80" equipo="Bar" jugador="Asensi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Bar</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Juanito"/>
+      <gol minuto="79" equipo="Bar" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Bar</local>
+    <visitante>Cas</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Pérez"/>
+      <gol minuto="16" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="85" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="14" equipo="Cas" jugador="Del Bosque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="63" equipo="Bar" jugador="Cos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1972" jornada="1">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bar" jugador="Gallego"/>
+      <gol minuto="10" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="1" equipo="Bar" jugador="Zabalza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Pujol"/>
+      <gol minuto="46" equipo="Bar" jugador="Barrios"/>
+      <gol minuto="50" equipo="Bar" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Pérez"/>
+      <gol minuto="58" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="51" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/09/1972" jornada="3">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bar" jugador="Barrios"/>
+      <gol minuto="46" equipo="Bar" jugador="Barrios"/>
+      <gol minuto="57" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="74" equipo="Ovi" jugador="Javier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="79" equipo="Bar" jugador="Barrios"/>
+      <gol minuto="73" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="89" equipo="Bar" jugador="Marcial"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/09/1972" jornada="4">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="80" equipo="Bar" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Bet</local>
+    <visitante>Bur</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="78" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="15" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="21" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="44" equipo="Bet" jugador="Del Pozo"/>
+      <gol minuto="89" equipo="Bur" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Bet</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="CD" jugador="Roldán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Bet</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bet" jugador="Nebot"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bet" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Bet" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bet" jugador="Frígols"/>
+      <gol minuto="48" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="30" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="58" equipo="Esp" jugador="Amiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 09/09/1972" jornada="2">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Las" jugador="Soto"/>
+      <gol minuto="28" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Bet</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="89" equipo="Bet" jugador="Macario"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bet" jugador="Jenaro"/>
+      <gol minuto="23" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="4" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bet" jugador="Nebot"/>
+      <gol minuto="35" equipo="Bet" jugador="Rogelio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/10/1972" jornada="6">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bet" jugador="Del Pozo"/>
+      <gol minuto="75" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>Bur</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bur" jugador="Quirós"/>
+      <gol minuto="35" equipo="Bur" jugador="Pocholo"/>
+      <gol minuto="54" equipo="Bur" jugador="Angelín"/>
+      <gol minuto="61" equipo="Bur" jugador="Angelín"/>
+      <gol minuto="75" equipo="Bur" jugador="Angelín"/>
+      <gol minuto="86" equipo="Ath" jugador="Gisasola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Bur</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Atl" jugador="Benegas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Bur</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Bur</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bur" jugador="Ederra"/>
+      <gol minuto="1" equipo="Bet" jugador="Roselló"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Bur</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bur" jugador="Olalde"/>
+      <gol minuto="47" equipo="Bur" jugador="Angelín"/>
+      <gol minuto="50" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="55" equipo="CD" jugador="Búa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Bur</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bur" jugador="Olalde"/>
+      <gol minuto="65" equipo="Bur" jugador="Quirós"/>
+      <gol minuto="40" equipo="Cas" jugador="Del Bosque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Bur</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Bur</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Bur</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bur" jugador="Burguete"/>
+      <gol minuto="16" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Bur</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bur" jugador="Pocholo"/>
+      <gol minuto="37" equipo="Gra" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Bur</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bur" jugador="Ederra"/>
+      <gol minuto="34" equipo="Bur" jugador="Quirós"/>
+      <gol minuto="50" equipo="Bur" jugador="Pocholo"/>
+      <gol minuto="18" equipo="Las" jugador="Páez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Bur</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1972" jornada="1">
+    <local>Bur</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bur" jugador="Quirós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Bur</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bur" jugador="Olalde"/>
+      <gol minuto="89" equipo="Rel" jugador="Zoco"/>
+      <gol minuto="49" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Bur</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bur" jugador="Alcorta"/>
+      <gol minuto="63" equipo="Bur" jugador="Arraiz"/>
+      <gol minuto="15" equipo="Spo" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Bur</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bur" jugador="Ederra"/>
+      <gol minuto="28" equipo="Bur" jugador="Olalde"/>
+      <gol minuto="88" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Bur</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bur" jugador="Gonzalo"/>
+      <gol minuto="80" equipo="Bur" jugador="Pocholo"/>
+      <gol minuto="13" equipo="Bur" jugador="Angelín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1972" jornada="1">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Atl" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="CD" jugador="Búa"/>
+      <gol minuto="20" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="55" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>CD</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>CD</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="CD" jugador="Irles"/>
+      <gol minuto="54" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="87" equipo="CD" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>CD</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="CD" jugador="Roldán"/>
+      <gol minuto="72" equipo="Cas" jugador="Tonín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1972" jornada="4">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="CD" jugador="Vilanova"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>CD</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="CD" jugador="Galindo"/>
+      <gol minuto="29" equipo="CD" jugador="Roldán"/>
+      <gol minuto="59" equipo="CD" jugador="Roldán"/>
+      <gol minuto="26" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="89" equipo="Dep" jugador="Landa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/05/1973" jornada="34">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Esp" jugador="Amiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>CD</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="CD" jugador="Vilanova"/>
+      <gol minuto="83" equipo="CD" jugador="Roldán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>CD</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Las" jugador="Páez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>CD</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="CD" jugador="Roldán"/>
+      <gol minuto="69" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="CD" jugador="Vilanova"/>
+      <gol minuto="83" equipo="CD" jugador="Migueli"/>
+      <gol minuto="7" equipo="CD" jugador="Bustillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>CD</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="CD" jugador="Búa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/04/1973" jornada="30">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Forment"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="CD" jugador="Roldán"/>
+      <gol minuto="6" equipo="CD" jugador="Roldán"/>
+      <gol minuto="76" equipo="Zar" jugador="Gómez Vila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Cas</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="45" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="40" equipo="Ath" jugador="Uriarte"/>
+      <gol minuto="3" equipo="Ath" jugador="Arieta II"/>
+      <gol minuto="74" equipo="Ath" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Cas</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Atl" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Cas</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="72" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="61" equipo="Cas" jugador="Tonín"/>
+      <gol minuto="23" equipo="Cas" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Cas</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Cas" jugador="Del Bosque"/>
+      <gol minuto="50" equipo="Cas" jugador="Clares"/>
+      <gol minuto="68" equipo="Cas" jugador="Ortuño"/>
+      <gol minuto="72" equipo="Bet" jugador="Del Pozo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 13/03/1973" jornada="24">
+    <local>Cas</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="34" equipo="Cas" jugador="Planelles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Cas</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Cas" jugador="Leandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Cas</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="38" equipo="Cas" jugador="Ortuño"/>
+      <gol minuto="14" equipo="Cas" jugador="Clares"/>
+      <gol minuto="18" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="61" equipo="Cas" jugador="Félix"/>
+      <gol minuto="66" equipo="Cas" jugador="Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Cas</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cas" jugador="Tonín"/>
+      <gol minuto="24" equipo="Cas" jugador="Ortuño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Cas</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cas" jugador="Cayuela"/>
+      <gol minuto="75" equipo="Cas" jugador="Cayuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Cas</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 24/03/1973" jornada="26">
+    <local>Cas</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cas" jugador="Planelles"/>
+      <gol minuto="58" equipo="Cas" jugador="Clares"/>
+      <gol minuto="21" equipo="Las" jugador="Páez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>Cas</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cas" jugador="Cayuela"/>
+      <gol minuto="36" equipo="Cas" jugador="Ortuño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Cas</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Cas" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1972" jornada="1">
+    <local>Cas</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Cas" jugador="Tonín"/>
+      <gol minuto="60" equipo="Cas" jugador="Ortuño"/>
+      <gol minuto="25" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="35" equipo="Rel" jugador="Macanás"/>
+      <gol minuto="47" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Cas</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cas" jugador="Cayuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Cas</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Cas" jugador="Tonín"/>
+      <gol minuto="6" equipo="Val" jugador="Valdez"/>
+      <gol minuto="59" equipo="Val" jugador="Quino"/>
+      <gol minuto="83" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Cas</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cas" jugador="Clares"/>
+      <gol minuto="89" equipo="Zar" jugador="Galdós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/12/1972" jornada="16">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Cel</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Cel</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Cel" jugador="Navas"/>
+      <gol minuto="66" equipo="Cel" jugador="Dolfi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/09/1972" jornada="1">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="25" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cel" jugador="Juan"/>
+      <gol minuto="61" equipo="Cel" jugador="Juan"/>
+      <gol minuto="84" equipo="Cel" jugador="Doblas"/>
+      <gol minuto="60" equipo="Las" jugador="Trona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Cel" jugador="Juan"/>
+      <gol minuto="37" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="88" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="77" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="60" equipo="Ovi" jugador="Galán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="79" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Cel" jugador="Villar"/>
+      <gol minuto="65" equipo="Cel" jugador="Sanromán"/>
+      <gol minuto="89" equipo="Cel" jugador="Canario"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="Fernández Amado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Fernández Amado"/>
+      <gol minuto="45" equipo="Zar" jugador="Rubial"/>
+      <gol minuto="89" equipo="Zar" jugador="Galdós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Dep" jugador="Rubiñán"/>
+      <gol minuto="15" equipo="Ath" jugador="Rojo II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Loureda"/>
+      <gol minuto="15" equipo="Atl" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Juanito"/>
+      <gol minuto="60" equipo="Dep" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1972" jornada="4">
+    <local>Dep</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Dep" jugador="Plaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Dep</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Dep" jugador="Rubiñán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Dep</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Dep" jugador="Beci"/>
+      <gol minuto="81" equipo="Cas" jugador="Del Bosque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Dep" jugador="Cortés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/09/1972" jornada="2">
+    <local>Dep</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Dep</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Dep" jugador="Rubiñán"/>
+      <gol minuto="66" equipo="Dep" jugador="Loureda"/>
+      <gol minuto="76" equipo="Las" jugador="Fernández"/>
+      <gol minuto="77" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Dep" jugador="Plaza"/>
+      <gol minuto="6" equipo="Ovi" jugador="Galán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Dep" jugador="Loureda"/>
+      <gol minuto="27" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="75" equipo="Rea" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Dep</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Dep" jugador="Landa"/>
+      <gol minuto="82" equipo="Dep" jugador="Landa"/>
+      <gol minuto="73" equipo="Spo" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Dep" jugador="Prieto"/>
+      <gol minuto="66" equipo="Val" jugador="Claramunt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="83" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="74" equipo="Atl" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Esp" jugador="José María"/>
+      <gol minuto="45" equipo="Bar" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="55" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="9" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="84" equipo="Bet" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Esp</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="6" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1972" jornada="2">
+    <local>Esp</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Esp" jugador="Carbonell"/>
+      <gol minuto="24" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="65" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="4" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="81" equipo="Cel" jugador="Rivas"/>
+      <gol minuto="71" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="48" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="73" equipo="Dep" jugador="Rubiñán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="67" equipo="Gra" jugador="Chirri"/>
+      <gol minuto="87" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/1972" jornada="4">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="87" equipo="Esp" jugador="Pepín"/>
+      <gol minuto="26" equipo="Esp" jugador="José María"/>
+      <gol minuto="65" equipo="Esp" jugador="Amiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="70" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="34" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Urreisti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/04/1973" jornada="30">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Pepín"/>
+      <gol minuto="85" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="73" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="86" equipo="Esp" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="1" equipo="Esp" jugador="José María"/>
+      <gol minuto="75" equipo="Esp" jugador="José María"/>
+      <gol minuto="73" equipo="Zar" jugador="Totó"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Atl" jugador="Bezerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Martí Filosia"/>
+      <gol minuto="42" equipo="Bar" jugador="Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Gra</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Gra" jugador="Oliveros"/>
+      <gol minuto="55" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Gra</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Gra" jugador="Dueñas"/>
+      <gol minuto="43" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Gra</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Gra" jugador="Quiles"/>
+      <gol minuto="79" equipo="Cas" jugador="Planelles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Gra</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Gra" jugador="Porta"/>
+      <gol minuto="53" equipo="Gra" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Gra" jugador="Oliveros"/>
+      <gol minuto="10" equipo="Gra" jugador="Porta"/>
+      <gol minuto="61" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="77" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Gra</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Gra" jugador="Oliveros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Gra</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Gra" jugador="Castellanos"/>
+      <gol minuto="52" equipo="Gra" jugador="Porta"/>
+      <gol minuto="70" equipo="Gra" jugador="Porta"/>
+      <gol minuto="85" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Gra" jugador="Porta"/>
+      <gol minuto="46" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="80" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Gra</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gra" jugador="Chirri"/>
+      <gol minuto="82" equipo="Val" jugador="Gabriel Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1972" jornada="1">
+    <local>Gra</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/11/1972" jornada="12">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Las" jugador="Páez"/>
+      <gol minuto="5" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="28" equipo="Atl" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Las" jugador="León"/>
+      <gol minuto="75" equipo="Bar" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/01/1973" jornada="19">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Las" jugador="Hernández"/>
+      <gol minuto="21" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/04/1973" jornada="28">
+    <local>Las</local>
+    <visitante>Bur</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Las" jugador="Fernández"/>
+      <gol minuto="58" equipo="Las" jugador="Fernández"/>
+      <gol minuto="22" equipo="Las" jugador="Germán"/>
+      <gol minuto="81" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="70" equipo="Bur" jugador="Requejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/10/1972" jornada="7">
+    <local>Las</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Las" jugador="Trona"/>
+      <gol minuto="57" equipo="CD" jugador="Viberti"/>
+      <gol minuto="48" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="67" equipo="CD" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/11/1972" jornada="9">
+    <local>Las</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Cas" jugador="Ortuño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/03/1973" jornada="25">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/12/1972" jornada="16">
+    <local>Las</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Las" jugador="Fernández"/>
+      <gol minuto="21" equipo="Las" jugador="Trona"/>
+      <gol minuto="4" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/02/1973" jornada="21">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="De Diego"/>
+      <gol minuto="71" equipo="Esp" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/12/1972" jornada="14">
+    <local>Las</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Las" jugador="Miguel Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1972" jornada="1">
+    <local>Las</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Las" jugador="Germán"/>
+      <gol minuto="87" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/03/1973" jornada="23">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Velázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/03/1973" jornada="27">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Las" jugador="Martín Marrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/05/1973" jornada="32">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ovi" jugador="Uría"/>
+      <gol minuto="39" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1972" jornada="2">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Ovejero"/>
+      <gol minuto="27" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Ovi</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Ovi</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Ovi</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Ovi</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/10/1972" jornada="6">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="88" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="55" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1972" jornada="4">
+    <local>Ovi</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ovi" jugador="Jacquet"/>
+      <gol minuto="80" equipo="Ovi" jugador="Iriarte"/>
+      <gol minuto="17" equipo="Ovi" jugador="Galán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Ovi</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="9" equipo="Ovi" jugador="Galán"/>
+      <gol minuto="89" equipo="Ovi" jugador="Galán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="67" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ovi" jugador="Galán"/>
+      <gol minuto="8" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="67" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Ovi</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ovi" jugador="Galán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ovi" jugador="Iriarte"/>
+      <gol minuto="16" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="85" equipo="Ovi" jugador="Galán"/>
+      <gol minuto="54" equipo="Val" jugador="Claramunt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="73" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rea" jugador="Muruzábal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Atl" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="18" equipo="Rea" jugador="Ansola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="41" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="38" equipo="Bet" jugador="Rogelio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Rea</local>
+    <visitante>Bur</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="23" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="64" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="50" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="32" equipo="Bur" jugador="Pocholo"/>
+      <gol minuto="77" equipo="Rea" jugador="Corcuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1972" jornada="2">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="39" equipo="CD" jugador="Bustillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/09/1972" jornada="4">
+    <local>Rea</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="9" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/12/1972" jornada="16">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="70" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="24" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="16" equipo="Rea" jugador="Amas"/>
+      <gol minuto="80" equipo="Esp" jugador="Poli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rea" jugador="Ansola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Ansola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="20" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="30" equipo="Ovi" jugador="Marianín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="60" equipo="Rel" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="16" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="2" equipo="Rea" jugador="Amas"/>
+      <gol minuto="47" equipo="Rea" jugador="Ansola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/05/1973" jornada="31">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="80" equipo="Rel" jugador="Grande"/>
+      <gol minuto="88" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="34" equipo="Ath" jugador="Rojo II"/>
+      <gol minuto="29" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="77" equipo="Ath" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/1972" jornada="4">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Atl" jugador="Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/04/1973" jornada="28">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bet" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Rel</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rel" jugador="Grosso"/>
+      <gol minuto="65" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="24" equipo="Rel" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Rel</local>
+    <visitante>Cas</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rel" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/10/1972" jornada="8">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rel" jugador="Grande"/>
+      <gol minuto="57" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="74" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="57" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="41" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="88" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Velázquez"/>
+      <gol minuto="57" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="41" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="80" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="60" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="20" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1972" jornada="2">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Velázquez"/>
+      <gol minuto="37" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="51" equipo="Val" jugador="Aníbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/03/1973" jornada="24">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Spo" jugador="Fanjul"/>
+      <gol minuto="42" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/04/1973" jornada="28">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Spo" jugador="Megido"/>
+      <gol minuto="50" equipo="Spo" jugador="Megido"/>
+      <gol minuto="85" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="89" equipo="Atl" jugador="Luis Aragonés"/>
+      <gol minuto="57" equipo="Atl" jugador="Salcedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/11/1972" jornada="12">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/09/1972" jornada="1">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Spo" jugador="Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/03/1973" jornada="26">
+    <local>Spo</local>
+    <visitante>Bur</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Spo" jugador="Quini"/>
+      <gol minuto="19" equipo="Bur" jugador="Requejo"/>
+      <gol minuto="88" equipo="Bur" jugador="Requejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Spo</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Spo" jugador="Valdés"/>
+      <gol minuto="33" equipo="Spo" jugador="Fanjul"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Spo</local>
+    <visitante>Cas</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="83" equipo="Spo" jugador="Herrero II"/>
+      <gol minuto="41" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/05/1973" jornada="32">
+    <local>Spo</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 16/09/1972" jornada="3">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/04/1973" jornada="30">
+    <local>Spo</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="70" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/11/1972" jornada="10">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Spo" jugador="Quini"/>
+      <gol minuto="61" equipo="Las" jugador="Fernández"/>
+      <gol minuto="49" equipo="Las" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/05/1973" jornada="34">
+    <local>Spo</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Spo" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/01/1973" jornada="19">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Spo" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/12/1972" jornada="16">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Spo" jugador="Quini"/>
+      <gol minuto="80" equipo="Val" jugador="Lico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/12/1972" jornada="14">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Spo" jugador="Valdés"/>
+      <gol minuto="49" equipo="Spo" jugador="Quini"/>
+      <gol minuto="57" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Val" jugador="Pellicer"/>
+      <gol minuto="75" equipo="Val" jugador="Pellicer"/>
+      <gol minuto="32" equipo="Val" jugador="González"/>
+      <gol minuto="56" equipo="Val" jugador="González"/>
+      <gol minuto="12" equipo="Ath" jugador="Viteri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Val" jugador="Pellicer"/>
+      <gol minuto="43" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="53" equipo="Atl" jugador="Bezerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/09/1972" jornada="2">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Marcial"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Sol"/>
+      <gol minuto="55" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/10/1972" jornada="6">
+    <local>Val</local>
+    <visitante>Bur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Val" jugador="Claramunt"/>
+      <gol minuto="67" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Sol"/>
+      <gol minuto="18" equipo="Val" jugador="Valdez"/>
+      <gol minuto="85" equipo="CD" jugador="Galindo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Val</local>
+    <visitante>Cas</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Valdez"/>
+      <gol minuto="67" equipo="Val" jugador="Valdez"/>
+      <gol minuto="75" equipo="Val" jugador="Valdez"/>
+      <gol minuto="78" equipo="Val" jugador="Valdez"/>
+      <gol minuto="89" equipo="Cas" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/02/1973" jornada="22">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Beci"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Claramunt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/02/1973" jornada="20">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Adorno"/>
+      <gol minuto="51" equipo="Val" jugador="Adorno"/>
+      <gol minuto="41" equipo="Ovi" jugador="Marianín"/>
+      <gol minuto="11" equipo="Ovi" jugador="Secades"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rel" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/05/1973" jornada="33">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Val" jugador="Fuertes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/09/1972" jornada="4">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/11/1972" jornada="9">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="61" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="74" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="84" equipo="Ath" jugador="Astrain"/>
+      <gol minuto="76" equipo="Ath" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/05/1973" jornada="33">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Zar" jugador="Rico"/>
+      <gol minuto="44" equipo="Atl" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/01/1973" jornada="17">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="De la Cruz"/>
+      <gol minuto="64" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/03/1973" jornada="23">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Zar" jugador="Galdós"/>
+      <gol minuto="53" equipo="Zar" jugador="Ocampos"/>
+      <gol minuto="61" equipo="Zar" jugador="Ocampos"/>
+      <gol minuto="65" equipo="Bet" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/09/1972" jornada="2">
+    <local>Zar</local>
+    <visitante>Bur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="76" equipo="Zar" jugador="Luis Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/11/1972" jornada="11">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Zar" jugador="Ocampos"/>
+      <gol minuto="66" equipo="CD" jugador="Bustillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/12/1972" jornada="13">
+    <local>Zar</local>
+    <visitante>Cas</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Cas" jugador="Cela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/04/1973" jornada="29">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Zar" jugador="Lacruz"/>
+      <gol minuto="41" equipo="Cel" jugador="Sanromán"/>
+      <gol minuto="89" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/09/1972" jornada="3">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Zar" jugador="Rico"/>
+      <gol minuto="41" equipo="Zar" jugador="Ocampos"/>
+      <gol minuto="70" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/03/1973" jornada="25">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/01/1973" jornada="18">
+    <local>Zar</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/12/1972" jornada="15">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Violeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/10/1972" jornada="5">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Zar" jugador="Totó"/>
+      <gol minuto="89" equipo="Zar" jugador="Rubial"/>
+      <gol minuto="55" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/04/1973" jornada="27">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Royo"/>
+      <gol minuto="80" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/10/1972" jornada="7">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/04/1973" jornada="31">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="32" equipo="Zar" jugador="Ocampos"/>
+      <gol minuto="81" equipo="Spo" jugador="Fanjul"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/02/1973" jornada="21">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+</liga>

@@ -1,0 +1,3971 @@
+<?xml version="1.0" ?>
+<liga temporada="2016-17">
+  <partido fecha="Domingo 07/05/2017" jornada="36">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ala" jugador="Theo Hernandez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2017" jornada="20">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/02/2017" jornada="22">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="6"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="40" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="59" equipo="Bar" jugador="Messi"/>
+      <gol minuto="37" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="67" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 16/12/2016" jornada="16">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ala" jugador="Deyverson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ala" jugador="Feddal"/>
+      <gol minuto="5" equipo="Ala" jugador="Manu García"/>
+      <gol minuto="36" equipo="Ala" jugador="Deyverson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 19/09/2016" jornada="4">
+    <local>Ala</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 27/04/2017" jornada="34">
+    <local>Ala</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/11/2016" jornada="12">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 26/09/2016" jornada="6">
+    <local>Ala</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ala" jugador="Camarasa"/>
+      <gol minuto="93" equipo="Ala" jugador="Deyverson"/>
+      <gol minuto="52" equipo="Ala" jugador="Édgar Méndez"/>
+      <gol minuto="78" equipo="Gra" jugador="Kravets"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/2016" jornada="14">
+    <local>Ala</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ala" jugador="Alexis"/>
+      <gol minuto="56" equipo="Las" jugador="Livaja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2017" jornada="19">
+    <local>Ala</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ala" jugador="Laguardia"/>
+      <gol minuto="51" equipo="Ala" jugador="Édgar Méndez"/>
+      <gol minuto="84" equipo="Leg" jugador="Insua"/>
+      <gol minuto="44" equipo="Leg" jugador="Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2016" jornada="8">
+    <local>Ala</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ala" jugador="Deyverson"/>
+      <gol minuto="85" equipo="Mál" jugador="Rosales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/04/2017" jornada="30">
+    <local>Ala</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Osa" jugador="Berenguer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2017" jornada="28">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ala" jugador="Deyverson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2016" jornada="10">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ala" jugador="Deyverson"/>
+      <gol minuto="32" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="87" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="83" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/03/2017" jornada="26">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="74" equipo="Ala" jugador="Katai"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2016" jornada="2">
+    <local>Ala</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/02/2017" jornada="24">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Ala" jugador="Ibai Gómez"/>
+      <gol minuto="69" equipo="Val" jugador="Carlos Soler"/>
+      <gol minuto="85" equipo="Ala" jugador="Katai"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/04/2017" jornada="32">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ala" jugador="Rodrigo Ely"/>
+      <gol minuto="35" equipo="Ala" jugador="Ibai Gómez"/>
+      <gol minuto="70" equipo="Vil" jugador="Bakambu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2017" jornada="17">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/01/2017" jornada="19">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="41" equipo="Ath" jugador="Lekue"/>
+      <gol minuto="2" equipo="Atl" jugador="Koke"/>
+      <gol minuto="79" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2016" jornada="2">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/04/2017" jornada="34">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="62" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 19/12/2016" jornada="16">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="93" equipo="Ath" jugador="San José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/02/2017" jornada="22">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="89" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="42" equipo="Dep" jugador="Çolak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/2016" jornada="14">
+    <local>Ath</local>
+    <visitante>Eib</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ath" jugador="Beñat"/>
+      <gol minuto="55" equipo="Ath" jugador="Williams"/>
+      <gol minuto="91" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="70" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 04/04/2017" jornada="30">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2017" jornada="24">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Lekue"/>
+      <gol minuto="68" equipo="Ath" jugador="San José"/>
+      <gol minuto="10" equipo="Ath" jugador="Susaeta"/>
+      <gol minuto="13" equipo="Gra" jugador="Carcela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/04/2017" jornada="32">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="San José"/>
+      <gol minuto="9" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="57" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="17" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="59" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="11" equipo="Las" jugador="Bigas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Ath</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="61" equipo="Leg" jugador="Szymanowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2017" jornada="26">
+    <local>Ath</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/10/2016" jornada="10">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="22" equipo="Osa" jugador="Oriol Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2016" jornada="8">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Ath" jugador="Williams"/>
+      <gol minuto="50" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="59" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="82" equipo="Rea" jugador="Iñigo Martínez"/>
+      <gol minuto="16" equipo="Rea" jugador="Zurutuza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2017" jornada="28">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="68" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="25" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/09/2016" jornada="6">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ath" jugador="Balenziaga"/>
+      <gol minuto="27" equipo="Ath" jugador="San José"/>
+      <gol minuto="55" equipo="Sev" jugador="Nasri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2017" jornada="20">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2016" jornada="4">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="41" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="2" equipo="Val" jugador="Medrán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/2016" jornada="12">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/08/2016" jornada="1">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="95" equipo="Ala" jugador="Manu García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2017" jornada="38">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="10" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="89" equipo="Atl" jugador="Correa"/>
+      <gol minuto="70" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2017" jornada="24">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Atl" jugador="Godín"/>
+      <gol minuto="63" equipo="Bar" jugador="Rafinha"/>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2017" jornada="18">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Atl" jugador="Gaitán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2017" jornada="22">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="88" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="11" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="6" equipo="Cel" jugador="Cabral"/>
+      <gol minuto="78" equipo="Cel" jugador="Guidetti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/2016" jornada="6">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2017" jornada="36">
+    <local>Atl</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/12/2016" jornada="14">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/10/2016" jornada="8">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="44" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="60" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="84" equipo="Atl" jugador="Correa"/>
+      <gol minuto="17" equipo="Gra" jugador="Cuenca"/>
+      <gol minuto="87" equipo="Atl" jugador="Tiago"/>
+      <gol minuto="63" equipo="Atl" jugador="Gaitán"/>
+      <gol minuto="81" equipo="Atl" jugador="Gaitán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/12/2016" jornada="16">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2017" jornada="21">
+    <local>Atl</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="50" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2016" jornada="10">
+    <local>Atl</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="7" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="86" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="24" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="43" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="63" equipo="Mál" jugador="Camacho"/>
+      <gol minuto="31" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2017" jornada="32">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Filipe Luís"/>
+      <gol minuto="29" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="46" equipo="Atl" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 04/04/2017" jornada="30">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Filipe Luís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/11/2016" jornada="12">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="76" equipo="Rel" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2017" jornada="28">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Godín"/>
+      <gol minuto="77" equipo="Atl" jugador="Koke"/>
+      <gol minuto="61" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="85" equipo="Sev" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2016" jornada="4">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="31" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="5" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="71" equipo="Atl" jugador="Fernando Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2017" jornada="26">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="82" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="47" equipo="Atl" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2017" jornada="34">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vil" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2016" jornada="3">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bar" jugador="Mathieu"/>
+      <gol minuto="39" equipo="Ala" jugador="Deyverson"/>
+      <gol minuto="64" equipo="Ala" jugador="Ibai Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2017" jornada="21">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bar" jugador="Aleix Vidal"/>
+      <gol minuto="39" equipo="Bar" jugador="Messi"/>
+      <gol minuto="17" equipo="Bar" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/09/2016" jornada="5">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="60" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2016" jornada="1">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Arda Turan"/>
+      <gol minuto="37" equipo="Bar" jugador="Messi"/>
+      <gol minuto="58" equipo="Bar" jugador="Messi"/>
+      <gol minuto="42" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="56" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="81" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="21" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="83" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2017" jornada="26">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Umtiti"/>
+      <gol minuto="58" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="40" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="24" equipo="Bar" jugador="Messi"/>
+      <gol minuto="64" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2016" jornada="8">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Rafinha"/>
+      <gol minuto="35" equipo="Bar" jugador="Rafinha"/>
+      <gol minuto="42" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="57" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2017" jornada="38">
+    <local>Bar</local>
+    <visitante>Eib</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="92" equipo="Bar" jugador="Messi"/>
+      <gol minuto="73" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="7" equipo="Eib" jugador="Inui"/>
+      <gol minuto="60" equipo="Eib" jugador="Inui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/12/2016" jornada="16">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+      <gol minuto="17" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="66" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="78" equipo="Esp" jugador="David López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2016" jornada="10">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Rafinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2017" jornada="18">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bar" jugador="Aleix Vidal"/>
+      <gol minuto="59" equipo="Bar" jugador="Arda Turan"/>
+      <gol minuto="52" equipo="Bar" jugador="Messi"/>
+      <gol minuto="14" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="57" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2017" jornada="23">
+    <local>Bar</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Messi"/>
+      <gol minuto="70" equipo="Leg" jugador="Unai López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/11/2016" jornada="12">
+    <local>Bar</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 26/04/2017" jornada="34">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="André Gomes"/>
+      <gol minuto="56" equipo="Bar" jugador="André Gomes"/>
+      <gol minuto="11" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Messi"/>
+      <gol minuto="63" equipo="Bar" jugador="Alcácer"/>
+      <gol minuto="85" equipo="Bar" jugador="Alcácer"/>
+      <gol minuto="47" equipo="Osa" jugador="Roberto Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2017" jornada="32">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Messi"/>
+      <gol minuto="37" equipo="Bar" jugador="Messi"/>
+      <gol minuto="44" equipo="Bar" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/12/2016" jornada="14">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="90" equipo="Rel" jugador="Sergio Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/04/2017" jornada="30">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Messi"/>
+      <gol minuto="33" equipo="Bar" jugador="Messi"/>
+      <gol minuto="25" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/03/2017" jornada="25">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="65" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="8" equipo="Bar" jugador="Messi"/>
+      <gol minuto="26" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="21" equipo="Spo" jugador="Carlos Castro"/>
+      <gol minuto="49" equipo="Bar" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2017" jornada="28">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bar" jugador="Messi"/>
+      <gol minuto="35" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="29" equipo="Val" jugador="Mangala"/>
+      <gol minuto="89" equipo="Bar" jugador="André Gomes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2017" jornada="36">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="45" equipo="Bar" jugador="Messi"/>
+      <gol minuto="68" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="31" equipo="Vil" jugador="Bakambu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2017" jornada="35">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bet" jugador="Rubén Pardo"/>
+      <gol minuto="47" equipo="Ala" jugador="Krstičić"/>
+      <gol minuto="57" equipo="Ala" jugador="Christian Santos"/>
+      <gol minuto="53" equipo="Ala" jugador="Sobrino"/>
+      <gol minuto="89" equipo="Ala" jugador="Katai"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/2016" jornada="15">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bet" jugador="Dani Ceballos"/>
+      <gol minuto="66" equipo="Atl" jugador="Savić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2017" jornada="20">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bet" jugador="Álex Alegría"/>
+      <gol minuto="89" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/2016" jornada="14">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bet" jugador="Pezzella"/>
+      <gol minuto="58" equipo="Bet" jugador="Sanabria"/>
+      <gol minuto="85" equipo="Cel" jugador="Roncaglia"/>
+      <gol minuto="14" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="61" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/08/2016" jornada="2">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/04/2017" jornada="32">
+    <local>Bet</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bet" jugador="Martin"/>
+      <gol minuto="87" equipo="Bet" jugador="Dani Ceballos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2016" jornada="10">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Diego Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 16/09/2016" jornada="4">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Álex Alegría"/>
+      <gol minuto="61" equipo="Bet" jugador="Álex Alegría"/>
+      <gol minuto="33" equipo="Gra" jugador="Bueno"/>
+      <gol minuto="13" equipo="Gra" jugador="Carcela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/11/2016" jornada="12">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bet" jugador="Mandi"/>
+      <gol minuto="27" equipo="Bet" jugador="Bruno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2017" jornada="17">
+    <local>Bet</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="84" equipo="Bet" jugador="Piccini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/09/2016" jornada="6">
+    <local>Bet</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Bet" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2017" jornada="28">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bet" jugador="Rafa Navarro"/>
+      <gol minuto="27" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/03/2017" jornada="26">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Mandi"/>
+      <gol minuto="26" equipo="Rea" jugador="Xabi Prieto"/>
+      <gol minuto="71" equipo="Rea" jugador="Xabi Prieto"/>
+      <gol minuto="10" equipo="Rea" jugador="Bautista"/>
+      <gol minuto="65" equipo="Bet" jugador="Sanabria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2016" jornada="8">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="6"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rel" jugador="Varane"/>
+      <gol minuto="39" equipo="Rel" jugador="Marcelo"/>
+      <gol minuto="44" equipo="Rel" jugador="Isco"/>
+      <gol minuto="62" equipo="Rel" jugador="Isco"/>
+      <gol minuto="78" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="32" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="55" equipo="Bet" jugador="Cejudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2017" jornada="24">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Durmisi"/>
+      <gol minuto="56" equipo="Sev" jugador="Mercado"/>
+      <gol minuto="75" equipo="Sev" jugador="Iborra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2017" jornada="19">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/02/2017" jornada="22">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Martes 04/04/2017" jornada="30">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Vil" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2017" jornada="18">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Cel" jugador="Radoja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2017" jornada="35">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="49" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="83" equipo="Ath" jugador="Mikel Rico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2016" jornada="3">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Atl" jugador="Koke"/>
+      <gol minuto="72" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="80" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="88" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2016" jornada="7">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Cel" jugador="Pablo Hernández"/>
+      <gol minuto="22" equipo="Cel" jugador="Pione Sisto"/>
+      <gol minuto="31" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="57" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="86" equipo="Bar" jugador="Piqué"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2017" jornada="33">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bet" jugador="Brašanac"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2016 (12:00)" jornada="9">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Cel" jugador="Hugo Mallo"/>
+      <gol minuto="77" equipo="Cel" jugador="Orellana"/>
+      <gol minuto="83" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="37" equipo="Dep" jugador="Albentosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2017" jornada="31">
+    <local>Cel</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="13" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/03/2017" jornada="25">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Cel" jugador="Wass"/>
+      <gol minuto="21" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="31" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="27" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/2016" jornada="13">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="38" equipo="Cel" jugador="Bongonda"/>
+      <gol minuto="85" equipo="Gra" jugador="Kravets"/>
+      <gol minuto="89" equipo="Cel" jugador="Pape Cheikh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/04/2017" jornada="29">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cel" jugador="Rossi"/>
+      <gol minuto="36" equipo="Cel" jugador="Rossi"/>
+      <gol minuto="57" equipo="Cel" jugador="Rossi"/>
+      <gol minuto="80" equipo="Las" jugador="Bigas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/08/2016" jornada="1">
+    <local>Cel</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Leg" jugador="Víctor Díaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2017" jornada="17">
+    <local>Cel</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Cel" jugador="Fontàs"/>
+      <gol minuto="59" equipo="Cel" jugador="Wass"/>
+      <gol minuto="7" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2017" jornada="23">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cel" jugador="Pione Sisto"/>
+      <gol minuto="88" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="86" equipo="Cel" jugador="Jozabed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2017" jornada="38">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rea" jugador="Oyarzabal"/>
+      <gol minuto="88" equipo="Cel" jugador="Hjulsager"/>
+      <gol minuto="93" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 17/05/2017" jornada="21">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Cel" jugador="Guidetti"/>
+      <gol minuto="88" equipo="Rel" jugador="Kroos"/>
+      <gol minuto="10" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="47" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="70" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/2016" jornada="15">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Sev" jugador="Iborra"/>
+      <gol minuto="84" equipo="Sev" jugador="Iborra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/09/2016" jornada="5">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Cel" jugador="Hugo Mallo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2016" jornada="11">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Cel" jugador="Roncaglia"/>
+      <gol minuto="77" equipo="Cel" jugador="Guidetti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2017" jornada="27">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vil" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2017" jornada="23">
+    <local>Dep</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/09/2016" jornada="3">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/03/2017" jornada="25">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Dep" jugador="Andone"/>
+      <gol minuto="68" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2017" jornada="27">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Dep" jugador="Álex Bergantiños"/>
+      <gol minuto="39" equipo="Dep" jugador="Joselu"/>
+      <gol minuto="46" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/03/2017" jornada="21">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bet" jugador="Piccini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2017" jornada="28">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/08/2016" jornada="1">
+    <local>Dep</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Dep" jugador="Mosquera"/>
+      <gol minuto="55" equipo="Eib" jugador="Ramis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2017" jornada="36">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Dep" jugador="Andone"/>
+      <gol minuto="14" equipo="Esp" jugador="Léo Baptistão"/>
+      <gol minuto="29" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/04/2017" jornada="30">
+    <local>Dep</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 20/05/2017" jornada="38">
+    <local>Dep</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Carles Gil"/>
+      <gol minuto="4" equipo="Dep" jugador="Andone"/>
+      <gol minuto="28" equipo="Dep" jugador="Andone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 22/09/2016" jornada="5">
+    <local>Dep</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Borges"/>
+      <gol minuto="61" equipo="Leg" jugador="Gabriel"/>
+      <gol minuto="54" equipo="Leg" jugador="Luciano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2017" jornada="32">
+    <local>Dep</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Dep" jugador="Joselu"/>
+      <gol minuto="66" equipo="Dep" jugador="Mosquera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/12/2016" jornada="16">
+    <local>Dep</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Dep" jugador="Babel"/>
+      <gol minuto="7" equipo="Dep" jugador="Andone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 05/12/2016" jornada="14">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Dep" jugador="Sidnei"/>
+      <gol minuto="64" equipo="Dep" jugador="Babel"/>
+      <gol minuto="42" equipo="Dep" jugador="Andone"/>
+      <gol minuto="77" equipo="Dep" jugador="Andone"/>
+      <gol minuto="57" equipo="Rea" jugador="Yuri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2017" jornada="34">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="6"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Andone"/>
+      <gol minuto="77" equipo="Rel" jugador="Isco"/>
+      <gol minuto="13" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="66" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="44" equipo="Rel" jugador="Lucas Vázquez"/>
+      <gol minuto="1" equipo="Rel" jugador="Morata"/>
+      <gol minuto="83" equipo="Dep" jugador="Joselu"/>
+      <gol minuto="87" equipo="Rel" jugador="Casemiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/11/2016" jornada="12">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Dep" jugador="Babel"/>
+      <gol minuto="42" equipo="Dep" jugador="Andone"/>
+      <gol minuto="89" equipo="Sev" jugador="Mercado"/>
+      <gol minuto="44" equipo="Sev" jugador="Nzonzi"/>
+      <gol minuto="87" equipo="Sev" jugador="Vitolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2016" jornada="7">
+    <local>Dep</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Dep" jugador="Borges"/>
+      <gol minuto="65" equipo="Spo" jugador="Sergio Álvarez"/>
+      <gol minuto="89" equipo="Dep" jugador="Babel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 31/10/2016" jornada="10">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2017" jornada="18">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/12/2016" jornada="15">
+    <local>Eib</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 24/04/2017" jornada="33">
+    <local>Eib</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2017" jornada="17">
+    <local>Eib</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="73" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2017" jornada="19">
+    <local>Eib</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="50" equipo="Bar" jugador="Messi"/>
+      <gol minuto="68" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="32" equipo="Bar" jugador="Denis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 25/11/2016" jornada="13">
+    <local>Eib</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="22" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="84" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="92" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/11/2016" jornada="12">
+    <local>Eib</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Eib" jugador="Fran Rico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2017" jornada="20">
+    <local>Eib</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Eib" jugador="Lejeune"/>
+      <gol minuto="4" equipo="Eib" jugador="Adrián"/>
+      <gol minuto="15" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="18" equipo="Dep" jugador="Çolak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2017" jornada="28">
+    <local>Eib</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="49" equipo="Esp" jugador="Jurado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/02/2017" jornada="22">
+    <local>Eib</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Eib" jugador="Ramis"/>
+      <gol minuto="62" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="39" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/04/2017" jornada="30">
+    <local>Eib</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Eib" jugador="Bebé"/>
+      <gol minuto="61" equipo="Las" jugador="Lemos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2017" jornada="35">
+    <local>Eib</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="66" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2017" jornada="24">
+    <local>Eib</local>
+    <visitante>Mál</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Eib" jugador="Adrián"/>
+      <gol minuto="51" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/10/2016" jornada="8">
+    <local>Eib</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Eib" jugador="Escalante"/>
+      <gol minuto="45" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="58" equipo="Osa" jugador="Roberto Torres"/>
+      <gol minuto="29" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="32" equipo="Osa" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/09/2016" jornada="6">
+    <local>Eib</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Eib" jugador="Bebé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2017" jornada="26">
+    <local>Eib</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Eib" jugador="Rubén Peña"/>
+      <gol minuto="29" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="59" equipo="Rel" jugador="Asensio"/>
+      <gol minuto="13" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="24" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2016" jornada="4">
+    <local>Eib</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="26" equipo="Sev" jugador="Vietto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Eib</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Spo" jugador="Burgui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2016" jornada="2">
+    <local>Eib</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Eib" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2016" jornada="10">
+    <local>Eib</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Eib" jugador="Ramis"/>
+      <gol minuto="87" equipo="Eib" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2017" jornada="31">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Esp" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2016" jornada="11">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/04/2017" jornada="33">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2017" jornada="35">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="50" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="86" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 31/03/2017" jornada="29">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Javi Fuego"/>
+      <gol minuto="89" equipo="Esp" jugador="Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/2016" jornada="6">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Pione Sisto"/>
+      <gol minuto="87" equipo="Cel" jugador="Rossi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 06/01/2017" jornada="17">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Gerard Moreno"/>
+      <gol minuto="58" equipo="Dep" jugador="Borges"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2016 (13:00)" jornada="9">
+    <local>Esp</local>
+    <visitante>Eib</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="92" equipo="Esp" jugador="Léo Baptistão"/>
+      <gol minuto="44" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="23" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="65" equipo="Esp" jugador="Hernán Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2017" jornada="19">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Esp" jugador="Navarro"/>
+      <gol minuto="32" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="11" equipo="Esp" jugador="Reyes"/>
+      <gol minuto="22" equipo="Gra" jugador="Andreas Pereira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/03/2017" jornada="27">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Esp" jugador="David López"/>
+      <gol minuto="74" equipo="Esp" jugador="Jurado"/>
+      <gol minuto="30" equipo="Las" jugador="Lemos"/>
+      <gol minuto="48" equipo="Las" jugador="Lemos"/>
+      <gol minuto="83" equipo="Las" jugador="Mateo García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/11/2016" jornada="13">
+    <local>Esp</local>
+    <visitante>Leg</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="87" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="46" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/08/2016" jornada="2">
+    <local>Esp</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="Gerard Moreno"/>
+      <gol minuto="61" equipo="Esp" jugador="Gerard Moreno"/>
+      <gol minuto="67" equipo="Mál" jugador="Llorente"/>
+      <gol minuto="89" equipo="Mál" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2017" jornada="24">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Esp" jugador="Jurado"/>
+      <gol minuto="91" equipo="Esp" jugador="Gerard Moreno"/>
+      <gol minuto="16" equipo="Esp" jugador="Caicedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/02/2017" jornada="22">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Esp" jugador="Hernán Pérez"/>
+      <gol minuto="60" equipo="Rea" jugador="Illarramendi"/>
+      <gol minuto="25" equipo="Rea" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2016" jornada="4">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2017" jornada="20">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Esp" jugador="Navarro"/>
+      <gol minuto="71" equipo="Esp" jugador="Gerard Moreno"/>
+      <gol minuto="19" equipo="Sev" jugador="Jovetić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/2016" jornada="15">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Esp" jugador="Léo Baptistão"/>
+      <gol minuto="53" equipo="Esp" jugador="Caicedo"/>
+      <gol minuto="92" equipo="Spo" jugador="Čop"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2017" jornada="37">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Gayà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2016" jornada="7">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 01/03/2017" jornada="25">
+    <local>Gra</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="12" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Gra" jugador="Wakaso"/>
+      <gol minuto="53" equipo="Gra" jugador="Cuenca"/>
+      <gol minuto="57" equipo="Ala" jugador="Camarasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/09/2016" jornada="5">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Gra" jugador="Carcela"/>
+      <gol minuto="76" equipo="Ath" jugador="Laporte"/>
+      <gol minuto="15" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2017" jornada="27">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2017" jornada="29">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="43" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="49" equipo="Gra" jugador="Boga"/>
+      <gol minuto="63" equipo="Bar" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/02/2017" jornada="23">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Gra" jugador="Andreas Pereira"/>
+      <gol minuto="17" equipo="Gra" jugador="Carcela"/>
+      <gol minuto="27" equipo="Gra" jugador="Ramos"/>
+      <gol minuto="64" equipo="Gra" jugador="Ramos"/>
+      <gol minuto="74" equipo="Bet" jugador="Petros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2017" jornada="32">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cel" jugador="Jozabed"/>
+      <gol minuto="73" equipo="Cel" jugador="Marcelo Díaz"/>
+      <gol minuto="75" equipo="Cel" jugador="Beauvue"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2016" jornada="11">
+    <local>Gra</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Dep" jugador="Andone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2016" jornada="3">
+    <local>Gra</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="75" equipo="Gra" jugador="Kravets"/>
+      <gol minuto="94" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2017" jornada="38">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Gra" jugador="Andreas Pereira"/>
+      <gol minuto="2" equipo="Esp" jugador="Léo Baptistão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/02/2017" jornada="21">
+    <local>Gra</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Gra" jugador="Andreas Pereira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2016" jornada="7">
+    <local>Gra</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Leg" jugador="Szymanowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2017" jornada="34">
+    <local>Gra</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="92" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2017" jornada="18">
+    <local>Gra</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Gra" jugador="Kravets"/>
+      <gol minuto="11" equipo="Osa" jugador="Oriol Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/12/2016" jornada="16">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="55" equipo="Rea" jugador="Bautista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2017" jornada="36">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="10" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="30" equipo="Rel" jugador="Morata"/>
+      <gol minuto="34" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/12/2016" jornada="14">
+    <local>Gra</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Gra" jugador="Lombán"/>
+      <gol minuto="27" equipo="Gra" jugador="Andreas Pereira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2016 (20:45)" jornada="9">
+    <local>Gra</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/2017" jornada="31">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Santi Mina"/>
+      <gol minuto="19" equipo="Val" jugador="Zaza"/>
+      <gol minuto="21" equipo="Val" jugador="Zaza"/>
+      <gol minuto="65" equipo="Gra" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2016" jornada="1">
+    <local>Gra</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Gra" jugador="Ponce"/>
+      <gol minuto="61" equipo="Vil" jugador="Samu Castillejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2017" jornada="33">
+    <local>Las</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Las" jugador="Boateng"/>
+      <gol minuto="60" equipo="Ala" jugador="Ibai Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/11/2016" jornada="13">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="90" equipo="Las" jugador="Jonathan Viera"/>
+      <gol minuto="40" equipo="Las" jugador="Boateng"/>
+      <gol minuto="50" equipo="Las" jugador="Momo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2017" jornada="35">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="2" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="18" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="89" equipo="Atl" jugador="Fernando Torres"/>
+      <gol minuto="72" equipo="Atl" jugador="Thomas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Las" jugador="Bigas"/>
+      <gol minuto="24" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="67" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="71" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="27" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2017" jornada="31">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Las" jugador="Vicente Gómez"/>
+      <gol minuto="61" equipo="Las" jugador="Jonathan Viera"/>
+      <gol minuto="49" equipo="Las" jugador="Boateng"/>
+      <gol minuto="89" equipo="Bet" jugador="Rafa Navarro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2016" jornada="10">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Las" jugador="Bigas"/>
+      <gol minuto="68" equipo="Las" jugador="Boateng"/>
+      <gol minuto="5" equipo="Cel" jugador="Wass"/>
+      <gol minuto="14" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="20" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/01/2017" jornada="19">
+    <local>Las</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Las" jugador="Mateo García"/>
+      <gol minuto="69" equipo="Dep" jugador="Andone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2016" jornada="11">
+    <local>Las</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 14/10/2016" jornada="8">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/08/2016" jornada="2">
+    <local>Las</local>
+    <visitante>Gra</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Las" jugador="El Zhar"/>
+      <gol minuto="68" equipo="Las" jugador="El Zhar"/>
+      <gol minuto="51" equipo="Las" jugador="Boateng"/>
+      <gol minuto="44" equipo="Gra" jugador="Boga"/>
+      <gol minuto="72" equipo="Las" jugador="Momo"/>
+      <gol minuto="85" equipo="Las" jugador="Araujo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/12/2016" jornada="15">
+    <local>Las</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Las" jugador="Livaja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2016" jornada="4">
+    <local>Las</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/2017" jornada="26">
+    <local>Las</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Las" jugador="Roque Mesa"/>
+      <gol minuto="7" equipo="Las" jugador="Jesé"/>
+      <gol minuto="86" equipo="Las" jugador="Jesé"/>
+      <gol minuto="55" equipo="Las" jugador="Livaja"/>
+      <gol minuto="31" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="37" equipo="Osa" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 24/02/2017" jornada="24">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rea" jugador="Xabi Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/09/2016" jornada="6">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Las" jugador="Tana"/>
+      <gol minuto="32" equipo="Rel" jugador="Asensio"/>
+      <gol minuto="84" equipo="Las" jugador="Araujo"/>
+      <gol minuto="66" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2017" jornada="22">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Sev" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2017" jornada="17">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Las" jugador="El Zhar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 30/01/2017" jornada="20">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="57" equipo="Las" jugador="Lemos"/>
+      <gol minuto="42" equipo="Las" jugador="Jonathan Viera"/>
+      <gol minuto="61" equipo="Las" jugador="Boateng"/>
+      <gol minuto="21" equipo="Val" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/03/2017" jornada="28">
+    <local>Las</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Las" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2017" jornada="38">
+    <local>Leg</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Leg" jugador="Timor"/>
+      <gol minuto="64" equipo="Ala" jugador="Krstičić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2017" jornada="18">
+    <local>Leg</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 27/08/2016" jornada="2">
+    <local>Leg</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/09/2016" jornada="4">
+    <local>Leg</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Leg" jugador="Gabriel"/>
+      <gol minuto="63" equipo="Bar" jugador="Rafinha"/>
+      <gol minuto="43" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="14" equipo="Bar" jugador="Messi"/>
+      <gol minuto="30" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 08/05/2017" jornada="36">
+    <local>Leg</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Leg" jugador="Gabriel"/>
+      <gol minuto="15" equipo="Leg" jugador="El Zhar"/>
+      <gol minuto="80" equipo="Leg" jugador="Szymanowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2017" jornada="20">
+    <local>Leg</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Lemos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2017" jornada="24">
+    <local>Leg</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Leg" jugador="Mantovani"/>
+      <gol minuto="19" equipo="Leg" jugador="Szymanowski"/>
+      <gol minuto="88" equipo="Leg" jugador="Bueno"/>
+      <gol minuto="81" equipo="Leg" jugador="Unai López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/12/2016" jornada="16">
+    <local>Leg</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Leg" jugador="Guerrero"/>
+      <gol minuto="75" equipo="Eib" jugador="Bebé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2017" jornada="32">
+    <local>Leg</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Esp" jugador="Léo Baptistão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2017" jornada="26">
+    <local>Leg</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Leg" jugador="Machís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2017" jornada="34">
+    <local>Leg</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Leg" jugador="Luciano"/>
+      <gol minuto="58" equipo="Leg" jugador="Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2017" jornada="28">
+    <local>Leg</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 21/11/2016" jornada="12">
+    <local>Leg</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Leg" jugador="Rober Ibáñez"/>
+      <gol minuto="56" equipo="Leg" jugador="Rober Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 28/10/2016" jornada="10">
+    <local>Leg</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Xabi Prieto"/>
+      <gol minuto="29" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/04/2017" jornada="30">
+    <local>Leg</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Leg" jugador="Gabriel"/>
+      <gol minuto="34" equipo="Leg" jugador="Luciano"/>
+      <gol minuto="14" equipo="Rel" jugador="James Rodríguez"/>
+      <gol minuto="17" equipo="Rel" jugador="Morata"/>
+      <gol minuto="22" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2016" jornada="8">
+    <local>Leg</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Leg" jugador="Timor"/>
+      <gol minuto="68" equipo="Leg" jugador="Szymanowski"/>
+      <gol minuto="24" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="57" equipo="Sev" jugador="Nasri"/>
+      <gol minuto="84" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2017" jornada="22">
+    <local>Leg</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Spo" jugador="Canella"/>
+      <gol minuto="84" equipo="Spo" jugador="Burgui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/2016" jornada="6">
+    <local>Leg</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Leg" jugador="Szymanowski"/>
+      <gol minuto="52" equipo="Val" jugador="Mario Suárez"/>
+      <gol minuto="33" equipo="Val" jugador="Nani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/12/2016" jornada="14">
+    <local>Leg</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/03/2017" jornada="27">
+    <local>Mál</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ala" jugador="Feddal"/>
+      <gol minuto="70" equipo="Mál" jugador="Juankar"/>
+      <gol minuto="91" equipo="Ala" jugador="Édgar Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2016" jornada="7">
+    <local>Mál</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="83" equipo="Mál" jugador="Duda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2017" jornada="29">
+    <local>Mál</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Filipe Luís"/>
+      <gol minuto="25" equipo="Atl" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2017" jornada="31">
+    <local>Mál</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="89" equipo="Mál" jugador="Jony"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 28/02/2017" jornada="25">
+    <local>Mál</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Mál" jugador="Fornals"/>
+      <gol minuto="48" equipo="Bet" jugador="Martin"/>
+      <gol minuto="74" equipo="Bet" jugador="Sanabria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2017" jornada="36">
+    <local>Mál</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Mál" jugador="Ontiveros"/>
+      <gol minuto="92" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/11/2016" jornada="13">
+    <local>Mál</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="55" equipo="Mál" jugador="Michael Santos"/>
+      <gol minuto="81" equipo="Dep" jugador="Borges"/>
+      <gol minuto="71" equipo="Dep" jugador="Andone"/>
+      <gol minuto="89" equipo="Mál" jugador="Ontiveros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 20/09/2016" jornada="5">
+    <local>Mál</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="41" equipo="Eib" jugador="Nano Mesa"/>
+      <gol minuto="75" equipo="Mál" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2017" jornada="21">
+    <local>Mál</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Esp" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 09/12/2016" jornada="15">
+    <local>Mál</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Mál" jugador="Camacho"/>
+      <gol minuto="81" equipo="Gra" jugador="Kravets"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/02/2017" jornada="23">
+    <local>Mál</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mál" jugador="Fornals"/>
+      <gol minuto="35" equipo="Mál" jugador="Charles"/>
+      <gol minuto="19" equipo="Las" jugador="Lemos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2016 (18:30)" jornada="9">
+    <local>Mál</local>
+    <visitante>Leg</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Mál" jugador="Camacho"/>
+      <gol minuto="57" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="42" equipo="Mál" jugador="Chori Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/08/2016" jornada="1">
+    <local>Mál</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Mál" jugador="Juanpi Añor"/>
+      <gol minuto="84" equipo="Osa" jugador="Fran Mérida"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/01/2017" jornada="18">
+    <local>Mál</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Iñigo Martínez"/>
+      <gol minuto="62" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2017" jornada="38">
+    <local>Mál</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="55" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/05/2017" jornada="35">
+    <local>Mál</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Mál" jugador="Llorente"/>
+      <gol minuto="38" equipo="Mál" jugador="Fornals"/>
+      <gol minuto="51" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="30" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="57" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="89" equipo="Mál" jugador="Juankar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/11/2016" jornada="11">
+    <local>Mál</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Fornals"/>
+      <gol minuto="65" equipo="Mál" jugador="Sandro"/>
+      <gol minuto="49" equipo="Spo" jugador="Čop"/>
+      <gol minuto="12" equipo="Spo" jugador="Viguera"/>
+      <gol minuto="77" equipo="Mál" jugador="Michael Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2017" jornada="33">
+    <local>Mál</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Mál" jugador="Recio"/>
+      <gol minuto="39" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2016" jornada="3">
+    <local>Mál</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vil" jugador="Jaume Costa"/>
+      <gol minuto="43" equipo="Vil" jugador="Sansone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2016" jornada="11">
+    <local>Osa</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/04/2017" jornada="29">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ath" jugador="Williams"/>
+      <gol minuto="11" equipo="Ath" jugador="Aduriz"/>
+      <gol minuto="78" equipo="Osa" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/2016" jornada="13">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Godín"/>
+      <gol minuto="37" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="88" equipo="Atl" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/12/2016" jornada="15">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Messi"/>
+      <gol minuto="91" equipo="Bar" jugador="Messi"/>
+      <gol minuto="58" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/10/2016 (20:45)" jornada="9">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Osa" jugador="Roberto Torres"/>
+      <gol minuto="19" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="91" equipo="Bet" jugador="Felipe Gutiérrez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2016" jornada="4">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/04/2017" jornada="35">
+    <local>Osa</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Osa" jugador="Steven Mondragón"/>
+      <gol minuto="18" equipo="Dep" jugador="Guilherme"/>
+      <gol minuto="70" equipo="Dep" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/03/2017" jornada="27">
+    <local>Osa</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="72" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 22/09/2016" jornada="5">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="41" equipo="Esp" jugador="Léo Baptistão"/>
+      <gol minuto="71" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2017" jornada="37">
+    <local>Osa</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Osa" jugador="Steven Mondragón"/>
+      <gol minuto="74" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="40" equipo="Gra" jugador="Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2016" jornada="7">
+    <local>Osa</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="89" equipo="Las" jugador="David García"/>
+      <gol minuto="56" equipo="Las" jugador="Vicente Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2017" jornada="31">
+    <local>Osa</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="16" equipo="Leg" jugador="Siovas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 27/01/2017" jornada="20">
+    <local>Osa</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Osa" jugador="Čaušić"/>
+      <gol minuto="78" equipo="Mál" jugador="Camacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2016" jornada="2">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/02/2017" jornada="22">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="61" equipo="Rel" jugador="Isco"/>
+      <gol minuto="23" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="93" equipo="Rel" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2017" jornada="19">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Osa" jugador="Sergio León"/>
+      <gol minuto="80" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="43" equipo="Sev" jugador="Iborra"/>
+      <gol minuto="65" equipo="Sev" jugador="Iborra"/>
+      <gol minuto="93" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="92" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2017" jornada="33">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="79" equipo="Spo" jugador="Canella"/>
+      <gol minuto="81" equipo="Spo" jugador="Carlos Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 09/01/2017" jornada="17">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Osa" jugador="Clerc"/>
+      <gol minuto="62" equipo="Osa" jugador="Roberto Torres"/>
+      <gol minuto="7" equipo="Osa" jugador="Oriol Riera"/>
+      <gol minuto="73" equipo="Val" jugador="Montoya"/>
+      <gol minuto="2" equipo="Val" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/03/2017" jornada="25">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="73" equipo="Vil" jugador="Santos Borré"/>
+      <gol minuto="77" equipo="Vil" jugador="Santos Borré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2016 (18:30)" jornada="9">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rea" jugador="Xabi Prieto"/>
+      <gol minuto="87" equipo="Rea" jugador="Carlos Vela"/>
+      <gol minuto="57" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2017" jornada="27">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2016" jornada="11">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/11/2016" jornada="13">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="59" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/09/2016" jornada="7">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rea" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2017" jornada="19">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rea" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2017" jornada="33">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 28/02/2017" jornada="25">
+    <local>Rea</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="93" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="25" equipo="Eib" jugador="Escalante"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 09/09/2016" jornada="3">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="61" equipo="Esp" jugador="Piatti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2017" jornada="35">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Carlos Vela"/>
+      <gol minuto="83" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="65" equipo="Gra" jugador="Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/09/2016" jornada="5">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Zurutuza"/>
+      <gol minuto="1" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="55" equipo="Las" jugador="Tana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2017" jornada="29">
+    <local>Rea</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="29" equipo="Leg" jugador="Szymanowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Rea</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mál" jugador="Luis Hernández"/>
+      <gol minuto="74" equipo="Mál" jugador="Recio"/>
+      <gol minuto="85" equipo="Rea" jugador="Bautista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2017" jornada="21">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Raúl Navas"/>
+      <gol minuto="72" equipo="Rea" jugador="Carlos Vela"/>
+      <gol minuto="24" equipo="Osa" jugador="Kodro"/>
+      <gol minuto="77" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="78" equipo="Osa" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/08/2016" jornada="1">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Asensio"/>
+      <gol minuto="2" equipo="Rel" jugador="Bale"/>
+      <gol minuto="94" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2017" jornada="17">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="29" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="83" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="73" equipo="Sev" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/04/2017" jornada="31">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Yuri"/>
+      <gol minuto="27" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="3" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="87" equipo="Spo" jugador="Elderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/12/2016" jornada="15">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="23" equipo="Rea" jugador="Willian José"/>
+      <gol minuto="89" equipo="Rea" jugador="Juanmi"/>
+      <gol minuto="89" equipo="Val" jugador="Bakkali"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2017" jornada="23">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Vil" jugador="Samu Castillejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2017" jornada="29">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rel" jugador="Nacho"/>
+      <gol minuto="84" equipo="Rel" jugador="Isco"/>
+      <gol minuto="30" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2016 (20:45)" jornada="9">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="27" equipo="Ath" jugador="Sabin Merino"/>
+      <gol minuto="82" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2017" jornada="31">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Pepe"/>
+      <gol minuto="85" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2017" jornada="33">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="73" equipo="Bar" jugador="Rakitić"/>
+      <gol minuto="33" equipo="Bar" jugador="Messi"/>
+      <gol minuto="92" equipo="Bar" jugador="Messi"/>
+      <gol minuto="85" equipo="Rel" jugador="James Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2017" jornada="27">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Sergio Ramos"/>
+      <gol minuto="40" equipo="Rel" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2016" jornada="2">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Kroos"/>
+      <gol minuto="60" equipo="Rel" jugador="Morata"/>
+      <gol minuto="67" equipo="Cel" jugador="Orellana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/12/2016" jornada="15">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="92" equipo="Rel" jugador="Sergio Ramos"/>
+      <gol minuto="50" equipo="Rel" jugador="Morata"/>
+      <gol minuto="83" equipo="Rel" jugador="Mariano"/>
+      <gol minuto="62" equipo="Dep" jugador="Joselu"/>
+      <gol minuto="65" equipo="Dep" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2016" jornada="7">
+    <local>Rel</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Bale"/>
+      <gol minuto="5" equipo="Eib" jugador="Fran Rico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2017" jornada="23">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Morata"/>
+      <gol minuto="83" equipo="Rel" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2017" jornada="17">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rel" jugador="Isco"/>
+      <gol minuto="31" equipo="Rel" jugador="Isco"/>
+      <gol minuto="57" equipo="Rel" jugador="Casemiro"/>
+      <gol minuto="26" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="20" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/03/2017" jornada="25">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rel" jugador="Isco"/>
+      <gol minuto="88" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="9" equipo="Las" jugador="Tana"/>
+      <gol minuto="58" equipo="Las" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2016" jornada="11">
+    <local>Rel</local>
+    <visitante>Leg</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Bale"/>
+      <gol minuto="75" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2017" jornada="19">
+    <local>Rel</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Sergio Ramos"/>
+      <gol minuto="42" equipo="Rel" jugador="Sergio Ramos"/>
+      <gol minuto="62" equipo="Mál" jugador="Juanpi Añor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2016" jornada="3">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Danilo"/>
+      <gol minuto="56" equipo="Rel" jugador="Pepe"/>
+      <gol minuto="62" equipo="Rel" jugador="Modrić"/>
+      <gol minuto="6" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="78" equipo="Osa" jugador="David García"/>
+      <gol minuto="64" equipo="Osa" jugador="Oriol Riera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2017" jornada="20">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Kovačić"/>
+      <gol minuto="50" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="81" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Nacho"/>
+      <gol minuto="84" equipo="Rel" jugador="Kroos"/>
+      <gol minuto="22" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="77" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="48" equipo="Sev" jugador="Jovetić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/11/2016" jornada="13">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="35" equipo="Spo" jugador="Carmona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2017" jornada="35">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Rel" jugador="Marcelo"/>
+      <gol minuto="26" equipo="Rel" jugador="Cristiano Ronaldo"/>
+      <gol minuto="82" equipo="Val" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 21/09/2016" jornada="5">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Sergio Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2016" jornada="7">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="87" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="82" equipo="Ala" jugador="Laguardia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/03/2017" jornada="25">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Sev" jugador="Iborra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2016 (16:15)" jornada="9">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="73" equipo="Sev" jugador="Nzonzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2016" jornada="11">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Sev" jugador="Vitolo"/>
+      <gol minuto="43" equipo="Bar" jugador="Messi"/>
+      <gol minuto="60" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 20/09/2016" jornada="5">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Mercado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/04/2017" jornada="34">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Sev" jugador="Correa"/>
+      <gol minuto="78" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2017" jornada="31">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="1" equipo="Sev" jugador="Jovetić"/>
+      <gol minuto="32" equipo="Sev" jugador="Correa"/>
+      <gol minuto="4" equipo="Dep" jugador="Kakuta"/>
+      <gol minuto="24" equipo="Dep" jugador="Kakuta"/>
+      <gol minuto="88" equipo="Sev" jugador="Ben Yedder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2017" jornada="23">
+    <local>Sev</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="90" equipo="Sev" jugador="Vitolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2016" jornada="1">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="6" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="73" equipo="Sev" jugador="Kiyotake"/>
+      <gol minuto="15" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="21" equipo="Sev" jugador="Vietto"/>
+      <gol minuto="44" equipo="Sev" jugador="Vietto"/>
+      <gol minuto="65" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="7" equipo="Esp" jugador="Piatti"/>
+      <gol minuto="25" equipo="Esp" jugador="Hernán Pérez"/>
+      <gol minuto="43" equipo="Esp" jugador="Víctor Sánchez"/>
+      <gol minuto="78" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/04/2017" jornada="33">
+    <local>Sev</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Sev" jugador="Ganso"/>
+      <gol minuto="46" equipo="Sev" jugador="Ganso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2016" jornada="3">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="16" equipo="Las" jugador="Tana"/>
+      <gol minuto="89" equipo="Sev" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2017" jornada="27">
+    <local>Sev</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Sev" jugador="Jovetić"/>
+      <gol minuto="2" equipo="Leg" jugador="Gabriel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/12/2016" jornada="16">
+    <local>Sev</local>
+    <visitante>Mál</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Sev" jugador="Vitolo"/>
+      <gol minuto="25" equipo="Sev" jugador="Vietto"/>
+      <gol minuto="27" equipo="Sev" jugador="Vietto"/>
+      <gol minuto="34" equipo="Sev" jugador="Ben Yedder"/>
+      <gol minuto="64" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2017" jornada="38">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="60" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="10" equipo="Sev" jugador="Vitolo"/>
+      <gol minuto="80" equipo="Sev" jugador="Vitolo"/>
+      <gol minuto="36" equipo="Sev" jugador="Jovetić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 05/05/2017" jornada="36">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Sarabia"/>
+      <gol minuto="61" equipo="Rea" jugador="Carlos Vela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2017" jornada="18">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Sev" jugador="Jovetić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2017" jornada="29">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/11/2016" jornada="13">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Pareja"/>
+      <gol minuto="65" equipo="Val" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2017" jornada="21">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/02/2017" jornada="21">
+    <local>Spo</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ala" jugador="Alexis"/>
+      <gol minuto="10" equipo="Ala" jugador="Sobrino"/>
+      <gol minuto="84" equipo="Spo" jugador="Traoré"/>
+      <gol minuto="89" equipo="Spo" jugador="Carlos Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/08/2016" jornada="1">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Spo" jugador="Čop"/>
+      <gol minuto="53" equipo="Spo" jugador="Víctor Rodríguez"/>
+      <gol minuto="85" equipo="Ath" jugador="Viguera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2017" jornada="23">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Spo" jugador="Sergio Álvarez"/>
+      <gol minuto="46" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="80" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="81" equipo="Atl" jugador="Gameiro"/>
+      <gol minuto="85" equipo="Atl" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/09/2016" jornada="6">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Rafinha"/>
+      <gol minuto="85" equipo="Bar" jugador="Arda Turan"/>
+      <gol minuto="81" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="87" equipo="Bar" jugador="Neymar"/>
+      <gol minuto="29" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2017" jornada="38">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Spo" jugador="Douglas"/>
+      <gol minuto="78" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="21" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="58" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2017" jornada="24">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2017" jornada="26">
+    <local>Spo</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Dep" jugador="Mosquera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2017" jornada="18">
+    <local>Spo</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Spo" jugador="Lillo"/>
+      <gol minuto="9" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="23" equipo="Eib" jugador="Luna"/>
+      <gol minuto="21" equipo="Eib" jugador="Pedro León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2017" jornada="34">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Spo" jugador="Víctor Rodríguez"/>
+      <gol minuto="54" equipo="Esp" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2017" jornada="28">
+    <local>Spo</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Spo" jugador="Babin"/>
+      <gol minuto="67" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="50" equipo="Gra" jugador="Ingason"/>
+      <gol minuto="60" equipo="Spo" jugador="Traoré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/2017" jornada="36">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Spo" jugador="Carmona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2016" jornada="3">
+    <local>Spo</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Spo" jugador="Nacho Cases"/>
+      <gol minuto="58" equipo="Leg" jugador="Diego Rico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/04/2017" jornada="30">
+    <local>Spo</local>
+    <visitante>Mál</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Mál" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/2016" jornada="14">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Spo" jugador="Douglas"/>
+      <gol minuto="43" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="78" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="86" equipo="Osa" jugador="Miguel Flaño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/2016" jornada="12">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Spo" jugador="Čop"/>
+      <gol minuto="56" equipo="Rea" jugador="Iñigo Martínez"/>
+      <gol minuto="51" equipo="Rea" jugador="Zurutuza"/>
+      <gol minuto="14" equipo="Rea" jugador="Xabi Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2017" jornada="32">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Spo" jugador="Vesga"/>
+      <gol minuto="14" equipo="Spo" jugador="Čop"/>
+      <gol minuto="17" equipo="Rel" jugador="Isco"/>
+      <gol minuto="90" equipo="Rel" jugador="Isco"/>
+      <gol minuto="59" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2016" jornada="10">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Spo" jugador="Moi Gómez"/>
+      <gol minuto="4" equipo="Sev" jugador="Vietto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2016" jornada="8">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Spo" jugador="Carlos Castro"/>
+      <gol minuto="6" equipo="Val" jugador="Mario Suárez"/>
+      <gol minuto="64" equipo="Val" jugador="Mario Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/12/2016" jornada="16">
+    <local>Spo</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Spo" jugador="Carmona"/>
+      <gol minuto="11" equipo="Vil" jugador="Jonathan dos Santos"/>
+      <gol minuto="19" equipo="Vil" jugador="Sansone"/>
+      <gol minuto="73" equipo="Vil" jugador="Pato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 22/09/2016" jornada="5">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ala" jugador="Toquero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2017" jornada="23">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Val" jugador="Nani"/>
+      <gol minuto="44" equipo="Val" jugador="Zaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2016" jornada="7">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="89" equipo="Atl" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2016 (16:15)" jornada="9">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Rodrigo"/>
+      <gol minuto="22" equipo="Bar" jugador="Messi"/>
+      <gol minuto="61" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="52" equipo="Val" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2016" jornada="3">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Val" jugador="Garay"/>
+      <gol minuto="74" equipo="Val" jugador="Rodrigo"/>
+      <gol minuto="53" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="37" equipo="Bet" jugador="Rubén Castro"/>
+      <gol minuto="92" equipo="Bet" jugador="Rubén Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 06/04/2017" jornada="30">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Carlos Soler"/>
+      <gol minuto="38" equipo="Val" jugador="Parejo"/>
+      <gol minuto="67" equipo="Val" jugador="Munir"/>
+      <gol minuto="16" equipo="Cel" jugador="Cabral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2017" jornada="29">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Val" jugador="Garay"/>
+      <gol minuto="91" equipo="Val" jugador="João Cancelo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2017" jornada="21">
+    <local>Val</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Eib" jugador="Dani García"/>
+      <gol minuto="28" equipo="Eib" jugador="Sergi Enrich"/>
+      <gol minuto="77" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2017" jornada="18">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Montoya"/>
+      <gol minuto="72" equipo="Val" jugador="Santi Mina"/>
+      <gol minuto="85" equipo="Esp" jugador="David López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/2016" jornada="12">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Nani"/>
+      <gol minuto="45" equipo="Gra" jugador="Carcela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/08/2016" jornada="1">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Val" jugador="Santi Mina"/>
+      <gol minuto="33" equipo="Val" jugador="Santi Mina"/>
+      <gol minuto="15" equipo="Las" jugador="Livaja"/>
+      <gol minuto="87" equipo="Las" jugador="Livaja"/>
+      <gol minuto="30" equipo="Las" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 28/02/2017" jornada="25">
+    <local>Val</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Val" jugador="Mangala"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/2016" jornada="14">
+    <local>Val</local>
+    <visitante>Mál</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Medrán"/>
+      <gol minuto="7" equipo="Val" jugador="Rodrigo"/>
+      <gol minuto="2" equipo="Mál" jugador="Fornals"/>
+      <gol minuto="90" equipo="Mál" jugador="Fornals"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/2017" jornada="36">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Val" jugador="Garay"/>
+      <gol minuto="44" equipo="Val" jugador="Garay"/>
+      <gol minuto="69" equipo="Val" jugador="Zaza"/>
+      <gol minuto="74" equipo="Val" jugador="Rodrigo"/>
+      <gol minuto="89" equipo="Osa" jugador="Olavide"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2017" jornada="34">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Val" jugador="Zaza"/>
+      <gol minuto="64" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/02/2017" jornada="16">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Val" jugador="Orellana"/>
+      <gol minuto="4" equipo="Val" jugador="Zaza"/>
+      <gol minuto="43" equipo="Rel" jugador="Cristiano Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2017" jornada="32">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/03/2017" jornada="27">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Val" jugador="Munir"/>
+      <gol minuto="59" equipo="Spo" jugador="Čop"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2017" jornada="38">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Nani"/>
+      <gol minuto="57" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="1" equipo="Vil" jugador="Soldado"/>
+      <gol minuto="88" equipo="Vil" jugador="Sansone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/2016" jornada="13">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ala" jugador="Camarasa"/>
+      <gol minuto="7" equipo="Ala" jugador="Ibai Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 07/04/2017" jornada="31">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Vil" jugador="Víctor Ruiz"/>
+      <gol minuto="46" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="19" equipo="Ath" jugador="Laporte"/>
+      <gol minuto="57" equipo="Vil" jugador="Adrián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 12/12/2016" jornada="15">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="38" equipo="Vil" jugador="Jonathan dos Santos"/>
+      <gol minuto="93" equipo="Vil" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2017" jornada="17">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Vil" jugador="Sansone"/>
+      <gol minuto="90" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2016" jornada="11">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="22" equipo="Vil" jugador="Manu Trigueros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2016" jornada="8">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="11" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="89" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="37" equipo="Vil" jugador="Bakambu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2017" jornada="37">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/04/2017" jornada="29">
+    <local>Vil</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="88" equipo="Vil" jugador="Soriano"/>
+      <gol minuto="77" equipo="Eib" jugador="Inui"/>
+      <gol minuto="54" equipo="Eib" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2017" jornada="26">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vil" jugador="Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2017" jornada="20">
+    <local>Vil</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Vil" jugador="Álvaro"/>
+      <gol minuto="42" equipo="Vil" jugador="Bruno Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2016 (18:30)" jornada="9">
+    <local>Vil</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="30" equipo="Las" jugador="Boateng"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2017" jornada="33">
+    <local>Vil</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="92" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="90" equipo="Leg" jugador="Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2017" jornada="22">
+    <local>Vil</local>
+    <visitante>Mál</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mál" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/2016" jornada="6">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vil" jugador="Sansone"/>
+      <gol minuto="4" equipo="Vil" jugador="Pato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2016" jornada="4">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vil" jugador="Sansone"/>
+      <gol minuto="25" equipo="Vil" jugador="Sansone"/>
+      <gol minuto="35" equipo="Rea" jugador="Yuri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2017" jornada="24">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="56" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="64" equipo="Rel" jugador="Bale"/>
+      <gol minuto="83" equipo="Rel" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2016" jornada="2">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 28/04/2017" jornada="35">
+    <local>Vil</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="59" equipo="Vil" jugador="Bakambu"/>
+      <gol minuto="32" equipo="Vil" jugador="Soldado"/>
+      <gol minuto="72" equipo="Spo" jugador="Douglas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2017" jornada="19">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Val" jugador="Carlos Soler"/>
+      <gol minuto="41" equipo="Val" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+</liga>

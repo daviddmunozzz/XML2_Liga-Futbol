@@ -1,0 +1,3726 @@
+<?xml version="1.0" ?>
+<liga temporada="2022-23">
+  <partido fecha="Sábado 22/04/2023" jornada="30">
+    <local>Alm</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ath" jugador="De Marcos"/>
+      <gol minuto="9" equipo="Ath" jugador="Nico Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2023" jornada="17">
+    <local>Alm</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Alm" jugador="El Bilal"/>
+      <gol minuto="18" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2023" jornada="23">
+    <local>Alm</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Alm" jugador="El Bilal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/02/2023" jornada="21">
+    <local>Alm</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Alm" jugador="Samú Costa"/>
+      <gol minuto="27" equipo="Alm" jugador="Luis Suárez"/>
+      <gol minuto="70" equipo="Bet" jugador="Guardado"/>
+      <gol minuto="6" equipo="Bet" jugador="Rodri"/>
+      <gol minuto="42" equipo="Bet" jugador="Canales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2023" jornada="26">
+    <local>Alm</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cád" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2022" jornada="12">
+    <local>Alm</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Alm" jugador="De la Hoz"/>
+      <gol minuto="25" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="52" equipo="Alm" jugador="Lázaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/05/2023" jornada="33">
+    <local>Alm</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Alm" jugador="Embarba"/>
+      <gol minuto="22" equipo="Alm" jugador="Léo Baptistão"/>
+      <gol minuto="90" equipo="Elc" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 27/01/2023" jornada="19">
+    <local>Alm</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Alm" jugador="Léo Baptistão"/>
+      <gol minuto="21" equipo="Alm" jugador="Luis Suárez"/>
+      <gol minuto="77" equipo="Alm" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/11/2022" jornada="14">
+    <local>Alm</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Alm" jugador="Léo Baptistão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/10/2022" jornada="10">
+    <local>Alm</local>
+    <visitante>Gir</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Alm" jugador="Embarba"/>
+      <gol minuto="13" equipo="Alm" jugador="Léo Baptistão"/>
+      <gol minuto="17" equipo="Alm" jugador="El Bilal"/>
+      <gol minuto="47" equipo="Gir" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2023" jornada="35">
+    <local>Alm</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Alm" jugador="Lázaro"/>
+      <gol minuto="42" equipo="Alm" jugador="Lázaro"/>
+      <gol minuto="58" equipo="Alm" jugador="Lázaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 12/09/2022" jornada="5">
+    <local>Alm</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/2022" jornada="8">
+    <local>Alm</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Alm" jugador="Babić"/>
+      <gol minuto="8" equipo="Alm" jugador="Robertone"/>
+      <gol minuto="39" equipo="Alm" jugador="El Bilal"/>
+      <gol minuto="81" equipo="Ray" jugador="Catena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2023" jornada="16">
+    <local>Alm</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Silva"/>
+      <gol minuto="52" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/08/2022" jornada="1">
+    <local>Alm</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Alm" jugador="Ramazani"/>
+      <gol minuto="61" equipo="Rel" jugador="Lucas Vázquez"/>
+      <gol minuto="75" equipo="Rel" jugador="Alaba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2022" jornada="3">
+    <local>Alm</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Alm" jugador="Ramazani"/>
+      <gol minuto="55" equipo="Alm" jugador="Sadiq"/>
+      <gol minuto="30" equipo="Sev" jugador="Óliver Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2023" jornada="28">
+    <local>Alm</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Alm" jugador="Babić"/>
+      <gol minuto="49" equipo="Alm" jugador="Melero"/>
+      <gol minuto="61" equipo="Vae" jugador="Samu Castillejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Alm</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/03/2023" jornada="24">
+    <local>Alm</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Vil" jugador="Morales"/>
+      <gol minuto="76" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/09/2022" jornada="7">
+    <local>Ath</local>
+    <visitante>Alm</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="62" equipo="Ath" jugador="Nico Williams"/>
+      <gol minuto="10" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2022" jornada="9">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2023" jornada="25">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 04/05/2023" jornada="33">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bet" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/02/2023" jornada="20">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ath" jugador="Yeray"/>
+      <gol minuto="10" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="35" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="75" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="25" equipo="Cád" jugador="Escalante"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2023" jornada="35">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Berenguer"/>
+      <gol minuto="5" equipo="Ath" jugador="Williams"/>
+      <gol minuto="50" equipo="Cel" jugador="Strand Larsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Ath</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/09/2022" jornada="4">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Esp" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2023" jornada="27">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/02/2023" jornada="23">
+    <local>Ath</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Yuri"/>
+      <gol minuto="4" equipo="Gir" jugador="Aleix García"/>
+      <gol minuto="89" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/08/2022" jornada="1">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 09/01/2023" jornada="16">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/09/2022" jornada="6">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="33" equipo="Ath" jugador="Nico Williams"/>
+      <gol minuto="14" equipo="Ath" jugador="Williams"/>
+      <gol minuto="5" equipo="Ray" jugador="Trejo"/>
+      <gol minuto="80" equipo="Ray" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2023" jornada="29">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Williams"/>
+      <gol minuto="70" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2023" jornada="18">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="90" equipo="Rel" jugador="Kroos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/04/2023" jornada="31">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/08/2022" jornada="2">
+    <local>Ath</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ath" jugador="Berenguer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 08/11/2022" jornada="14">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ath" jugador="Vivian"/>
+      <gol minuto="19" equipo="Ath" jugador="Guruzeta"/>
+      <gol minuto="51" equipo="Ath" jugador="Guruzeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2022" jornada="12">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2023" jornada="29">
+    <local>Atl</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="43" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2023" jornada="22">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2023" jornada="16">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2023" jornada="27">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/05/2023" jornada="33">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Molina"/>
+      <gol minuto="2" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="27" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="49" equipo="Atl" jugador="Morata"/>
+      <gol minuto="72" equipo="Cád" jugador="Lozano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2022" jornada="5">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="De Paul"/>
+      <gol minuto="66" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="9" equipo="Atl" jugador="Correa"/>
+      <gol minuto="71" equipo="Cel" jugador="Veiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 29/12/2022" jornada="15">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="56" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="74" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2022" jornada="13">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Darder"/>
+      <gol minuto="78" equipo="Atl" jugador="João Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2023" jornada="20">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/2022" jornada="8">
+    <local>Atl</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Correa"/>
+      <gol minuto="48" equipo="Atl" jugador="Correa"/>
+      <gol minuto="66" equipo="Gir" jugador="Riquelme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2023" jornada="31">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="47" equipo="Atl" jugador="Morata"/>
+      <gol minuto="20" equipo="Mal" jugador="Nastasić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2023" jornada="35">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="62" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="82" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/10/2022" jornada="10">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Molina"/>
+      <gol minuto="37" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="88" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2022" jornada="6">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rel" jugador="Valverde"/>
+      <gol minuto="18" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="83" equipo="Atl" jugador="Hermoso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2023" jornada="24">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="23" equipo="Atl" jugador="Memphis"/>
+      <gol minuto="26" equipo="Atl" jugador="Memphis"/>
+      <gol minuto="53" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="39" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="76" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/03/2023" jornada="26">
+    <local>Atl</local>
+    <visitante>Vae</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="23" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="67" equipo="Atl" jugador="Lemar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2023" jornada="18">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Hermoso"/>
+      <gol minuto="23" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="18" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/08/2022" jornada="2">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Vil" jugador="Yeremy Pino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2022" jornada="13">
+    <local>Bar</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="48" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2022" jornada="11">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bar" jugador="Sergi Roberto"/>
+      <gol minuto="12" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="22" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="73" equipo="Bar" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2023" jornada="30">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2023" jornada="32">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="Christensen"/>
+      <gol minuto="39" equipo="Bar" jugador="Raphinha"/>
+      <gol minuto="36" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2023" jornada="22">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Sergi Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/2022" jornada="8">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2022" jornada="6">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="34" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="48" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/2022" jornada="15">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="13" rojas="2"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2023" jornada="18">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/04/2023" jornada="28">
+    <local>Bar</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Gavi"/>
+      <gol minuto="1" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="24" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/05/2023" jornada="33">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bar" jugador="Jordi Alba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/08/2022" jornada="1">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 20/05/2023" jornada="35">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="5" equipo="Rea" jugador="Merino"/>
+      <gol minuto="72" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2023" jornada="26">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bar" jugador="Sergi Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2023" jornada="20">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="70" equipo="Bar" jugador="Gavi"/>
+      <gol minuto="79" equipo="Bar" jugador="Raphinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2023" jornada="24">
+    <local>Bar</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Raphinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2022" jornada="3">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Pedri"/>
+      <gol minuto="24" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="64" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/10/2022" jornada="10">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="31" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="35" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2022" jornada="9">
+    <local>Bet</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bet" jugador="William Carvalho"/>
+      <gol minuto="71" equipo="Bet" jugador="William Carvalho"/>
+      <gol minuto="66" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="52" equipo="Alm" jugador="El Bilal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 29/12/2022" jornada="15">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/10/2022" jornada="11">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="71" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="84" equipo="Bet" jugador="Fekir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/02/2023" jornada="17">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bar" jugador="Raphinha"/>
+      <gol minuto="80" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2023" jornada="28">
+    <local>Bet</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Cád" jugador="Chris Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2023" jornada="20">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="23" equipo="Bet" jugador="Canales"/>
+      <gol minuto="69" equipo="Cel" jugador="Aidoo"/>
+      <gol minuto="42" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="56" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="6" equipo="Cel" jugador="Strand Larsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/08/2022" jornada="1">
+    <local>Bet</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="60" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="28" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2023" jornada="29">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bet" jugador="Miranda"/>
+      <gol minuto="69" equipo="Bet" jugador="William Carvalho"/>
+      <gol minuto="27" equipo="Bet" jugador="Ayoze Pérez"/>
+      <gol minuto="48" equipo="Esp" jugador="Montes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/05/2023" jornada="36">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Get" jugador="Alderete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2022" jornada="6">
+    <local>Bet</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="7" equipo="Gir" jugador="Arnau"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2023" jornada="26">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/08/2022" jornada="3">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/05/2023" jornada="34">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bet" jugador="Sabaly"/>
+      <gol minuto="44" equipo="Bet" jugador="Ayoze Pérez"/>
+      <gol minuto="52" equipo="Ray" jugador="Comesaña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2023" jornada="31">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/2023" jornada="24">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/11/2022" jornada="13">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Sev" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Bet</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bet" jugador="Ayoze Pérez"/>
+      <gol minuto="71" equipo="Vae" jugador="Diego López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2023" jornada="22">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="30" equipo="Val" jugador="Larin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2022" jornada="5">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bet" jugador="Rodri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/12/2022" jornada="15">
+    <local>Cád</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Alm" jugador="Melero"/>
+      <gol minuto="83" equipo="Cád" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/08/2022" jornada="3">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ath" jugador="Berenguer"/>
+      <gol minuto="24" equipo="Ath" jugador="Williams"/>
+      <gol minuto="56" equipo="Ath" jugador="Guruzeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2022" jornada="12">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Cád" jugador="Álex"/>
+      <gol minuto="1" equipo="Cád" jugador="Bongonda"/>
+      <gol minuto="85" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="89" equipo="Atl" jugador="João Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2022" jornada="5">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="65" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="86" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/10/2022" jornada="10">
+    <local>Cád</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="15" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Cád" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/01/2023" jornada="17">
+    <local>Cád</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Cád" jugador="Ocampo"/>
+      <gol minuto="81" equipo="Elc" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/2022" jornada="8">
+    <local>Cád</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Cád" jugador="Chust"/>
+      <gol minuto="51" equipo="Esp" jugador="Joselu"/>
+      <gol minuto="67" equipo="Esp" jugador="Joselu"/>
+      <gol minuto="78" equipo="Cád" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/03/2023" jornada="25">
+    <local>Cád</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cád" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/02/2023" jornada="21">
+    <local>Cád</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Cád" jugador="Escalante"/>
+      <gol minuto="34" equipo="Cád" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2023" jornada="19">
+    <local>Cád</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Cád" jugador="Bongonda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2023" jornada="31">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Osa" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2023" jornada="23">
+    <local>Cád</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Cád" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/08/2022" jornada="1">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Kubo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2023" jornada="29">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rel" jugador="Nacho"/>
+      <gol minuto="76" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2023" jornada="27">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="74" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2023" jornada="32">
+    <local>Cád</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cád" jugador="Escalante"/>
+      <gol minuto="46" equipo="Cád" jugador="Sergi Guardiola"/>
+      <gol minuto="51" equipo="Vae" jugador="Lino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/05/2023" jornada="35">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cád" jugador="Bongonda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2022" jornada="7">
+    <local>Cád</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/2023" jornada="27">
+    <local>Cel</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cel" jugador="Carles Pérez"/>
+      <gol minuto="10" equipo="Cel" jugador="Seferović"/>
+      <gol minuto="32" equipo="Alm" jugador="Puigmal"/>
+      <gol minuto="7" equipo="Alm" jugador="Babić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2023" jornada="19">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2023" jornada="21">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Memphis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="65" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="79" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2022" jornada="7">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cel" jugador="Veiga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 02/09/2022" jornada="4">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Óscar Rodríguez"/>
+      <gol minuto="56" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="75" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2023" jornada="31">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Cel" jugador="Aidoo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/08/2022" jornada="1">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Cel" jugador="Paciência"/>
+      <gol minuto="72" equipo="Esp" jugador="Edu Expósito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/10/2022" jornada="11">
+    <local>Cel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Aidoo"/>
+      <gol minuto="43" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/05/2023" jornada="36">
+    <local>Cel</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cel" jugador="Carles Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/04/2023" jornada="29">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Mal" jugador="Amath"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2022" jornada="13">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="8" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="28" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2023" jornada="25">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="85" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2022" jornada="9">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="54" equipo="Rea" jugador="Zubeldia"/>
+      <gol minuto="30" equipo="Rea" jugador="Illarramendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2022" jornada="2">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Valverde"/>
+      <gol minuto="42" equipo="Rel" jugador="Modrić"/>
+      <gol minuto="56" equipo="Rel" jugador="Vinícius"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/12/2022" jornada="15">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="54" equipo="Sev" jugador="Kike Salas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2023" jornada="34">
+    <local>Cel</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Cel" jugador="Seferović"/>
+      <gol minuto="8" equipo="Vae" jugador="Kluivert"/>
+      <gol minuto="88" equipo="Vae" jugador="Marí"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2023" jornada="23">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="64" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="17" equipo="Cel" jugador="Seferović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 13/01/2023" jornada="17">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="68" equipo="Cel" jugador="Strand Larsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/08/2022" jornada="2">
+    <local>Elc</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Elc" jugador="Collado"/>
+      <gol minuto="23" equipo="Alm" jugador="Sadiq"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2022" jornada="5">
+    <local>Elc</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ath" jugador="Nico Williams"/>
+      <gol minuto="44" equipo="Ath" jugador="Berenguer"/>
+      <gol minuto="59" equipo="Elc" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2023" jornada="34">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Elc" jugador="Fidel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2023" jornada="27">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="70" equipo="Bar" jugador="Ferran Torres"/>
+      <gol minuto="20" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="66" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 24/02/2023" jornada="23">
+    <local>Elc</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="68" equipo="Bet" jugador="Miranda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Elc</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="10" equipo="Cád" jugador="Escalante"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 06/01/2023" jornada="16">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2023" jornada="22">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Lunes 31/10/2022" jornada="12">
+    <local>Elc</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="54" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 08/11/2022" jornada="14">
+    <local>Elc</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Elc" jugador="Lirola"/>
+      <gol minuto="66" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="39" equipo="Gir" jugador="Iván Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/10/2022" jornada="8">
+    <local>Elc</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Elc" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2023" jornada="18">
+    <local>Elc</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Elc" jugador="Carmona"/>
+      <gol minuto="20" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2023" jornada="32">
+    <local>Elc</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Elc" jugador="Gumbau"/>
+      <gol minuto="53" equipo="Elc" jugador="Fidel"/>
+      <gol minuto="52" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2022" jornada="3">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rea" jugador="Brais Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/10/2022" jornada="10">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rel" jugador="Valverde"/>
+      <gol minuto="75" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="89" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/05/2023" jornada="36">
+    <local>Elc</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Elc" jugador="Tete Morente"/>
+      <gol minuto="10" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2023" jornada="30">
+    <local>Elc</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vae" jugador="Lino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2023" jornada="25">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="4" equipo="Val" jugador="Larin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2023" jornada="20">
+    <local>Elc</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="23" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Esp</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Esp" jugador="Pierre-Gabriel"/>
+      <gol minuto="13" equipo="Esp" jugador="Puado"/>
+      <gol minuto="58" equipo="Alm" jugador="Embarba"/>
+      <gol minuto="10" equipo="Alm" jugador="El Bilal"/>
+      <gol minuto="73" equipo="Esp" jugador="Koleosho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2023" jornada="28">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="90" equipo="Esp" jugador="Darder"/>
+      <gol minuto="22" equipo="Ath" jugador="Williams"/>
+      <gol minuto="75" equipo="Ath" jugador="Nico Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/05/2023" jornada="36">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Esp" jugador="Montes"/>
+      <gol minuto="46" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="21" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="44" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="79" equipo="Esp" jugador="Vini Souza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2023" jornada="34">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Koundé"/>
+      <gol minuto="20" equipo="Bar" jugador="Balde"/>
+      <gol minuto="11" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="40" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="73" equipo="Esp" jugador="Puado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2023" jornada="18">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Esp" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/04/2023" jornada="30">
+    <local>Esp</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/03/2023" jornada="26">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Cel" jugador="Veiga"/>
+      <gol minuto="82" equipo="Cel" jugador="Carles Pérez"/>
+      <gol minuto="86" equipo="Esp" jugador="Gragera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2022" jornada="11">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Esp" jugador="Puado"/>
+      <gol minuto="67" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="82" equipo="Elc" jugador="Gonzalo Verdú"/>
+      <gol minuto="11" equipo="Elc" jugador="Pere Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2023" jornada="32">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/01/2023" jornada="16">
+    <local>Esp</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Esp" jugador="Joselu"/>
+      <gol minuto="32" equipo="Gir" jugador="Toni Villa"/>
+      <gol minuto="51" equipo="Esp" jugador="Puado"/>
+      <gol minuto="85" equipo="Gir" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2023" jornada="23">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="51" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="41" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/02/2023" jornada="20">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="59" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="45" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/08/2022" jornada="2">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ray" jugador="Pathé Ciss"/>
+      <gol minuto="40" equipo="Ray" jugador="Isi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/02/2023" jornada="21">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="Oliván"/>
+      <gol minuto="74" equipo="Esp" jugador="Darder"/>
+      <gol minuto="23" equipo="Rea" jugador="Kubo"/>
+      <gol minuto="51" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2022" jornada="3">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Esp" jugador="Joselu"/>
+      <gol minuto="12" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="88" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="100" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2022" jornada="5">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="26" equipo="Sev" jugador="Carmona"/>
+      <gol minuto="45" equipo="Sev" jugador="Carmona"/>
+      <gol minuto="1" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2022" jornada="7">
+    <local>Esp</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Esp" jugador="Darder"/>
+      <gol minuto="56" equipo="Esp" jugador="Joselu"/>
+      <gol minuto="53" equipo="Vae" jugador="Gabriel Paulista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2022" jornada="9">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Esp" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/11/2022" jornada="14">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 26/04/2023" jornada="31">
+    <local>Get</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="7" equipo="Alm" jugador="Luis Suárez"/>
+      <gol minuto="58" equipo="Alm" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/10/2022" jornada="10">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Get" jugador="Aleñá"/>
+      <gol minuto="2" equipo="Ath" jugador="Williams"/>
+      <gol minuto="76" equipo="Get" jugador="Munir"/>
+      <gol minuto="62" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/08/2022" jornada="1">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Atl" jugador="Morata"/>
+      <gol minuto="59" equipo="Atl" jugador="Morata"/>
+      <gol minuto="75" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2023" jornada="29">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/01/2023" jornada="19">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/11/2022" jornada="13">
+    <local>Get</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="2"/>
+  </partido>
+  <partido fecha="Miércoles 03/05/2023" jornada="33">
+    <local>Get</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="11" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 20/05/2023" jornada="35">
+    <local>Get</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Get" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/2023" jornada="17">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Get" jugador="Ünal"/>
+      <gol minuto="62" equipo="Esp" jugador="Puado"/>
+      <gol minuto="6" equipo="Esp" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2023" jornada="24">
+    <local>Get</local>
+    <visitante>Gir</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="2" equipo="Get" jugador="Ünal"/>
+      <gol minuto="54" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="80" equipo="Gir" jugador="Miguel Gutiérrez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/12/2022" jornada="15">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="78" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Get" jugador="Mata"/>
+      <gol minuto="39" equipo="Get" jugador="Latasa"/>
+      <gol minuto="2" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2023" jornada="21">
+    <local>Get</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2022" jornada="5">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Get" jugador="Aleñá"/>
+      <gol minuto="50" equipo="Rea" jugador="Brais Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/2022" jornada="8">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rel" jugador="Militão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2023" jornada="26">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Get" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/02/2023" jornada="22">
+    <local>Get</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2022" jornada="7">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Get" jugador="Damián Suárez"/>
+      <gol minuto="29" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="48" equipo="Val" jugador="Óscar Plano"/>
+      <gol minuto="37" equipo="Val" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/08/2022" jornada="3">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 17/02/2023" jornada="22">
+    <local>Gir</local>
+    <visitante>Alm</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Gir" jugador="Javi Hernández"/>
+      <gol minuto="36" equipo="Gir" jugador="Riquelme"/>
+      <gol minuto="34" equipo="Gir" jugador="Tsygankov"/>
+      <gol minuto="8" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="77" equipo="Gir" jugador="Iván Martín"/>
+      <gol minuto="79" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="66" equipo="Alm" jugador="Ramazani"/>
+      <gol minuto="81" equipo="Alm" jugador="El Bilal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/11/2022" jornada="13">
+    <local>Gir</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Gir" jugador="David López"/>
+      <gol minuto="75" equipo="Gir" jugador="Iván Martín"/>
+      <gol minuto="78" equipo="Ath" jugador="Guruzeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/03/2023" jornada="25">
+    <local>Gir</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/01/2023" jornada="19">
+    <local>Gir</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Gir</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Gir" jugador="Miguel Gutiérrez"/>
+      <gol minuto="47" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="77" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2022" jornada="9">
+    <local>Gir</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Cád" jugador="Álex"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/08/2022" jornada="3">
+    <local>Gir</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2023" jornada="29">
+    <local>Gir</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Gir" jugador="Romeu"/>
+      <gol minuto="45" equipo="Gir" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/2023" jornada="27">
+    <local>Gir</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Gir" jugador="Arnau"/>
+      <gol minuto="73" equipo="Esp" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/08/2022" jornada="2">
+    <local>Gir</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="42" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="73" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/05/2023" jornada="33">
+    <local>Gir</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Gir" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2022" jornada="11">
+    <local>Gir</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Osa" jugador="Kike Barja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 29/12/2022" jornada="15">
+    <local>Gir</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ray" jugador="Isi"/>
+      <gol minuto="2" equipo="Ray" jugador="Camello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2022" jornada="7">
+    <local>Gir</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Gir" jugador="Arnau"/>
+      <gol minuto="23" equipo="Gir" jugador="Riquelme"/>
+      <gol minuto="48" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="71" equipo="Rea" jugador="Zubimendi"/>
+      <gol minuto="66" equipo="Rea" jugador="Brais Méndez"/>
+      <gol minuto="85" equipo="Rea" jugador="Kubo"/>
+      <gol minuto="8" equipo="Rea" jugador="Sørloth"/>
+      <gol minuto="42" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 25/04/2023" jornada="31">
+    <local>Gir</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="24" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="46" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="62" equipo="Gir" jugador="Castellanos"/>
+      <gol minuto="34" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="85" equipo="Rel" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2023" jornada="17">
+    <local>Gir</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Gir" jugador="Stuani"/>
+      <gol minuto="13" equipo="Sev" jugador="Nianzou"/>
+      <gol minuto="88" equipo="Gir" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2023" jornada="20">
+    <local>Gir</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Gir" jugador="Borja García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 09/09/2022" jornada="5">
+    <local>Gir</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Gir" jugador="Reinier"/>
+      <gol minuto="88" equipo="Gir" jugador="Romeu"/>
+      <gol minuto="38" equipo="Val" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/2023" jornada="35">
+    <local>Gir</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Gir" jugador="David López"/>
+      <gol minuto="9" equipo="Vil" jugador="Yeremy Pino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2022" jornada="6">
+    <local>Mal</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mal" jugador="Maffeo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/05/2023" jornada="32">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Mal" jugador="Lee"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/11/2022" jornada="14">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2022" jornada="7">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2022" jornada="2">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="15" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 12/05/2023" jornada="34">
+    <local>Mal</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Mal" jugador="Maffeo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/01/2023" jornada="18">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Mal" jugador="Dani Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/2023" jornada="24">
+    <local>Mal</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 28/10/2022" jornada="12">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Mal" jugador="Muriqi"/>
+      <gol minuto="70" equipo="Esp" jugador="Lazo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2023" jornada="30">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mal" jugador="Raillo"/>
+      <gol minuto="56" equipo="Mal" jugador="Lee"/>
+      <gol minuto="23" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/2022" jornada="4">
+    <local>Mal</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Mal" jugador="Raillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 31/03/2023" jornada="27">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Mal" jugador="Copete"/>
+      <gol minuto="51" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2023" jornada="25">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Mal" jugador="Lee"/>
+      <gol minuto="3" equipo="Rea" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2023" jornada="20">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/10/2022" jornada="9">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/05/2023" jornada="36">
+    <local>Mal</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2023" jornada="16">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/02/2023" jornada="22">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="56" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="20" equipo="Mal" jugador="Kadewere"/>
+      <gol minuto="63" equipo="Mal" jugador="Muriqi"/>
+      <gol minuto="43" equipo="Vil" jugador="Morales"/>
+      <gol minuto="50" equipo="Vil" jugador="Chukwueze"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2023" jornada="34">
+    <local>Osa</local>
+    <visitante>Alm</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Osa" jugador="Abde"/>
+      <gol minuto="46" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="81" equipo="Osa" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/05/2023" jornada="36">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Osa" jugador="Torró"/>
+      <gol minuto="50" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2023" jornada="19">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 08/11/2022" jornada="14">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="6" equipo="Osa" jugador="David García"/>
+      <gol minuto="48" equipo="Bar" jugador="Pedri"/>
+      <gol minuto="85" equipo="Bar" jugador="Raphinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2023" jornada="30">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Osa" jugador="Moncayola"/>
+      <gol minuto="6" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="11" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="16" equipo="Bet" jugador="Miranda"/>
+      <gol minuto="70" equipo="Bet" jugador="Guido Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/08/2022" jornada="2">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Lunes 06/03/2023" jornada="24">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/04/2023" jornada="28">
+    <local>Osa</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Osa" jugador="Abde"/>
+      <gol minuto="84" equipo="Osa" jugador="Abde"/>
+      <gol minuto="44" equipo="Elc" jugador="Tete Morente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/10/2022" jornada="10">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2022" jornada="6">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="76" equipo="Get" jugador="Gastón Álvarez"/>
+      <gol minuto="30" equipo="Get" jugador="Juan Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Osa</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="55" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="75" equipo="Gir" jugador="Reinier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/2023" jornada="17">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Osa" jugador="Aimar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/2022" jornada="4">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Osa" jugador="Aimar"/>
+      <gol minuto="75" equipo="Ray" jugador="Lejeune"/>
+      <gol minuto="90" equipo="Osa" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 28/04/2023" jornada="32">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Rea" jugador="Kubo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/2023" jornada="22">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rel" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 12/08/2022" jornada="1">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="11" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 07/10/2022" jornada="8">
+    <local>Osa</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="54" equipo="Vae" jugador="Diakhaby"/>
+      <gol minuto="28" equipo="Vae" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2022" jornada="12">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Osa" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2023" jornada="26">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="85" equipo="Vil" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/02/2023" jornada="20">
+    <local>Ray</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2023" jornada="24">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/2023" jornada="28">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ray" jugador="Fran García"/>
+      <gol minuto="22" equipo="Atl" jugador="Molina"/>
+      <gol minuto="24" equipo="Atl" jugador="Hermoso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/04/2023" jornada="31">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ray" jugador="Fran García"/>
+      <gol minuto="19" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="83" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2023" jornada="16">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ray" jugador="Camello"/>
+      <gol minuto="40" equipo="Bet" jugador="Luiz Henrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2022" jornada="11">
+    <local>Ray</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ray" jugador="Lejeune"/>
+      <gol minuto="89" equipo="Ray" jugador="Lejeune"/>
+      <gol minuto="79" equipo="Ray" jugador="Camello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 10/11/2022" jornada="14">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 03/10/2022" jornada="7">
+    <local>Ray</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ray" jugador="Camello"/>
+      <gol minuto="32" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2023" jornada="35">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Esp" jugador="Nico Melamed"/>
+      <gol minuto="23" equipo="Esp" jugador="Darder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/10/2022" jornada="9">
+    <local>Ray</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/03/2023" jornada="26">
+    <local>Ray</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ray" jugador="Trejo"/>
+      <gol minuto="23" equipo="Ray" jugador="Isi"/>
+      <gol minuto="29" equipo="Gir" jugador="Tsygankov"/>
+      <gol minuto="52" equipo="Gir" jugador="Tsygankov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/08/2022" jornada="3">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Mal" jugador="Lee"/>
+      <gol minuto="13" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/04/2023" jornada="29">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ray" jugador="Isi"/>
+      <gol minuto="66" equipo="Osa" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/01/2023" jornada="18">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rea" jugador="Barrenetxea"/>
+      <gol minuto="15" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/11/2022" jornada="13">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="Comesaña"/>
+      <gol minuto="44" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="41" equipo="Rel" jugador="Militão"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/2023" jornada="22">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Lejeune"/>
+      <gol minuto="29" equipo="Sev" jugador="Suso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/2022" jornada="5">
+    <local>Ray</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="Isi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/05/2023" jornada="33">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="80" equipo="Ray" jugador="Camello"/>
+      <gol minuto="84" equipo="Val" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Ray</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ray" jugador="Isi"/>
+      <gol minuto="56" equipo="Ray" jugador="De Tomás"/>
+      <gol minuto="83" equipo="Vil" jugador="Lo Celso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/05/2023" jornada="36">
+    <local>Rea</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/01/2023" jornada="17">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rea" jugador="Kubo"/>
+      <gol minuto="25" equipo="Rea" jugador="Sørloth"/>
+      <gol minuto="40" equipo="Ath" jugador="Sancet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/2022" jornada="4">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Morata"/>
+      <gol minuto="55" equipo="Rea" jugador="Sadiq"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/08/2022" jornada="2">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Isak"/>
+      <gol minuto="66" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="1" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="68" equipo="Bar" jugador="Lewandowski"/>
+      <gol minuto="79" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2022" jornada="12">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bet" jugador="Juan Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/03/2023" jornada="24">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/02/2023" jornada="22">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rea" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/03/2023" jornada="26">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Kubo"/>
+      <gol minuto="90" equipo="Rea" jugador="Barrenetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2022" jornada="6">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rea" jugador="Brais Méndez"/>
+      <gol minuto="17" equipo="Rea" jugador="Sørloth"/>
+      <gol minuto="19" equipo="Esp" jugador="Edu Expósito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2023" jornada="28">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Kubo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2023" jornada="34">
+    <local>Rea</local>
+    <visitante>Gir</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Silva"/>
+      <gol minuto="37" equipo="Gir" jugador="Yan Couto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/10/2022" jornada="10">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/2022" jornada="15">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rea" jugador="Brais Méndez"/>
+      <gol minuto="64" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2023" jornada="30">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Sørloth"/>
+      <gol minuto="57" equipo="Ray" jugador="Isi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 02/05/2023" jornada="33">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Kubo"/>
+      <gol minuto="85" equipo="Rea" jugador="Barrenetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Brais Méndez"/>
+      <gol minuto="77" equipo="Sev" jugador="Lamela"/>
+      <gol minuto="73" equipo="Rea" jugador="Cho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/2022" jornada="13">
+    <local>Rea</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vae" jugador="Lino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/02/2023" jornada="20">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Val" jugador="Larin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/2022" jornada="8">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="Brais Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/2023" jornada="32">
+    <local>Rel</local>
+    <visitante>Alm</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="5" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="17" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="61" equipo="Alm" jugador="Robertone"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ath" jugador="Sancet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2023" jornada="23">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rel" jugador="Álvaro"/>
+      <gol minuto="78" equipo="Atl" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/2022" jornada="9">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Valverde"/>
+      <gol minuto="12" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="83" equipo="Bar" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/2022" jornada="4">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="9" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="17" equipo="Bet" jugador="Canales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 10/11/2022" jornada="14">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Militão"/>
+      <gol minuto="70" equipo="Rel" jugador="Kroos"/>
+      <gol minuto="81" equipo="Cád" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/04/2023" jornada="30">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Militão"/>
+      <gol minuto="42" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 15/02/2023" jornada="21">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Asensio"/>
+      <gol minuto="80" equipo="Rel" jugador="Modrić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2023" jornada="25">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rel" jugador="Militão"/>
+      <gol minuto="22" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="8" equipo="Esp" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2023" jornada="34">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/2022" jornada="12">
+    <local>Rel</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Vinícius"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/2022" jornada="5">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="72" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="35" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/2022" jornada="7">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="50" equipo="Osa" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/05/2023" jornada="36">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="31" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="84" equipo="Ray" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2023" jornada="19">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/10/2022" jornada="11">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Valverde"/>
+      <gol minuto="5" equipo="Rel" jugador="Modrić"/>
+      <gol minuto="54" equipo="Sev" jugador="Lamela"/>
+      <gol minuto="79" equipo="Rel" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/02/2023" jornada="17">
+    <local>Rel</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="52" equipo="Rel" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2023" jornada="27">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="73" equipo="Rel" jugador="Asensio"/>
+      <gol minuto="29" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="32" equipo="Rel" jugador="Benzema"/>
+      <gol minuto="36" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/04/2023" jornada="28">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Vinícius"/>
+      <gol minuto="39" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="80" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="70" equipo="Vil" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2023" jornada="25">
+    <local>Sev</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Alm" jugador="Akieme"/>
+      <gol minuto="73" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/2022" jornada="8">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="73" equipo="Ath" jugador="Vesga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/2022" jornada="7">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Marcos Llorente"/>
+      <gol minuto="57" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/2022" jornada="4">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bar" jugador="Eric Garcia"/>
+      <gol minuto="21" equipo="Bar" jugador="Raphinha"/>
+      <gol minuto="36" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/2023" jornada="35">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/01/2023" jornada="18">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Viernes 07/04/2023" jornada="28">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Sev" jugador="Acuña"/>
+      <gol minuto="43" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="89" equipo="Cel" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/2023" jornada="19">
+    <local>Sev</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sev" jugador="Acuña"/>
+      <gol minuto="29" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 04/05/2023" jornada="33">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Sev" jugador="Gueye"/>
+      <gol minuto="22" equipo="Sev" jugador="Bryan Gil"/>
+      <gol minuto="43" equipo="Esp" jugador="Puado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/2023" jornada="16">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Sev" jugador="Acuña"/>
+      <gol minuto="87" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="80" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/05/2023" jornada="32">
+    <local>Sev</local>
+    <visitante>Gir</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Gir" jugador="Juanpe"/>
+      <gol minuto="55" equipo="Gir" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/02/2023" jornada="21">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Bryan Gil"/>
+      <gol minuto="28" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/2023" jornada="23">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Sev" jugador="Gudelj"/>
+      <gol minuto="78" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="18" equipo="Osa" jugador="David García"/>
+      <gol minuto="85" equipo="Osa" jugador="Abde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2022" jornada="12">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 09/11/2022" jornada="14">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Rafa Mir"/>
+      <gol minuto="36" equipo="Rea" jugador="Brais Méndez"/>
+      <gol minuto="20" equipo="Rea" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/05/2023" jornada="37">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Sev" jugador="Rafa Mir"/>
+      <gol minuto="29" equipo="Rel" jugador="Rodrygo"/>
+      <gol minuto="69" equipo="Rel" jugador="Rodrygo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/10/2022" jornada="10">
+    <local>Sev</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Vae" jugador="Cavani"/>
+      <gol minuto="86" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/08/2022" jornada="2">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Sev" jugador="Rekik"/>
+      <gol minuto="80" equipo="Val" jugador="Anuar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/04/2023" jornada="30">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Rafa Mir"/>
+      <gol minuto="55" equipo="Vil" jugador="Pau Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 23/01/2023" jornada="18">
+    <local>Vae</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vae" jugador="Gayà"/>
+      <gol minuto="48" equipo="Vae" jugador="Kluivert"/>
+      <gol minuto="54" equipo="Alm" jugador="Chumi"/>
+      <gol minuto="74" equipo="Alm" jugador="Portillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/02/2023" jornada="21">
+    <local>Vae</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vae" jugador="Samu Castillejo"/>
+      <gol minuto="72" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="30" equipo="Ath" jugador="Nico Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/08/2022" jornada="3">
+    <local>Vae</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Atl" jugador="Griezmann"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/10/2022" jornada="12">
+    <local>Vae</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 10/11/2022" jornada="14">
+    <local>Vae</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Vae" jugador="André Almeida"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 06/01/2023" jornada="16">
+    <local>Vae</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cád" jugador="Alcaraz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/2022" jornada="6">
+    <local>Vae</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Vae" jugador="Samu Castillejo"/>
+      <gol minuto="82" equipo="Vae" jugador="Marcos André"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/2022" jornada="9">
+    <local>Vae</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Elc" jugador="Pere Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/2023" jornada="37">
+    <local>Vae</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vae" jugador="Diego López"/>
+      <gol minuto="40" equipo="Esp" jugador="Montes"/>
+      <gol minuto="50" equipo="Esp" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/2022" jornada="4">
+    <local>Vae</local>
+    <visitante>Get</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vae" jugador="Lato"/>
+      <gol minuto="65" equipo="Vae" jugador="Nico"/>
+      <gol minuto="14" equipo="Vae" jugador="Lino"/>
+      <gol minuto="16" equipo="Vae" jugador="Samu Castillejo"/>
+      <gol minuto="68" equipo="Vae" jugador="Duro"/>
+      <gol minuto="78" equipo="Get" jugador="Gastón Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/08/2022" jornada="1">
+    <local>Vae</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/10/2022" jornada="11">
+    <local>Vae</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Mal" jugador="Lee"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/2023" jornada="25">
+    <local>Vae</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Vae" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/04/2023" jornada="27">
+    <local>Vae</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ray" jugador="Comesaña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/2023" jornada="23">
+    <local>Vae</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/05/2023" jornada="35">
+    <local>Vae</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Vae" jugador="Diego López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/2023" jornada="29">
+    <local>Vae</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Badé"/>
+      <gol minuto="75" equipo="Sev" jugador="Suso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/04/2023" jornada="31">
+    <local>Vae</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vae" jugador="Diakhaby"/>
+      <gol minuto="6" equipo="Val" jugador="Larin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 03/05/2023" jornada="33">
+    <local>Vae</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Vae" jugador="Lino"/>
+      <gol minuto="62" equipo="Vil" jugador="Jackson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 05/09/2022" jornada="4">
+    <local>Val</local>
+    <visitante>Alm</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 17/03/2023" jornada="26">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Val" jugador="Larin"/>
+      <gol minuto="30" equipo="Ath" jugador="Iñigo Martínez"/>
+      <gol minuto="57" equipo="Ath" jugador="Guruzeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2023" jornada="32">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Atl" jugador="Molina"/>
+      <gol minuto="24" equipo="Atl" jugador="Giménez"/>
+      <gol minuto="38" equipo="Atl" jugador="Morata"/>
+      <gol minuto="74" equipo="Val" jugador="Escudero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/05/2023" jornada="36">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Val" jugador="Plata"/>
+      <gol minuto="84" equipo="Bar" jugador="Lewandowski"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/2022" jornada="8">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 16/09/2022" jornada="6">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 19/10/2022" jornada="10">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Joaquín"/>
+      <gol minuto="32" equipo="Val" jugador="Roque Mesa"/>
+      <gol minuto="43" equipo="Cel" jugador="Óscar Rodríguez"/>
+      <gol minuto="74" equipo="Val" jugador="Sergio León"/>
+      <gol minuto="79" equipo="Val" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/2022" jornada="13">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Javi Sánchez"/>
+      <gol minuto="46" equipo="Val" jugador="Roque Mesa"/>
+      <gol minuto="63" equipo="Elc" jugador="Josan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/2023" jornada="24">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Iván Sánchez"/>
+      <gol minuto="87" equipo="Esp" jugador="Braithwaite"/>
+      <gol minuto="62" equipo="Val" jugador="Aguado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/04/2023" jornada="30">
+    <local>Val</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Val" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/2023" jornada="28">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Kike Pérez"/>
+      <gol minuto="58" equipo="Mal" jugador="Morlanes"/>
+      <gol minuto="53" equipo="Mal" jugador="Muriqi"/>
+      <gol minuto="68" equipo="Val" jugador="Amallah"/>
+      <gol minuto="86" equipo="Val" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2023" jornada="21">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/01/2023" jornada="17">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Isi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/2022" jornada="11">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/12/2022" jornada="15">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/2023" jornada="34">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Papu Gómez"/>
+      <gol minuto="50" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/2023" jornada="19">
+    <local>Val</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Val" jugador="Larin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/08/2022" jornada="1">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="81" equipo="Vil" jugador="Álex Baena"/>
+      <gol minuto="90" equipo="Vil" jugador="Álex Baena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/2022" jornada="11">
+    <local>Vil</local>
+    <visitante>Alm</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vil" jugador="Álex Baena"/>
+      <gol minuto="31" equipo="Alm" jugador="Melero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/2023" jornada="34">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Vil" jugador="Álex Baena"/>
+      <gol minuto="90" equipo="Vil" jugador="Álex Baena"/>
+      <gol minuto="37" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="50" equipo="Vil" jugador="Jackson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/2023" jornada="38">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="18" equipo="Atl" jugador="Correa"/>
+      <gol minuto="56" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/2023" jornada="21">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/2023" jornada="25">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="38" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/05/2023" jornada="36">
+    <local>Vil</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vil" jugador="Jackson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/2023" jornada="32">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="12" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="29" equipo="Cel" jugador="Strand Larsen"/>
+      <gol minuto="70" equipo="Vil" jugador="Terrats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/2022" jornada="4">
+    <local>Vil</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vil" jugador="Lo Celso"/>
+      <gol minuto="26" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="89" equipo="Vil" jugador="Coquelin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 27/04/2023" jornada="31">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Vil" jugador="Parejo"/>
+      <gol minuto="53" equipo="Vil" jugador="Capoue"/>
+      <gol minuto="80" equipo="Vil" jugador="Jackson"/>
+      <gol minuto="45" equipo="Esp" jugador="Puado"/>
+      <gol minuto="73" equipo="Esp" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/02/2023" jornada="23">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vil" jugador="Morales"/>
+      <gol minuto="44" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="9" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/01/2023" jornada="18">
+    <local>Vil</local>
+    <visitante>Gir</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 06/11/2022" jornada="13">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mal" jugador="Muriqi"/>
+      <gol minuto="75" equipo="Mal" jugador="Amath"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/10/2022" jornada="9">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Vil" jugador="Danjuma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 30/01/2023" jornada="19">
+    <local>Vil</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ray" jugador="Camello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/2023" jornada="27">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vil" jugador="Jackson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/2023" jornada="16">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Vil" jugador="Yeremy Pino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/2022" jornada="6">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="51" equipo="Vil" jugador="Álex Baena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/2022" jornada="15">
+    <local>Vil</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="21" equipo="Vae" jugador="Cavani"/>
+      <gol minuto="88" equipo="Vil" jugador="Foyth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/2023" jornada="29">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Val" jugador="El Yamiq"/>
+      <gol minuto="2" equipo="Val" jugador="Amallah"/>
+      <gol minuto="74" equipo="Vil" jugador="Capoue"/>
+    </goleadores>
+  </partido>
+</liga>

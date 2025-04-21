@@ -1,0 +1,3712 @@
+<?xml version="1.0" ?>
+<liga temporada="1988-89">
+  <partido fecha="Sábado 11/02/1989" jornada="21">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="9" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/12/1988" jornada="15">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="62" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="8" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="11" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="46" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="34" equipo="Bet" jugador="Recha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="23" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="66" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="13" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="48" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Ath</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ath" jugador="Garitano"/>
+      <gol minuto="82" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/1988" jornada="5">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ath" jugador="Andrinúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Ath</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Txirri"/>
+      <gol minuto="18" equipo="Ath" jugador="Sarriugarte"/>
+      <gol minuto="20" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Ath</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ath" jugador="Lakabeg"/>
+      <gol minuto="64" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="89" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="Urtubi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Garitano"/>
+      <gol minuto="71" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="43" equipo="Rea" jugador="Carlos Martínez"/>
+      <gol minuto="52" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="84" equipo="Rea" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="82" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/1988" jornada="1">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Joseba Aguirre"/>
+      <gol minuto="15" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="84" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Argote"/>
+      <gol minuto="20" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="23" equipo="Spo" jugador="Narciso"/>
+      <gol minuto="40" equipo="Spo" jugador="Narciso"/>
+      <gol minuto="89" equipo="Spo" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/10/1988" jornada="7">
+    <local>Ath</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="49" equipo="Vae" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="80" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ath" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Robert"/>
+      <gol minuto="85" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="64" equipo="Bar" jugador="Lineker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="57" equipo="Atl" jugador="Futre"/>
+      <gol minuto="85" equipo="Atl" jugador="Futre"/>
+      <gol minuto="37" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="89" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="8" equipo="Bet" jugador="Recha"/>
+      <gol minuto="84" equipo="Bet" jugador="Chano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Atl" jugador="Futre"/>
+      <gol minuto="16" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/1988" jornada="5">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="34" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="72" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="Marina"/>
+      <gol minuto="18" equipo="Atl" jugador="Donato"/>
+      <gol minuto="80" equipo="Atl" jugador="Carlos"/>
+      <gol minuto="54" equipo="Elc" jugador="Bračun"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Futre"/>
+      <gol minuto="25" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="59" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="74" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="40" equipo="Esp" jugador="Pineda"/>
+      <gol minuto="82" equipo="Atl" jugador="Aguilera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Atl</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="31" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/06/1989" jornada="37">
+    <local>Atl</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Donato"/>
+      <gol minuto="37" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="35" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="69" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="13" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="84" equipo="Osa" jugador="Rípodas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Atl" jugador="Donato"/>
+      <gol minuto="71" equipo="Ovi" jugador="Tomás"/>
+      <gol minuto="59" equipo="Ovi" jugador="Hicks"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Carlos"/>
+      <gol minuto="67" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="84" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/05/1989" jornada="33">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="30" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="84" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="46" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="72" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="75" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="49" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 29/10/1988" jornada="9">
+    <local>Atl</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="34" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/06/1989" jornada="35">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="88" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="65" equipo="Val" jugador="Gonzalo"/>
+      <gol minuto="89" equipo="Val" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="13" equipo="Atl" jugador="Carlos"/>
+      <gol minuto="56" equipo="Zar" jugador="Crespín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/05/1989" jornada="34">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Urbano"/>
+      <gol minuto="51" equipo="Bar" jugador="Amor"/>
+      <gol minuto="55" equipo="Bar" jugador="Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/06/1989" jornada="36">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Bar" jugador="Robert"/>
+      <gol minuto="52" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="63" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="85" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/06/1989" jornada="38">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Bar" jugador="Robert"/>
+      <gol minuto="16" equipo="Bar" jugador="Romerito"/>
+      <gol minuto="17" equipo="Bar" jugador="Valverde"/>
+      <gol minuto="25" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="51" equipo="Bar" jugador="Eusebio"/>
+      <gol minuto="73" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Bar" jugador="Amor"/>
+      <gol minuto="89" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="67" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/1988" jornada="1">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Bar</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="64" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="22" equipo="Log" jugador="Alzamendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Bar</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="12" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="45" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="38" equipo="Mur" jugador="Eugenio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Amor"/>
+      <gol minuto="9" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="76" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bar" jugador="Robert"/>
+      <gol minuto="89" equipo="Bar" jugador="Eusebio"/>
+      <gol minuto="25" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="83" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="10" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="44" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="62" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="52" equipo="Ovi" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/03/1989" jornada="25">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="74" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="6" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="63" equipo="Rea" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/04/1989" jornada="27">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="89" equipo="Bar" jugador="Begiristain"/>
+      <gol minuto="46" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="22" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Serna"/>
+      <gol minuto="3" equipo="Bar" jugador="Serna"/>
+      <gol minuto="7" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="64" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/1988" jornada="3">
+    <local>Bar</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="Robert"/>
+      <gol minuto="70" equipo="Vae" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/1989" jornada="29">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bar" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Bet" jugador="Yáñez"/>
+      <gol minuto="23" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/1989" jornada="32">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Atl" jugador="Aguilera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/1989" jornada="26">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="76" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/05/1989" jornada="34">
+    <local>Bet</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="83" equipo="CD" jugador="Matosas"/>
+      <gol minuto="65" equipo="CD" jugador="Emilio Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Bet</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bet" jugador="Puma Rodríguez"/>
+      <gol minuto="26" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Chano"/>
+      <gol minuto="6" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Bet</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bet" jugador="Chano"/>
+      <gol minuto="51" equipo="Bet" jugador="Calleja"/>
+      <gol minuto="33" equipo="Bet" jugador="Puma Rodríguez"/>
+      <gol minuto="78" equipo="Elc" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bet" jugador="Gail"/>
+      <gol minuto="64" equipo="Bet" jugador="Miguel Ángel"/>
+      <gol minuto="12" equipo="Esp" jugador="Heath"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Bet</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Bet</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="28" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="36" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/06/1989" jornada="38">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bet" jugador="Valentín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Bet</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bet" jugador="Valentín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bet" jugador="Gail"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="68" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Job"/>
+      <gol minuto="27" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="14" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="28" equipo="Sev" jugador="Ramón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Bet</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Peña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="59" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="65" equipo="Zar" jugador="Fraile"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="53" equipo="CD" jugador="Esteban Vigo"/>
+      <gol minuto="17" equipo="Atl" jugador="Orejuela"/>
+      <gol minuto="89" equipo="Atl" jugador="Aguilera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="CD" jugador="Paquito"/>
+      <gol minuto="19" equipo="CD" jugador="Pineda"/>
+      <gol minuto="57" equipo="Bar" jugador="Robert"/>
+      <gol minuto="84" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>CD</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="CD" jugador="Esteban Vigo"/>
+      <gol minuto="35" equipo="CD" jugador="Paquito"/>
+      <gol minuto="61" equipo="Bet" jugador="Manolo Hierro"/>
+      <gol minuto="68" equipo="Bet" jugador="Puma Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>CD</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Cád" jugador="Manolito"/>
+      <gol minuto="53" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/1988" jornada="2">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="CD" jugador="Ruiz"/>
+      <gol minuto="11" equipo="CD" jugador="Pineda"/>
+      <gol minuto="68" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>CD</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="CD" jugador="Juanito"/>
+      <gol minuto="67" equipo="CD" jugador="Paquito"/>
+      <gol minuto="79" equipo="Elc" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="CD" jugador="Matosas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>CD</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="CD" jugador="Hassan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>CD</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Mur" jugador="Mejías"/>
+      <gol minuto="36" equipo="CD" jugador="Esteban Vigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>CD</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Osa" jugador="Merino"/>
+      <gol minuto="56" equipo="Osa" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>CD</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="CD" jugador="Esteban Vigo"/>
+      <gol minuto="22" equipo="Ovi" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="CD" jugador="Lauridsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="CD" jugador="Ruiz"/>
+      <gol minuto="67" equipo="CD" jugador="Juanito"/>
+      <gol minuto="79" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>CD</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>CD</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>CD</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vae" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="CD" jugador="Paquito"/>
+      <gol minuto="89" equipo="Zar" jugador="Señor"/>
+      <gol minuto="16" equipo="Zar" jugador="Crespín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Cád" jugador="Manolito"/>
+      <gol minuto="79" equipo="Cád" jugador="Mágico González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cád" jugador="Cortijo"/>
+      <gol minuto="33" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Cád</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cád" jugador="Canillas"/>
+      <gol minuto="25" equipo="Cád" jugador="José"/>
+      <gol minuto="62" equipo="Cád" jugador="Mágico González"/>
+      <gol minuto="87" equipo="Cád" jugador="Mágico González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Cád</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="CD" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Cád" jugador="Mágico González"/>
+      <gol minuto="17" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Cád</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cád" jugador="Canillas"/>
+      <gol minuto="40" equipo="Cád" jugador="José"/>
+      <gol minuto="36" equipo="Elc" jugador="Del Barrio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Cád</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Cád</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Log" jugador="Alzamendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Cád</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Mur" jugador="Salvador Mejías"/>
+      <gol minuto="87" equipo="Mur" jugador="Salvador Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Cád" jugador="Mágico González"/>
+      <gol minuto="79" equipo="Osa" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Cád</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ovi" jugador="De la Torre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Cád" jugador="Mágico González"/>
+      <gol minuto="12" equipo="Rea" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="86" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Cád</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Spo" jugador="Jiménez"/>
+      <gol minuto="76" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="9" equipo="Spo" jugador="Óscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Cád</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cád" jugador="Mágico González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/01/1989" jornada="17">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Moya"/>
+      <gol minuto="86" equipo="Cád" jugador="Marcelo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Cád</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="88" equipo="Cád" jugador="Marcelo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Cel" jugador="Marić"/>
+      <gol minuto="24" equipo="Ath" jugador="Txirri"/>
+      <gol minuto="16" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/06/1989" jornada="38">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Atl" jugador="Aguilera"/>
+      <gol minuto="41" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="89" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/12/1988" jornada="13">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Eusebio"/>
+      <gol minuto="27" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="29" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Cel" jugador="Julio Prieto"/>
+      <gol minuto="17" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="82" equipo="Cel" jugador="Camilo"/>
+      <gol minuto="42" equipo="Cád" jugador="Cortijo"/>
+      <gol minuto="78" equipo="Cád" jugador="Cortijo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="10" equipo="Cel" jugador="Julio Prieto"/>
+      <gol minuto="28" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Cel</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Cel</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Amarildo"/>
+      <gol minuto="20" equipo="Ovi" jugador="Tomás"/>
+      <gol minuto="64" equipo="Ovi" jugador="Berto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="43" equipo="Cel" jugador="Amarildo"/>
+      <gol minuto="69" equipo="Rea" jugador="Loren"/>
+      <gol minuto="72" equipo="Rea" jugador="Loinaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/04/1989" jornada="29">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Cel" jugador="Amarildo"/>
+      <gol minuto="26" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/01/1989" jornada="18">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Atilano"/>
+      <gol minuto="76" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/1988" jornada="5">
+    <local>Cel</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Cel" jugador="Julio Prieto"/>
+      <gol minuto="10" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Cel" jugador="Herrera"/>
+      <gol minuto="35" equipo="Val" jugador="Miljuš"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cel" jugador="Amarildo"/>
+      <gol minuto="28" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Elc</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Elc" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Elc" jugador="Saavedra"/>
+      <gol minuto="17" equipo="Atl" jugador="Futre"/>
+      <gol minuto="28" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="89" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="16" equipo="Bar" jugador="Julio Salinas"/>
+      <gol minuto="30" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/01/1989" jornada="17">
+    <local>Elc</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Elc</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="CD" jugador="Matosas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Elc</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Elc" jugador="Pedro Pablo"/>
+      <gol minuto="4" equipo="Cád" jugador="Cortijo"/>
+      <gol minuto="69" equipo="Cád" jugador="José"/>
+      <gol minuto="89" equipo="Elc" jugador="Isidro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Elc" jugador="Sixto"/>
+      <gol minuto="89" equipo="Esp" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Elc</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Log" jugador="Alzamendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Elc</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Elc" jugador="Pedro Pablo"/>
+      <gol minuto="21" equipo="Elc" jugador="Saavedra"/>
+      <gol minuto="54" equipo="Elc" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Elc</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Osa" jugador="Pizo Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Elc</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Elc" jugador="Claudio"/>
+      <gol minuto="54" equipo="Rea" jugador="Fuentes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Elc" jugador="Isidro"/>
+      <gol minuto="44" equipo="Rel" jugador="Julio Llorente"/>
+      <gol minuto="26" equipo="Rel" jugador="Solana"/>
+      <gol minuto="49" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Elc</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Elc" jugador="Claudio"/>
+      <gol minuto="5" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="30" equipo="Sev" jugador="Ramón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Elc</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Elc</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vae" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Elc" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Elc</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Elc" jugador="Isidro"/>
+      <gol minuto="86" equipo="Zar" jugador="Juan Carlos"/>
+      <gol minuto="53" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="65" equipo="Zar" jugador="Salillas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Esp" jugador="Álex Garcia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Esp" jugador="Gabino"/>
+      <gol minuto="35" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="73" equipo="Bar" jugador="Amor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/04/1989" jornada="28">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="CD" jugador="Emilio Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Esp</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Esp" jugador="Iñaki"/>
+      <gol minuto="31" equipo="Elc" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Esp</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Esp" jugador="Gabino"/>
+      <gol minuto="75" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/1988" jornada="2">
+    <local>Esp</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Esp" jugador="Gay"/>
+      <gol minuto="82" equipo="Esp" jugador="Francis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Maestre"/>
+      <gol minuto="89" equipo="Osa" jugador="Bustingorri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Esp" jugador="Orejuela"/>
+      <gol minuto="44" equipo="Ovi" jugador="Berto"/>
+      <gol minuto="49" equipo="Ovi" jugador="Julià"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Goikoetxea"/>
+      <gol minuto="83" equipo="Esp" jugador="Gabino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="Francis"/>
+      <gol minuto="74" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="62" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="72" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="59" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="73" equipo="Esp" jugador="Escaich"/>
+      <gol minuto="89" equipo="Spo" jugador="Joaquín Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/05/1989" jornada="31">
+    <local>Esp</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vae" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Log</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="24" equipo="Ath" jugador="Ferreira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/1988" jornada="1">
+    <local>Log</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Log" jugador="Cruz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Log</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bar" jugador="Eusebio"/>
+      <gol minuto="60" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Log</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="55" equipo="Log" jugador="Abadía"/>
+      <gol minuto="72" equipo="Log" jugador="Sarabia"/>
+      <gol minuto="63" equipo="Bet" jugador="Valentín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Log</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Log" jugador="Sánchez Lorenzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Log</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Log" jugador="Herrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Log</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Log" jugador="Sarabia"/>
+      <gol minuto="57" equipo="Cel" jugador="Rodolfo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Log</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="79" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="20" equipo="Elc" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Log</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Log</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Log</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="52" equipo="Osa" jugador="Pizo Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Log</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Ovi" jugador="De la Torre"/>
+      <gol minuto="63" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Log</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Log" jugador="Alzamendi"/>
+      <gol minuto="9" equipo="Rea" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/11/1988" jornada="11">
+    <local>Log</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/06/1989" jornada="38">
+    <local>Log</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Log</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Log" jugador="Herrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Log</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Vae" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Log</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Log" jugador="García Barrero"/>
+      <gol minuto="85" equipo="Val" jugador="Damián"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Log</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Mur</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Mur" jugador="Costa"/>
+      <gol minuto="40" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Mur</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Mur" jugador="Salvador Mejías"/>
+      <gol minuto="74" equipo="Atl" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/05/1989" jornada="31">
+    <local>Mur</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Mur" jugador="Ibeas"/>
+      <gol minuto="51" equipo="Mur" jugador="Miguel Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Mur</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bet" jugador="Chano"/>
+      <gol minuto="52" equipo="Bet" jugador="Valentín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Mur</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="36" equipo="Mur" jugador="Salvador Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/06/1989" jornada="38">
+    <local>Mur</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cád" jugador="José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Mur</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Mur" jugador="Eugenio"/>
+      <gol minuto="49" equipo="Cel" jugador="Mosquera"/>
+      <gol minuto="43" equipo="Cel" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Mur</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Elc" jugador="Saavedra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Mur</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Mur" jugador="Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Mur</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Mur</local>
+    <visitante>Osa</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Mur" jugador="Ibeas"/>
+      <gol minuto="6" equipo="Mur" jugador="Mejías"/>
+      <gol minuto="15" equipo="Mur" jugador="Mejías"/>
+      <gol minuto="37" equipo="Mur" jugador="Mejías"/>
+      <gol minuto="54" equipo="Mur" jugador="Clos"/>
+      <gol minuto="74" equipo="Mur" jugador="Molina"/>
+      <gol minuto="84" equipo="Osa" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Mur</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Mur</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Górriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Mur</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="77" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="53" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Mur</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Sev" jugador="Antoñito"/>
+      <gol minuto="89" equipo="Sev" jugador="Cholo"/>
+      <gol minuto="70" equipo="Mur" jugador="Clos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Mur</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Spo" jugador="Felipe"/>
+      <gol minuto="77" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="89" equipo="Spo" jugador="Eraña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Mur</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Mur</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Mur" jugador="Mejías"/>
+      <gol minuto="43" equipo="Mur" jugador="Salvador Mejías"/>
+      <gol minuto="89" equipo="Val" jugador="Albesa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Mur</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Zar" jugador="Señor"/>
+      <gol minuto="57" equipo="Zar" jugador="Señor"/>
+      <gol minuto="28" equipo="Zar" jugador="Crespín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Osa" jugador="Robinson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Osa" jugador="Pizo Gómez"/>
+      <gol minuto="19" equipo="Osa" jugador="Rípodas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/09/1988" jornada="4">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Osa" jugador="Ibáñez"/>
+      <gol minuto="56" equipo="Bar" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Osa" jugador="Pizo Gómez"/>
+      <gol minuto="77" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="45" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Osa</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Osa" jugador="Robinson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Cád" jugador="Calderón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Osa</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Osa" jugador="Pepín"/>
+      <gol minuto="88" equipo="Elc" jugador="Barboza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Osa</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Osa</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Osa</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="47" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="68" equipo="Osa" jugador="Ziganda"/>
+      <gol minuto="78" equipo="Ovi" jugador="De la Torre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Osa" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/01/1989" jornada="20">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Osa" jugador="Pizo Gómez"/>
+      <gol minuto="85" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="86" equipo="Sev" jugador="De la Fuente"/>
+      <gol minuto="60" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="57" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Osa</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vae" jugador="Zurdi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Val" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Osa" jugador="De Luis"/>
+      <gol minuto="89" equipo="Osa" jugador="Pizo Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/06/1989" jornada="38">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Txirri"/>
+      <gol minuto="23" equipo="Ath" jugador="Sarriugarte"/>
+      <gol minuto="51" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/1989" jornada="23">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ovi" jugador="De la Torre"/>
+      <gol minuto="81" equipo="Ovi" jugador="Tomás"/>
+      <gol minuto="67" equipo="Ovi" jugador="Hicks"/>
+      <gol minuto="4" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="88" equipo="Atl" jugador="Manolo"/>
+      <gol minuto="89" equipo="Ovi" jugador="Julià"/>
+      <gol minuto="79" equipo="Ovi" jugador="Vargas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ovi" jugador="Bango"/>
+      <gol minuto="26" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="45" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Ovi</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Calderé"/>
+      <gol minuto="43" equipo="Bet" jugador="Valentín"/>
+      <gol minuto="53" equipo="Bet" jugador="Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Ovi</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ovi" jugador="Berto"/>
+      <gol minuto="29" equipo="CD" jugador="Emilio Pérez"/>
+      <gol minuto="38" equipo="CD" jugador="Emilio Pérez"/>
+      <gol minuto="69" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Ovi</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ovi" jugador="Cristóbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Ovi" jugador="De la Torre"/>
+      <gol minuto="53" equipo="Ovi" jugador="De la Torre"/>
+      <gol minuto="55" equipo="Ovi" jugador="Berto"/>
+      <gol minuto="63" equipo="Ovi" jugador="Hicks"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Ovi</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ovi" jugador="Cristóbal"/>
+      <gol minuto="89" equipo="Ovi" jugador="Vargas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Ovi</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ovi" jugador="Berto"/>
+      <gol minuto="61" equipo="Log" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Ovi</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ovi" jugador="Tomás"/>
+      <gol minuto="55" equipo="Ovi" jugador="Julià"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/06/1989" jornada="35">
+    <local>Ovi</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ovi" jugador="Cristóbal"/>
+      <gol minuto="4" equipo="Ovi" jugador="De la Torre"/>
+      <gol minuto="45" equipo="Ovi" jugador="José"/>
+      <gol minuto="72" equipo="Osa" jugador="Sánchez"/>
+      <gol minuto="68" equipo="Osa" jugador="Milinković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/09/1988" jornada="1">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ovi" jugador="Berto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ovi" jugador="Gorriarán"/>
+      <gol minuto="61" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="20" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="50" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Ovi</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Ovi</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ovi" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Ovi</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="76" equipo="Ovi" jugador="Julià"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/11/1988" jornada="10">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rea" jugador="Loinaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="56" equipo="Atl" jugador="Baltazar"/>
+      <gol minuto="76" equipo="Rea" jugador="Loinaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/1988" jornada="6">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Loinaz"/>
+      <gol minuto="16" equipo="Rea" jugador="Loren"/>
+      <gol minuto="31" equipo="Bet" jugador="Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="31" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="36" equipo="CD" jugador="Hassan"/>
+      <gol minuto="39" equipo="CD" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/1989" jornada="32">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 18/05/1989" jornada="8">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Loinaz"/>
+      <gol minuto="48" equipo="Rea" jugador="Loinaz"/>
+      <gol minuto="13" equipo="Rea" jugador="Goikoetxea"/>
+      <gol minuto="10" equipo="Cel" jugador="Herrera"/>
+      <gol minuto="86" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rea" jugador="Igoa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Rea</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="13" equipo="Rea" jugador="Loinaz"/>
+      <gol minuto="80" equipo="Log" jugador="Quique Setién"/>
+      <gol minuto="53" equipo="Log" jugador="Abadía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Rea</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mur" jugador="Manolo"/>
+      <gol minuto="79" equipo="Mur" jugador="Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="57" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rea" jugador="Goikoetxea"/>
+      <gol minuto="32" equipo="Rel" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/1989" jornada="30">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rea" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/06/1989" jornada="38">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rea" jugador="Martín Begiristain"/>
+      <gol minuto="50" equipo="Rea" jugador="Fuentes"/>
+      <gol minuto="81" equipo="Spo" jugador="Óscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Rea</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rea" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rea" jugador="Larrañaga"/>
+      <gol minuto="10" equipo="Rea" jugador="Loren"/>
+      <gol minuto="43" equipo="Zar" jugador="Vizcaíno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/11/1988" jornada="12">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rel" jugador="Tendillo"/>
+      <gol minuto="1" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="76" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="62" equipo="Ath" jugador="Luis Fernando"/>
+      <gol minuto="83" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="13" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/12/1988" jornada="14">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rel" jugador="Julio Llorente"/>
+      <gol minuto="91" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="13" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/10/1988" jornada="8">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="59" equipo="Rel" jugador="Aldana"/>
+      <gol minuto="57" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="21" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="70" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/1989" jornada="23">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="59" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="7" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="65" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="15" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="24" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="83" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="64" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="19" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="1" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="31" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="29" equipo="Cel" jugador="Amarildo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="58" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="88" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="89" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="64" equipo="Elc" jugador="Benito Sánchez"/>
+      <gol minuto="34" equipo="Elc" jugador="Claudio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="28" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="62" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Rel</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Rel</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="30" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="83" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="56" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="74" equipo="Osa" jugador="Merino"/>
+      <gol minuto="17" equipo="Osa" jugador="Robinson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="8" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="65" equipo="Rea" jugador="Loinaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="40" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="61" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="9" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="70" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="85" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="89" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="44" equipo="Spo" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/06/1989" jornada="38">
+    <local>Rel</local>
+    <visitante>Vae</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="7" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="67" equipo="Vae" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="66" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="7" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="81" equipo="Val" jugador="Patri"/>
+      <gol minuto="49" equipo="Val" jugador="Peña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rel" jugador="Tendillo"/>
+      <gol minuto="89" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="6" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="80" equipo="Rel" jugador="Míchel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="11" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="70" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="54" equipo="Sev" jugador="Polster"/>
+      <gol minuto="69" equipo="Atl" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/06/1989" jornada="35">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="26" equipo="Bar" jugador="Valverde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/05/1989" jornada="31">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Sev" jugador="Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Sev</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="10" equipo="CD" jugador="José Luis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Sev" jugador="Salguero"/>
+      <gol minuto="78" equipo="Cád" jugador="José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/06/1989" jornada="37">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="34" equipo="Cel" jugador="Marić"/>
+      <gol minuto="65" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Sev</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="40" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="70" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="20" equipo="Sev" jugador="Polster"/>
+      <gol minuto="33" equipo="Elc" jugador="Benito Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Sev</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 31/12/1988" jornada="17">
+    <local>Sev</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="77" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/10/1988" jornada="9">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Bengoechea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Sev</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Sev" jugador="Ramón"/>
+      <gol minuto="1" equipo="Ovi" jugador="Hicks"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/11/1988" jornada="11">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Sev" jugador="Bengoechea"/>
+      <gol minuto="3" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/11/1988" jornada="13">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sev" jugador="Polster"/>
+      <gol minuto="10" equipo="Rel" jugador="Paco Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/04/1989" jornada="29">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Cholo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Sev</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sev" jugador="Polster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sev" jugador="De la Fuente"/>
+      <gol minuto="51" equipo="Sev" jugador="Cholo"/>
+      <gol minuto="65" equipo="Val" jugador="Alberto"/>
+      <gol minuto="66" equipo="Val" jugador="Alberto"/>
+      <gol minuto="7" equipo="Val" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/05/1989" jornada="33">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Zar" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="30" equipo="Atl" jugador="Carlos"/>
+      <gol minuto="10" equipo="Atl" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/03/1989" jornada="24">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bar" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Spo</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="CD" jugador="Luis Merino"/>
+      <gol minuto="61" equipo="CD" jugador="Luis Merino"/>
+      <gol minuto="49" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Spo</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Cel" jugador="Julio Prieto"/>
+      <gol minuto="64" equipo="Cel" jugador="Amarildo"/>
+      <gol minuto="72" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/05/1989" jornada="34">
+    <local>Spo</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Spo" jugador="Felipe"/>
+      <gol minuto="15" equipo="Spo" jugador="Joaquín Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="20" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="65" equipo="Esp" jugador="Francis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Spo</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Spo" jugador="Emilio"/>
+      <gol minuto="89" equipo="Spo" jugador="Monchu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/10/1988" jornada="6">
+    <local>Spo</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mur" jugador="Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/06/1989" jornada="36">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Spo" jugador="Felipe"/>
+      <gol minuto="88" equipo="Osa" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/06/1989" jornada="37">
+    <local>Spo</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/01/1989" jornada="19">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Spo" jugador="Felipe"/>
+      <gol minuto="12" equipo="Spo" jugador="Eraña"/>
+      <gol minuto="16" equipo="Rea" jugador="Martín Begiristain"/>
+      <gol minuto="20" equipo="Rea" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/09/1988" jornada="2">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="22" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="66" equipo="Spo" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Spo</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Spo" jugador="Joaquín Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/09/1988" jornada="4">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Spo" jugador="Juanma"/>
+      <gol minuto="85" equipo="Spo" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/02/1989" jornada="22">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Spo" jugador="Felipe"/>
+      <gol minuto="10" equipo="Zar" jugador="Fraile"/>
+      <gol minuto="57" equipo="Zar" jugador="Iskrenov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/03/1989" jornada="26">
+    <local>Vae</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/04/1989" jornada="28">
+    <local>Vae</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vae" jugador="Giner"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/02/1989" jornada="22">
+    <local>Vae</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vae" jugador="Fernando"/>
+      <gol minuto="16" equipo="Bar" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/06/1989" jornada="37">
+    <local>Vae</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vae" jugador="Arroyo"/>
+      <gol minuto="88" equipo="Vae" jugador="Fernando"/>
+      <gol minuto="17" equipo="Vae" jugador="Alcañiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/04/1989" jornada="30">
+    <local>Vae</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Vae" jugador="Nando"/>
+      <gol minuto="39" equipo="Vae" jugador="Fernando"/>
+      <gol minuto="35" equipo="CD" jugador="Azuaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Vae</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vae" jugador="Voro"/>
+      <gol minuto="52" equipo="Cád" jugador="José"/>
+      <gol minuto="82" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/03/1989" jornada="24">
+    <local>Vae</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vae" jugador="Luis Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/05/1989" jornada="32">
+    <local>Vae</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Vae" jugador="Arroyo"/>
+      <gol minuto="55" equipo="Vae" jugador="Fernando"/>
+      <gol minuto="42" equipo="Elc" jugador="Berg"/>
+      <gol minuto="80" equipo="Elc" jugador="Reyes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Vae</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Vae" jugador="Alcañiz"/>
+      <gol minuto="67" equipo="Esp" jugador="Gallart"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/10/1988" jornada="6">
+    <local>Vae</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 24/09/1988" jornada="4">
+    <local>Vae</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Vae" jugador="Subirats"/>
+      <gol minuto="27" equipo="Vae" jugador="Eloy"/>
+      <gol minuto="16" equipo="Vae" jugador="Luis Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/12/1988" jornada="15">
+    <local>Vae</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Vae" jugador="Eloy"/>
+      <gol minuto="40" equipo="Vae" jugador="Alcañiz"/>
+      <gol minuto="76" equipo="Vae" jugador="Alcañiz"/>
+      <gol minuto="73" equipo="Osa" jugador="Rípodas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Vae</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ovi" jugador="José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/01/1989" jornada="17">
+    <local>Vae</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Vae" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/01/1989" jornada="19">
+    <local>Vae</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vae" jugador="Eloy"/>
+      <gol minuto="64" equipo="Rel" jugador="Aldana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Vae</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Vae" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/06/1989" jornada="35">
+    <local>Vae</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vae" jugador="Arroyo"/>
+      <gol minuto="62" equipo="Vae" jugador="Fernando"/>
+      <gol minuto="71" equipo="Spo" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/09/1988" jornada="2">
+    <local>Vae</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vae" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/01/1989" jornada="20">
+    <local>Vae</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vae" jugador="Arroyo"/>
+      <gol minuto="46" equipo="Vae" jugador="Luis Flores"/>
+      <gol minuto="84" equipo="Zar" jugador="Vizcaíno"/>
+      <gol minuto="79" equipo="Zar" jugador="Crespín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Val" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/03/1989" jornada="25">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Val" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/06/1989" jornada="36">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Val" jugador="Minguela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Cel" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Hierro"/>
+      <gol minuto="2" equipo="Val" jugador="Janković"/>
+      <gol minuto="64" equipo="Val" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/06/1989" jornada="38">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Val" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Val</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Hierro"/>
+      <gol minuto="56" equipo="Val" jugador="Peña"/>
+      <gol minuto="46" equipo="Log" jugador="Abadía"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Val</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Val" jugador="Minguela"/>
+      <gol minuto="84" equipo="Val" jugador="Peña"/>
+      <gol minuto="30" equipo="Mur" jugador="Ibeas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/09/1988" jornada="3">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Val" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/10/1988" jornada="5">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Val" jugador="Peña"/>
+      <gol minuto="7" equipo="Val" jugador="Janković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/10/1988" jornada="7">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 27/05/1989" jornada="34">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Minguela"/>
+      <gol minuto="83" equipo="Val" jugador="Minguela"/>
+      <gol minuto="73" equipo="Sev" jugador="Cholo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/02/1989" jornada="23">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Spo" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Val</local>
+    <visitante>Vae</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Alberto"/>
+      <gol minuto="34" equipo="Vae" jugador="Jon García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/04/1989" jornada="27">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Albis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/05/1989" jornada="32">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Vizcaíno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/05/1989" jornada="34">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/04/1989" jornada="28">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/10/1988" jornada="5">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Señor"/>
+      <gol minuto="60" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="18" equipo="Bet" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/06/1989" jornada="36">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Zar" jugador="Fraile"/>
+      <gol minuto="23" equipo="CD" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/01/1989" jornada="16">
+    <local>Zar</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Cád" jugador="Cortijo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/04/1989" jornada="30">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Vizcaíno"/>
+      <gol minuto="27" equipo="Zar" jugador="Salillas"/>
+      <gol minuto="46" equipo="Cel" jugador="Marić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/06/1989" jornada="38">
+    <local>Zar</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Belsué"/>
+      <gol minuto="42" equipo="Zar" jugador="Juanito"/>
+      <gol minuto="1" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="70" equipo="Elc" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/01/1989" jornada="18">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Vizcaíno"/>
+      <gol minuto="21" equipo="Zar" jugador="Crespín"/>
+      <gol minuto="88" equipo="Esp" jugador="Escaich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/11/1988" jornada="12">
+    <local>Zar</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Zar" jugador="Salva"/>
+      <gol minuto="30" equipo="Log" jugador="Ruggeri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/11/1988" jornada="10">
+    <local>Zar</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Crespín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/02/1989" jornada="21">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Osa" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/03/1989" jornada="26">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Zar" jugador="Vizcaíno"/>
+      <gol minuto="52" equipo="Zar" jugador="Crespín"/>
+      <gol minuto="86" equipo="Zar" jugador="Crespín"/>
+      <gol minuto="57" equipo="Ovi" jugador="Bango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/02/1989" jornada="23">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/03/1989" jornada="25">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Villarroya"/>
+      <gol minuto="83" equipo="Rel" jugador="Schuster"/>
+      <gol minuto="15" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="28" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="89" equipo="Rel" jugador="Losada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/12/1988" jornada="14">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/09/1988" jornada="3">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/09/1988" jornada="1">
+    <local>Zar</local>
+    <visitante>Vae</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/10/1988" jornada="8">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="64" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+</liga>

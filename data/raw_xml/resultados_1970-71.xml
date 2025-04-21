@@ -1,0 +1,2366 @@
+<?xml version="1.0" ?>
+<liga temporada="1970-71">
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Até</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Até" jugador="Gárate"/>
+      <gol minuto="37" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Até</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Dueñas"/>
+      <gol minuto="63" equipo="Até" jugador="Luis Aragonés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Até</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Até" jugador="Irureta"/>
+      <gol minuto="10" equipo="Até" jugador="Gárate"/>
+      <gol minuto="9" equipo="CD" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Até</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Até" jugador="Alberto"/>
+      <gol minuto="87" equipo="Até" jugador="Irureta"/>
+      <gol minuto="64" equipo="Até" jugador="Luis Aragonés"/>
+      <gol minuto="37" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1970" jornada="6">
+    <local>Até</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Até" jugador="Salcedo"/>
+      <gol minuto="17" equipo="Até" jugador="Orozco"/>
+      <gol minuto="15" equipo="Até" jugador="Ufarte"/>
+      <gol minuto="48" equipo="Elc" jugador="Vavá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Até</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Até" jugador="Irureta"/>
+      <gol minuto="56" equipo="Até" jugador="Orozco"/>
+      <gol minuto="52" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Até</local>
+    <visitante>Gij</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/03/1971" jornada="26">
+    <local>Até</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Até" jugador="Irureta"/>
+      <gol minuto="87" equipo="Até" jugador="Irureta"/>
+      <gol minuto="63" equipo="Até" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Até</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Até" jugador="Orozco"/>
+      <gol minuto="70" equipo="Até" jugador="Orozco"/>
+      <gol minuto="34" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Até</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Até" jugador="Adelardo"/>
+      <gol minuto="89" equipo="Até" jugador="Gárate"/>
+      <gol minuto="9" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="33" equipo="Rea" jugador="Bueno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Até</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Até" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Até</local>
+    <visitante>Sab</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Até" jugador="Alberto"/>
+      <gol minuto="71" equipo="Até" jugador="Alberto"/>
+      <gol minuto="11" equipo="Até" jugador="Orozco"/>
+      <gol minuto="33" equipo="Até" jugador="Gárate"/>
+      <gol minuto="70" equipo="Sab" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Até</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Até" jugador="Adelardo"/>
+      <gol minuto="38" equipo="Até" jugador="Orozco"/>
+      <gol minuto="24" equipo="Até" jugador="Gárate"/>
+      <gol minuto="59" equipo="Até" jugador="Gárate"/>
+      <gol minuto="66" equipo="Sev" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/03/1971" jornada="24">
+    <local>Até</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Até" jugador="Luis Aragonés"/>
+      <gol minuto="36" equipo="Até" jugador="Gárate"/>
+      <gol minuto="58" equipo="Até" jugador="Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Até</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Até" jugador="Irureta"/>
+      <gol minuto="54" equipo="Até" jugador="Irureta"/>
+      <gol minuto="32" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Atl</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Betzuen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1970" jornada="1">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Uriarte"/>
+      <gol minuto="30" equipo="Bar" jugador="Pujol"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Atl" jugador="Estéfano"/>
+      <gol minuto="16" equipo="Atl" jugador="Uriarte"/>
+      <gol minuto="80" equipo="CD" jugador="Viberti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Atl" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Atl" jugador="Betzuen"/>
+      <gol minuto="68" equipo="Atl" jugador="Ortuondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Atl" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Atl</local>
+    <visitante>Gij</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Atl" jugador="Uriarte"/>
+      <gol minuto="49" equipo="Atl" jugador="Arieta II"/>
+      <gol minuto="86" equipo="Atl" jugador="Zubiaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Clemente"/>
+      <gol minuto="9" equipo="Atl" jugador="Carlos"/>
+      <gol minuto="37" equipo="Atl" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Argoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Grande"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Atl" jugador="Zubiaga"/>
+      <gol minuto="89" equipo="Rel" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1970" jornada="6">
+    <local>Atl</local>
+    <visitante>Sab</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Atl" jugador="Estéfano"/>
+      <gol minuto="59" equipo="Atl" jugador="Igartua"/>
+      <gol minuto="84" equipo="Atl" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Bar</local>
+    <visitante>Até</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="28" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Atl" jugador="Zubiaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Fusté"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="68" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 17/10/1970" jornada="6">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="28" equipo="Bar" jugador="Martí Filosia"/>
+      <gol minuto="55" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Bar</local>
+    <visitante>Gij</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Martí Filosia"/>
+      <gol minuto="50" equipo="Bar" jugador="Alfonseda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Alfonseda"/>
+      <gol minuto="51" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="15" equipo="Gra" jugador="Vicente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 12/04/1971" jornada="29">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Martí Filosia"/>
+      <gol minuto="76" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rea" jugador="Grande"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Fusté"/>
+      <gol minuto="50" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="37" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Bar</local>
+    <visitante>Sab</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Bar" jugador="Torres"/>
+      <gol minuto="36" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="43" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="83" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="18" equipo="Sab" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="5" equipo="Bar" jugador="Pujol"/>
+      <gol minuto="27" equipo="Bar" jugador="Dueñas"/>
+      <gol minuto="74" equipo="Bar" jugador="Dueñas"/>
+      <gol minuto="84" equipo="Bar" jugador="Dueñas"/>
+      <gol minuto="60" equipo="Sev" jugador="Eloy"/>
+      <gol minuto="43" equipo="Sev" jugador="Acosta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1970" jornada="8">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Val" jugador="Claramunt"/>
+      <gol minuto="83" equipo="Val" jugador="Valdez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Juan Carlos"/>
+      <gol minuto="64" equipo="Bar" jugador="Juan Carlos"/>
+      <gol minuto="42" equipo="Bar" jugador="Zabalza"/>
+      <gol minuto="8" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="41" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="40" equipo="Zar" jugador="Oliveros"/>
+      <gol minuto="87" equipo="Zar" jugador="Pepe Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/04/1971" jornada="29">
+    <local>CD</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="CD" jugador="Cabral"/>
+      <gol minuto="20" equipo="CD" jugador="Álvarez"/>
+      <gol minuto="43" equipo="CD" jugador="Álvarez"/>
+      <gol minuto="74" equipo="Atl" jugador="Betzuen"/>
+      <gol minuto="55" equipo="Atl" jugador="Zubiaga"/>
+      <gol minuto="18" equipo="Atl" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="CD" jugador="Pons"/>
+      <gol minuto="87" equipo="CD" jugador="Álvarez"/>
+      <gol minuto="66" equipo="Cel" jugador="Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>CD</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>CD</local>
+    <visitante>Gij</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="CD" jugador="Martínez"/>
+      <gol minuto="80" equipo="CD" jugador="Mori"/>
+      <gol minuto="65" equipo="CD" jugador="Pons"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>CD</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="CD" jugador="Pons"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>CD</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Las" jugador="Hernández"/>
+      <gol minuto="78" equipo="CD" jugador="Cabral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1970" jornada="6">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="15" equipo="Rea" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>CD</local>
+    <visitante>Sab</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="CD" jugador="Viberti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>CD</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="Acosta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Pellicer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="CD" jugador="Vilanova"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Cel</local>
+    <visitante>Até</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Cel" jugador="Juan"/>
+      <gol minuto="73" equipo="Cel" jugador="Juan"/>
+      <gol minuto="28" equipo="Cel" jugador="Costas"/>
+      <gol minuto="35" equipo="Até" jugador="Salcedo"/>
+      <gol minuto="25" equipo="Até" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cel" jugador="Lezcano"/>
+      <gol minuto="41" equipo="Cel" jugador="Costas"/>
+      <gol minuto="12" equipo="Atl" jugador="Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1970" jornada="3">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Cel" jugador="Almagro"/>
+      <gol minuto="16" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="20" equipo="Cel" jugador="Doblas"/>
+      <gol minuto="51" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cel" jugador="Canario"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1970" jornada="1">
+    <local>Cel</local>
+    <visitante>Gij</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Juan"/>
+      <gol minuto="67" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Cel" jugador="Lezcano"/>
+      <gol minuto="48" equipo="Cel" jugador="Costas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Cel" jugador="Manolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="87" equipo="Cel" jugador="Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Cel</local>
+    <visitante>Sab</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Cel" jugador="Rodilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Cel" jugador="Jiménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Cel" jugador="Juan"/>
+      <gol minuto="58" equipo="Cel" jugador="Lezcano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Elc</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Até" jugador="Irureta"/>
+      <gol minuto="83" equipo="Até" jugador="Gárate"/>
+      <gol minuto="88" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Elc" jugador="Vavá"/>
+      <gol minuto="62" equipo="Atl" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Pujol"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Elc</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Elc" jugador="Poyoyo"/>
+      <gol minuto="67" equipo="CD" jugador="Cabral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Elc" jugador="Emilio"/>
+      <gol minuto="5" equipo="Cel" jugador="Lezcano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Elc" jugador="López Coll"/>
+      <gol minuto="77" equipo="Esp" jugador="José María"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1970" jornada="3">
+    <local>Elc</local>
+    <visitante>Gij</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Elc" jugador="Vavá"/>
+      <gol minuto="54" equipo="Elc" jugador="Vavá"/>
+      <gol minuto="65" equipo="Elc" jugador="Vavá"/>
+      <gol minuto="75" equipo="Elc" jugador="Vavá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1970" jornada="1">
+    <local>Elc</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Elc" jugador="Llompart"/>
+      <gol minuto="52" equipo="Gra" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Elc</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Elc" jugador="Talón"/>
+      <gol minuto="81" equipo="Elc" jugador="Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rea" jugador="Fleitas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Elc" jugador="Ciriaco"/>
+      <gol minuto="65" equipo="Rel" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Elc</local>
+    <visitante>Sab</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Elc</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Elc" jugador="Lara"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Elc" jugador="Curro"/>
+      <gol minuto="85" equipo="Val" jugador="Pellicer"/>
+      <gol minuto="37" equipo="Val" jugador="Forment"/>
+      <gol minuto="86" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Elc</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Elc" jugador="Llompart"/>
+      <gol minuto="5" equipo="Elc" jugador="Silvio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Esp</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Esp" jugador="Pepín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Martí Filosia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="83" equipo="CD" jugador="Vilanova"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cel" jugador="Almagro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Esp" jugador="Carbonell"/>
+      <gol minuto="80" equipo="Esp" jugador="Docal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Esp</local>
+    <visitante>Gij</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Esp" jugador="Glaría"/>
+      <gol minuto="9" equipo="Esp" jugador="Yanko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Esp" jugador="Amiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Esp" jugador="José María"/>
+      <gol minuto="11" equipo="Esp" jugador="Cayetano Ré"/>
+      <gol minuto="87" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rea" jugador="Miguel Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1970" jornada="3">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Esp</local>
+    <visitante>Sab</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Esp" jugador="Carbonell"/>
+      <gol minuto="47" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="58" equipo="Esp" jugador="Cayetano Ré"/>
+      <gol minuto="79" equipo="Sab" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1970" jornada="1">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Sev" jugador="Acosta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Lamata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Gij</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gij" jugador="Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1971" jornada="29">
+    <local>Gij</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Gij" jugador="Paquito"/>
+      <gol minuto="41" equipo="Gij" jugador="Quini"/>
+      <gol minuto="56" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Gij</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bar" jugador="Dueñas"/>
+      <gol minuto="86" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Gij</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Gij" jugador="Puente"/>
+      <gol minuto="73" equipo="Gij" jugador="Lavandera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Gij</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Gij" jugador="Valdés"/>
+      <gol minuto="18" equipo="Gij" jugador="Quini"/>
+      <gol minuto="48" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Gij</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gij" jugador="Lavandera"/>
+      <gol minuto="52" equipo="Gij" jugador="Churruca"/>
+      <gol minuto="29" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Gij</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Gij</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Gij" jugador="Pascual"/>
+      <gol minuto="50" equipo="Gij" jugador="Churruca"/>
+      <gol minuto="30" equipo="Gra" jugador="Vicente"/>
+      <gol minuto="44" equipo="Gra" jugador="Juárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Gij</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Gij" jugador="Paquito"/>
+      <gol minuto="73" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Gij</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rea" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Gij</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Gij" jugador="Churruca"/>
+      <gol minuto="40" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Gij</local>
+    <visitante>Sab</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Gij" jugador="Quini"/>
+      <gol minuto="52" equipo="Sab" jugador="De Diego"/>
+      <gol minuto="77" equipo="Gij" jugador="Paquito"/>
+      <gol minuto="89" equipo="Sab" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Gij</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Gij" jugador="Paquito"/>
+      <gol minuto="8" equipo="Gij" jugador="Quini"/>
+      <gol minuto="59" equipo="Gij" jugador="Quini"/>
+      <gol minuto="76" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1970" jornada="6">
+    <local>Gij</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Aníbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Gij</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Gij" jugador="Churruca"/>
+      <gol minuto="46" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Gra</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Gra" jugador="Vicente"/>
+      <gol minuto="32" equipo="Gra" jugador="Lasa"/>
+      <gol minuto="11" equipo="Atl" jugador="Gisasola"/>
+      <gol minuto="26" equipo="Atl" jugador="Zubiaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="69" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Gra</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="30" equipo="CD" jugador="Viberti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1971" jornada="29">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Gra</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="49" equipo="Gra" jugador="Juárez"/>
+      <gol minuto="24" equipo="Gra" jugador="Lasa"/>
+      <gol minuto="8" equipo="Elc" jugador="Vavá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Gra</local>
+    <visitante>Gij</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Gra" jugador="Lasa"/>
+      <gol minuto="78" equipo="Gra" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1970" jornada="6">
+    <local>Gra</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Gra" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Gra" jugador="Vicente"/>
+      <gol minuto="16" equipo="Gra" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Gra" jugador="Vicente"/>
+      <gol minuto="62" equipo="Gra" jugador="Vicente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Gra</local>
+    <visitante>Sab</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="43" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="1" equipo="Gra" jugador="Juárez"/>
+      <gol minuto="47" equipo="Sab" jugador="Jenaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Gra</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gra" jugador="Juárez"/>
+      <gol minuto="47" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="78" equipo="Val" jugador="Ansola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Gra</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="66" equipo="Gra" jugador="Lasa"/>
+      <gol minuto="78" equipo="Gra" jugador="Tejada"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1970" jornada="1">
+    <local>Las</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Las" jugador="Carmelín"/>
+      <gol minuto="64" equipo="Até" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1970" jornada="3">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Las" jugador="Carmelín"/>
+      <gol minuto="18" equipo="Atl" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Las" jugador="Germán"/>
+      <gol minuto="86" equipo="Las" jugador="León"/>
+      <gol minuto="73" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="58" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Las</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Las" jugador="Gilberto"/>
+      <gol minuto="77" equipo="CD" jugador="Migueli"/>
+      <gol minuto="10" equipo="CD" jugador="Viberti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Cel" jugador="Juan"/>
+      <gol minuto="75" equipo="Cel" jugador="Lezcano"/>
+      <gol minuto="86" equipo="Las" jugador="José Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Las</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Las" jugador="Martín Marrero"/>
+      <gol minuto="79" equipo="Las" jugador="Martín Marrero"/>
+      <gol minuto="8" equipo="Elc" jugador="Guillot"/>
+      <gol minuto="27" equipo="Elc" jugador="Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Las</local>
+    <visitante>Gij</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Las" jugador="León"/>
+      <gol minuto="18" equipo="Gij" jugador="Puente"/>
+      <gol minuto="67" equipo="Gij" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Las</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Las" jugador="Gilberto"/>
+      <gol minuto="80" equipo="Las" jugador="Gilberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Las" jugador="Justo Gilberto"/>
+      <gol minuto="59" equipo="Las" jugador="Justo Gilberto"/>
+      <gol minuto="22" equipo="Las" jugador="José Juan"/>
+      <gol minuto="67" equipo="Las" jugador="José Juan"/>
+      <gol minuto="45" equipo="Rel" jugador="Sein"/>
+      <gol minuto="12" equipo="Rel" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Las</local>
+    <visitante>Sab</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Las" jugador="Trona"/>
+      <gol minuto="10" equipo="Las" jugador="Bosmediano"/>
+      <gol minuto="15" equipo="Las" jugador="Germán"/>
+      <gol minuto="65" equipo="Las" jugador="Germán"/>
+      <gol minuto="60" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Las" jugador="Justo Gilberto"/>
+      <gol minuto="85" equipo="Las" jugador="Bosmediano"/>
+      <gol minuto="57" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Rea</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rea" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Fleitas"/>
+      <gol minuto="55" equipo="Atl" jugador="Clemente"/>
+      <gol minuto="88" equipo="Atl" jugador="Argoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Zabalza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="CD" jugador="Migueli"/>
+      <gol minuto="89" equipo="CD" jugador="Conejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Rea" jugador="Zunzunegui"/>
+      <gol minuto="3" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="20" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="5" equipo="Rea" jugador="Fleitas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Rea" jugador="Zunzunegui"/>
+      <gol minuto="28" equipo="Elc" jugador="Lezcano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/04/1971" jornada="29">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rea" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Rea</local>
+    <visitante>Gij</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Amancio"/>
+      <gol minuto="26" equipo="Gij" jugador="Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1970" jornada="3">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rea" jugador="Velázquez"/>
+      <gol minuto="80" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="47" equipo="Rea" jugador="Amancio"/>
+      <gol minuto="77" equipo="Gra" jugador="Barrios"/>
+      <gol minuto="43" equipo="Gra" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="55" equipo="Rea" jugador="Fleitas"/>
+      <gol minuto="68" equipo="Rea" jugador="Fleitas"/>
+      <gol minuto="60" equipo="Rea" jugador="Miguel Pérez"/>
+      <gol minuto="32" equipo="Las" jugador="Germán"/>
+      <gol minuto="63" equipo="Las" jugador="Gilberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rea" jugador="Sanchis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Rea</local>
+    <visitante>Sab</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="63" equipo="Rea" jugador="Bueno"/>
+      <gol minuto="32" equipo="Rea" jugador="Amancio"/>
+      <gol minuto="80" equipo="Sab" jugador="Pini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="49" equipo="Rea" jugador="Fleitas"/>
+      <gol minuto="47" equipo="Rea" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1970" jornada="1">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="65" equipo="Rea" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="20" equipo="Rea" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Rel</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rel" jugador="Boronat"/>
+      <gol minuto="12" equipo="Atl" jugador="Argoitia"/>
+      <gol minuto="74" equipo="Rel" jugador="Corcuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rel" jugador="Arzak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Rel" jugador="Urtiaga"/>
+      <gol minuto="17" equipo="CD" jugador="Mori"/>
+      <gol minuto="41" equipo="CD" jugador="Pons"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rel" jugador="Arzak"/>
+      <gol minuto="43" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="46" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="49" equipo="Cel" jugador="Rivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Urtiaga"/>
+      <gol minuto="69" equipo="Rel" jugador="Urtiaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rel" jugador="Corcuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Rel</local>
+    <visitante>Gij</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="Arzak"/>
+      <gol minuto="51" equipo="Rel" jugador="Arambarri"/>
+      <gol minuto="4" equipo="Rel" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Araquistain"/>
+      <gol minuto="7" equipo="Gra" jugador="Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rel" jugador="Corcuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1970" jornada="4">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Rel</local>
+    <visitante>Sab</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rel" jugador="Boronat"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1970" jornada="6">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rel" jugador="Mendiluce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1971" jornada="20">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/04/1971" jornada="29">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rel" jugador="Urtiaga"/>
+      <gol minuto="83" equipo="Rel" jugador="Urreisti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Sab</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Até" jugador="Irureta"/>
+      <gol minuto="49" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Sab</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Sab" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Sab</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sab" jugador="Garzón"/>
+      <gol minuto="68" equipo="Sab" jugador="Garzón"/>
+      <gol minuto="49" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1970" jornada="3">
+    <local>Sab</local>
+    <visitante>CD</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sab" jugador="Garzón"/>
+      <gol minuto="53" equipo="Sab" jugador="Montesinos"/>
+      <gol minuto="67" equipo="Sab" jugador="Jenaro"/>
+      <gol minuto="59" equipo="Sab" jugador="De Diego"/>
+      <gol minuto="40" equipo="CD" jugador="Pons"/>
+      <gol minuto="25" equipo="CD" jugador="Álvarez"/>
+      <gol minuto="85" equipo="Sab" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Sab</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sab" jugador="Garzón"/>
+      <gol minuto="43" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="25" equipo="Cel" jugador="Rivera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Sab</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Sab" jugador="Garzón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Sab</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Sab</local>
+    <visitante>Gij</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Sab" jugador="Jenaro"/>
+      <gol minuto="6" equipo="Sab" jugador="Vidal I"/>
+      <gol minuto="54" equipo="Gij" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Sab</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Gra" jugador="Jorge"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Sab</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Sab</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Sab" jugador="De Diego"/>
+      <gol minuto="60" equipo="Rea" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1970" jornada="1">
+    <local>Sab</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Sab</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Sab" jugador="De Diego"/>
+      <gol minuto="70" equipo="Sab" jugador="Cristo"/>
+      <gol minuto="6" equipo="Sev" jugador="Lebrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Sab</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Antón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Sab</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Sab" jugador="Montesinos"/>
+      <gol minuto="79" equipo="Sab" jugador="Quiles"/>
+      <gol minuto="7" equipo="Zar" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Sev</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Sev" jugador="Lora"/>
+      <gol minuto="30" equipo="Até" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Bergara II"/>
+      <gol minuto="84" equipo="Sev" jugador="Bergara II"/>
+      <gol minuto="81" equipo="Atl" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Sev</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Sev" jugador="Bergara II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Sev" jugador="Rodríguez"/>
+      <gol minuto="63" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="89" equipo="Cel" jugador="Costas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Sev</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Sev" jugador="Costas"/>
+      <gol minuto="43" equipo="Sev" jugador="Bergara II"/>
+      <gol minuto="75" equipo="Elc" jugador="Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sev" jugador="Lebrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Sev</local>
+    <visitante>Gij</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="54" equipo="Gij" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Sev</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Bergara II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Sev" jugador="Pazos"/>
+      <gol minuto="28" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="39" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="87" equipo="Las" jugador="Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1970" jornada="2">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="Costas"/>
+      <gol minuto="57" equipo="Sev" jugador="Berruezo"/>
+      <gol minuto="1" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="30" equipo="Rea" jugador="Grande"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Sev" jugador="Lebrón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1971" jornada="29">
+    <local>Sev</local>
+    <visitante>Sab</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="Acosta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1971" jornada="18">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Sev" jugador="Pazos"/>
+      <gol minuto="70" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="66" equipo="Val" jugador="Valdez"/>
+      <gol minuto="26" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Santos"/>
+      <gol minuto="76" equipo="Sev" jugador="Acosta"/>
+      <gol minuto="32" equipo="Sev" jugador="Torres"/>
+      <gol minuto="72" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="34" equipo="Zar" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1970" jornada="9">
+    <local>Val</local>
+    <visitante>Até</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1971" jornada="25">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Val" jugador="Valdez"/>
+      <gol minuto="70" equipo="Val" jugador="Claramunt II"/>
+      <gol minuto="53" equipo="Val" jugador="Forment"/>
+      <gol minuto="68" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1971" jornada="23">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Val" jugador="Paquito"/>
+      <gol minuto="17" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1970" jornada="7">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Forment"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/03/1971" jornada="27">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Claramunt II"/>
+      <gol minuto="89" equipo="Val" jugador="Forment"/>
+      <gol minuto="50" equipo="Cel" jugador="Lezcano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1971" jornada="29">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Valdez"/>
+      <gol minuto="39" equipo="Val" jugador="Valdez"/>
+      <gol minuto="88" equipo="Val" jugador="Claramunt II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/12/1970" jornada="15">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Val" jugador="Forment"/>
+      <gol minuto="60" equipo="Val" jugador="Claramunt II"/>
+      <gol minuto="62" equipo="Esp" jugador="Cayetano Ré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1971" jornada="21">
+    <local>Val</local>
+    <visitante>Gij</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Val" jugador="Aníbal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Paquito"/>
+      <gol minuto="77" equipo="Val" jugador="Forment"/>
+      <gol minuto="49" equipo="Gra" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/09/1970" jornada="2">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Val" jugador="Poli"/>
+      <gol minuto="59" equipo="Val" jugador="Poli"/>
+      <gol minuto="18" equipo="Val" jugador="Ansola"/>
+      <gol minuto="47" equipo="Val" jugador="Ansola"/>
+      <gol minuto="74" equipo="Val" jugador="Ansola"/>
+      <gol minuto="77" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1971" jornada="16">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Val" jugador="Forment"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/12/1970" jornada="13">
+    <local>Val</local>
+    <visitante>Sab</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Val" jugador="Pellicer"/>
+      <gol minuto="65" equipo="Val" jugador="Claramunt II"/>
+      <gol minuto="4" equipo="Sab" jugador="Garzón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1970" jornada="3">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Sev" jugador="Acosta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1970" jornada="11">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Val" jugador="Paquito"/>
+      <gol minuto="55" equipo="Val" jugador="Forment"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1970" jornada="3">
+    <local>Zar</local>
+    <visitante>Até</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Até" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1971" jornada="19">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Zar" jugador="Duñabeitia"/>
+      <gol minuto="38" equipo="Atl" jugador="Argoitia"/>
+      <gol minuto="51" equipo="Atl" jugador="Uriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1971" jornada="17">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Zar" jugador="Martín"/>
+      <gol minuto="64" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="84" equipo="Bar" jugador="Pujol"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1970" jornada="1">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/10/1970" jornada="6">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/11/1970" jornada="8">
+    <local>Zar</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Zar" jugador="Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1971" jornada="24">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Zar" jugador="Martín"/>
+      <gol minuto="58" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="47" equipo="Esp" jugador="Pepín"/>
+      <gol minuto="69" equipo="Zar" jugador="Luis Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1971" jornada="30">
+    <local>Zar</local>
+    <visitante>Gij</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/04/1971" jornada="28">
+    <local>Zar</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/10/1970" jornada="5">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="79" equipo="Las" jugador="Castellano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1970" jornada="10">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Zunzunegui"/>
+      <gol minuto="51" equipo="Rea" jugador="Pirri"/>
+      <gol minuto="23" equipo="Rea" jugador="Miguel Pérez"/>
+      <gol minuto="53" equipo="Rea" jugador="Miguel Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1970" jornada="14">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Zar" jugador="Violeta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1971" jornada="22">
+    <local>Zar</local>
+    <visitante>Sab</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="82" equipo="Zar" jugador="Santos"/>
+      <gol minuto="84" equipo="Zar" jugador="Santos"/>
+      <gol minuto="35" equipo="Sab" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1970" jornada="12">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Zar" jugador="Luis Costa"/>
+      <gol minuto="55" equipo="Zar" jugador="Luis Costa"/>
+      <gol minuto="82" equipo="Zar" jugador="Santos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1971" jornada="26">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Val" jugador="Antón"/>
+      <gol minuto="46" equipo="Val" jugador="Claramunt"/>
+    </goleadores>
+  </partido>
+</liga>

@@ -1,0 +1,3836 @@
+<?xml version="1.0" ?>
+<liga temporada="1998-99">
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Ala" jugador="Canabal"/>
+      <gol minuto="27" equipo="Ath" jugador="Alkorta"/>
+      <gol minuto="54" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ala" jugador="Desio"/>
+      <gol minuto="62" equipo="Ala" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/05/1999" jornada="35">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ala" jugador="Julio Salinas"/>
+      <gol minuto="40" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="88" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="67" equipo="Bar" jugador="Figo"/>
+      <gol minuto="49" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/08/1998" jornada="1">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ala" jugador="Gerard"/>
+      <gol minuto="69" equipo="Ala" jugador="Sívori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Ala</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ala" jugador="Magno"/>
+      <gol minuto="34" equipo="Ala" jugador="Sívori"/>
+      <gol minuto="44" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Capdevila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Ala</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ext" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Ala" jugador="Julio Salinas"/>
+      <gol minuto="79" equipo="Ala" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Ala</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ala" jugador="Gerard"/>
+      <gol minuto="59" equipo="Ala" jugador="Desio"/>
+      <gol minuto="68" equipo="Ovi" jugador="César"/>
+      <gol minuto="89" equipo="Ovi" jugador="César"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Ala</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ala" jugador="Magno"/>
+      <gol minuto="3" equipo="Ala" jugador="Julio Salinas"/>
+      <gol minuto="62" equipo="Rea" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ala" jugador="Canabal"/>
+      <gol minuto="50" equipo="Rel" jugador="Roberto Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Ala</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ala" jugador="Azkoitia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Ala</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ala" jugador="Magno"/>
+      <gol minuto="31" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="89" equipo="Ala" jugador="Berti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1998" jornada="13">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Ala</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ala" jugador="Gerard"/>
+      <gol minuto="85" equipo="Ala" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Ala" jugador="Gerard"/>
+      <gol minuto="73" equipo="Vil" jugador="Albelda"/>
+      <gol minuto="89" equipo="Ala" jugador="Sívori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Ala</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ala" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="José Mari"/>
+      <gol minuto="67" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="70" equipo="Ath" jugador="Javi González"/>
+      <gol minuto="87" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="13" rojas="2"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="44" equipo="Atl" jugador="Juninho"/>
+      <gol minuto="73" equipo="Atl" jugador="Mena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/05/1999" jornada="36">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="88" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="6" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/01/1999" jornada="19">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 27/02/1999" jornada="24">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="59" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="11" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Ath" jugador="Carlos García"/>
+      <gol minuto="25" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="11" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="62" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Ath</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="Lacruz"/>
+      <gol minuto="9" equipo="Ath" jugador="Urrutia"/>
+      <gol minuto="24" equipo="Ovi" jugador="César"/>
+      <gol minuto="62" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="75" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="82" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Imaz"/>
+      <gol minuto="44" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 26/09/1998" jornada="4">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="21" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="59" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="13" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="54" equipo="Rel" jugador="Mijatović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Ath</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ath" jugador="Roberto Ríos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Ath</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="26" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="87" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="18" equipo="Vall" jugador="Turiel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="26" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="8" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Atl" jugador="Torrisi"/>
+      <gol minuto="7" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="89" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="63" equipo="Bar" jugador="Abelardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Atl" jugador="Baraja"/>
+      <gol minuto="24" equipo="Atl" jugador="Juan González"/>
+      <gol minuto="77" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="64" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Serena"/>
+      <gol minuto="62" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="75" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/02/1999" jornada="22">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="38" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="84" equipo="Esp" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Atl</local>
+    <visitante>Ext</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Atl" jugador="Aguilera"/>
+      <gol minuto="41" equipo="Atl" jugador="Serena"/>
+      <gol minuto="87" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="68" equipo="Atl" jugador="Roberto"/>
+      <gol minuto="1" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/03/1999" jornada="26">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="29" equipo="Mal" jugador="Paunović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/02/1999" jornada="24">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Juan González"/>
+      <gol minuto="46" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1998" jornada="4">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Atl" jugador="Roberto"/>
+      <gol minuto="36" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="78" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/06/1999" jornada="37">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Juninho"/>
+      <gol minuto="7" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="44" equipo="Atl" jugador="Lardín"/>
+      <gol minuto="28" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Atl</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Atl" jugador="Kiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Atl</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="12" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Atl" jugador="José Mari"/>
+      <gol minuto="11" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="26" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Jugović"/>
+      <gol minuto="26" equipo="Atl" jugador="Mena"/>
+      <gol minuto="58" equipo="Atl" jugador="Correa"/>
+      <gol minuto="73" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="2" equipo="Vall" jugador="Júlio César"/>
+      <gol minuto="46" equipo="Atl" jugador="Njeguš"/>
+      <gol minuto="77" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Juninho"/>
+      <gol minuto="42" equipo="Vil" jugador="Alberto"/>
+      <gol minuto="28" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="87" equipo="Atl" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="89" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="57" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="66" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="19" equipo="Bar" jugador="Figo"/>
+      <gol minuto="85" equipo="Bar" jugador="Òscar"/>
+      <gol minuto="86" equipo="Bar" jugador="Òscar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/01/1999" jornada="17">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="23" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="53" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="85" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="74" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="51" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/11/1998" jornada="12">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="76" equipo="Bar" jugador="Celades"/>
+      <gol minuto="30" equipo="Bar" jugador="Figo"/>
+      <gol minuto="81" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1998" jornada="4">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="56" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="42" equipo="Cel" jugador="Míchel Salgado"/>
+      <gol minuto="89" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="78" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="39" equipo="Bar" jugador="Figo"/>
+      <gol minuto="14" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="52" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Bar</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/04/1999" jornada="30">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Frank de Boer"/>
+      <gol minuto="25" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="26" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1999" jornada="20">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Frank de Boer"/>
+      <gol minuto="85" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="27" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="48" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="61" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="37" equipo="Bar" jugador="Sonny Anderson"/>
+      <gol minuto="80" equipo="Bar" jugador="Sonny Anderson"/>
+      <gol minuto="24" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="36" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="80" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Bar</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="62" equipo="Sal" jugador="Edu Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Bar</local>
+    <visitante>Ten</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="62" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="84" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="44" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="89" equipo="Bar" jugador="Sonny Anderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/02/1999" jornada="24">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="77" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="38" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="87" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="4" equipo="Val" jugador="Ilie"/>
+      <gol minuto="82" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/05/1999" jornada="34">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="81" equipo="Vall" jugador="Harold Lozano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Vil" jugador="Gerardo"/>
+      <gol minuto="12" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="24" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="82" equipo="Bar" jugador="Giovanni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="57" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="87" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="66" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bet" jugador="Filipescu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bet" jugador="Oli"/>
+      <gol minuto="65" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="35" equipo="Ath" jugador="Ezquerro"/>
+      <gol minuto="46" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/12/1998" jornada="14">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="84" equipo="Bar" jugador="Guardiola"/>
+      <gol minuto="2" equipo="Bar" jugador="Figo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Cel" jugador="Makélélé"/>
+      <gol minuto="65" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="84" equipo="Cel" jugador="Cadete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Dep" jugador="Flávio Conceição"/>
+      <gol minuto="25" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="46" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1998" jornada="4">
+    <local>Bet</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bet" jugador="Iván Pérez"/>
+      <gol minuto="89" equipo="Ext" jugador="Ferrari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Oli"/>
+      <gol minuto="13" equipo="Mal" jugador="Stanković"/>
+      <gol minuto="66" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="74" equipo="Mal" jugador="Paunović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Bet</local>
+    <visitante>Ovi</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bet" jugador="Filipescu"/>
+      <gol minuto="52" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="2" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="46" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="71" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bet" jugador="Denilson"/>
+      <gol minuto="15" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bet" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/02/1999" jornada="24">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bet" jugador="Fernando"/>
+      <gol minuto="67" equipo="Bet" jugador="Cañas"/>
+      <gol minuto="25" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="74" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="94" equipo="Bet" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Bet</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Bet</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/03/1999" jornada="26">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bet" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="84" equipo="Bet" jugador="Jaques"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bet" jugador="Oli"/>
+      <gol minuto="34" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="47" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="79" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ala" jugador="Vitamina Sánchez"/>
+      <gol minuto="55" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Cel" jugador="Cáceres"/>
+      <gol minuto="31" equipo="Cel" jugador="Penev"/>
+      <gol minuto="54" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="90" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Solari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Tomás"/>
+      <gol minuto="1" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="80" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="70" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Cel" jugador="Míchel Salgado"/>
+      <gol minuto="5" equipo="Cel" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Cel</local>
+    <visitante>Ext</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="66" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="83" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="57" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="68" equipo="Ext" jugador="Manuel"/>
+      <gol minuto="81" equipo="Cel" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/01/1999" jornada="18">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Cel" jugador="Djorović"/>
+      <gol minuto="26" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="57" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="22" equipo="Mal" jugador="Chupa López"/>
+      <gol minuto="89" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="6" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="62" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="25" equipo="Cel" jugador="Revivo"/>
+      <gol minuto="83" equipo="Cel" jugador="Revivo"/>
+      <gol minuto="39" equipo="Cel" jugador="Penev"/>
+      <gol minuto="74" equipo="Cel" jugador="Penev"/>
+      <gol minuto="82" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="89" equipo="Ovi" jugador="Møller"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="Mazinho"/>
+      <gol minuto="63" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="82" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="15" equipo="Rea" jugador="Idiakez"/>
+      <gol minuto="69" equipo="Cel" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="10" equipo="Cel" jugador="Mazinho"/>
+      <gol minuto="7" equipo="Cel" jugador="Penev"/>
+      <gol minuto="15" equipo="Cel" jugador="Penev"/>
+      <gol minuto="61" equipo="Cel" jugador="Penev"/>
+      <gol minuto="32" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Cel</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Cel</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="44" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="55" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="31" equipo="Val" jugador="Popescu"/>
+      <gol minuto="67" equipo="Val" jugador="Ilie"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Cel" jugador="Míchel Salgado"/>
+      <gol minuto="41" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="26" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="89" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/10/1998" jornada="7">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="69" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Dep</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="53" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="31" equipo="Ala" jugador="Canabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Dep" jugador="Donato"/>
+      <gol minuto="25" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/04/1999" jornada="28">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Atl" jugador="Valerón"/>
+      <gol minuto="76" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Dep" jugador="Fran"/>
+      <gol minuto="75" equipo="Dep" jugador="Hadji"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/12/1998" jornada="15">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Dep" jugador="Schürrer"/>
+      <gol minuto="17" equipo="Bet" jugador="Benjamín"/>
+      <gol minuto="89" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1999" jornada="20">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="9" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="80" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1998" jornada="4">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="82" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/06/1999" jornada="37">
+    <local>Dep</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="24" equipo="Ext" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1998" jornada="8">
+    <local>Dep</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mal" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1998" jornada="6">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Dep" jugador="Fran"/>
+      <gol minuto="13" equipo="Dep" jugador="Ziani"/>
+      <gol minuto="21" equipo="Dep" jugador="Ziani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Dep" jugador="Pauleta"/>
+      <gol minuto="44" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="85" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Dep" jugador="Fran"/>
+      <gol minuto="21" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="70" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="36" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/02/1999" jornada="22">
+    <local>Dep</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Dep</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Dep" jugador="Schürrer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Dep</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Dep" jugador="Ziani"/>
+      <gol minuto="80" equipo="Dep" jugador="Ziani"/>
+      <gol minuto="43" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1998" jornada="11">
+    <local>Dep</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Dep" jugador="Naybet"/>
+      <gol minuto="50" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="14" equipo="Vil" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="65" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="81" equipo="Dep" jugador="Hadji"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Esp" jugador="Capdevila"/>
+      <gol minuto="25" equipo="Esp" jugador="De Lucas"/>
+      <gol minuto="20" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/03/1999" jornada="27">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="93" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="77" equipo="Atl" jugador="Kiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="59" equipo="Esp" jugador="De Lucas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/11/1998" jornada="9">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Esp" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Esp" jugador="De Lucas"/>
+      <gol minuto="77" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Esp" jugador="Iván Helguera"/>
+      <gol minuto="81" equipo="Esp" jugador="Posse"/>
+      <gol minuto="51" equipo="Dep" jugador="Fran"/>
+      <gol minuto="52" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Esp</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Esp" jugador="Darío Silva"/>
+      <gol minuto="29" equipo="Ovi" jugador="Jaime"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1998" jornada="11">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="56" equipo="Esp" jugador="Nan Ribera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Esp</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Esp" jugador="De Lucas"/>
+      <gol minuto="25" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="78" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="75" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Esp</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="43" equipo="Esp" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Esp" jugador="Cristóbal"/>
+      <gol minuto="36" equipo="Esp" jugador="Capdevila"/>
+      <gol minuto="42" equipo="Val" jugador="Farinós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Esp" jugador="Quique Martín"/>
+      <gol minuto="77" equipo="Vil" jugador="Díaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="75" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="89" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Ext</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ext" jugador="Duré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Ext</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Ext</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ext" jugador="Félix"/>
+      <gol minuto="63" equipo="Ext" jugador="Duré"/>
+      <gol minuto="15" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Ext</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Ext" jugador="Duré"/>
+      <gol minuto="28" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="83" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/02/1999" jornada="23">
+    <local>Ext</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ext" jugador="Duré"/>
+      <gol minuto="84" equipo="Bet" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Ext</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ext" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Ext</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Dep" jugador="Fran"/>
+      <gol minuto="5" equipo="Dep" jugador="Turu Flores"/>
+      <gol minuto="77" equipo="Ext" jugador="Esposito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Ext</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Ext</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ext" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Ext</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Ext</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="2" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="52" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Ext</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ext" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Ext</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="1" equipo="Rel" jugador="Jarni"/>
+      <gol minuto="89" equipo="Rel" jugador="Seedorf"/>
+      <gol minuto="67" equipo="Ext" jugador="Duré"/>
+      <gol minuto="60" equipo="Rel" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Ext</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ext" jugador="Ouattara"/>
+      <gol minuto="23" equipo="Sal" jugador="Cardetti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Ext</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ext" jugador="Viaud"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Ext</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ext" jugador="Toril"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Ext</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Ext</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vil" jugador="Albelda"/>
+      <gol minuto="36" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="85" equipo="Ext" jugador="Gabrich"/>
+      <gol minuto="89" equipo="Ext" jugador="Gabrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Ext</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="85" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1998" jornada="6">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mal" jugador="Paunović"/>
+      <gol minuto="69" equipo="Mal" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Mal" jugador="Marcelino"/>
+      <gol minuto="52" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="2" equipo="Mal" jugador="Biagini"/>
+      <gol minuto="38" equipo="Mal" jugador="Biagini"/>
+      <gol minuto="44" equipo="Mal" jugador="Biagini"/>
+      <gol minuto="81" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mal" jugador="Lauren"/>
+      <gol minuto="17" equipo="Mal" jugador="Paunović"/>
+      <gol minuto="79" equipo="Mal" jugador="Paco Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="89" equipo="Mal" jugador="Stanković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Mal</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Dep" jugador="Ziani"/>
+      <gol minuto="89" equipo="Mal" jugador="Ibagaza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/09/1998" jornada="2">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Mal" jugador="Chupa López"/>
+      <gol minuto="25" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Mal</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Mal" jugador="Stanković"/>
+      <gol minuto="44" equipo="Mal" jugador="Chupa López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1998" jornada="4">
+    <local>Mal</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Mal</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Mal" jugador="Dani"/>
+      <gol minuto="71" equipo="Rac" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/02/1999" jornada="22">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Mal" jugador="Ibagaza"/>
+      <gol minuto="46" equipo="Rel" jugador="Seedorf"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Mal</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Mal</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Mal" jugador="Dani"/>
+      <gol minuto="42" equipo="Ten" jugador="Alexis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Mal</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/09/1998" jornada="2">
+    <local>Ovi</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ovi" jugador="César"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="70" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="83" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="85" equipo="Ovi" jugador="Fábio Pinto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Ovi</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ovi" jugador="Dubovský"/>
+      <gol minuto="33" equipo="Cel" jugador="Penev"/>
+      <gol minuto="87" equipo="Cel" jugador="Jordi Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/03/1999" jornada="25">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="22" equipo="Dep" jugador="Djalminha"/>
+      <gol minuto="83" equipo="Dep" jugador="Fran"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="38" equipo="Esp" jugador="Posse"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Ovi</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ovi" jugador="Dubovský"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Ovi</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ovi" jugador="Pompei"/>
+      <gol minuto="66" equipo="Mal" jugador="Paunović"/>
+      <gol minuto="1" equipo="Mal" jugador="Dani"/>
+      <gol minuto="85" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1998" jornada="13">
+    <local>Ovi</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="3" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="85" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Ovi</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="89" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="28" equipo="Sal" jugador="Zegarra"/>
+      <gol minuto="6" equipo="Sal" jugador="Barbarà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Ovi</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ten" jugador="Alexis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="33" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="89" equipo="Val" jugador="Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Ovi</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Ovi</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="83" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Rac</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="25" equipo="Rac" jugador="Preciado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rac" jugador="Ismael"/>
+      <gol minuto="66" equipo="Atl" jugador="Chamot"/>
+      <gol minuto="11" equipo="Atl" jugador="Correa"/>
+      <gol minuto="29" equipo="Atl" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rac" jugador="Preciado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="76" equipo="Cel" jugador="Berges"/>
+      <gol minuto="44" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rac" jugador="Munitis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="54" equipo="Esp" jugador="Darío Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1998" jornada="6">
+    <local>Rac</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="47" equipo="Rac" jugador="Munitis"/>
+      <gol minuto="50" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="81" equipo="Ext" jugador="Duré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/05/1999" jornada="34">
+    <local>Rac</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rac" jugador="Ismael"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Rac</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/03/1999" jornada="26">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rac" jugador="Ismael"/>
+      <gol minuto="71" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="52" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="84" equipo="Rel" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Rac</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="55" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="7" equipo="Rac" jugador="Shustikov"/>
+      <gol minuto="70" equipo="Sal" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Rac</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 03/04/1999" jornada="28">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Björklund"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/06/1999" jornada="38">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="25" equipo="Vall" jugador="Turiel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Rac</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="76" equipo="Vil" jugador="Alfaro"/>
+      <gol minuto="40" equipo="Vil" jugador="Christiansen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/02/1999" jornada="23">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rac" jugador="Arzeno"/>
+      <gol minuto="73" equipo="Rac" jugador="Ismael"/>
+      <gol minuto="29" equipo="Zar" jugador="Pablo"/>
+      <gol minuto="20" equipo="Zar" jugador="Acuña"/>
+      <gol minuto="88" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="68" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="44" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="12" equipo="Ala" jugador="Sívori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Sá Pinto"/>
+      <gol minuto="3" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="96" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Jáuregi"/>
+      <gol minuto="47" equipo="Rea" jugador="Aranburu"/>
+      <gol minuto="33" equipo="Atl" jugador="Serena"/>
+      <gol minuto="24" equipo="Atl" jugador="Juninho"/>
+      <gol minuto="73" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="87" equipo="Bar" jugador="Cocu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Sá Pinto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="87" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Rea</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="82" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Mal" jugador="Marcelino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Pikabea"/>
+      <gol minuto="32" equipo="Rea" jugador="Sá Pinto"/>
+      <gol minuto="89" equipo="Ovi" jugador="Manel"/>
+      <gol minuto="11" equipo="Ovi" jugador="Dubovský"/>
+      <gol minuto="36" equipo="Ovi" jugador="Dely Valdés"/>
+      <gol minuto="80" equipo="Rea" jugador="Aldeondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="87" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/05/1999" jornada="33">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rea" jugador="Idiakez"/>
+      <gol minuto="75" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="47" equipo="Rel" jugador="Guti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Rea</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rea" jugador="Sá Pinto"/>
+      <gol minuto="78" equipo="Rea" jugador="Gracia"/>
+      <gol minuto="77" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="80" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Rea</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="89" equipo="Val" jugador="Ilie"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="De Paula"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rea" jugador="De Paula"/>
+      <gol minuto="89" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="67" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="63" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="18" equipo="Ala" jugador="Sívori"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/02/1999" jornada="23">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Ezquerro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Iván Campo"/>
+      <gol minuto="21" equipo="Rel" jugador="Mijatović"/>
+      <gol minuto="46" equipo="Atl" jugador="Juninho"/>
+      <gol minuto="75" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="89" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="84" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/09/1998" jornada="3">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="25" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="12" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="82" equipo="Bar" jugador="Sonny Anderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/11/1998" jornada="10">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="53" equipo="Cel" jugador="Makélélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="42" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="47" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="63" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/05/1999" jornada="32">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="30" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Rel</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="87" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="89" equipo="Mal" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="64" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="6" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rel" jugador="Hierro"/>
+      <gol minuto="44" equipo="Rac" jugador="Merino"/>
+      <gol minuto="89" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="86" equipo="Rel" jugador="Seedorf"/>
+      <gol minuto="60" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="51" equipo="Rea" jugador="Kovačević"/>
+      <gol minuto="65" equipo="Rea" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 06/01/1999" jornada="12">
+    <local>Rel</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="54" equipo="Rel" jugador="Šuker"/>
+      <gol minuto="70" equipo="Rel" jugador="Šuker"/>
+      <gol minuto="29" equipo="Sal" jugador="Casartelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Rel</local>
+    <visitante>Ten</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="2" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="77" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="71" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="10" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="69" equipo="Val" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="91" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="64" equipo="Vall" jugador="Vizcaíno"/>
+      <gol minuto="86" equipo="Vall" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 31/08/1998" jornada="1">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rel" jugador="Sávio"/>
+      <gol minuto="50" equipo="Rel" jugador="Mijatović"/>
+      <gol minuto="34" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="67" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="3" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Rel" jugador="Raúl"/>
+      <gol minuto="47" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="72" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="74" equipo="Zar" jugador="Kily González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Sal</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sal" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Sal</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sal" jugador="Edu Alonso"/>
+      <gol minuto="47" equipo="Sal" jugador="Corino"/>
+      <gol minuto="4" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Sal</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sal" jugador="Edu Alonso"/>
+      <gol minuto="32" equipo="Sal" jugador="Lanna"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Sal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="8" equipo="Bar" jugador="Figo"/>
+      <gol minuto="44" equipo="Bar" jugador="Kluivert"/>
+      <gol minuto="71" equipo="Sal" jugador="Cardetti"/>
+      <gol minuto="80" equipo="Bar" jugador="Sonny Anderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Sal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sal" jugador="Loren"/>
+      <gol minuto="76" equipo="Bet" jugador="Ayala"/>
+      <gol minuto="1" equipo="Bet" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/12/1998" jornada="13">
+    <local>Sal</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Sal" jugador="Cardetti"/>
+      <gol minuto="5" equipo="Cel" jugador="Mazinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Sal</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sal" jugador="Leo Ramos"/>
+      <gol minuto="23" equipo="Sal" jugador="Silvani"/>
+      <gol minuto="84" equipo="Sal" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Sal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sal" jugador="Munteanu"/>
+      <gol minuto="40" equipo="Esp" jugador="Nan Ribera"/>
+      <gol minuto="65" equipo="Esp" jugador="Posse"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/11/1998" jornada="11">
+    <local>Sal</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Sal" jugador="Munteanu"/>
+      <gol minuto="63" equipo="Sal" jugador="Cardetti"/>
+      <gol minuto="66" equipo="Ext" jugador="Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Sal</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Sal</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sal" jugador="Pavličić"/>
+      <gol minuto="86" equipo="Ovi" jugador="Nadj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Sal</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rac" jugador="Magallanes"/>
+      <gol minuto="89" equipo="Rac" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Sal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Sal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Sal" jugador="Corino"/>
+      <gol minuto="48" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/06/1999" jornada="38">
+    <local>Sal</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Sal" jugador="Vellisca"/>
+      <gol minuto="84" equipo="Ten" jugador="Emerson"/>
+      <gol minuto="42" equipo="Ten" jugador="Mista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Sal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Sal</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sal" jugador="Cardetti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Sal</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Sal</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sal" jugador="Munteanu"/>
+      <gol minuto="89" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="79" equipo="Zar" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1998" jornada="4">
+    <local>Ten</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ala" jugador="Ibon Begoña"/>
+      <gol minuto="23" equipo="Ala" jugador="Canabal"/>
+      <gol minuto="70" equipo="Ten" jugador="Domingos Paciência"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/11/1998" jornada="11">
+    <local>Ten</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Ten</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ten" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/04/1999" jornada="29">
+    <local>Ten</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="43" equipo="Ten" jugador="Pinilla"/>
+      <gol minuto="17" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="44" equipo="Bar" jugador="Celades"/>
+      <gol minuto="36" equipo="Bar" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/04/1999" jornada="31">
+    <local>Ten</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="49" equipo="Ten" jugador="Mista"/>
+      <gol minuto="25" equipo="Bet" jugador="Filipescu"/>
+      <gol minuto="36" equipo="Bet" jugador="Alexis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Ten</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Cel" jugador="Mazinho"/>
+      <gol minuto="65" equipo="Cel" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Ten</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="53" equipo="Dep" jugador="Turu Flores"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1999" jornada="20">
+    <local>Ten</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Ten</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="83" equipo="Ext" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/10/1998" jornada="5">
+    <local>Ten</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Ten" jugador="André Luiz"/>
+      <gol minuto="54" equipo="Mal" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Ten</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Ovi" jugador="Pompei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Ten</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ten" jugador="Mista"/>
+      <gol minuto="67" equipo="Rac" jugador="Amavisca"/>
+      <gol minuto="60" equipo="Rac" jugador="Salva"/>
+      <gol minuto="89" equipo="Ten" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Ten</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="64" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="54" equipo="Rea" jugador="Jáuregi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Ten</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ten" jugador="Alexis Suárez"/>
+      <gol minuto="49" equipo="Ten" jugador="Pier"/>
+      <gol minuto="22" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="32" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Ten</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Ten</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ten" jugador="Pier"/>
+      <gol minuto="70" equipo="Ten" jugador="Pier"/>
+      <gol minuto="59" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="3" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Ten</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="2" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="13" equipo="Vall" jugador="Torres Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Ten</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ten" jugador="Julio Llorente"/>
+      <gol minuto="40" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="60" equipo="Vil" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1998" jornada="13">
+    <local>Ten</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="85" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/05/1999" jornada="32">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="81" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="18" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="56" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="71" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/03/1999" jornada="25">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Val" jugador="Ilie"/>
+      <gol minuto="85" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="37" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="67" equipo="Val" jugador="Angloma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/08/1998" jornada="1">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/10/1998" jornada="5">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="73" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="89" equipo="Bar" jugador="Sonny Anderson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/10/1998" jornada="7">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="66" equipo="Val" jugador="Schwarz"/>
+      <gol minuto="43" equipo="Val" jugador="Ilie"/>
+      <gol minuto="81" equipo="Val" jugador="Ilie"/>
+      <gol minuto="30" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="72" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="33" equipo="Bet" jugador="Alexis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/04/1999" jornada="31">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="94" equipo="Val" jugador="Farinós"/>
+      <gol minuto="10" equipo="Val" jugador="Vlaović"/>
+      <gol minuto="92" equipo="Cel" jugador="Karpin"/>
+      <gol minuto="39" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/02/1999" jornada="21">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="72" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="87" equipo="Esp" jugador="Posse"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/04/1999" jornada="29">
+    <local>Val</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ext" jugador="Esposito"/>
+      <gol minuto="64" equipo="Val" jugador="Șerban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="67" equipo="Val" jugador="Ilie"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/05/1999" jornada="36">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/11/1998" jornada="9">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Djukić"/>
+      <gol minuto="49" equipo="Val" jugador="Schwarz"/>
+      <gol minuto="58" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/01/1999" jornada="16">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Val" jugador="Schwarz"/>
+      <gol minuto="60" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/11/1998" jornada="11">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="73" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="35" equipo="Val" jugador="Angulo"/>
+      <gol minuto="56" equipo="Rel" jugador="Sávio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Val</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Val</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/02/1999" jornada="23">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vall" jugador="Peternac"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/09/1998" jornada="3">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Angulo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/03/1999" jornada="27">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Ilie"/>
+      <gol minuto="18" equipo="Zar" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Vall</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="89" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="51" equipo="Vall" jugador="Turiel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="88" equipo="Ath" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/04/1999" jornada="30">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Xavi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="88" equipo="Bet" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="78" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="60" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Vall</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Pauleta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/10/1998" jornada="6">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Vall" jugador="Júlio César"/>
+      <gol minuto="16" equipo="Esp" jugador="Quique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/01/1999" jornada="20">
+    <local>Vall</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Vall" jugador="Peternac"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1998" jornada="8">
+    <local>Vall</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="63" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="70" equipo="Ovi" jugador="Dely Valdés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Mijatović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Vall</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vall" jugador="Turiel"/>
+      <gol minuto="49" equipo="Sal" jugador="Giovanella"/>
+      <gol minuto="82" equipo="Vall" jugador="Alberto"/>
+      <gol minuto="87" equipo="Vall" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Vall</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="39" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="57" equipo="Ten" jugador="Makaay"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/09/1998" jornada="4">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vall" jugador="Torres Gómez"/>
+      <gol minuto="35" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="31" equipo="Val" jugador="Angulo"/>
+      <gol minuto="88" equipo="Vall" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Vall</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/06/1999" jornada="37">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vall" jugador="Caminero"/>
+      <gol minuto="47" equipo="Zar" jugador="Jamelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Vil" jugador="Gerardo"/>
+      <gol minuto="44" equipo="Vil" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/12/1998" jornada="15">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="19" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/05/1999" jornada="33">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Vil" jugador="Alfaro"/>
+      <gol minuto="72" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="56" equipo="Bar" jugador="Cocu"/>
+      <gol minuto="77" equipo="Bar" jugador="Rivaldo"/>
+      <gol minuto="44" equipo="Bar" jugador="Kluivert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/05/1999" jornada="35">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="9" equipo="Bet" jugador="Juan Jesús"/>
+      <gol minuto="81" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="16" equipo="Bet" jugador="Gálvez"/>
+      <gol minuto="49" equipo="Bet" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/09/1998" jornada="2">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="32" equipo="Cel" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Vil</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="2"/>
+    <goleadores>
+      <gol minuto="8" equipo="Dep" jugador="Schürrer"/>
+      <gol minuto="40" equipo="Dep" jugador="Djalminha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="3"/>
+    <goleadores>
+      <gol minuto="74" equipo="Vil" jugador="Alberto"/>
+      <gol minuto="39" equipo="Vil" jugador="Alfaro"/>
+      <gol minuto="89" equipo="Esp" jugador="Iván Helguera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/01/1999" jornada="19">
+    <local>Vil</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Vil" jugador="Robert"/>
+      <gol minuto="3" equipo="Ext" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Mal" jugador="Dani"/>
+      <gol minuto="75" equipo="Mal" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/03/1999" jornada="26">
+    <local>Vil</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/06/1999" jornada="37">
+    <local>Vil</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Vil" jugador="Alfaro"/>
+      <gol minuto="3" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Vil" jugador="Díaz"/>
+      <gol minuto="32" equipo="Rea" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/01/1999" jornada="20">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rel" jugador="Morientes"/>
+      <gol minuto="89" equipo="Rel" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1998" jornada="4">
+    <local>Vil</local>
+    <visitante>Sal</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vil" jugador="Díaz"/>
+      <gol minuto="19" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="54" equipo="Vil" jugador="Craioveanu"/>
+      <gol minuto="81" equipo="Vil" jugador="Alfaro"/>
+      <gol minuto="89" equipo="Vil" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/11/1998" jornada="8">
+    <local>Vil</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Vil" jugador="Imanol"/>
+      <gol minuto="49" equipo="Ten" jugador="André Luiz"/>
+      <gol minuto="39" equipo="Ten" jugador="Emerson"/>
+      <gol minuto="31" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="73" equipo="Ten" jugador="Makaay"/>
+      <gol minuto="79" equipo="Ten" jugador="Slovák"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Vil" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/12/1998" jornada="13">
+    <local>Vil</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="57" equipo="Vil" jugador="Moisés"/>
+      <gol minuto="65" equipo="Vall" jugador="Peternac"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/01/1999" jornada="17">
+    <local>Vil</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/02/1999" jornada="22">
+    <local>Zar</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Zar" jugador="José Ignacio"/>
+      <gol minuto="41" equipo="Ala" jugador="Gerard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/08/1998" jornada="1">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="73" equipo="Zar" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/05/1999" jornada="34">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Zar" jugador="Gustavo López"/>
+      <gol minuto="71" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/06/1999" jornada="38">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="6" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="76" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/02/1999" jornada="21">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="35" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="58" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/03/1999" jornada="26">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/01/1999" jornada="16">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="44" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="20" equipo="Dep" jugador="Ziani"/>
+      <gol minuto="73" equipo="Zar" jugador="Aragón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/11/1998" jornada="10">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Esp" jugador="Nando"/>
+      <gol minuto="60" equipo="Esp" jugador="Capdevila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/02/1999" jornada="24">
+    <local>Zar</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Garitano"/>
+      <gol minuto="78" equipo="Zar" jugador="Marcos Vales"/>
+      <gol minuto="34" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/12/1998" jornada="14">
+    <local>Zar</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Mal" jugador="Marcelino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/11/1998" jornada="12">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/09/1998" jornada="4">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="31" equipo="Zar" jugador="Jamelli"/>
+      <gol minuto="62" equipo="Rac" jugador="Tais"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/04/1999" jornada="30">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="33" equipo="Rea" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/10/1998" jornada="6">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Zar" jugador="Gustavo López"/>
+      <gol minuto="75" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="22" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="17" equipo="Rel" jugador="Roberto Carlos"/>
+      <gol minuto="71" equipo="Rel" jugador="Mijatović"/>
+      <gol minuto="40" equipo="Rel" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/04/1999" jornada="28">
+    <local>Zar</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="31" equipo="Zar" jugador="Marcos Vales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/05/1999" jornada="32">
+    <local>Zar</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="88" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="75" equipo="Zar" jugador="Yordi"/>
+      <gol minuto="20" equipo="Ten" jugador="Ballesteros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/10/1998" jornada="8">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="79" equipo="Val" jugador="Schwarz"/>
+      <gol minuto="89" equipo="Val" jugador="Mendieta"/>
+      <gol minuto="2" equipo="Val" jugador="Ilie"/>
+      <gol minuto="68" equipo="Val" jugador="Lucarelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/01/1999" jornada="18">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="87" equipo="Zar" jugador="Milošević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/05/1999" jornada="36">
+    <local>Zar</local>
+    <visitante>Vil</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="38" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="47" equipo="Zar" jugador="Milošević"/>
+      <gol minuto="58" equipo="Zar" jugador="Yordi"/>
+    </goleadores>
+  </partido>
+</liga>

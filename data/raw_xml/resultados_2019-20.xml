@@ -1,0 +1,3688 @@
+<?xml version="1.0" ?>
+<liga temporada="2019-20">
+  <partido fecha="Domingo 23/02/2020" jornada="25">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 29/10/2019" jornada="11">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ala" jugador="Lucas Pérez"/>
+      <gol minuto="70" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="33" equipo="Bar" jugador="Messi"/>
+      <gol minuto="74" equipo="Bar" jugador="Messi"/>
+      <gol minuto="43" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="56" equipo="Bar" jugador="Semedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2020" jornada="19">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ala" jugador="Aleix Vidal"/>
+      <gol minuto="55" equipo="Bet" jugador="Emerson Royal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2019" jornada="9">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Ala" jugador="Magallán"/>
+      <gol minuto="81" equipo="Ala" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 07/02/2020" jornada="23">
+    <local>Ala</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ala" jugador="Burke"/>
+      <gol minuto="83" equipo="Eib" jugador="Orellana"/>
+      <gol minuto="46" equipo="Ala" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/08/2019" jornada="2">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 13/07/2020" jornada="36">
+    <local>Ala</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 01/07/2020" jornada="33">
+    <local>Ala</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Gra" jugador="Antoñín"/>
+      <gol minuto="48" equipo="Gra" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 13/12/2019" jornada="17">
+    <local>Ala</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="43" equipo="Leg" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/08/2019" jornada="1">
+    <local>Ala</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2019" jornada="7">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/06/2020" jornada="31">
+    <local>Ala</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="Lato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/2019" jornada="15">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="69" equipo="Rea" jugador="Carvajal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 18/06/2020" jornada="29">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ala" jugador="Borja Sainz"/>
+      <gol minuto="95" equipo="Ala" jugador="Martin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2019" jornada="4">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Sev" jugador="Jordán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 06/03/2020" jornada="27">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ala" jugador="Édgar Méndez"/>
+      <gol minuto="33" equipo="Val" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2019" jornada="13">
+    <local>Ala</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ala" jugador="Pina"/>
+      <gol minuto="25" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/2020" jornada="21">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="10" equipo="Vil" jugador="Bacca"/>
+      <gol minuto="89" equipo="Vil" jugador="Fer Niño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2019" jornada="5">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/06/2020" jornada="28">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="39" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 16/08/2019" jornada="1">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Aduriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/06/2020" jornada="30">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Iñigo Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2020" jornada="20">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Cel" jugador="Rafinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2019" jornada="17">
+    <local>Ath</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 30/10/2019" jornada="11">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="17" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Get" jugador="Damián Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2019" jornada="15">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ath" jugador="Yuri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Ath</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="94" equipo="Leg" jugador="Assalé"/>
+      <gol minuto="79" equipo="Leg" jugador="Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2019" jornada="13">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ath" jugador="Capa"/>
+      <gol minuto="57" equipo="Ath" jugador="Muniain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/06/2020" jornada="32">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="89" equipo="Ath" jugador="Villalibre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2020" jornada="24">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Osa" jugador="Oier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/07/2020" jornada="34">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 30/08/2019" jornada="3">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="10" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 09/07/2020" jornada="35">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ath" jugador="Capa"/>
+      <gol minuto="69" equipo="Sev" jugador="Banega"/>
+      <gol minuto="73" equipo="Sev" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2019" jornada="7">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Val" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2019" jornada="9">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/2020" jornada="26">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="12" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 27/06/2020" jornada="32">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2019" jornada="10">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="63" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2019" jornada="15">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/07/2020" jornada="36">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2019" jornada="5">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/09/2019" jornada="3">
+    <local>Atl</local>
+    <visitante>Eib</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="19" equipo="Eib" jugador="Arbilla"/>
+      <gol minuto="7" equipo="Eib" jugador="Charles"/>
+      <gol minuto="89" equipo="Atl" jugador="Thomas"/>
+      <gol minuto="52" equipo="Atl" jugador="Vitolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2019" jornada="13">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Morata"/>
+      <gol minuto="38" equipo="Esp" jugador="Darder"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/08/2019" jornada="1">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2020" jornada="23">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2020" jornada="21">
+    <local>Atl</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 04/01/2020" jornada="19">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Atl" jugador="Felipe"/>
+      <gol minuto="13" equipo="Atl" jugador="Correa"/>
+      <gol minuto="16" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/07/2020" jornada="34">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Atl" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2019" jornada="17">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Saúl"/>
+      <gol minuto="67" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2019" jornada="7">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Koke"/>
+      <gol minuto="87" equipo="Rel" jugador="Januzaj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/03/2020" jornada="27">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="18" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2019" jornada="9">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Val" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/06/2020" jornada="30">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Atl" jugador="Vitolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2020" jornada="25">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Atl" jugador="Koke"/>
+      <gol minuto="40" equipo="Atl" jugador="Correa"/>
+      <gol minuto="16" equipo="Vil" jugador="Alcácer"/>
+      <gol minuto="73" equipo="Atl" jugador="João Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2019" jornada="18">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bar" jugador="Vidal"/>
+      <gol minuto="14" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="69" equipo="Bar" jugador="Messi"/>
+      <gol minuto="55" equipo="Ala" jugador="Pere Pons"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/06/2020" jornada="31">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bar" jugador="Rakitić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 30/06/2020" jornada="33">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/08/2019" jornada="2">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="56" equipo="Bar" jugador="Carles Pérez"/>
+      <gol minuto="41" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="50" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="79" equipo="Bet" jugador="Loren"/>
+      <gol minuto="15" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="77" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2019" jornada="13">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Messi"/>
+      <gol minuto="41" equipo="Cel" jugador="Olaza"/>
+      <gol minuto="84" equipo="Bar" jugador="Busquets"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2020" jornada="25">
+    <local>Bar</local>
+    <visitante>Eib</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bar" jugador="Arthur"/>
+      <gol minuto="13" equipo="Bar" jugador="Messi"/>
+      <gol minuto="36" equipo="Bar" jugador="Messi"/>
+      <gol minuto="39" equipo="Bar" jugador="Messi"/>
+      <gol minuto="86" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/07/2020" jornada="35">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2020" jornada="24">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bar" jugador="Sergi Roberto"/>
+      <gol minuto="33" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="67" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2020" jornada="20">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bar" jugador="Messi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 16/06/2020" jornada="29">
+    <local>Bar</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="31" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2019" jornada="16">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="16" equipo="Bar" jugador="Messi"/>
+      <gol minuto="40" equipo="Bar" jugador="Messi"/>
+      <gol minuto="83" equipo="Bar" jugador="Messi"/>
+      <gol minuto="42" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="35" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="63" equipo="Mal" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Messi"/>
+      <gol minuto="15" equipo="Osa" jugador="Arnaiz"/>
+      <gol minuto="94" equipo="Osa" jugador="Roberto Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 18/12/2019" jornada="10">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/03/2020" jornada="27">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/10/2019" jornada="8">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Vidal"/>
+      <gol minuto="34" equipo="Bar" jugador="Dembélé"/>
+      <gol minuto="77" equipo="Bar" jugador="Messi"/>
+      <gol minuto="26" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2019" jornada="4">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="6" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="2" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="27" equipo="Val" jugador="Gameiro"/>
+      <gol minuto="61" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="82" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 29/10/2019" jornada="11">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bar" jugador="Lenglet"/>
+      <gol minuto="28" equipo="Bar" jugador="Vidal"/>
+      <gol minuto="33" equipo="Bar" jugador="Messi"/>
+      <gol minuto="75" equipo="Bar" jugador="Messi"/>
+      <gol minuto="77" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="14" equipo="Vall" jugador="Kiko Olivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 24/09/2019" jornada="6">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="Arthur"/>
+      <gol minuto="5" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="43" equipo="Vil" jugador="Cazorla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ala" jugador="Rodrigo Ely"/>
+      <gol minuto="52" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="93" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2019" jornada="16">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="11" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="20" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="75" equipo="Ath" jugador="Yuri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2019" jornada="18">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Atl" jugador="Morata"/>
+      <gol minuto="58" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2020" jornada="23">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="26" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="72" equipo="Bar" jugador="Lenglet"/>
+      <gol minuto="9" equipo="Bar" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/10/2019" jornada="11">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bet" jugador="Emerson Royal"/>
+      <gol minuto="90" equipo="Bet" jugador="Fekir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/10/2019" jornada="8">
+    <local>Bet</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/06/2020" jornada="31">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bet" jugador="Bartra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2019" jornada="4">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 15/06/2020" jornada="29">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="87" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/2019" jornada="3">
+    <local>Bet</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bet" jugador="Loren"/>
+      <gol minuto="61" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="50" equipo="Leg" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 24/09/2019" jornada="6">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bet" jugador="Loren"/>
+      <gol minuto="67" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="7" equipo="Lev" jugador="Hernâni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/02/2020" jornada="25">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="70" equipo="Mal" jugador="Kubo"/>
+      <gol minuto="16" equipo="Mal" jugador="Cucho Hernández"/>
+      <gol minuto="27" equipo="Mal" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/07/2020" jornada="35">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bet" jugador="Pedraza"/>
+      <gol minuto="3" equipo="Bet" jugador="Guido Rodríguez"/>
+      <gol minuto="96" equipo="Bet" jugador="Aleñá"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/2020" jornada="27">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Sidnei"/>
+      <gol minuto="82" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2020" jornada="20">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Bet" jugador="Canales"/>
+      <gol minuto="43" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="26" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2019" jornada="13">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bet" jugador="Loren"/>
+      <gol minuto="13" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="55" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2019" jornada="14">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Joaquín"/>
+      <gol minuto="32" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/08/2019" jornada="1">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Vall" jugador="Óscar Plano"/>
+      <gol minuto="62" equipo="Vall" jugador="Sergi Guardiola"/>
+      <gol minuto="68" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/07/2020" jornada="33">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/06/2020" jornada="30">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Cel" jugador="Murillo"/>
+      <gol minuto="40" equipo="Cel" jugador="Rafinha"/>
+      <gol minuto="41" equipo="Cel" jugador="Rafinha"/>
+      <gol minuto="86" equipo="Cel" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2019" jornada="8">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 07/07/2020" jornada="35">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Cel" jugador="Fran Beltrán"/>
+      <gol minuto="1" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/06/2020" jornada="32">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="49" equipo="Cel" jugador="Smolov"/>
+      <gol minuto="19" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="66" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/07/2020" jornada="34">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cel" jugador="Nolito"/>
+      <gol minuto="79" equipo="Bet" jugador="Feddal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2020" jornada="21">
+    <local>Cel</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 26/09/2019" jornada="6">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Esp" jugador="Pedrosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Cel</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Get" jugador="Kenedy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2019" jornada="4">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Gra" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2020" jornada="25">
+    <local>Cel</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Cel</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="45" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="10" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="28" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="51" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2019" jornada="17">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cel" jugador="Rafinha"/>
+      <gol minuto="83" equipo="Mal" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2020" jornada="19">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="83" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/08/2019" jornada="1">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Kroos"/>
+      <gol minuto="12" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="80" equipo="Rea" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2019" jornada="10">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2020" jornada="23">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="22" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/08/2019" jornada="2">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Cel" jugador="Gabriel Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 29/11/2019" jornada="15">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 13/06/2020" jornada="28">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/2019" jornada="14">
+    <local>Eib</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 17/06/2020" jornada="29">
+    <local>Eib</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="81" equipo="Ath" jugador="Villalibre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2020" jornada="20">
+    <local>Eib</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Eib" jugador="Burgos"/>
+      <gol minuto="89" equipo="Eib" jugador="Edu Expósito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2019" jornada="9">
+    <local>Eib</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="57" equipo="Bar" jugador="Messi"/>
+      <gol minuto="66" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Eib</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Fekir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2019" jornada="7">
+    <local>Eib</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Eib" jugador="Edu Expósito"/>
+      <gol minuto="60" equipo="Eib" jugador="Orellana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2019" jornada="4">
+    <local>Eib</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Eib" jugador="Ramis"/>
+      <gol minuto="76" equipo="Esp" jugador="Ferreyra"/>
+      <gol minuto="78" equipo="Esp" jugador="Granero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2019" jornada="16">
+    <local>Eib</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/12/2019" jornada="18">
+    <local>Eib</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Eib" jugador="Inui"/>
+      <gol minuto="25" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="20" equipo="Eib" jugador="Sergi Enrich"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 09/07/2020" jornada="35">
+    <local>Eib</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 29/02/2020" jornada="26">
+    <local>Eib</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Eib" jugador="Orellana"/>
+      <gol minuto="27" equipo="Eib" jugador="Charles"/>
+      <gol minuto="48" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/03/2020" jornada="27">
+    <local>Eib</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Mal" jugador="Kubo"/>
+      <gol minuto="42" equipo="Mal" jugador="Dani Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/07/2020" jornada="33">
+    <local>Eib</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Osa" jugador="Rubén García"/>
+      <gol minuto="74" equipo="Osa" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2019" jornada="13">
+    <local>Eib</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Valverde"/>
+      <gol minuto="16" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/03/2020" jornada="24">
+    <local>Eib</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rel" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 26/09/2019" jornada="6">
+    <local>Eib</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Eib" jugador="Cote"/>
+      <gol minuto="77" equipo="Eib" jugador="Pedro León"/>
+      <gol minuto="33" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="11" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 25/06/2020" jornada="31">
+    <local>Eib</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Eib</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Eib" jugador="Bigas"/>
+      <gol minuto="27" equipo="Eib" jugador="Inui"/>
+      <gol minuto="70" equipo="Vall" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 31/10/2019" jornada="11">
+    <local>Eib</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="88" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/06/2020" jornada="28">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Esp" jugador="Wu Lei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/2020" jornada="21">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="11" equipo="Ath" jugador="Villalibre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/2020" jornada="26">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Atl" jugador="Saúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2020" jornada="19">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Esp" jugador="David López"/>
+      <gol minuto="50" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="87" equipo="Esp" jugador="Wu Lei"/>
+      <gol minuto="58" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2019" jornada="17">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Bernardo"/>
+      <gol minuto="19" equipo="Esp" jugador="Darder"/>
+      <gol minuto="67" equipo="Bet" jugador="Bartra"/>
+      <gol minuto="4" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/07/2020" jornada="36">
+    <local>Esp</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Eib" jugador="Edu Expósito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2019" jornada="14">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Esp" jugador="Wu Lei"/>
+      <gol minuto="3" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2019" jornada="3">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="67" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="73" equipo="Gra" jugador="Azeez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/07/2020" jornada="34">
+    <local>Esp</local>
+    <visitante>Leg</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Leg" jugador="Jonathan Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/06/2020" jornada="30">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="David López"/>
+      <gol minuto="67" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="14" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2020" jornada="23">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Esp" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2019" jornada="15">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Rubén García"/>
+      <gol minuto="48" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="83" equipo="Osa" jugador="Moncayola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/06/2020" jornada="32">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rea" jugador="Casemiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2019" jornada="5">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="34" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="74" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/08/2019" jornada="1">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sev" jugador="Reguilón"/>
+      <gol minuto="85" equipo="Sev" jugador="Nolito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/2019" jornada="12">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2019" jornada="7">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/10/2019" jornada="9">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/2019" jornada="3">
+    <local>Get</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="31" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/08/2019" jornada="2">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Get" jugador="Mata"/>
+      <gol minuto="5" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Marcos Llorente"/>
+      <gol minuto="79" equipo="Atl" jugador="Thomas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2019" jornada="7">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Junior Firpo"/>
+      <gol minuto="41" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2020" jornada="21">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/03/2020" jornada="27">
+    <local>Get</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="10" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 20/06/2020" jornada="30">
+    <local>Get</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Get" jugador="Etebo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 16/06/2020" jornada="29">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 31/10/2019" jornada="11">
+    <local>Get</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Get" jugador="Arambarri"/>
+      <gol minuto="34" equipo="Get" jugador="Ángel"/>
+      <gol minuto="88" equipo="Get" jugador="Timor"/>
+      <gol minuto="73" equipo="Gra" jugador="Puertas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2019" jornada="9">
+    <local>Get</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Get" jugador="Ángel"/>
+      <gol minuto="84" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2019" jornada="15">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Get" jugador="Cabrera"/>
+      <gol minuto="77" equipo="Get" jugador="Timor"/>
+      <gol minuto="66" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2019" jornada="5">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Get" jugador="Nyom"/>
+      <gol minuto="69" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="76" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="84" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2019" jornada="13">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/01/2020" jornada="19">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Varane"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 29/06/2020" jornada="32">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Get" jugador="Mata"/>
+      <gol minuto="55" equipo="Rel" jugador="Januzaj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2020" jornada="25">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Koundé"/>
+      <gol minuto="67" equipo="Sev" jugador="Fernando"/>
+      <gol minuto="43" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2020" jornada="23">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Get" jugador="Mata"/>
+      <gol minuto="58" equipo="Get" jugador="Jorge Molina"/>
+      <gol minuto="67" equipo="Get" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2019" jornada="17">
+    <local>Get</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Get" jugador="Cucurella"/>
+      <gol minuto="81" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 08/07/2020" jornada="35">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="93" equipo="Vil" jugador="Rubén Peña"/>
+      <gol minuto="79" equipo="Get" jugador="Duro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2019" jornada="16">
+    <local>Gra</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Gra" jugador="Herrera"/>
+      <gol minuto="47" equipo="Gra" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="66" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="28" equipo="Gra" jugador="Soldado"/>
+      <gol minuto="93" equipo="Gra" jugador="Montoro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2019" jornada="14">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Gra" jugador="Germán"/>
+      <gol minuto="60" equipo="Atl" jugador="Lodi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2019" jornada="5">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Gra" jugador="Azeez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2019" jornada="10">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Gra" jugador="Vadillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/02/2020" jornada="26">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/06/2020" jornada="32">
+    <local>Gra</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Eib" jugador="De Blasis"/>
+      <gol minuto="68" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="47" equipo="Gra" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/2020" jornada="22">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Gra" jugador="Machís"/>
+      <gol minuto="46" equipo="Gra" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 12/06/2020" jornada="28">
+    <local>Gra</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="70" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="19" equipo="Get" jugador="Timor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/2019" jornada="7">
+    <local>Gra</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Gra" jugador="Puertas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2019" jornada="17">
+    <local>Gra</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="89" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="60" equipo="Gra" jugador="Machís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2020" jornada="19">
+    <local>Gra</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Gra" jugador="Montoro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/10/2019" jornada="9">
+    <local>Gra</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Gra" jugador="Domingos Duarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/07/2020" jornada="36">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Gra" jugador="Machís"/>
+      <gol minuto="10" equipo="Rea" jugador="Mendy"/>
+      <gol minuto="16" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Gra" jugador="Vadillo"/>
+      <gol minuto="21" equipo="Rel" jugador="Portu"/>
+      <gol minuto="88" equipo="Rel" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/08/2019" jornada="2">
+    <local>Gra</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sev" jugador="Jordán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/07/2020" jornada="34">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Manu Vallejo"/>
+      <gol minuto="85" equipo="Gra" jugador="Fede Vico"/>
+      <gol minuto="68" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2020" jornada="24">
+    <local>Gra</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="96" equipo="Gra" jugador="Carlos Fernández"/>
+      <gol minuto="55" equipo="Vall" jugador="Sergi Guardiola"/>
+      <gol minuto="80" equipo="Gra" jugador="Puertas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/06/2020" jornada="30">
+    <local>Gra</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/02/2020" jornada="26">
+    <local>Leg</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Leg" jugador="Carrillo"/>
+      <gol minuto="47" equipo="Ala" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/09/2019" jornada="6">
+    <local>Leg</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Leg" jugador="Óscar Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/08/2019" jornada="2">
+    <local>Leg</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Atl" jugador="Vitolo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2019" jornada="14">
+    <local>Leg</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="52" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="80" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2020" jornada="24">
+    <local>Leg</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/2019" jornada="16">
+    <local>Leg</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Leg" jugador="Óscar Rodríguez"/>
+      <gol minuto="39" equipo="Leg" jugador="Óscar Rodríguez"/>
+      <gol minuto="54" equipo="Leg" jugador="Kévin Rodrigues"/>
+      <gol minuto="63" equipo="Cel" jugador="Araujo"/>
+      <gol minuto="80" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Leg</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Leg" jugador="En-Nesyri"/>
+      <gol minuto="83" equipo="Eib" jugador="Kike García"/>
+      <gol minuto="17" equipo="Eib" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2019" jornada="18">
+    <local>Leg</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Leg" jugador="Braithwaite"/>
+      <gol minuto="54" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/01/2020" jornada="20">
+    <local>Leg</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Get" jugador="Cabrera"/>
+      <gol minuto="21" equipo="Get" jugador="Nyom"/>
+      <gol minuto="33" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/06/2020" jornada="31">
+    <local>Leg</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/10/2019" jornada="8">
+    <local>Leg</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="75" equipo="Leg" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/2019" jornada="10">
+    <local>Leg</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Leg" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/08/2019" jornada="1">
+    <local>Leg</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Leg</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Leg" jugador="Bryan Gil"/>
+      <gol minuto="8" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="51" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="78" equipo="Leg" jugador="Assalé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Leg</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Leg" jugador="Omeruo"/>
+      <gol minuto="20" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 30/06/2020" jornada="33">
+    <local>Leg</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="34" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="81" equipo="Sev" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/07/2020" jornada="36">
+    <local>Leg</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 13/06/2020" jornada="28">
+    <local>Leg</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Vall" jugador="Alcaraz"/>
+      <gol minuto="2" equipo="Vall" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2019" jornada="4">
+    <local>Leg</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2020" jornada="20">
+    <local>Lev</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ala" jugador="Aleix Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/07/2020" jornada="36">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="3" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/06/2020" jornada="31">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 02/11/2019" jornada="12">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="68" equipo="Lev" jugador="Radoja"/>
+      <gol minuto="63" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/06/2020" jornada="32">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="35" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="50" equipo="Lev" jugador="Morales"/>
+      <gol minuto="21" equipo="Lev" jugador="Mayoral"/>
+      <gol minuto="69" equipo="Bet" jugador="Canales"/>
+      <gol minuto="87" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2019" jornada="18">
+    <local>Lev</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Lev" jugador="Roger"/>
+      <gol minuto="71" equipo="Lev" jugador="Roger"/>
+      <gol minuto="12" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2019" jornada="5">
+    <local>Lev</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/10/2019" jornada="10">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Esp" jugador="Bernardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="99" equipo="Lev" jugador="Coke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/2020" jornada="27">
+    <local>Lev</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Lev" jugador="Roger"/>
+      <gol minuto="59" equipo="Gra" jugador="Machís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2020" jornada="23">
+    <local>Lev</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Lev" jugador="Rochina"/>
+      <gol minuto="28" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 22/11/2019" jornada="14">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Lev" jugador="Roger"/>
+      <gol minuto="65" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="72" equipo="Lev" jugador="Rochina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2019" jornada="7">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Lev" jugador="Hernâni"/>
+      <gol minuto="56" equipo="Osa" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/2020" jornada="25">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/07/2020" jornada="34">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Lev" jugador="Morales"/>
+      <gol minuto="12" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 15/06/2020" jornada="29">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2019" jornada="16">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Lev" jugador="Roger"/>
+      <gol minuto="87" equipo="Val" jugador="Ferran Torres"/>
+      <gol minuto="56" equipo="Val" jugador="Gameiro"/>
+      <gol minuto="58" equipo="Val" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/2019" jornada="3">
+    <local>Lev</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Lev" jugador="Sergio León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 23/08/2019" jornada="2">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2020" jornada="24">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Mal" jugador="Cucho Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 13/09/2019" jornada="4">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 25/09/2019" jornada="6">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="64" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="26" equipo="Atl" jugador="Diego Costa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/06/2020" jornada="28">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="2" equipo="Bar" jugador="Vidal"/>
+      <gol minuto="37" equipo="Bar" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/2019" jornada="15">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Fekir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 30/06/2020" jornada="33">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Mal" jugador="Pozo"/>
+      <gol minuto="60" equipo="Mal" jugador="Salva Sevilla"/>
+      <gol minuto="27" equipo="Mal" jugador="Cucho Hernández"/>
+      <gol minuto="52" equipo="Mal" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/08/2019" jornada="1">
+    <local>Mal</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="57" equipo="Eib" jugador="Paulo Oliveira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2019" jornada="8">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Mal" jugador="Salva Sevilla"/>
+      <gol minuto="39" equipo="Mal" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/2020" jornada="26">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Get" jugador="Maksimović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Mal</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="11" rojas="1"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mal" jugador="Cucho Hernández"/>
+      <gol minuto="45" equipo="Gra" jugador="Víctor Díaz"/>
+      <gol minuto="69" equipo="Gra" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/06/2020" jornada="30">
+    <local>Mal</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Mal" jugador="Salva Sevilla"/>
+      <gol minuto="86" equipo="Leg" jugador="Óscar Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 09/07/2020" jornada="35">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Mal" jugador="Kubo"/>
+      <gol minuto="40" equipo="Mal" jugador="Cucho Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 31/10/2019" jornada="11">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Osa" jugador="Rubén García"/>
+      <gol minuto="68" equipo="Osa" jugador="Cardona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/2019" jornada="9">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Mal" jugador="Lago Junior"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/08/2019" jornada="2">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rel" jugador="Ødegaard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2019" jornada="18">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Sev" jugador="Diego Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2020" jornada="20">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="6" equipo="Mal" jugador="Raillo"/>
+      <gol minuto="79" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="23" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="41" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="82" equipo="Val" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/2020" jornada="22">
+    <local>Mal</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Vall" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/2019" jornada="13">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mal" jugador="Kubo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Osa</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Osa" jugador="Rubén García"/>
+      <gol minuto="26" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="27" equipo="Ala" jugador="Laguardia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2019" jornada="14">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="20" equipo="Ath" jugador="Williams"/>
+      <gol minuto="78" equipo="Ath" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 17/06/2020" jornada="29">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="51" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="87" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="79" equipo="Atl" jugador="Marcos Llorente"/>
+      <gol minuto="81" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/2019" jornada="3">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Osa" jugador="Roberto Torres"/>
+      <gol minuto="50" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="63" equipo="Bar" jugador="Arthur"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/09/2019" jornada="5">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/07/2020" jornada="36">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Osa" jugador="Enric Gallego"/>
+      <gol minuto="11" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="91" equipo="Osa" jugador="Arnaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/08/2019" jornada="2">
+    <local>Osa</local>
+    <visitante>Eib</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/03/2020" jornada="27">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 05/07/2020" jornada="34">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/02/2020" jornada="25">
+    <local>Osa</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Gra" jugador="Foulquier"/>
+      <gol minuto="3" equipo="Gra" jugador="Machís"/>
+      <gol minuto="28" equipo="Gra" jugador="Machís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/06/2020" jornada="32">
+    <local>Osa</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Osa" jugador="Enric Gallego"/>
+      <gol minuto="96" equipo="Osa" jugador="Enric Gallego"/>
+      <gol minuto="49" equipo="Leg" jugador="Avilés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 24/01/2020" jornada="21">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Osa" jugador="Iñigo Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Osa" jugador="Adrián"/>
+      <gol minuto="45" equipo="Mal" jugador="Lumor"/>
+      <gol minuto="64" equipo="Mal" jugador="Budimir"/>
+      <gol minuto="67" equipo="Osa" jugador="Iñigo Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2020" jornada="23">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Osa" jugador="Unai García"/>
+      <gol minuto="37" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="32" equipo="Rea" jugador="Isco"/>
+      <gol minuto="84" equipo="Rea" jugador="Lucas Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2019" jornada="18">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="84" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="28" equipo="Rel" jugador="Ødegaard"/>
+      <gol minuto="15" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="18" equipo="Rel" jugador="Portu"/>
+      <gol minuto="79" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2019" jornada="16">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Sev" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2019" jornada="10">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Osa" jugador="Estupiñán"/>
+      <gol minuto="48" equipo="Osa" jugador="Rubén García"/>
+      <gol minuto="34" equipo="Osa" jugador="Oier"/>
+      <gol minuto="14" equipo="Val" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2020" jornada="20">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/10/2019" jornada="8">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Osa" jugador="Roncaglia"/>
+      <gol minuto="79" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="4" equipo="Vil" jugador="Pau Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/07/2020" jornada="35">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/2019" jornada="18">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/02/2020" jornada="22">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/2020" jornada="26">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rea" jugador="Vinícius"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/2019" jornada="12">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/02/2020" jornada="24">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Kroos"/>
+      <gol minuto="7" equipo="Cel" jugador="Smolov"/>
+      <gol minuto="85" equipo="Cel" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/06/2020" jornada="28">
+    <local>Rea</local>
+    <visitante>Eib</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="37" equipo="Rea" jugador="Marcelo"/>
+      <gol minuto="4" equipo="Rea" jugador="Kroos"/>
+      <gol minuto="59" equipo="Eib" jugador="Bigas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/2019" jornada="16">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rea" jugador="Varane"/>
+      <gol minuto="79" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/07/2020" jornada="33">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 05/10/2019" jornada="8">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="77" equipo="Gra" jugador="Domingos Duarte"/>
+      <gol minuto="61" equipo="Rea" jugador="Modrić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/10/2019" jornada="11">
+    <local>Rea</local>
+    <visitante>Leg</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rea" jugador="Kroos"/>
+      <gol minuto="6" equipo="Rea" jugador="Rodrygo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2019" jornada="4">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Casemiro"/>
+      <gol minuto="25" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="31" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="49" equipo="Lev" jugador="Mayoral"/>
+      <gol minuto="75" equipo="Lev" jugador="Melero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/06/2020" jornada="31">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Sergio Ramos"/>
+      <gol minuto="19" equipo="Rea" jugador="Vinícius"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/09/2019" jornada="6">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="72" equipo="Rea" jugador="Rodrygo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/2019" jornada="14">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Valverde"/>
+      <gol minuto="73" equipo="Rea" jugador="Modrić"/>
+      <gol minuto="36" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="2" equipo="Rel" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/2020" jornada="20">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rea" jugador="Casemiro"/>
+      <gol minuto="69" equipo="Rea" jugador="Casemiro"/>
+      <gol minuto="65" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 18/06/2020" jornada="29">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="86" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="74" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/08/2019" jornada="2">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="88" equipo="Vall" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="83" equipo="Vil" jugador="Iborra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 26/09/2019" jornada="6">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="32" equipo="Rel" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/2020" jornada="23">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="Portu"/>
+      <gol minuto="84" equipo="Rel" jugador="Isak"/>
+      <gol minuto="71" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/2019" jornada="4">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rel" jugador="Monreal"/>
+      <gol minuto="57" equipo="Rel" jugador="Ødegaard"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/12/2019" jornada="17">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rel" jugador="Isak"/>
+      <gol minuto="38" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="49" equipo="Bar" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2019" jornada="9">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rel" jugador="Portu"/>
+      <gol minuto="36" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="12" equipo="Bet" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 24/06/2020" jornada="31">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/11/2019" jornada="15">
+    <local>Rel</local>
+    <visitante>Eib</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Ødegaard"/>
+      <gol minuto="47" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="57" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="35" equipo="Eib" jugador="Diop"/>
+      <gol minuto="25" equipo="Rel" jugador="Le Normand"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 02/07/2020" jornada="33">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="10" equipo="Esp" jugador="David López"/>
+      <gol minuto="84" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2019" jornada="8">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rel" jugador="Merino"/>
+      <gol minuto="88" equipo="Get" jugador="Maksimović"/>
+      <gol minuto="68" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/07/2020" jornada="35">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Merino"/>
+      <gol minuto="83" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="88" equipo="Gra" jugador="Domingos Duarte"/>
+      <gol minuto="21" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="43" equipo="Gra" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 08/11/2019" jornada="13">
+    <local>Rel</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rel" jugador="Merino"/>
+      <gol minuto="77" equipo="Leg" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/10/2019" jornada="11">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Lev" jugador="Bardhi"/>
+      <gol minuto="40" equipo="Lev" jugador="Mayoral"/>
+      <gol minuto="47" equipo="Rel" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2020" jornada="21">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rel" jugador="Portu"/>
+      <gol minuto="46" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/06/2020" jornada="28">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/06/2020" jornada="30">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rel" jugador="Merino"/>
+      <gol minuto="70" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/02/2020" jornada="25">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rel" jugador="Merino"/>
+      <gol minuto="47" equipo="Rel" jugador="Januzaj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 28/02/2020" jornada="26">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rel" jugador="Januzaj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/2020" jornada="19">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Willian José"/>
+      <gol minuto="73" equipo="Vil" jugador="Cazorla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/01/2020" jornada="19">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ath" jugador="Capa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/2019" jornada="12">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="59" equipo="Atl" jugador="Morata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/06/2020" jornada="30">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 11/06/2020" jornada="28">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sev" jugador="Fernando"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 30/08/2019" jornada="3">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Cel" jugador="Denis Suárez"/>
+      <gol minuto="80" equipo="Sev" jugador="Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/07/2020" jornada="34">
+    <local>Sev</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/2020" jornada="24">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="79" equipo="Sev" jugador="Suso"/>
+      <gol minuto="15" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="35" equipo="Esp" jugador="Embarba"/>
+      <gol minuto="50" equipo="Esp" jugador="Wu Lei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/2019" jornada="10">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="69" equipo="Sev" jugador="Chicharito Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/2020" jornada="21">
+    <local>Sev</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sev" jugador="Nolito"/>
+      <gol minuto="10" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/2019" jornada="15">
+    <local>Sev</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Sev" jugador="Diego Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/2019" jornada="9">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Sev" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/07/2020" jornada="36">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/2020" jornada="26">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="63" equipo="Osa" jugador="Aridane"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2019" jornada="5">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/2019" jornada="7">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Nolito"/>
+      <gol minuto="47" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="4" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="80" equipo="Sev" jugador="Vázquez"/>
+      <gol minuto="87" equipo="Rel" jugador="Portu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Reguilón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/06/2020" jornada="32">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vall" jugador="Kiko Olivas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2019" jornada="17">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sev" jugador="Munir"/>
+      <gol minuto="13" equipo="Vil" jugador="Albiol"/>
+      <gol minuto="74" equipo="Vil" jugador="Ekambi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/10/2019" jornada="8">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Val" jugador="Maxi Gómez"/>
+      <gol minuto="89" equipo="Ala" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/07/2020" jornada="33">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="46" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/02/2020" jornada="24">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Val" jugador="Gabriel Paulista"/>
+      <gol minuto="58" equipo="Val" jugador="Kondogbia"/>
+      <gol minuto="14" equipo="Atl" jugador="Marcos Llorente"/>
+      <gol minuto="43" equipo="Atl" jugador="Thomas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/2020" jornada="21">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/02/2020" jornada="26">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Parejo"/>
+      <gol minuto="60" equipo="Val" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/2020" jornada="22">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Val" jugador="Carlos Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/2020" jornada="19">
+    <local>Val</local>
+    <visitante>Eib</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 16/07/2020" jornada="37">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Val" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 25/09/2019" jornada="6">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Val" jugador="Lee"/>
+      <gol minuto="66" equipo="Get" jugador="Jason"/>
+      <gol minuto="1" equipo="Get" jugador="Mata"/>
+      <gol minuto="30" equipo="Val" jugador="Maxi Gómez"/>
+      <gol minuto="34" equipo="Val" jugador="Maxi Gómez"/>
+      <gol minuto="69" equipo="Get" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/2019" jornada="13">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Val" jugador="Wass"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/2019" jornada="5">
+    <local>Val</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Leg" jugador="Óscar Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 12/06/2020" jornada="28">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Val" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2019" jornada="3">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/06/2020" jornada="30">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Val" jugador="Guedes"/>
+      <gol minuto="35" equipo="Val" jugador="Rodrigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/2019" jornada="17">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Val" jugador="Carlos Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/08/2019" jornada="1">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Gameiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/10/2019" jornada="11">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 07/07/2020" jornada="35">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Maxi Gómez"/>
+      <gol minuto="46" equipo="Vall" jugador="Víctor García"/>
+      <gol minuto="88" equipo="Val" jugador="Lee"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/2019" jornada="15">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Ferran Torres"/>
+      <gol minuto="48" equipo="Val" jugador="Rodrigo"/>
+      <gol minuto="53" equipo="Vil" jugador="Anguissa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/07/2020" jornada="34">
+    <local>Vall</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Vall" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/2020" jornada="27">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Vall" jugador="Sandro"/>
+      <gol minuto="3" equipo="Ath" jugador="Unai López"/>
+      <gol minuto="23" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="87" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/2019" jornada="8">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/07/2020" jornada="36">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Vall" jugador="Óscar Plano"/>
+      <gol minuto="45" equipo="Vall" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 17/06/2020" jornada="29">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/10/2019" jornada="10">
+    <local>Vall</local>
+    <visitante>Eib</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vall" jugador="Salisu"/>
+      <gol minuto="9" equipo="Vall" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/2020" jornada="25">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vall" jugador="Sergi Guardiola"/>
+      <gol minuto="72" equipo="Vall" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 23/06/2020" jornada="31">
+    <local>Vall</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Get" jugador="Mata"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 24/09/2019" jornada="6">
+    <local>Vall</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Vall" jugador="Óscar Plano"/>
+      <gol minuto="42" equipo="Gra" jugador="Carlos Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/01/2020" jornada="19">
+    <local>Vall</local>
+    <visitante>Leg</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Vall" jugador="Ünal"/>
+      <gol minuto="79" equipo="Vall" jugador="Ünal"/>
+      <gol minuto="12" equipo="Leg" jugador="Roque Mesa"/>
+      <gol minuto="3" equipo="Leg" jugador="Braithwaite"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/07/2020" jornada="33">
+    <local>Vall</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Vall</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vall" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/2019" jornada="4">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vall" jugador="Hervías"/>
+      <gol minuto="81" equipo="Osa" jugador="Rober Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/2020" jornada="21">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Rea" jugador="Nacho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/2019" jornada="16">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/2019" jornada="14">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 21/12/2019" jornada="18">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Vall" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/2020" jornada="23">
+    <local>Vall</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vall" jugador="Alcaraz"/>
+      <gol minuto="54" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 25/10/2019" jornada="10">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="13" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="65" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="50" equipo="Ala" jugador="Lucas Pérez"/>
+      <gol minuto="90" equipo="Vil" jugador="Ontiveros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/2019" jornada="12">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 06/12/2019" jornada="16">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/07/2020" jornada="34">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="45" equipo="Bar" jugador="Griezmann"/>
+      <gol minuto="20" equipo="Bar" jugador="Luis Suárez"/>
+      <gol minuto="86" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 27/09/2019" jornada="7">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="75" equipo="Vil" jugador="Ekambi"/>
+      <gol minuto="48" equipo="Bet" jugador="Emerson Royal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/2019" jornada="14">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="53" equipo="Cel" jugador="Pione Sisto"/>
+      <gol minuto="79" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/07/2020" jornada="38">
+    <local>Vil</local>
+    <visitante>Eib</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Vil" jugador="Anguissa"/>
+      <gol minuto="85" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="88" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="93" equipo="Vil" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/2020" jornada="20">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Esp" jugador="David López"/>
+      <gol minuto="47" equipo="Esp" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/2019" jornada="18">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Vil" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/08/2019" jornada="1">
+    <local>Vil</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vil" jugador="Moi Gómez"/>
+      <gol minuto="72" equipo="Vil" jugador="Chukwueze"/>
+      <gol minuto="65" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="80" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="75" equipo="Gra" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/2020" jornada="27">
+    <local>Vil</local>
+    <visitante>Leg</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="47" equipo="Leg" jugador="Óscar Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/2020" jornada="24">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vil" jugador="Moi Gómez"/>
+      <gol minuto="8" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="55" equipo="Lev" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 16/06/2020" jornada="29">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Vil" jugador="Bacca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/2020" jornada="22">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Vil" jugador="Rubén Peña"/>
+      <gol minuto="48" equipo="Osa" jugador="Aridane"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/2019" jornada="3">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Vil" jugador="Moi Gómez"/>
+      <gol minuto="12" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="85" equipo="Rea" jugador="Bale"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/07/2020" jornada="36">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Vil" jugador="Cazorla"/>
+      <gol minuto="75" equipo="Rel" jugador="Llorente"/>
+      <gol minuto="61" equipo="Rel" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/06/2020" jornada="31">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Vil" jugador="Alcácer"/>
+      <gol minuto="39" equipo="Sev" jugador="Escudero"/>
+      <gol minuto="63" equipo="Sev" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/06/2020" jornada="32">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="13" equipo="Vil" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/2019" jornada="5">
+    <local>Vil</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vil" jugador="Ontiveros"/>
+    </goleadores>
+  </partido>
+</liga>

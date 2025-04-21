@@ -1,0 +1,3049 @@
+<?xml version="1.0" ?>
+<liga temporada="1974-75">
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="15" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="65" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Astrain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bet" jugador="Cardeñosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Ath</local>
+    <visitante>CD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="37" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="12" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="50" equipo="CD" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="6" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="27" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Ath</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ath" jugador="Gisasola"/>
+      <gol minuto="35" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="81" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Zabalza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Ath" jugador="Martín"/>
+      <gol minuto="73" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="87" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="20" equipo="Hér" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ath" jugador="Amorrortu"/>
+      <gol minuto="41" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="30" equipo="Las" jugador="Martín Marrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>Ath</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ath" jugador="Villar"/>
+      <gol minuto="83" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="63" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="7" equipo="Rea" jugador="Gaztelu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Ath</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="2" equipo="Spo" jugador="Herrera"/>
+      <gol minuto="30" equipo="Spo" jugador="Megido"/>
+      <gol minuto="70" equipo="Spo" jugador="Megido"/>
+      <gol minuto="42" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ath" jugador="Lasa"/>
+      <gol minuto="63" equipo="Val" jugador="Jara"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ath" jugador="Dani"/>
+      <gol minuto="12" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="33" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="55" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/1975" jornada="23">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/11/1974" jornada="7">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="10" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="12" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="42" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="20" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="70" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Laguna"/>
+      <gol minuto="2" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="76" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="65" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="5" equipo="Bet" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Atl</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="18" equipo="Atl" jugador="Aguilar"/>
+      <gol minuto="79" equipo="CD" jugador="Castronovo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Salcedo"/>
+      <gol minuto="78" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="89" equipo="Atl" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/1975" jornada="32">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="84" equipo="Atl" jugador="Leal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1974" jornada="1">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Adelardo"/>
+      <gol minuto="29" equipo="Atl" jugador="Bezerra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Atl" jugador="Bezerra"/>
+      <gol minuto="37" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="49" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="68" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1974" jornada="3">
+    <local>Atl</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Rubén Ayala"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="18" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Atl</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Salcedo"/>
+      <gol minuto="54" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="72" equipo="Spo" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Atl" jugador="Marcelino"/>
+      <gol minuto="7" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="35" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="1" equipo="Atl" jugador="Aguilar"/>
+      <gol minuto="74" equipo="Atl" jugador="Aguilar"/>
+      <gol minuto="36" equipo="Val" jugador="Claramunt"/>
+      <gol minuto="21" equipo="Val" jugador="Jara"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Adelardo"/>
+      <gol minuto="88" equipo="Atl" jugador="Rubén Ayala"/>
+      <gol minuto="43" equipo="Atl" jugador="Gárate"/>
+      <gol minuto="58" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="49" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="67" equipo="Bar" jugador="Juan Carlos"/>
+      <gol minuto="69" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Marinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/1975" jornada="28">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="43" equipo="Bar" jugador="Clares"/>
+      <gol minuto="89" equipo="Bar" jugador="Cos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/1974" jornada="2">
+    <local>Bar</local>
+    <visitante>CD</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="56" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="79" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bar" jugador="Marinho"/>
+      <gol minuto="70" equipo="Bar" jugador="Costas"/>
+      <gol minuto="26" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/04/1975" jornada="30">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Rexach"/>
+      <gol minuto="32" equipo="Bar" jugador="Heredia"/>
+      <gol minuto="4" equipo="Bar" jugador="Clares"/>
+      <gol minuto="76" equipo="Bar" jugador="Clares"/>
+      <gol minuto="62" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bar" jugador="Marinho"/>
+      <gol minuto="53" equipo="Bar" jugador="Clares"/>
+      <gol minuto="80" equipo="Gra" jugador="Santi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1975" jornada="22">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="72" equipo="Las" jugador="Miguel Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Bar</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bar" jugador="Juan Carlos"/>
+      <gol minuto="50" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="6" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="4" equipo="Mur" jugador="Van Dijk"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Bar" jugador="Asensi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Bar</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Migueli"/>
+      <gol minuto="23" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="72" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="88" equipo="Sal" jugador="Pepín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="30" equipo="Spo" jugador="Megido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bar" jugador="De la Cruz"/>
+      <gol minuto="85" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="3" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="83" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="44" equipo="Bar" jugador="Clares"/>
+      <gol minuto="54" equipo="Val" jugador="Planelles"/>
+      <gol minuto="42" equipo="Val" jugador="Jara"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="51" equipo="Bar" jugador="Neeskens"/>
+      <gol minuto="22" equipo="Zar" jugador="Rubial"/>
+      <gol minuto="17" equipo="Zar" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="65" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="89" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bet" jugador="Alabanda"/>
+      <gol minuto="10" equipo="Atl" jugador="Salcedo"/>
+      <gol minuto="79" equipo="Bet" jugador="Del Pozo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Biosca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Bet</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Bet</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="65" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bet" jugador="Mendieta"/>
+      <gol minuto="77" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Bet</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Rogelio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Bet</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="53" equipo="Bet" jugador="Rogelio"/>
+      <gol minuto="25" equipo="Bet" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="50" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="62" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="13" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Bet</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bet" jugador="Bizcocho"/>
+      <gol minuto="15" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bet" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Bizcocho"/>
+      <gol minuto="70" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bet" jugador="Del Pozo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>CD</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="CD" jugador="Guerini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>CD</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>CD</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="CD" jugador="Vilanova"/>
+      <gol minuto="9" equipo="CD" jugador="Bustillo"/>
+      <gol minuto="36" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="43" equipo="Bar" jugador="De la Cruz"/>
+      <gol minuto="21" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>CD</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="CD" jugador="Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>CD</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="36" equipo="CD" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>CD</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>CD</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="CD" jugador="Orozco"/>
+      <gol minuto="2" equipo="CD" jugador="Bustillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>CD</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Gra" jugador="Lorenzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>CD</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Hér" jugador="Baena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>CD</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>CD</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="CD" jugador="Orozco"/>
+      <gol minuto="69" equipo="CD" jugador="Orozco"/>
+      <gol minuto="15" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="78" equipo="Mur" jugador="Cristo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>CD</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="CD" jugador="Guerini"/>
+      <gol minuto="58" equipo="CD" jugador="Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>CD</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>CD</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="CD" jugador="Orozco"/>
+      <gol minuto="18" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>CD</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="CD" jugador="Guerini"/>
+      <gol minuto="34" equipo="CD" jugador="Castronovo"/>
+      <gol minuto="69" equipo="Spo" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>CD</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="CD" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>CD</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="CD" jugador="Irles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Cel" jugador="Sanromán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1974" jornada="3">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bet" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Cel</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Cel" jugador="Jiménez"/>
+      <gol minuto="44" equipo="Elc" jugador="Montero"/>
+      <gol minuto="10" equipo="Elc" jugador="Melenchón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Cel" jugador="Castro"/>
+      <gol minuto="22" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Rivas"/>
+      <gol minuto="78" equipo="Cel" jugador="Félix"/>
+      <gol minuto="3" equipo="Cel" jugador="Castro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Cel</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Hér" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Cel</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Cel" jugador="Rivas"/>
+      <gol minuto="19" equipo="Mur" jugador="Godoy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Cel" jugador="Doblas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Cel" jugador="Hidalgo"/>
+      <gol minuto="64" equipo="Cel" jugador="Juan"/>
+      <gol minuto="4" equipo="Cel" jugador="Doblas"/>
+      <gol minuto="60" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="65" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="89" equipo="Rel" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Cel</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Cel" jugador="Rivas"/>
+      <gol minuto="83" equipo="Cel" jugador="Búa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Cel" jugador="Félix"/>
+      <gol minuto="85" equipo="Val" jugador="Sol"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Cel" jugador="Castro"/>
+      <gol minuto="30" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Elc</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 14/09/1974" jornada="2">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Elc" jugador="Melenchón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Elc</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Elc" jugador="Melenchón"/>
+      <gol minuto="86" equipo="Elc" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Elc</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Elc" jugador="Chiva"/>
+      <gol minuto="58" equipo="CD" jugador="Aráez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Elc" jugador="Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Elc" jugador="Cano"/>
+      <gol minuto="89" equipo="Elc" jugador="Rubén Cano"/>
+      <gol minuto="84" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="18" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="67" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="49" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Elc</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="23" equipo="Elc" jugador="Rubén Cano"/>
+      <gol minuto="44" equipo="Gra" jugador="Lorenzo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Elc</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Elc</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Elc</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Elc" jugador="Cano"/>
+      <gol minuto="26" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="56" equipo="Elc" jugador="Escobar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Elc" jugador="Rubén Cano"/>
+      <gol minuto="77" equipo="Elc" jugador="Sitjà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/1975" jornada="18">
+    <local>Elc</local>
+    <visitante>Sal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sal" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Elc</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Elc" jugador="Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Elc" jugador="Alfonseda"/>
+      <gol minuto="20" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="40" equipo="Val" jugador="Claramunt"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Elc</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="75" equipo="Elc" jugador="Sitjà"/>
+      <gol minuto="27" equipo="Zar" jugador="Galdós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Esp" jugador="Ortiz Aquino"/>
+      <gol minuto="19" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="39" equipo="Esp" jugador="José María"/>
+      <gol minuto="14" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="18" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="73" equipo="Ath" jugador="Carlos"/>
+      <gol minuto="88" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="58" equipo="Esp" jugador="Amiano"/>
+      <gol minuto="26" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="31" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="82" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="32" equipo="Bar" jugador="Migueli"/>
+      <gol minuto="56" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Esp</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="66" equipo="CD" jugador="Vilanova"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="51" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="81" equipo="Elc" jugador="Rubén Cano"/>
+      <gol minuto="62" equipo="Esp" jugador="Åslund"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1974" jornada="3">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="80" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="78" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Esp</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="31" equipo="Esp" jugador="José María"/>
+      <gol minuto="63" equipo="Mur" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rea" jugador="Luciano Murillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rel" jugador="Netzer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Esp</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Esp" jugador="Ortiz Aquino"/>
+      <gol minuto="16" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="62" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="29" equipo="Esp" jugador="Åslund"/>
+      <gol minuto="36" equipo="Esp" jugador="Manolín Cuesta"/>
+      <gol minuto="88" equipo="Val" jugador="Jara"/>
+      <gol minuto="7" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/11/1974" jornada="7">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Esp" jugador="Solsona"/>
+      <gol minuto="13" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="41" equipo="Zar" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Gra" jugador="Dueñas"/>
+      <gol minuto="16" equipo="Ath" jugador="Lasa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Gra" jugador="Grande"/>
+      <gol minuto="65" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Gra" jugador="Parits"/>
+      <gol minuto="87" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Gra</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Gra" jugador="Grande"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Gra</local>
+    <visitante>Elc</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gra" jugador="Lorenzo"/>
+      <gol minuto="61" equipo="Gra" jugador="Lorenzo"/>
+      <gol minuto="54" equipo="Gra" jugador="Parits"/>
+      <gol minuto="65" equipo="Gra" jugador="Grande"/>
+      <gol minuto="85" equipo="Gra" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Gra</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Gra" jugador="Quiles"/>
+      <gol minuto="73" equipo="Hér" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Gra</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Gra" jugador="Parits"/>
+      <gol minuto="8" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Gra</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Gra" jugador="Dueñas"/>
+      <gol minuto="3" equipo="Mur" jugador="García Soriano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Gra" jugador="Parits"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Gra" jugador="Lorenzo"/>
+      <gol minuto="81" equipo="Gra" jugador="Grande"/>
+      <gol minuto="38" equipo="Rel" jugador="Rubiñán"/>
+      <gol minuto="42" equipo="Rel" jugador="Rubiñán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Gra</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Gra" jugador="Dueñas"/>
+      <gol minuto="77" equipo="Sal" jugador="Huerta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Gra</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Spo" jugador="Megido"/>
+      <gol minuto="89" equipo="Gra" jugador="Lis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Gra" jugador="Quiles"/>
+      <gol minuto="37" equipo="Val" jugador="Keïta"/>
+      <gol minuto="86" equipo="Gra" jugador="Porta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Gra</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Gra" jugador="Castellanos"/>
+      <gol minuto="35" equipo="Gra" jugador="Quiles"/>
+      <gol minuto="75" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="11" equipo="Hér" jugador="Juanito"/>
+      <gol minuto="55" equipo="Hér" jugador="Juanito"/>
+      <gol minuto="35" equipo="Atl" jugador="Irureta"/>
+      <gol minuto="61" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1974" jornada="5">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>Hér</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Hér" jugador="Giuliano"/>
+      <gol minuto="56" equipo="Hér" jugador="Baena"/>
+      <gol minuto="11" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="44" equipo="Bet" jugador="Anzarda"/>
+      <gol minuto="33" equipo="Bet" jugador="Mendieta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Hér</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="58" equipo="CD" jugador="Castronovo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Hér</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Hér</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="73" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="82" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Hér</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Gra" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Hér</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="75" equipo="Hér" jugador="Arieta II"/>
+      <gol minuto="80" equipo="Hér" jugador="Arieta II"/>
+      <gol minuto="83" equipo="Las" jugador="Páez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Hér</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Hér" jugador="Carreño"/>
+      <gol minuto="47" equipo="Hér" jugador="Arieta II"/>
+      <gol minuto="51" equipo="Mur" jugador="Vera Palmés"/>
+      <gol minuto="8" equipo="Mur" jugador="Van Dijk"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rea" jugador="Idígoras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Hér</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Hér" jugador="Giuliano"/>
+      <gol minuto="26" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Hér</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Hér" jugador="Barrios"/>
+      <gol minuto="88" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Hér" jugador="Giuliano"/>
+      <gol minuto="75" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1974" jornada="3">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Rico"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/1974" jornada="7">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Las" jugador="Fernández"/>
+      <gol minuto="83" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Las" jugador="Martín Marrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/1975" jornada="25">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Las" jugador="Martín Marrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Las" jugador="Páez"/>
+      <gol minuto="20" equipo="Las" jugador="José Luis"/>
+      <gol minuto="51" equipo="Las" jugador="José Luis"/>
+      <gol minuto="2" equipo="Bet" jugador="Anzarda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/1974" jornada="9">
+    <local>Las</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Las" jugador="Wolff"/>
+      <gol minuto="2" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="54" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="43" equipo="Cel" jugador="Lezcano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1974" jornada="3">
+    <local>Las</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Elc" jugador="Gómez Voglino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/01/1975" jornada="16">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Las" jugador="Fernández"/>
+      <gol minuto="73" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/1975" jornada="19">
+    <local>Las</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Las" jugador="José Luis"/>
+      <gol minuto="11" equipo="Las" jugador="Germán"/>
+      <gol minuto="51" equipo="Las" jugador="Germán"/>
+      <gol minuto="25" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/04/1975" jornada="29">
+    <local>Las</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 22/02/1975" jornada="21">
+    <local>Las</local>
+    <visitante>Mur</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Las" jugador="Wolff"/>
+      <gol minuto="48" equipo="Las" jugador="Félix"/>
+      <gol minuto="46" equipo="Las" jugador="León"/>
+      <gol minuto="63" equipo="Las" jugador="León"/>
+      <gol minuto="2" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/1975" jornada="32">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1974" jornada="5">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Las" jugador="Germán"/>
+      <gol minuto="33" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="36" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/1974" jornada="13">
+    <local>Las</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sal" jugador="Rezza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Las" jugador="Germán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/1974" jornada="11">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Val" jugador="Valdez"/>
+      <gol minuto="85" equipo="Las" jugador="Pepe Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/1975" jornada="23">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Las" jugador="Félix"/>
+      <gol minuto="75" equipo="Las" jugador="José Luis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Mur</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Mur" jugador="Cristo"/>
+      <gol minuto="7" equipo="Ath" jugador="Rojo II"/>
+      <gol minuto="22" equipo="Ath" jugador="Dani"/>
+      <gol minuto="67" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Mur</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Mur" jugador="Cristo"/>
+      <gol minuto="44" equipo="Mur" jugador="García Soriano"/>
+      <gol minuto="60" equipo="Mur" jugador="García Soriano"/>
+      <gol minuto="45" equipo="Atl" jugador="Salcedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Mur</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Bar" jugador="Cruyff"/>
+      <gol minuto="16" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Mur</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Mur</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Mur" jugador="Cortés"/>
+      <gol minuto="82" equipo="Mur" jugador="Cristo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Mur</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Mur" jugador="Casco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Mur</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Mur" jugador="Cristo"/>
+      <gol minuto="75" equipo="Mur" jugador="Echecopar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Mur</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Mur</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Mur</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Mur" jugador="Ortega"/>
+      <gol minuto="89" equipo="Hér" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Mur</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mur" jugador="Casco"/>
+      <gol minuto="5" equipo="Las" jugador="León"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Mur</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Mur" jugador="Cristo"/>
+      <gol minuto="55" equipo="Mur" jugador="Cristo"/>
+      <gol minuto="82" equipo="Rea" jugador="Amas"/>
+      <gol minuto="89" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Mur</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="56" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="78" equipo="Mur" jugador="Vera Palmés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Mur</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Mur" jugador="García Soriano"/>
+      <gol minuto="46" equipo="Mur" jugador="García Soriano"/>
+      <gol minuto="20" equipo="Sal" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Mur</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Mur" jugador="Camino"/>
+      <gol minuto="41" equipo="Mur" jugador="Godoy"/>
+      <gol minuto="40" equipo="Spo" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Mur</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Mur" jugador="Ortega"/>
+      <gol minuto="56" equipo="Val" jugador="Planelles"/>
+      <gol minuto="65" equipo="Val" jugador="Claramunt"/>
+      <gol minuto="33" equipo="Val" jugador="Ferrer Díaz"/>
+      <gol minuto="11" equipo="Val" jugador="Keïta"/>
+      <gol minuto="46" equipo="Val" jugador="Keïta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Mur</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Mur" jugador="Casco"/>
+      <gol minuto="28" equipo="Zar" jugador="Simarro"/>
+      <gol minuto="10" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="2" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="57" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="89" equipo="Zar" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rea" jugador="Luciano Murillo"/>
+      <gol minuto="52" equipo="Rea" jugador="Luciano Murillo"/>
+      <gol minuto="60" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="59" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="33" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="83" equipo="Bar" jugador="Marcial"/>
+      <gol minuto="89" equipo="Bar" jugador="Clares"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="5" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1974" jornada="3">
+    <local>Rea</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Gaztelu"/>
+      <gol minuto="18" equipo="Rea" jugador="Araquistain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="44" equipo="Rea" jugador="Urreisti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="Amas"/>
+      <gol minuto="45" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Boronat"/>
+      <gol minuto="39" equipo="Rea" jugador="Ansola"/>
+      <gol minuto="55" equipo="Hér" jugador="Andreu"/>
+      <gol minuto="84" equipo="Hér" jugador="Arieta II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Araquistain"/>
+      <gol minuto="7" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Rea</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/04/1975" jornada="29">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="89" equipo="Rel" jugador="Pirri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1974" jornada="11">
+    <local>Rea</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rea" jugador="Arzak"/>
+      <gol minuto="35" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Muruzábal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Muruzábal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/05/1975" jornada="31">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Rubiñán"/>
+      <gol minuto="48" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rel" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rel" jugador="Rubiñán"/>
+      <gol minuto="35" equipo="Rel" jugador="Del Bosque"/>
+      <gol minuto="64" equipo="Rel" jugador="Del Bosque"/>
+      <gol minuto="82" equipo="Bet" jugador="Biosca"/>
+      <gol minuto="74" equipo="Bet" jugador="Rogelio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Rel</local>
+    <visitante>CD</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rel" jugador="Pirri"/>
+      <gol minuto="74" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="76" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/1975" jornada="24">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Velázquez"/>
+      <gol minuto="44" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="50" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="82" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="88" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="12" equipo="Rel" jugador="Netzer"/>
+      <gol minuto="36" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="62" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="68" equipo="Elc" jugador="Sitjà"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Breitner"/>
+      <gol minuto="30" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="50" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="36" equipo="Rel" jugador="Amancio"/>
+      <gol minuto="60" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rel" jugador="Amancio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/1974" jornada="2">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rel" jugador="Breitner"/>
+      <gol minuto="23" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="27" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="22" equipo="Rel" jugador="Netzer"/>
+      <gol minuto="89" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="52" equipo="Las" jugador="Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Rel</local>
+    <visitante>Mur</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Breitner"/>
+      <gol minuto="13" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="58" equipo="Rel" jugador="Netzer"/>
+      <gol minuto="26" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="18" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Rel</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rel" jugador="Aguilar"/>
+      <gol minuto="75" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="59" equipo="Val" jugador="Planelles"/>
+      <gol minuto="41" equipo="Val" jugador="Ferrer Díaz"/>
+      <gol minuto="73" equipo="Rel" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1974" jornada="13">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Velázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Sal</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Sal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Sal</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Sal" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Sal</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sal" jugador="Víctor Soler"/>
+      <gol minuto="87" equipo="Sal" jugador="Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1974" jornada="7">
+    <local>Sal</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sal" jugador="Rezza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>Sal</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/09/1974" jornada="1">
+    <local>Sal</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sal" jugador="Álvarez"/>
+      <gol minuto="75" equipo="Sal" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Sal</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sal" jugador="Lanchas"/>
+      <gol minuto="18" equipo="Sal" jugador="Sánchez Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Sal</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Sal" jugador="Sánchez Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1975" jornada="27">
+    <local>Sal</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Hér" jugador="Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>Sal</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Sal" jugador="Rial"/>
+      <gol minuto="4" equipo="Sal" jugador="Víctor Soler"/>
+      <gol minuto="31" equipo="Las" jugador="Fernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Sal</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sal" jugador="Pepín"/>
+      <gol minuto="31" equipo="Sal" jugador="Pepín"/>
+      <gol minuto="76" equipo="Sal" jugador="Víctor Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Sal</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sal" jugador="Víctor Soler"/>
+      <gol minuto="77" equipo="Rea" jugador="Gaztelu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1974" jornada="3">
+    <local>Sal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/03/1975" jornada="25">
+    <local>Sal</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sal" jugador="Rial"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1974" jornada="9">
+    <local>Sal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Sal</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sal" jugador="Rial"/>
+      <gol minuto="80" equipo="Sal" jugador="Rial"/>
+      <gol minuto="73" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="89" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="26" equipo="Zar" jugador="Leirós"/>
+      <gol minuto="66" equipo="Sal" jugador="Muñoz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Spo" jugador="Ciriaco"/>
+      <gol minuto="66" equipo="Ath" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="7" equipo="Atl" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1974" jornada="3">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bar" jugador="Cruyff"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 01/05/1975" jornada="30">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="9" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Spo</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="55" equipo="CD" jugador="Orozco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Spo" jugador="Fanjul"/>
+      <gol minuto="2" equipo="Cel" jugador="Rodilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1975" jornada="32">
+    <local>Spo</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="38" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="19" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Spo" jugador="Ciriaco"/>
+      <gol minuto="7" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="70" equipo="Esp" jugador="Manolín Cuesta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Spo</local>
+    <visitante>Gra</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="6" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="24" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="57" equipo="Spo" jugador="Quini"/>
+      <gol minuto="81" equipo="Spo" jugador="Quini"/>
+      <gol minuto="8" equipo="Gra" jugador="Santi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Spo</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Spo" jugador="Churruca"/>
+      <gol minuto="44" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="89" equipo="Spo" jugador="De Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Spo</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Spo" jugador="Ciriaco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="89" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="64" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Spo</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Spo" jugador="Fanjul"/>
+      <gol minuto="53" equipo="Spo" jugador="De Diego"/>
+      <gol minuto="73" equipo="Sal" jugador="Sánchez Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Spo" jugador="Quini"/>
+      <gol minuto="84" equipo="Val" jugador="Sergio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Spo" jugador="Landucci"/>
+      <gol minuto="47" equipo="Spo" jugador="Megido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1974" jornada="3">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Quino"/>
+      <gol minuto="58" equipo="Val" jugador="Keïta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Val" jugador="Keïta"/>
+      <gol minuto="35" equipo="Atl" jugador="Irureta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1975" jornada="21">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Ferrer Díaz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Jara"/>
+      <gol minuto="20" equipo="Val" jugador="Keïta"/>
+      <gol minuto="59" equipo="Val" jugador="Keïta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1974" jornada="5">
+    <local>Val</local>
+    <visitante>CD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Keïta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/04/1975" jornada="30">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Val" jugador="Planelles"/>
+      <gol minuto="89" equipo="Val" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1975" jornada="16">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Sol"/>
+      <gol minuto="55" equipo="Esp" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/1975" jornada="32">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Sol"/>
+      <gol minuto="10" equipo="Val" jugador="Claramunt"/>
+      <gol minuto="41" equipo="Val" jugador="Valdez"/>
+      <gol minuto="89" equipo="Val" jugador="Valdez"/>
+      <gol minuto="25" equipo="Val" jugador="Quino"/>
+      <gol minuto="51" equipo="Val" jugador="Quino"/>
+      <gol minuto="11" equipo="Gra" jugador="Dueñas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Val" jugador="Keïta"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Quino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1975" jornada="34">
+    <local>Val</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Valdez"/>
+      <gol minuto="79" equipo="Mur" jugador="Cristo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Val" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1974" jornada="1">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Val" jugador="Keïta"/>
+      <gol minuto="67" equipo="Rel" jugador="Roberto Martínez"/>
+      <gol minuto="85" equipo="Rel" jugador="Netzer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Val</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Val" jugador="Quino"/>
+      <gol minuto="79" equipo="Sal" jugador="Pepín"/>
+      <gol minuto="89" equipo="Sal" jugador="Pepín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1975" jornada="23">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Val" jugador="Keïta"/>
+      <gol minuto="81" equipo="Val" jugador="Planelles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1975" jornada="19">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/1975" jornada="15">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1975" jornada="22">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="60" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="47" equipo="Atl" jugador="Gárate"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1975" jornada="33">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="44" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="29" equipo="Bar" jugador="Rexach"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1975" jornada="26">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="26" equipo="Zar" jugador="González"/>
+      <gol minuto="53" equipo="Bet" jugador="Rogelio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1975" jornada="17">
+    <local>Zar</local>
+    <visitante>CD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Zar" jugador="Arrúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1974" jornada="8">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Violeta"/>
+      <gol minuto="60" equipo="Zar" jugador="Violeta"/>
+      <gol minuto="26" equipo="Zar" jugador="Soto"/>
+      <gol minuto="2" equipo="Cel" jugador="Búa"/>
+      <gol minuto="33" equipo="Cel" jugador="Castro"/>
+      <gol minuto="70" equipo="Zar" jugador="Galdós"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1975" jornada="28">
+    <local>Zar</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="61" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="46" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="80" equipo="Elc" jugador="Gómez Voglino"/>
+      <gol minuto="73" equipo="Elc" jugador="Sitjà"/>
+      <gol minuto="29" equipo="Elc" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1975" jornada="24">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Zar" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1974" jornada="10">
+    <local>Zar</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="30" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="35" equipo="Zar" jugador="Rubial"/>
+      <gol minuto="11" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="77" equipo="Gra" jugador="Quiles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1975" jornada="20">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="50" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="88" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="89" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1974" jornada="6">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="37" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="3" equipo="Zar" jugador="Planas II"/>
+      <gol minuto="56" equipo="Las" jugador="Miguel Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1974" jornada="12">
+    <local>Zar</local>
+    <visitante>Mur</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="60" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="62" equipo="Zar" jugador="Leirós"/>
+      <gol minuto="66" equipo="Zar" jugador="González"/>
+      <gol minuto="87" equipo="Zar" jugador="González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1974" jornada="14">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="73" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 30/04/1975" jornada="30">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Zar" jugador="Simarro"/>
+      <gol minuto="51" equipo="Zar" jugador="Arrúa"/>
+      <gol minuto="7" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="39" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="55" equipo="Zar" jugador="García Castany"/>
+      <gol minuto="15" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="37" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1974" jornada="4">
+    <local>Zar</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="85" equipo="Sal" jugador="Sánchez Barrios"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1975" jornada="18">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="8" equipo="Spo" jugador="Quini"/>
+      <gol minuto="49" equipo="Zar" jugador="Planas II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1974" jornada="2">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Zar" jugador="Diarte"/>
+      <gol minuto="48" equipo="Val" jugador="Planelles"/>
+    </goleadores>
+  </partido>
+</liga>

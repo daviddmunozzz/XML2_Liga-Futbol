@@ -1,0 +1,3128 @@
+<?xml version="1.0" ?>
+<liga temporada="1980-81">
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>AD</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="AD" jugador="Murúa"/>
+      <gol minuto="78" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>AD</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="AD" jugador="Cabral"/>
+      <gol minuto="60" equipo="AD" jugador="Camacho"/>
+      <gol minuto="75" equipo="Atl" jugador="Villalba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>AD</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="AD" jugador="Arias"/>
+      <gol minuto="55" equipo="AD" jugador="Martínez"/>
+      <gol minuto="43" equipo="Bar" jugador="Migueli"/>
+      <gol minuto="72" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="85" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="18" equipo="Bar" jugador="Quini"/>
+      <gol minuto="80" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>AD</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bet" jugador="Morán"/>
+      <gol minuto="72" equipo="Bet" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>AD</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="AD" jugador="Garay"/>
+      <gol minuto="57" equipo="AD" jugador="Rolón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>AD</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Hér" jugador="Vidal"/>
+      <gol minuto="60" equipo="Hér" jugador="Aracil"/>
+      <gol minuto="30" equipo="Hér" jugador="Megido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>AD</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>AD</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>AD</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="AD" jugador="Alvarito"/>
+      <gol minuto="85" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>AD</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="AD" jugador="Camacho"/>
+      <gol minuto="25" equipo="AD" jugador="Rolón"/>
+      <gol minuto="43" equipo="Rea" jugador="Perico Alonso"/>
+      <gol minuto="58" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/09/1980" jornada="1">
+    <local>AD</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="AD" jugador="Rolón"/>
+      <gol minuto="25" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="32" equipo="Rel" jugador="Cunningham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>AD</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="AD" jugador="Guzmán"/>
+      <gol minuto="65" equipo="AD" jugador="Guzmán"/>
+      <gol minuto="84" equipo="AD" jugador="Guzmán"/>
+      <gol minuto="9" equipo="Sal" jugador="Brizzola"/>
+      <gol minuto="89" equipo="Sal" jugador="Brizzola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>AD</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>AD</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="AD" jugador="Charles"/>
+      <gol minuto="89" equipo="Spo" jugador="Abel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>AD</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="AD" jugador="Rolón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>AD</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="AD" jugador="Tanco"/>
+      <gol minuto="30" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>AD</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="AD" jugador="Martínez"/>
+      <gol minuto="85" equipo="AD" jugador="Rolón"/>
+      <gol minuto="29" equipo="Zar" jugador="Modesto"/>
+      <gol minuto="55" equipo="AD" jugador="Guzmán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Ath</local>
+    <visitante>AD</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ath" jugador="Núñez"/>
+      <gol minuto="52" equipo="Ath" jugador="Argote"/>
+      <gol minuto="62" equipo="Ath" jugador="Dani"/>
+      <gol minuto="80" equipo="Ath" jugador="Dani"/>
+      <gol minuto="53" equipo="AD" jugador="Murúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ath" jugador="Sola"/>
+      <gol minuto="6" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="3" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="5" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="79" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="34" equipo="Bar" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="39" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ath" jugador="Purroy"/>
+      <gol minuto="42" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="46" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ath" jugador="Sola"/>
+      <gol minuto="45" equipo="Ath" jugador="Argote"/>
+      <gol minuto="77" equipo="Ath" jugador="Dani"/>
+      <gol minuto="70" equipo="Hér" jugador="Moyano"/>
+      <gol minuto="89" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="83" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Las" jugador="Páez"/>
+      <gol minuto="52" equipo="Las" jugador="Pepe Juan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Ath</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="27" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ath" jugador="Argote"/>
+      <gol minuto="70" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="89" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/04/1981" jornada="34">
+    <local>Ath</local>
+    <visitante>Sal</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ath" jugador="Argote"/>
+      <gol minuto="87" equipo="Ath" jugador="Argote"/>
+      <gol minuto="41" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="89" equipo="Ath" jugador="Dani"/>
+      <gol minuto="11" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="75" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/10/1980" jornada="6">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="73" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="75" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Dani"/>
+      <gol minuto="24" equipo="Spo" jugador="Óscar Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ath" jugador="Sola"/>
+      <gol minuto="57" equipo="Ath" jugador="Sola"/>
+      <gol minuto="53" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="28" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ath" jugador="Villar"/>
+      <gol minuto="18" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="68" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="76" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="10" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/09/1980" jornada="1">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Atl</local>
+    <visitante>AD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Rubio"/>
+      <gol minuto="72" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="75" equipo="AD" jugador="Tarrés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Marcelino"/>
+      <gol minuto="55" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Atl" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bet" jugador="Morán"/>
+      <gol minuto="67" equipo="Bet" jugador="Morán"/>
+      <gol minuto="71" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="82" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Dirceu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Atl" jugador="Ruiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="80" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Atl</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Atl" jugador="Rubio"/>
+      <gol minuto="89" equipo="Mur" jugador="García Murcia"/>
+      <gol minuto="67" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="23" equipo="Atl" jugador="Arteche"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Atl" jugador="Quique Ramos"/>
+      <gol minuto="67" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="37" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Atl</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="62" equipo="Sal" jugador="Corominas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Atl" jugador="Dirceu"/>
+      <gol minuto="62" equipo="Atl" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="54" equipo="Atl" jugador="Dirceu"/>
+      <gol minuto="72" equipo="Atl" jugador="Dirceu"/>
+      <gol minuto="20" equipo="Val" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/09/1980" jornada="1">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Atl" jugador="Dirceu"/>
+      <gol minuto="5" equipo="Atl" jugador="Rubio"/>
+      <gol minuto="11" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="21" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="82" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="35" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="86" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/12/1980" jornada="15">
+    <local>Bar</local>
+    <visitante>AD</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Bar" jugador="Landaburu"/>
+      <gol minuto="78" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="86" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="8" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="39" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Endika"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Asensi"/>
+      <gol minuto="69" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="17" equipo="Bar" jugador="Quini"/>
+      <gol minuto="31" equipo="Atl" jugador="Rubio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Krankl"/>
+      <gol minuto="23" equipo="Bet" jugador="Benítez"/>
+      <gol minuto="51" equipo="Bet" jugador="Cardeñosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/09/1980" jornada="2">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="33" equipo="Bar" jugador="Krankl"/>
+      <gol minuto="23" equipo="Bar" jugador="Quini"/>
+      <gol minuto="74" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Bar" jugador="Zuviría"/>
+      <gol minuto="30" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="11" equipo="Bar" jugador="Estella"/>
+      <gol minuto="70" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="36" equipo="Bar" jugador="Quini"/>
+      <gol minuto="39" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bar" jugador="Krankl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Bar</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Bar" jugador="Paco Martínez"/>
+      <gol minuto="45" equipo="Bar" jugador="Estella"/>
+      <gol minuto="20" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="61" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="15" equipo="Bar" jugador="Quini"/>
+      <gol minuto="44" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Bar" jugador="Schuster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="64" equipo="Bar" jugador="Quini"/>
+      <gol minuto="22" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Bar</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bar" jugador="Landaburu"/>
+      <gol minuto="13" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="17" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="73" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="4" equipo="Bar" jugador="Tente Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bar" jugador="Estella"/>
+      <gol minuto="36" equipo="Bar" jugador="Quini"/>
+      <gol minuto="80" equipo="Bar" jugador="Quini"/>
+      <gol minuto="75" equipo="Spo" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/09/1980" jornada="4">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Solsona"/>
+      <gol minuto="64" equipo="Val" jugador="Solsona"/>
+      <gol minuto="32" equipo="Val" jugador="Morena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Ramírez"/>
+      <gol minuto="89" equipo="Bar" jugador="Ramírez"/>
+      <gol minuto="66" equipo="Vall" jugador="Gilberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Bet</local>
+    <visitante>AD</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="64" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Morán"/>
+      <gol minuto="71" equipo="Bar" jugador="Schuster"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Cardeñosa"/>
+      <gol minuto="11" equipo="Esp" jugador="Vilches"/>
+      <gol minuto="19" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Bet</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Bet" jugador="Gordillo"/>
+      <gol minuto="87" equipo="Bet" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Bet" jugador="Biosca"/>
+      <gol minuto="74" equipo="Bet" jugador="Segundo"/>
+      <gol minuto="66" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="83" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="4" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Bet</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="78" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Bet" jugador="Segundo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Bet" jugador="Morán"/>
+      <gol minuto="19" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Bet</local>
+    <visitante>Sal</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Bet" jugador="Gordillo"/>
+      <gol minuto="17" equipo="Bet" jugador="López"/>
+      <gol minuto="29" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="89" equipo="Bet" jugador="Segundo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bet" jugador="Biosca"/>
+      <gol minuto="68" equipo="Bet" jugador="Cardeñosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Bet" jugador="Parra"/>
+      <gol minuto="58" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="74" equipo="Val" jugador="Saura"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Parra"/>
+      <gol minuto="47" equipo="Bet" jugador="Segundo"/>
+      <gol minuto="56" equipo="Vall" jugador="Joaquín Muñoz"/>
+      <gol minuto="89" equipo="Vall" jugador="Sánchez Vallés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="33" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Esp</local>
+    <visitante>AD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Esp" jugador="Morel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="42" equipo="Bet" jugador="Casado"/>
+      <gol minuto="84" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/09/1980" jornada="1">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Esp" jugador="Ayfuch"/>
+      <gol minuto="71" equipo="Esp" jugador="Morel"/>
+      <gol minuto="38" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Esp" jugador="Ayfuch"/>
+      <gol minuto="26" equipo="Esp" jugador="Ayfuch"/>
+      <gol minuto="77" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Esp</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="49" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="71" equipo="Mur" jugador="Gil"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Esp" jugador="Verdugo"/>
+      <gol minuto="43" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="72" equipo="Rel" jugador="Del Bosque"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/09/1980" jornada="3">
+    <local>Esp</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Esp" jugador="Morel"/>
+      <gol minuto="80" equipo="Esp" jugador="Marañón"/>
+      <gol minuto="63" equipo="Sal" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="76" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="31" equipo="Sev" jugador="Sanjosé"/>
+      <gol minuto="56" equipo="Sev" jugador="Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="27" equipo="Val" jugador="Botubot"/>
+      <gol minuto="37" equipo="Val" jugador="Castellanos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="50" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Hér</local>
+    <visitante>AD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="47" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Hér" jugador="Kustudić"/>
+      <gol minuto="27" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="35" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="Tente Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Hér</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Hér" jugador="Carcelén"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Hér</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Hér" jugador="Megido"/>
+      <gol minuto="68" equipo="Las" jugador="Juani"/>
+      <gol minuto="4" equipo="Las" jugador="Víctor"/>
+      <gol minuto="72" equipo="Hér" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Hér</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Hér" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Hér</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="70" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Hér" jugador="Baena"/>
+      <gol minuto="7" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="78" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Hér</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Hér" jugador="Carcelén"/>
+      <gol minuto="43" equipo="Hér" jugador="Kustudić"/>
+      <gol minuto="10" equipo="Hér" jugador="Megido"/>
+      <gol minuto="50" equipo="Sal" jugador="Peñín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Hér</local>
+    <visitante>Sev</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="81" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="18" equipo="Hér" jugador="Kustudić"/>
+      <gol minuto="49" equipo="Hér" jugador="Megido"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/09/1980" jornada="2">
+    <local>Hér</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Spo" jugador="Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Hér" jugador="Reces"/>
+      <gol minuto="21" equipo="Val" jugador="Morena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Hér</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="70" equipo="Vall" jugador="Moré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="85" equipo="Hér" jugador="Baena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/11/1980" jornada="11">
+    <local>Las</local>
+    <visitante>AD</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Las" jugador="Juani"/>
+      <gol minuto="58" equipo="Las" jugador="Noly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/03/1981" jornada="29">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="59" equipo="Ath" jugador="Txetxu Rojo"/>
+      <gol minuto="35" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/09/1980" jornada="2">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="2" equipo="Atl" jugador="Julio Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/02/1981" jornada="23">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="62" equipo="Bar" jugador="Landaburu"/>
+      <gol minuto="65" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="46" equipo="Bar" jugador="Ramírez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/01/1981" jornada="21">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Las" jugador="Gerardo"/>
+      <gol minuto="42" equipo="Las" jugador="Víctor"/>
+      <gol minuto="20" equipo="Bet" jugador="Parra"/>
+      <gol minuto="37" equipo="Bet" jugador="Morán"/>
+      <gol minuto="49" equipo="Bet" jugador="Morán"/>
+      <gol minuto="82" equipo="Bet" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/12/1980" jornada="15">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Las" jugador="Páez"/>
+      <gol minuto="76" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/10/1980" jornada="5">
+    <local>Las</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Las" jugador="Jorge"/>
+      <gol minuto="51" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/04/1981" jornada="31">
+    <local>Las</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Las" jugador="Víctor"/>
+      <gol minuto="61" equipo="Mur" jugador="Chuchi García"/>
+      <gol minuto="44" equipo="Mur" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/01/1981" jornada="18">
+    <local>Las</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Las" jugador="Benito Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rea" jugador="Diego"/>
+      <gol minuto="54" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/11/1980" jornada="9">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/10/1980" jornada="7">
+    <local>Las</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Sal" jugador="Teixidó"/>
+      <gol minuto="76" equipo="Las" jugador="Benito Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/11/1980" jornada="13">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="64" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="81" equipo="Sev" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Las" jugador="Jorge"/>
+      <gol minuto="54" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="69" equipo="Las" jugador="Juani"/>
+      <gol minuto="80" equipo="Spo" jugador="Pedro González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/12/1980" jornada="17">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Las" jugador="Juani"/>
+      <gol minuto="37" equipo="Val" jugador="Morena"/>
+      <gol minuto="89" equipo="Val" jugador="Morena"/>
+      <gol minuto="22" equipo="Val" jugador="Felman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Las</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vall" jugador="Jacquet"/>
+      <gol minuto="41" equipo="Vall" jugador="Minguela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/02/1981" jornada="25">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Las" jugador="Julio Suárez"/>
+      <gol minuto="46" equipo="Las" jugador="Víctor"/>
+      <gol minuto="49" equipo="Las" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Mur</local>
+    <visitante>AD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Mur" jugador="Alabanda"/>
+      <gol minuto="64" equipo="Mur" jugador="Gil"/>
+      <gol minuto="14" equipo="AD" jugador="Rolón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Mur</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Mur" jugador="Ruiz"/>
+      <gol minuto="10" equipo="Mur" jugador="Alabanda"/>
+      <gol minuto="25" equipo="Mur" jugador="Salamanca"/>
+      <gol minuto="26" equipo="Mur" jugador="Salamanca"/>
+      <gol minuto="16" equipo="Mur" jugador="Abad"/>
+      <gol minuto="61" equipo="Ath" jugador="Dani"/>
+      <gol minuto="77" equipo="Ath" jugador="Dani"/>
+      <gol minuto="6" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="85" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Mur</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Marcos Alonso"/>
+      <gol minuto="89" equipo="Atl" jugador="López García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/09/1980" jornada="1">
+    <local>Mur</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Mur" jugador="Naharro"/>
+      <gol minuto="45" equipo="Bar" jugador="Migueli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Mur</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Mur" jugador="Naharro"/>
+      <gol minuto="87" equipo="Mur" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Mur</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Mur" jugador="Ruiz"/>
+      <gol minuto="74" equipo="Esp" jugador="Vilches"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Mur</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Mur" jugador="Salamanca"/>
+      <gol minuto="37" equipo="Mur" jugador="Abad"/>
+      <gol minuto="21" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="45" equipo="Hér" jugador="Moyano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Mur</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="55" equipo="Las" jugador="Pepe Juan"/>
+      <gol minuto="56" equipo="Mur" jugador="Chuchi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Mur</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Mur" jugador="Salamanca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Mur</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Mur</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Mur" jugador="Gil"/>
+      <gol minuto="68" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Mur</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mur" jugador="Salamanca"/>
+      <gol minuto="65" equipo="Sal" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Mur</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Mur</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Mur" jugador="Gil"/>
+      <gol minuto="20" equipo="Mur" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Mur</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Solsona"/>
+      <gol minuto="56" equipo="Val" jugador="Morena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Mur</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Mur</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Osa</local>
+    <visitante>AD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="23" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="44" equipo="Osa" jugador="Bayona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="34" equipo="Bet" jugador="Diarte"/>
+      <gol minuto="79" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Osa" jugador="Macua"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Osa</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="51" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="56" equipo="Hér" jugador="Reces"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/09/1980" jornada="1">
+    <local>Osa</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Osa" jugador="Iriarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 17/12/1980" jornada="13">
+    <local>Osa</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="19" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="38" equipo="Mur" jugador="Salamanca"/>
+      <gol minuto="78" equipo="Osa" jugador="Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="70" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="88" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="55" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="43" equipo="Rel" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Osa</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Osa" jugador="Bayona"/>
+      <gol minuto="80" equipo="Sal" jugador="Corominas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Osa" jugador="Dioni"/>
+      <gol minuto="66" equipo="Osa" jugador="Lumbreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="63" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="2" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="38" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Rea</local>
+    <visitante>AD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="3" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="37" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="79" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="1" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="15" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="87" equipo="Ath" jugador="Endika"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/09/1980" jornada="4">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="26" equipo="Atl" jugador="Dirceu"/>
+      <gol minuto="35" equipo="Atl" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="87" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="83" equipo="Bet" jugador="Morán"/>
+      <gol minuto="19" equipo="Bet" jugador="Diarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="48" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="9" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Hér" jugador="Moyano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/01/1981" jornada="20">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Idígoras"/>
+      <gol minuto="61" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Rea</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rea" jugador="Diego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/09/1980" jornada="2">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="75" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="77" equipo="Osa" jugador="Dioni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="58" equipo="Rea" jugador="Perico Alonso"/>
+      <gol minuto="9" equipo="Rea" jugador="Diego"/>
+      <gol minuto="25" equipo="Rel" jugador="García Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Rea</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="79" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="32" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="8" equipo="Spo" jugador="Abel"/>
+      <gol minuto="57" equipo="Spo" jugador="Abel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="54" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="87" equipo="Val" jugador="Felman"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/11/1980" jornada="9">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Rel</local>
+    <visitante>AD</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rel" jugador="García Cortés"/>
+      <gol minuto="39" equipo="Rel" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/09/1980" jornada="2">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="7" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="20" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="75" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="24" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="28" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="86" equipo="Rel" jugador="Isidro"/>
+      <gol minuto="40" equipo="Rel" jugador="Cunningham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="16" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="71" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="71" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="76" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="75" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="23" equipo="Bet" jugador="López"/>
+      <gol minuto="12" equipo="Bet" jugador="Morán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Esp" jugador="Urbano"/>
+      <gol minuto="51" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="39" equipo="Rel" jugador="Pineda"/>
+      <gol minuto="70" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/02/1981" jornada="26">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="11" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="69" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Rel</local>
+    <visitante>Mur</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="89" equipo="Rel" jugador="Ángel"/>
+      <gol minuto="27" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rel" jugador="García Hernández"/>
+      <gol minuto="3" equipo="Rel" jugador="Cunningham"/>
+      <gol minuto="28" equipo="Osa" jugador="Iriguibel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Rel</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="García Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="46" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="75" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="85" equipo="Sev" jugador="Blanco"/>
+      <gol minuto="61" equipo="Sev" jugador="Montero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Cunningham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="25" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Rel" jugador="Del Bosque"/>
+      <gol minuto="36" equipo="Rel" jugador="García Hernández"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Sal</local>
+    <visitante>AD</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="35" equipo="Sal" jugador="Corchado"/>
+      <gol minuto="49" equipo="AD" jugador="Rolón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Sal</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="33" equipo="Sal" jugador="Teixidó"/>
+      <gol minuto="76" equipo="Sal" jugador="Báez"/>
+      <gol minuto="87" equipo="Ath" jugador="Argote"/>
+      <gol minuto="48" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Sal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Sal" jugador="Báez"/>
+      <gol minuto="73" equipo="Atl" jugador="Dirceu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Sal</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Sal" jugador="Brizzola"/>
+      <gol minuto="65" equipo="Sal" jugador="Corchado"/>
+      <gol minuto="69" equipo="Bar" jugador="Esteban Vigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Sal</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Sal" jugador="Brizzola"/>
+      <gol minuto="75" equipo="Sal" jugador="Brizzola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Sal</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="51" equipo="Sal" jugador="Báez"/>
+      <gol minuto="24" equipo="Esp" jugador="Roberto Martínez"/>
+      <gol minuto="75" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Sal</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Hér" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Sal</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Las" jugador="Farias"/>
+      <gol minuto="34" equipo="Las" jugador="Julio Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/09/1980" jornada="2">
+    <local>Sal</local>
+    <visitante>Mur</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Mur" jugador="Alabanda"/>
+      <gol minuto="78" equipo="Mur" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Sal</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sal" jugador="Miguel Ángel"/>
+      <gol minuto="13" equipo="Osa" jugador="Iriguibel"/>
+      <gol minuto="71" equipo="Osa" jugador="Dioni"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Sal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Perico Alonso"/>
+      <gol minuto="44" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/04/1981" jornada="31">
+    <local>Sal</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="39" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="89" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Sal</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Sal</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="10" equipo="Spo" jugador="Ciriaco"/>
+      <gol minuto="49" equipo="Spo" jugador="Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Sal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Saura"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Sal</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Sal" jugador="Juanito"/>
+      <gol minuto="57" equipo="Vall" jugador="Rusky"/>
+      <gol minuto="73" equipo="Sal" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Sal</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Sal" jugador="Corominas"/>
+      <gol minuto="89" equipo="Sal" jugador="Teixidó"/>
+      <gol minuto="1" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Sev</local>
+    <visitante>AD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Yiyi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Sev" jugador="Montero"/>
+      <gol minuto="50" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Sev" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Pintinho"/>
+      <gol minuto="27" equipo="Bar" jugador="Simonsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sev" jugador="Sanjosé"/>
+      <gol minuto="70" equipo="Sev" jugador="Pintinho"/>
+      <gol minuto="83" equipo="Bet" jugador="Parra"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Joaquín"/>
+      <gol minuto="57" equipo="Sev" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Sev</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Montero"/>
+      <gol minuto="59" equipo="Sev" jugador="Pintinho"/>
+      <gol minuto="11" equipo="Las" jugador="Félix"/>
+      <gol minuto="80" equipo="Las" jugador="Noly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Sev</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Sev" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Sev" jugador="Yiyi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Sev" jugador="Montero"/>
+      <gol minuto="47" equipo="Sev" jugador="Yiyi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/09/1980" jornada="1">
+    <local>Sev</local>
+    <visitante>Sal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Sev" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sev" jugador="Choya"/>
+      <gol minuto="70" equipo="Sev" jugador="Morete"/>
+      <gol minuto="31" equipo="Spo" jugador="Maceda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Sev" jugador="Álvarez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Sev" jugador="Murúa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Spo</local>
+    <visitante>AD</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Spo" jugador="Ciriaco"/>
+      <gol minuto="85" equipo="Spo" jugador="Ciriaco"/>
+      <gol minuto="35" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="69" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="22" equipo="AD" jugador="Murúa"/>
+      <gol minuto="61" equipo="Spo" jugador="Óscar Ferrero"/>
+      <gol minuto="89" equipo="AD" jugador="Charles"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/11/1980" jornada="9">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Spo" jugador="Fernando Gomes"/>
+      <gol minuto="24" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Spo" jugador="Maceda"/>
+      <gol minuto="48" equipo="Spo" jugador="Cundi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="40" equipo="Spo" jugador="Aguilar"/>
+      <gol minuto="19" equipo="Bar" jugador="Simonsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/09/1980" jornada="1">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Spo" jugador="Abel"/>
+      <gol minuto="88" equipo="Spo" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Esp" jugador="Marañón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/01/1981" jornada="19">
+    <local>Spo</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Spo" jugador="Abel"/>
+      <gol minuto="81" equipo="Spo" jugador="Abel"/>
+      <gol minuto="78" equipo="Spo" jugador="Cundi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="29" equipo="Spo" jugador="Óscar Ferrero"/>
+      <gol minuto="85" equipo="Las" jugador="Benito Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Spo</local>
+    <visitante>Mur</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="19" equipo="Spo" jugador="Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Spo" jugador="Abel"/>
+      <gol minuto="56" equipo="Spo" jugador="Cundi"/>
+      <gol minuto="46" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="78" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="10" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="88" equipo="Spo" jugador="Pedro González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="46" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="89" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Spo" jugador="Abel"/>
+      <gol minuto="63" equipo="Spo" jugador="Abel"/>
+      <gol minuto="59" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="65" equipo="Spo" jugador="Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Spo</local>
+    <visitante>Sal</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Spo" jugador="Abel"/>
+      <gol minuto="44" equipo="Spo" jugador="Abel"/>
+      <gol minuto="85" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="76" equipo="Spo" jugador="Óscar Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Spo" jugador="Redondo"/>
+      <gol minuto="20" equipo="Spo" jugador="Ferrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/10/1980" jornada="7">
+    <local>Spo</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="22" equipo="Spo" jugador="Cundi"/>
+      <gol minuto="37" equipo="Spo" jugador="Cundi"/>
+      <gol minuto="62" equipo="Spo" jugador="Aguilar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Spo" jugador="Ferrero"/>
+      <gol minuto="23" equipo="Zar" jugador="Trobbiani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/11/1980" jornada="9">
+    <local>Val</local>
+    <visitante>AD</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Val" jugador="Solsona"/>
+      <gol minuto="30" equipo="Val" jugador="Solsona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/03/1981" jornada="27">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Val" jugador="Felman"/>
+      <gol minuto="74" equipo="Atl" jugador="Rubio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/01/1981" jornada="21">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="38" equipo="Val" jugador="Subirats"/>
+      <gol minuto="11" equipo="Val" jugador="Morena"/>
+      <gol minuto="49" equipo="Bar" jugador="Esteban Vigo"/>
+      <gol minuto="14" equipo="Bar" jugador="Simonsen"/>
+      <gol minuto="25" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 13/09/1980" jornada="2">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Val" jugador="Saura"/>
+      <gol minuto="35" equipo="Val" jugador="Kempes"/>
+      <gol minuto="86" equipo="Val" jugador="Kempes"/>
+      <gol minuto="38" equipo="Bet" jugador="Gordillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/11/1980" jornada="13">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Val" jugador="Solsona"/>
+      <gol minuto="53" equipo="Val" jugador="Morena"/>
+      <gol minuto="8" equipo="Esp" jugador="Carreño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/09/1980" jornada="3">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Hér" jugador="Churruca"/>
+      <gol minuto="65" equipo="Hér" jugador="Kustudić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="49" equipo="Val" jugador="Saura"/>
+      <gol minuto="89" equipo="Val" jugador="Gálvez"/>
+      <gol minuto="46" equipo="Las" jugador="Benito Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/03/1981" jornada="29">
+    <local>Val</local>
+    <visitante>Mur</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="35" equipo="Val" jugador="Saura"/>
+      <gol minuto="63" equipo="Val" jugador="Solsona"/>
+      <gol minuto="21" equipo="Mur" jugador="Naharro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Val" jugador="Botubot"/>
+      <gol minuto="56" equipo="Val" jugador="Saura"/>
+      <gol minuto="75" equipo="Val" jugador="Morena"/>
+      <gol minuto="68" equipo="Osa" jugador="Julio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/09/1980" jornada="1">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Val" jugador="Solsona"/>
+      <gol minuto="74" equipo="Val" jugador="Solsona"/>
+      <gol minuto="64" equipo="Val" jugador="Morena"/>
+      <gol minuto="80" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="78" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/10/1980" jornada="7">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Val" jugador="Kempes"/>
+      <gol minuto="89" equipo="Rel" jugador="Cunningham"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/10/1980" jornada="5">
+    <local>Val</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Val" jugador="Saura"/>
+      <gol minuto="59" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/11/1980" jornada="11">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Val" jugador="Subirats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/04/1981" jornada="31">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Felman"/>
+      <gol minuto="45" equipo="Val" jugador="Morena"/>
+      <gol minuto="83" equipo="Val" jugador="Morena"/>
+      <gol minuto="54" equipo="Spo" jugador="Abel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/02/1981" jornada="25">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Val" jugador="Tendillo"/>
+      <gol minuto="49" equipo="Val" jugador="Subirats"/>
+      <gol minuto="31" equipo="Vall" jugador="Pepín"/>
+      <gol minuto="68" equipo="Vall" jugador="Gail"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/02/1981" jornada="23">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Val" jugador="Botubot"/>
+      <gol minuto="28" equipo="Val" jugador="Morena"/>
+      <gol minuto="23" equipo="Val" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/09/1980" jornada="2">
+    <local>Vall</local>
+    <visitante>AD</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Rubén Cano"/>
+      <gol minuto="82" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Vall" jugador="Rusky"/>
+      <gol minuto="17" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="58" equipo="Vall" jugador="Pepín"/>
+      <gol minuto="56" equipo="Bet" jugador="López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vall" jugador="Moré"/>
+      <gol minuto="17" equipo="Vall" jugador="Rusky"/>
+      <gol minuto="89" equipo="Vall" jugador="Jacquet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Vall</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Vall" jugador="Gilberto"/>
+      <gol minuto="55" equipo="Hér" jugador="Baena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Vall</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Vall" jugador="Lolo Fernández"/>
+      <gol minuto="60" equipo="Vall" jugador="Rusky"/>
+      <gol minuto="31" equipo="Las" jugador="Juani"/>
+      <gol minuto="89" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Vall</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Vall" jugador="Joaquín Muñoz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Vall" jugador="Minguela"/>
+      <gol minuto="26" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/04/1981" jornada="34">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Vall" jugador="Moré"/>
+      <gol minuto="84" equipo="Rel" jugador="Stielike"/>
+      <gol minuto="43" equipo="Rel" jugador="Santillana"/>
+      <gol minuto="72" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/04/1981" jornada="32">
+    <local>Vall</local>
+    <visitante>Sal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vall" jugador="Moré"/>
+      <gol minuto="22" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="28" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Vall" jugador="Gail"/>
+      <gol minuto="51" equipo="Vall" jugador="Rusky"/>
+      <gol minuto="61" equipo="Sev" jugador="Juan Carlos"/>
+      <gol minuto="13" equipo="Sev" jugador="Morete"/>
+      <gol minuto="63" equipo="Sev" jugador="Morete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Vall</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Spo" jugador="Abel"/>
+      <gol minuto="54" equipo="Vall" jugador="Minguela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Vall" jugador="Pepín"/>
+      <gol minuto="7" equipo="Vall" jugador="Rusky"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/12/1980" jornada="16">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vall" jugador="Juan Manuel"/>
+      <gol minuto="76" equipo="Zar" jugador="Modesto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/12/1980" jornada="17">
+    <local>Zar</local>
+    <visitante>AD</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/01/1981" jornada="18">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Zar" jugador="Amorrortu"/>
+      <gol minuto="19" equipo="Zar" jugador="Modesto"/>
+      <gol minuto="27" equipo="Ath" jugador="De Andrés"/>
+      <gol minuto="18" equipo="Ath" jugador="Argote"/>
+      <gol minuto="25" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/12/1980" jornada="14">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Rubén Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/11/1980" jornada="12">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Zar" jugador="Trobbiani"/>
+      <gol minuto="13" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="35" equipo="Bar" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/11/1980" jornada="10">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="55" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/09/1980" jornada="4">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Zar" jugador="Amorrortu"/>
+      <gol minuto="26" equipo="Esp" jugador="Roberto Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/03/1981" jornada="28">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Hér" jugador="Churruca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/10/1980" jornada="8">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="23" equipo="Las" jugador="Benito Morales"/>
+      <gol minuto="57" equipo="Las" jugador="Benito Morales"/>
+      <gol minuto="67" equipo="Las" jugador="Julio Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/01/1981" jornada="20">
+    <local>Zar</local>
+    <visitante>Mur</visitante>
+    <resultado local="1" visitante="6"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Zar" jugador="Camus"/>
+      <gol minuto="26" equipo="Mur" jugador="Gil"/>
+      <gol minuto="58" equipo="Mur" jugador="Gil"/>
+      <gol minuto="72" equipo="Mur" jugador="Gil"/>
+      <gol minuto="22" equipo="Mur" jugador="Abad"/>
+      <gol minuto="53" equipo="Mur" jugador="Abad"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/02/1981" jornada="24">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Zar" jugador="Víctor Muñoz"/>
+      <gol minuto="19" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="25" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="30" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/03/1981" jornada="26">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/12/1980" jornada="15">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/03/1981" jornada="30">
+    <local>Zar</local>
+    <visitante>Sal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Zar" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 14/09/1980" jornada="2">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Víctor Muñoz"/>
+      <gol minuto="7" equipo="Zar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/02/1981" jornada="22">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/10/1980" jornada="6">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Modesto"/>
+      <gol minuto="53" equipo="Val" jugador="Morena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/04/1981" jornada="33">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Zar" jugador="Pichi Alonso"/>
+      <gol minuto="46" equipo="Vall" jugador="Joaquín Muñoz"/>
+    </goleadores>
+  </partido>
+</liga>

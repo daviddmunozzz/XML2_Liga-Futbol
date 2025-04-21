@@ -1,0 +1,3088 @@
+<?xml version="1.0" ?>
+<liga temporada="1985-86">
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Ath" jugador="Patxi Salinas"/>
+      <gol minuto="76" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1985" jornada="5">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="49" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="89" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/1986" jornada="29">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ath" jugador="Gallego"/>
+      <gol minuto="37" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="54" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="47" equipo="Ath" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Gallego"/>
+      <gol minuto="51" equipo="Ath" jugador="Noriega"/>
+      <gol minuto="45" equipo="Cel" jugador="Cortés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Ath</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="50" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Julio Salinas"/>
+      <gol minuto="80" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/1985" jornada="15">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Ath" jugador="Sarabia"/>
+      <gol minuto="4" equipo="Ath" jugador="Endika"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="30" equipo="Rel" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ath" jugador="Liceranzu"/>
+      <gol minuto="22" equipo="Ath" jugador="Julio Salinas"/>
+      <gol minuto="43" equipo="Sev" jugador="Ruda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Dani"/>
+      <gol minuto="45" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/1985" jornada="13">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Goikoetxea"/>
+      <gol minuto="18" equipo="Val" jugador="Castellanos"/>
+      <gol minuto="38" equipo="Val" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ath" jugador="Txirri"/>
+      <gol minuto="10" equipo="Ath" jugador="De Andrés"/>
+      <gol minuto="70" equipo="Vall" jugador="Gail"/>
+      <gol minuto="28" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="80" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ath" jugador="Argote"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="25" equipo="Ath" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="27" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="8" equipo="Bar" jugador="Calderé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Atl" jugador="Marina"/>
+      <gol minuto="89" equipo="Atl" jugador="Marina"/>
+      <gol minuto="29" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Marina"/>
+      <gol minuto="21" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="46" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="21" equipo="Cel" jugador="Baltazar"/>
+      <gol minuto="70" equipo="Atl" jugador="Da Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="61" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="Quique Setién"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Atl</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Atl" jugador="Quique Setién"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Quique Setién"/>
+      <gol minuto="87" equipo="Atl" jugador="Da Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/1985" jornada="9">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Atl" jugador="Julio Prieto"/>
+      <gol minuto="58" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="74" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/09/1985" jornada="1">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="Marina"/>
+      <gol minuto="84" equipo="Atl" jugador="Marina"/>
+      <gol minuto="27" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="Marina"/>
+      <gol minuto="37" equipo="Spo" jugador="Llabrés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="44" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="38" equipo="Atl" jugador="Cabrera"/>
+      <gol minuto="70" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1985" jornada="5">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Atl" jugador="Quique Setién"/>
+      <gol minuto="31" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="33" equipo="Vall" jugador="Yáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/1986" jornada="31">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Zar" jugador="Herrera"/>
+      <gol minuto="80" equipo="Zar" jugador="Señor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="16" equipo="Bar" jugador="Esteban Vigo"/>
+      <gol minuto="76" equipo="Ath" jugador="Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/01/1986" jornada="20">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="26" equipo="Bar" jugador="Esteban Vigo"/>
+      <gol minuto="21" equipo="Atl" jugador="Julio Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bar" jugador="Pichi Alonso"/>
+      <gol minuto="36" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="89" equipo="Bet" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 15/03/1986" jornada="29">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 08/02/1986" jornada="24">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="55" equipo="Bar" jugador="Amarilla"/>
+      <gol minuto="16" equipo="Hér" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 27/11/1985" jornada="8">
+    <local>Bar</local>
+    <visitante>Las</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="78" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="11" equipo="Las" jugador="Narciso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/1985" jornada="4">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="10" equipo="Bar" jugador="Amarilla"/>
+      <gol minuto="27" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="38" equipo="Osa" jugador="Benito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="85" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/1986" jornada="31">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="89" equipo="Bar" jugador="Marcos Alonso"/>
+      <gol minuto="85" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="39" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="75" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/1985" jornada="11">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="2" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 23/11/1985" jornada="13">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="1" equipo="Bar" jugador="Clos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/1986" jornada="33">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Urbano"/>
+      <gol minuto="69" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="34" equipo="Bar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1986" jornada="27">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Julio Alberto"/>
+      <gol minuto="65" equipo="Bar" jugador="Amarilla"/>
+      <gol minuto="13" equipo="Bar" jugador="Esteban Vigo"/>
+      <gol minuto="15" equipo="Bar" jugador="Esteban Vigo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="72" equipo="Bar" jugador="Archibald"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Bet" jugador="Suárez"/>
+      <gol minuto="21" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bet" jugador="Calderón"/>
+      <gol minuto="37" equipo="Bet" jugador="Ito"/>
+      <gol minuto="23" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="62" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bet" jugador="Gabino"/>
+      <gol minuto="71" equipo="Bar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Bet</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Romo"/>
+      <gol minuto="87" equipo="Bet" jugador="Calderón"/>
+      <gol minuto="77" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Bet" jugador="Hadžibegić"/>
+      <gol minuto="40" equipo="Bet" jugador="Romo"/>
+      <gol minuto="60" equipo="Cel" jugador="Maraver"/>
+      <gol minuto="3" equipo="Cel" jugador="Marián"/>
+      <gol minuto="87" equipo="Bet" jugador="Valdo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Bet</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bet" jugador="Hadžibegić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Bet</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Bet" jugador="Romo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1985" jornada="8">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bet" jugador="Romo"/>
+      <gol minuto="62" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="30" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="66" equipo="Rea" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1985" jornada="1">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bet" jugador="Calderón"/>
+      <gol minuto="80" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="88" equipo="Rel" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bet" jugador="Romo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bet" jugador="Gabino"/>
+      <gol minuto="55" equipo="Spo" jugador="Esteban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 07/11/1985" jornada="6">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bet" jugador="Parra"/>
+      <gol minuto="15" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Zar" jugador="Señor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Cád" jugador="Mejías"/>
+      <gol minuto="51" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cád" jugador="Mejías"/>
+      <gol minuto="74" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Cád" jugador="Mejías"/>
+      <gol minuto="73" equipo="Bar" jugador="Julio Alberto"/>
+      <gol minuto="78" equipo="Bar" jugador="Pedraza"/>
+      <gol minuto="32" equipo="Bar" jugador="Pichi Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Cád</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cád" jugador="Amarillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Cád</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/10/1985" jornada="8">
+    <local>Cád</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cád" jugador="Benito Sánchez"/>
+      <gol minuto="55" equipo="Cád" jugador="Arica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Cád</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Cád" jugador="Escobar"/>
+      <gol minuto="62" equipo="Cád" jugador="Francis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Cád</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Cád" jugador="Amarillo"/>
+      <gol minuto="20" equipo="Cád" jugador="Arica"/>
+      <gol minuto="14" equipo="Rac" jugador="Isidro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cád" jugador="Escobar"/>
+      <gol minuto="63" equipo="Cád" jugador="Salvador Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Cád" jugador="Villa"/>
+      <gol minuto="44" equipo="Rel" jugador="Salguero"/>
+      <gol minuto="66" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="60" equipo="Rel" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Sev" jugador="Nadal"/>
+      <gol minuto="9" equipo="Sev" jugador="Álvarez II"/>
+      <gol minuto="19" equipo="Sev" jugador="Alfaro"/>
+      <gol minuto="82" equipo="Sev" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Cád</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cád" jugador="Villa"/>
+      <gol minuto="77" equipo="Cád" jugador="Villa"/>
+      <gol minuto="68" equipo="Val" jugador="Subirats"/>
+      <gol minuto="30" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="60" equipo="Val" jugador="Urruti"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Cád</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Cád" jugador="Salvador Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Cád</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cád" jugador="Mejías"/>
+      <gol minuto="22" equipo="Zar" jugador="Güerri"/>
+      <gol minuto="17" equipo="Zar" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Bar" jugador="Archibald"/>
+      <gol minuto="83" equipo="Bar" jugador="Archibald"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Miguel Villaverde"/>
+      <gol minuto="30" equipo="Cád" jugador="Mejías"/>
+      <gol minuto="14" equipo="Cád" jugador="Benito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Cel</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Cel" jugador="Lema"/>
+      <gol minuto="45" equipo="Hér" jugador="Pétursson"/>
+      <gol minuto="41" equipo="Hér" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Cel</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Cel" jugador="Vicente"/>
+      <gol minuto="44" equipo="Cel" jugador="Camilo"/>
+      <gol minuto="67" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="37" equipo="Cel" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1985" jornada="8">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="61" equipo="Cel" jugador="Vicente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Baltazar"/>
+      <gol minuto="75" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="83" equipo="Rac" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="53" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="15" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="60" equipo="Cel" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Cel" jugador="Alvelo"/>
+      <gol minuto="39" equipo="Rel" jugador="Cholo"/>
+      <gol minuto="74" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="17" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="22" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="55" equipo="Sev" jugador="Ruda"/>
+      <gol minuto="65" equipo="Sev" jugador="Sanabria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="60" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Cel" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Cel" jugador="Manolo"/>
+      <gol minuto="44" equipo="Cel" jugador="Manolo"/>
+      <gol minuto="89" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="56" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cel" jugador="Contreras"/>
+      <gol minuto="5" equipo="Zar" jugador="García Cortés"/>
+      <gol minuto="14" equipo="Zar" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/1985" jornada="12">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="89" equipo="Atl" jugador="Marina"/>
+      <gol minuto="68" equipo="Atl" jugador="Da Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Esp" jugador="Pineda"/>
+      <gol minuto="27" equipo="Esp" jugador="Mauri"/>
+      <gol minuto="9" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="24" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="68" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="55" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="89" equipo="Bar" jugador="Pedraza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="60" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1985" jornada="1">
+    <local>Esp</local>
+    <visitante>Cád</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Esp" jugador="Orejuela"/>
+      <gol minuto="1" equipo="Esp" jugador="Giménez"/>
+      <gol minuto="32" equipo="Esp" jugador="García Pitarch"/>
+      <gol minuto="51" equipo="Esp" jugador="García Pitarch"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Esp" jugador="Job"/>
+      <gol minuto="50" equipo="Esp" jugador="Márquez"/>
+      <gol minuto="41" equipo="Hér" jugador="Carlos"/>
+      <gol minuto="88" equipo="Esp" jugador="García Pitarch"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Esp</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Esp" jugador="García Pitarch"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/1986" jornada="30">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/1986" jornada="23">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Esp" jugador="Soler"/>
+      <gol minuto="23" equipo="Esp" jugador="Pineda"/>
+      <gol minuto="39" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="87" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Esp" jugador="Zúñiga"/>
+      <gol minuto="17" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="77" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Esp" jugador="Soler"/>
+      <gol minuto="36" equipo="Esp" jugador="Mauri"/>
+      <gol minuto="76" equipo="Sev" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1985" jornada="5">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Esp" jugador="Pineda"/>
+      <gol minuto="37" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Esp" jugador="Lauridsen"/>
+      <gol minuto="28" equipo="Esp" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Señor"/>
+      <gol minuto="53" equipo="Zar" jugador="Señor"/>
+      <gol minuto="73" equipo="Esp" jugador="García Pitarch"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Hér" jugador="Bakero"/>
+      <gol minuto="72" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="59" equipo="Atl" jugador="Marina"/>
+      <gol minuto="44" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="12" equipo="Bar" jugador="Rojo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Hér</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Hér" jugador="Pétursson"/>
+      <gol minuto="65" equipo="Hér" jugador="Reces"/>
+      <gol minuto="78" equipo="Bet" jugador="Gabino"/>
+      <gol minuto="25" equipo="Bet" jugador="Romo"/>
+      <gol minuto="74" equipo="Bet" jugador="Rincón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Hér</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="59" equipo="Cád" jugador="Villa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Hér</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Hér" jugador="Reces"/>
+      <gol minuto="12" equipo="Hér" jugador="Carlos"/>
+      <gol minuto="22" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="47" equipo="Cel" jugador="Cortés"/>
+      <gol minuto="62" equipo="Cel" jugador="Cortés"/>
+      <gol minuto="85" equipo="Hér" jugador="Pétursson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Hér" jugador="Kike"/>
+      <gol minuto="1" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Hér</local>
+    <visitante>Las</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Hér" jugador="Botella"/>
+      <gol minuto="79" equipo="Hér" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Hér</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="45" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Hér</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Hér" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="61" equipo="Hér" jugador="Kempes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="55" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="25" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Hér</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Hér" jugador="Juan Carlos"/>
+      <gol minuto="30" equipo="Hér" jugador="Pétursson"/>
+      <gol minuto="71" equipo="Sev" jugador="Ruda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Hér</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Spo" jugador="Esteban"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Hér" jugador="Bakero"/>
+      <gol minuto="29" equipo="Hér" jugador="Kempes"/>
+      <gol minuto="53" equipo="Hér" jugador="Carlos"/>
+      <gol minuto="19" equipo="Val" jugador="Fernando"/>
+      <gol minuto="84" equipo="Val" jugador="Sánchez Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Hér</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Hér" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Hér" jugador="Latorre"/>
+      <gol minuto="48" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="25" equipo="Hér" jugador="Pétursson"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/1986" jornada="19">
+    <local>Las</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Las" jugador="Farias"/>
+      <gol minuto="48" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="28" equipo="Ath" jugador="Gallego"/>
+      <gol minuto="68" equipo="Ath" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Las</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Las" jugador="Narciso"/>
+      <gol minuto="44" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="65" equipo="Atl" jugador="Da Silva"/>
+      <gol minuto="37" equipo="Atl" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Las</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Las" jugador="Santís"/>
+      <gol minuto="11" equipo="Las" jugador="Narciso"/>
+      <gol minuto="44" equipo="Las" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1985" jornada="5">
+    <local>Las</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 01/03/1986" jornada="27">
+    <local>Las</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Las" jugador="Julio Durán"/>
+      <gol minuto="67" equipo="Las" jugador="Contreras"/>
+      <gol minuto="35" equipo="Cád" jugador="Amarillo"/>
+      <gol minuto="25" equipo="Cád" jugador="Mejías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Las</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Las" jugador="Juani"/>
+      <gol minuto="72" equipo="Cel" jugador="Maraver"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Las</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Las" jugador="José"/>
+      <gol minuto="55" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="75" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="50" equipo="Esp" jugador="Lauridsen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/1986" jornada="23">
+    <local>Las</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Las" jugador="Julio Durán"/>
+      <gol minuto="89" equipo="Las" jugador="Chinea"/>
+      <gol minuto="53" equipo="Hér" jugador="Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/1986" jornada="34">
+    <local>Las</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Las</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Las</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="68" equipo="Rea" jugador="Larrañaga"/>
+      <gol minuto="11" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/1986" jornada="31">
+    <local>Las</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Las" jugador="Narciso"/>
+      <gol minuto="84" equipo="Las" jugador="Santís"/>
+      <gol minuto="82" equipo="Las" jugador="Contreras"/>
+      <gol minuto="64" equipo="Rel" jugador="Cholo"/>
+      <gol minuto="70" equipo="Rel" jugador="Cholo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Las</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Las" jugador="Chinea"/>
+      <gol minuto="58" equipo="Las" jugador="Chinea"/>
+      <gol minuto="33" equipo="Sev" jugador="José Luis"/>
+      <gol minuto="67" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="53" equipo="Sev" jugador="Nadal"/>
+      <gol minuto="36" equipo="Sev" jugador="Álvarez II"/>
+      <gol minuto="80" equipo="Sev" jugador="Álvarez II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1985" jornada="1">
+    <local>Las</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Las" jugador="Benito Morales"/>
+      <gol minuto="85" equipo="Spo" jugador="Mesa"/>
+      <gol minuto="10" equipo="Spo" jugador="Quini"/>
+      <gol minuto="31" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Las</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Las" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/1986" jornada="29">
+    <local>Las</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Las" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/1985" jornada="13">
+    <local>Las</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Las" jugador="Saavedra"/>
+      <gol minuto="17" equipo="Zar" jugador="Kaličanin"/>
+      <gol minuto="59" equipo="Zar" jugador="Fraile"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1985" jornada="1">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ath" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Osa" jugador="Bustingorri"/>
+      <gol minuto="72" equipo="Atl" jugador="Quique Ramos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Calderé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Osa" jugador="Echeverria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1985" jornada="5">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Osa" jugador="Pedersen"/>
+      <gol minuto="23" equipo="Cel" jugador="Pichi Lucas"/>
+      <gol minuto="62" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="19" equipo="Osa" jugador="Goikoetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Osa</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Osa" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Osa</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Las" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Osa</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="30" equipo="Rac" jugador="Isidro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Osa" jugador="Enrique Martín"/>
+      <gol minuto="20" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="46" equipo="Rea" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Osa</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Spo" jugador="Eloy"/>
+      <gol minuto="58" equipo="Spo" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Osa" jugador="Ibáñez"/>
+      <gol minuto="34" equipo="Osa" jugador="Sola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Osa</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Osa" jugador="Sola"/>
+      <gol minuto="23" equipo="Osa" jugador="Echeverria"/>
+      <gol minuto="27" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Osa</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="79" equipo="Osa" jugador="Rípodas"/>
+      <gol minuto="39" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/1986" jornada="32">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="67" equipo="Rac" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1985" jornada="1">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rac" jugador="Donnerup"/>
+      <gol minuto="19" equipo="Bet" jugador="Hadžibegić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Rac</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rac" jugador="Campbell"/>
+      <gol minuto="60" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="82" equipo="Rac" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1985" jornada="5">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rac" jugador="Donnerup"/>
+      <gol minuto="30" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="48" equipo="Rac" jugador="Campbell"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="36" equipo="Rac" jugador="Arrien"/>
+      <gol minuto="43" equipo="Esp" jugador="Iñaki"/>
+      <gol minuto="77" equipo="Esp" jugador="García Pitarch"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Rac</local>
+    <visitante>Hér</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="83" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="23" equipo="Rac" jugador="Campbell"/>
+      <gol minuto="13" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="66" equipo="Hér" jugador="Moyano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Rac</local>
+    <visitante>Las</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Rac</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Rac" jugador="Isidro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Rac" jugador="Donnerup"/>
+      <gol minuto="81" equipo="Rac" jugador="Mario Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rac" jugador="Víctor"/>
+      <gol minuto="73" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rac" jugador="Campbell"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 26/02/1986" jornada="23">
+    <local>Rac</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Spo" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Rac" jugador="Campbell"/>
+      <gol minuto="3" equipo="Rac" jugador="Arrien"/>
+      <gol minuto="70" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="64" equipo="Val" jugador="Sixto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Rac" jugador="Campbell"/>
+      <gol minuto="79" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="34" equipo="Rac" jugador="Isidro"/>
+      <gol minuto="76" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="28" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/1986" jornada="26">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Zubillaga"/>
+      <gol minuto="70" equipo="Rea" jugador="Zubillaga"/>
+      <gol minuto="76" equipo="Atl" jugador="Quique Setién"/>
+      <gol minuto="45" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="49" equipo="Atl" jugador="Da Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="55" equipo="Bar" jugador="Alexanco"/>
+      <gol minuto="23" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="46" equipo="Bar" jugador="Pichi Alonso"/>
+      <gol minuto="59" equipo="Bar" jugador="Pichi Alonso"/>
+      <gol minuto="65" equipo="Rea" jugador="Iturrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="64" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="23" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="87" equipo="Bet" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rea" jugador="Gajate"/>
+      <gol minuto="35" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="49" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="6" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1985" jornada="1">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Rea" jugador="Satrústegui"/>
+      <gol minuto="80" equipo="Cel" jugador="Cortés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rea" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="47" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="54" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="35" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="43" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="78" equipo="Rea" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Rea</local>
+    <visitante>Las</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Rea" jugador="López Rekarte"/>
+      <gol minuto="19" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="40" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="53" equipo="Rea" jugador="Zamora"/>
+      <gol minuto="12" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="4" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/1985" jornada="10">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Rea" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="81" equipo="Rac" jugador="Donnerup"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="49" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="70" equipo="Rea" jugador="Mujika"/>
+      <gol minuto="76" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="78" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="6" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="19" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Larrañaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rea" jugador="Mujika"/>
+      <gol minuto="72" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rea" jugador="Mujika"/>
+      <gol minuto="73" equipo="Rea" jugador="López Ufarte"/>
+      <gol minuto="29" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="38" equipo="Rea" jugador="Uralde"/>
+      <gol minuto="86" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="40" equipo="Rea" jugador="Mujika"/>
+      <gol minuto="89" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1985" jornada="8">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rea" jugador="Bakero"/>
+      <gol minuto="55" equipo="Rea" jugador="Satrústegui"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1985" jornada="8">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="72" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="15" equipo="Atl" jugador="Ruiz"/>
+      <gol minuto="83" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/1986" jornada="28">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rel" jugador="Maceda"/>
+      <gol minuto="83" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="67" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="51" equipo="Bar" jugador="Amarilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rel" jugador="Maceda"/>
+      <gol minuto="47" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="82" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="42" equipo="Bet" jugador="Calderón"/>
+      <gol minuto="86" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="28" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="66" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="37" equipo="Cád" jugador="Amarillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/1985" jornada="15">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Rel" jugador="Juanito"/>
+      <gol minuto="72" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="75" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="70" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Maceda"/>
+      <gol minuto="69" equipo="Rel" jugador="Maceda"/>
+      <gol minuto="36" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="62" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="1" equipo="Esp" jugador="Márquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/1985" jornada="10">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rel" jugador="Maceda"/>
+      <gol minuto="51" equipo="Rel" jugador="Sanchis"/>
+      <gol minuto="40" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="89" equipo="Rel" jugador="Juanito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Rel</local>
+    <visitante>Las</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Rel" jugador="Gordillo"/>
+      <gol minuto="37" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="47" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="14" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="26" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="16" equipo="Las" jugador="Juani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Rel" jugador="Gallego"/>
+      <gol minuto="32" equipo="Rel" jugador="Butragueño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="86" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="25" equipo="Sev" jugador="Álvarez II"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/1986" jornada="33">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="49" equipo="Rel" jugador="Hugo Sánchez"/>
+      <gol minuto="21" equipo="Spo" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="69" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="81" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="52" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="74" equipo="Rel" jugador="Santillana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Rel" jugador="Míchel"/>
+      <gol minuto="84" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="67" equipo="Vall" jugador="Jorge Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="5" equipo="Sev" jugador="Álvarez II"/>
+      <gol minuto="22" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Sev" jugador="Sanabria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1985" jornada="7">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="48" equipo="Sev" jugador="Francisco"/>
+      <gol minuto="16" equipo="Sev" jugador="Nadal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Sev" jugador="Montero"/>
+      <gol minuto="62" equipo="Sev" jugador="Moisés"/>
+      <gol minuto="26" equipo="Cel" jugador="Camilo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1985" jornada="15">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Sev" jugador="Nadal"/>
+      <gol minuto="37" equipo="Esp" jugador="Giménez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1985" jornada="5">
+    <local>Sev</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Sev</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Ruda"/>
+      <gol minuto="9" equipo="Sev" jugador="Sanabria"/>
+      <gol minuto="43" equipo="Sev" jugador="Sanabria"/>
+      <gol minuto="85" equipo="Sev" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Sev" jugador="Estella"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rac" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Sev" jugador="Moisés"/>
+      <gol minuto="78" equipo="Sev" jugador="Moisés"/>
+      <gol minuto="32" equipo="Rea" jugador="Zamora"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Sev" jugador="Estella"/>
+      <gol minuto="48" equipo="Sev" jugador="Nadal"/>
+      <gol minuto="74" equipo="Rel" jugador="Valdano"/>
+      <gol minuto="88" equipo="Rel" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Val" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Francisco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1985" jornada="8">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Spo" jugador="Espinosa"/>
+      <gol minuto="4" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Spo" jugador="Quini"/>
+      <gol minuto="41" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Spo</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Spo" jugador="Eloy"/>
+      <gol minuto="84" equipo="Cád" jugador="Amarillo"/>
+      <gol minuto="46" equipo="Cád" jugador="Arica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Spo" jugador="Cundi"/>
+      <gol minuto="42" equipo="Spo" jugador="Eloy"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Spo" jugador="Llabrés"/>
+      <gol minuto="72" equipo="Esp" jugador="Orejuela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Spo</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="25" equipo="Spo" jugador="Quini"/>
+      <gol minuto="87" equipo="Spo" jugador="Quini"/>
+      <gol minuto="49" equipo="Hér" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Spo</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Spo</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Spo" jugador="Eloy"/>
+      <gol minuto="24" equipo="Osa" jugador="Castañeda"/>
+      <gol minuto="68" equipo="Osa" jugador="Enrique Martín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Spo</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Spo" jugador="Mino"/>
+      <gol minuto="81" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Rel" jugador="Butragueño"/>
+      <gol minuto="65" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="87" equipo="Spo" jugador="Eloy"/>
+      <gol minuto="60" equipo="Sev" jugador="José Luis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/1985" jornada="4">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Spo</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="42" equipo="Spo" jugador="Joaquín"/>
+      <gol minuto="84" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Spo" jugador="Eloy"/>
+      <gol minuto="84" equipo="Zar" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="3" equipo="Ath" jugador="Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="75" equipo="Atl" jugador="Marina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Val" jugador="Sixto"/>
+      <gol minuto="30" equipo="Bar" jugador="Clos"/>
+      <gol minuto="69" equipo="Bar" jugador="Clos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bet" jugador="Romo"/>
+      <gol minuto="23" equipo="Bet" jugador="Gabino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Val" jugador="Robert"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Sixto"/>
+      <gol minuto="74" equipo="Val" jugador="Sixto"/>
+      <gol minuto="79" equipo="Val" jugador="Sixto"/>
+      <gol minuto="54" equipo="Cel" jugador="Baltazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1985" jornada="8">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Val" jugador="Quique"/>
+      <gol minuto="31" equipo="Val" jugador="Robert"/>
+      <gol minuto="43" equipo="Val" jugador="Robert"/>
+      <gol minuto="73" equipo="Hér" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Val</local>
+    <visitante>Las</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Las" jugador="Contreras"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Val" jugador="Fernando"/>
+      <gol minuto="4" equipo="Osa" jugador="Bustingorri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rac" jugador="Isidro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1985" jornada="5">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Val" jugador="Voro"/>
+      <gol minuto="35" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="78" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="87" equipo="Rea" jugador="López Ufarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rel" jugador="Martín Vázquez"/>
+      <gol minuto="69" equipo="Rel" jugador="Hugo Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/01/1986" jornada="21">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="73" equipo="Spo" jugador="Quini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1985" jornada="1">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vall" jugador="Eusebio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Val" jugador="Fernando"/>
+      <gol minuto="77" equipo="Val" jugador="Fernando"/>
+      <gol minuto="1" equipo="Val" jugador="Cabrera"/>
+      <gol minuto="11" equipo="Val" jugador="Sixto"/>
+      <gol minuto="60" equipo="Zar" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1986" jornada="24">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ath" jugador="Endika"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1986" jornada="22">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="84" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1985" jornada="10">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="70" equipo="Bar" jugador="Marcos Alonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1985" jornada="17">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vall" jugador="Aravena"/>
+      <gol minuto="3" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="5" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="15" equipo="Vall" jugador="Yáñez"/>
+      <gol minuto="51" equipo="Bet" jugador="Parra"/>
+      <gol minuto="45" equipo="Bet" jugador="Calderón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1986" jornada="28">
+    <local>Vall</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="31" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="77" equipo="Vall" jugador="Fonseca"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1986" jornada="31">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Vall" jugador="Torrecilla"/>
+      <gol minuto="80" equipo="Vall" jugador="Andrinúa"/>
+      <gol minuto="27" equipo="Vall" jugador="Aravena"/>
+      <gol minuto="34" equipo="Vall" jugador="Yáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 04/09/1985" jornada="2">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1986" jornada="26">
+    <local>Vall</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="8" equipo="Vall" jugador="Moré"/>
+      <gol minuto="89" equipo="Vall" jugador="Peña"/>
+      <gol minuto="89" equipo="Hér" jugador="Bakero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1985" jornada="12">
+    <local>Vall</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Vall" jugador="Andrinúa"/>
+      <gol minuto="20" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="7" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="41" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/10/1985" jornada="6">
+    <local>Vall</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1986" jornada="20">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1986" jornada="33">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="75" equipo="Vall" jugador="Eusebio"/>
+      <gol minuto="73" equipo="Vall" jugador="Fonseca"/>
+      <gol minuto="72" equipo="Rea" jugador="Uralde"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1985" jornada="13">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vall" jugador="Torrecilla"/>
+      <gol minuto="70" equipo="Rel" jugador="Valdano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1985" jornada="8">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vall" jugador="Aravena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/1985" jornada="15">
+    <local>Vall</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Spo" jugador="Jaime"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/12/1985" jornada="18">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Vall" jugador="Aravena"/>
+      <gol minuto="60" equipo="Vall" jugador="Aravena"/>
+      <gol minuto="34" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="66" equipo="Val" jugador="Cuxart"/>
+      <gol minuto="38" equipo="Val" jugador="Urruti"/>
+      <gol minuto="6" equipo="Val" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1985" jornada="4">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Vall" jugador="Jorge Alonso"/>
+      <gol minuto="72" equipo="Zar" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/12/1985" jornada="16">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ath" jugador="Noriega"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1985" jornada="14">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/1986" jornada="19">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="48" equipo="Bar" jugador="Archibald"/>
+      <gol minuto="75" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1985" jornada="9">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Zar" jugador="García Cortés"/>
+      <gol minuto="86" equipo="Bet" jugador="Gabino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1985" jornada="3">
+    <local>Zar</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Zar" jugador="Pineda"/>
+      <gol minuto="67" equipo="Zar" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1986" jornada="23">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Zar" jugador="Kaličanin"/>
+      <gol minuto="87" equipo="Zar" jugador="García Cortés"/>
+      <gol minuto="37" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="69" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="33" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1985" jornada="11">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1985" jornada="1">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Zar" jugador="Corchado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1986" jornada="30">
+    <local>Zar</local>
+    <visitante>Las</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Zar" jugador="Señor"/>
+      <gol minuto="85" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="7" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1986" jornada="32">
+    <local>Zar</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="61" equipo="Osa" jugador="Bustingorri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1986" jornada="29">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1986" jornada="25">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Zar" jugador="Señor"/>
+      <gol minuto="60" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="40" equipo="Zar" jugador="Pardeza"/>
+      <gol minuto="22" equipo="Rea" jugador="Górriz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1985" jornada="5">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Zar" jugador="Señor"/>
+      <gol minuto="19" equipo="Rel" jugador="Gallego"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1986" jornada="34">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1985" jornada="7">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/03/1986" jornada="27">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Zar" jugador="Ayneto"/>
+      <gol minuto="59" equipo="Zar" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1986" jornada="21">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Zar" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+</liga>

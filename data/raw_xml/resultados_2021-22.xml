@@ -1,0 +1,3649 @@
+<?xml version="1.0" ?>
+<liga temporada="2021-22">
+  <partido fecha="Domingo 09/01/2022" jornada="20">
+    <local>Ala</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 25/09/2021" jornada="7">
+    <local>Ala</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ala" jugador="Laguardia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2022" jornada="22">
+    <local>Ala</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bar" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/10/2021" jornada="9">
+    <local>Ala</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Ala</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Cád" jugador="Lozano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2021" jornada="15">
+    <local>Ala</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="11" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="70" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 26/10/2021" jornada="11">
+    <local>Ala</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ala" jugador="Loum"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2022" jornada="36">
+    <local>Ala</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ala" jugador="Escalante"/>
+      <gol minuto="7" equipo="Ala" jugador="Miguel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2021" jornada="17">
+    <local>Ala</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="20" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2022" jornada="29">
+    <local>Ala</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ala" jugador="Escalante"/>
+      <gol minuto="57" equipo="Ala" jugador="Manu Vallejo"/>
+      <gol minuto="50" equipo="Gra" jugador="Escudero"/>
+      <gol minuto="75" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="87" equipo="Gra" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2021" jornada="13">
+    <local>Ala</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Lev" jugador="De Frutos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/2021" jornada="2">
+    <local>Ala</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="80" equipo="Mal" jugador="Fer Niño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2021" jornada="5">
+    <local>Ala</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Osa" jugador="David García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2022" jornada="32">
+    <local>Ala</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/08/2021" jornada="1">
+    <local>Ala</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Nacho"/>
+      <gol minuto="48" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="62" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Ala</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rel" jugador="Januzaj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/03/2022" jornada="27">
+    <local>Ala</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/02/2022" jornada="24">
+    <local>Ala</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ala" jugador="Loum"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2022" jornada="34">
+    <local>Ala</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ala" jugador="Laguardia"/>
+      <gol minuto="31" equipo="Ala" jugador="Escalante"/>
+      <gol minuto="47" equipo="Vil" jugador="Chukwueze"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 01/10/2021" jornada="8">
+    <local>Ath</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2022" jornada="34">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/08/2021" jornada="2">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Ath" jugador="Iñigo Martínez"/>
+      <gol minuto="75" equipo="Bar" jugador="Memphis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2021" jornada="18">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ath" jugador="Williams"/>
+      <gol minuto="72" equipo="Ath" jugador="Williams"/>
+      <gol minuto="52" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="6" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="89" equipo="Ath" jugador="De Marcos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 05/11/2021" jornada="13">
+    <local>Ath</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Cád" jugador="Salvi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2022" jornada="32">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="Fran Beltrán"/>
+      <gol minuto="11" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2022" jornada="30">
+    <local>Ath</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Berenguer"/>
+      <gol minuto="86" equipo="Ath" jugador="Villalibre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/02/2022" jornada="23">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="Iñigo Martínez"/>
+      <gol minuto="5" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="3" equipo="Esp" jugador="Vilhena"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/03/2022" jornada="29">
+    <local>Ath</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Ath" jugador="Yuri"/>
+      <gol minuto="3" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 26/11/2021" jornada="15">
+    <local>Ath</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="25" equipo="Gra" jugador="Machís"/>
+      <gol minuto="34" equipo="Gra" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/03/2022" jornada="27">
+    <local>Ath</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Vesga"/>
+      <gol minuto="76" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/09/2021" jornada="4">
+    <local>Ath</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Ath" jugador="Vivian"/>
+      <gol minuto="74" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Ath</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ath" jugador="Berenguer"/>
+      <gol minuto="79" equipo="Ath" jugador="Villalibre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2021" jornada="6">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2021" jornada="21">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="4" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="7" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2022" jornada="25">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Ath" jugador="Vivian"/>
+      <gol minuto="89" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="80" equipo="Ath" jugador="Williams"/>
+      <gol minuto="72" equipo="Ath" jugador="Sancet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2021" jornada="17">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sev" jugador="Delaney"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2022" jornada="35">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 23/10/2021" jornada="10">
+    <local>Ath</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="32" equipo="Vil" jugador="Coquelin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2022" jornada="30">
+    <local>Atl</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="82" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="63" equipo="Ala" jugador="Escalante"/>
+      <gol minuto="90" equipo="Atl" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/09/2021" jornada="5">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 02/10/2021" jornada="8">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Lemar"/>
+      <gol minuto="44" equipo="Atl" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2021" jornada="12">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="80" equipo="Atl" jugador="João Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 11/03/2022" jornada="28">
+    <local>Atl</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Atl" jugador="De Paul"/>
+      <gol minuto="3" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="45" equipo="Cád" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2022" jornada="26">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Atl" jugador="Lodi"/>
+      <gol minuto="60" equipo="Atl" jugador="Lodi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/2021" jornada="2">
+    <local>Atl</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2022" jornada="32">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="52" equipo="Atl" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2022" jornada="24">
+    <local>Atl</local>
+    <visitante>Get</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Atl" jugador="Cunha"/>
+      <gol minuto="20" equipo="Atl" jugador="Correa"/>
+      <gol minuto="30" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="89" equipo="Atl" jugador="Hermoso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/04/2022" jornada="33">
+    <local>Atl</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 16/02/2022" jornada="21">
+    <local>Atl</local>
+    <visitante>Lev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Lev" jugador="Melero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2021" jornada="16">
+    <local>Atl</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Atl" jugador="Cunha"/>
+      <gol minuto="80" equipo="Mal" jugador="Russo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2021" jornada="14">
+    <local>Atl</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Atl" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Correa"/>
+      <gol minuto="53" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2022" jornada="35">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/10/2021" jornada="10">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Atl" jugador="Luis Suárez"/>
+      <gol minuto="48" equipo="Rel" jugador="Isak"/>
+      <gol minuto="7" equipo="Rel" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Giménez"/>
+      <gol minuto="85" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2022" jornada="22">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Val" jugador="Musah"/>
+      <gol minuto="44" equipo="Val" jugador="Duro"/>
+      <gol minuto="90" equipo="Atl" jugador="Correa"/>
+      <gol minuto="64" equipo="Atl" jugador="Cunha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2021" jornada="3">
+    <local>Atl</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Atl" jugador="Luis Suárez"/>
+      <gol minuto="52" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="74" equipo="Vil" jugador="Danjuma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2021" jornada="12">
+    <local>Bar</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="52" equipo="Ala" jugador="Rioja"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2022" jornada="26">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="90" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="73" equipo="Bar" jugador="Dembélé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2022" jornada="23">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Bar" jugador="Dani Alves"/>
+      <gol minuto="43" equipo="Bar" jugador="Araújo"/>
+      <gol minuto="10" equipo="Bar" jugador="Jordi Alba"/>
+      <gol minuto="21" equipo="Bar" jugador="Gavi"/>
+      <gol minuto="8" equipo="Atl" jugador="Carrasco"/>
+      <gol minuto="58" equipo="Atl" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2021" jornada="16">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/04/2022" jornada="32">
+    <local>Bar</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Cád" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2022" jornada="36">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="41" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="48" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="50" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2021" jornada="18">
+    <local>Bar</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bar" jugador="Gavi"/>
+      <gol minuto="16" equipo="Bar" jugador="Jutglà"/>
+      <gol minuto="85" equipo="Bar" jugador="Nico"/>
+      <gol minuto="63" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="62" equipo="Elc" jugador="Tete Morente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2021" jornada="14">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 29/08/2021" jornada="3">
+    <local>Bar</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bar" jugador="Sergi Roberto"/>
+      <gol minuto="30" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="18" equipo="Get" jugador="Sandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/09/2021" jornada="5">
+    <local>Bar</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Bar" jugador="Araújo"/>
+      <gol minuto="2" equipo="Gra" jugador="Domingos Duarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2021" jornada="7">
+    <local>Bar</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bar" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2022" jornada="34">
+    <local>Bar</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bar" jugador="Busquets"/>
+      <gol minuto="25" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="79" equipo="Mal" jugador="Raillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2022" jornada="28">
+    <local>Bar</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Ferran Torres"/>
+      <gol minuto="27" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="75" equipo="Bar" jugador="Riqui Puig"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/04/2022" jornada="21">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2021" jornada="10">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rea" jugador="Alaba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/08/2021" jornada="1">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bar" jugador="Piqué"/>
+      <gol minuto="59" equipo="Bar" jugador="Braithwaite"/>
+      <gol minuto="85" equipo="Rel" jugador="Oyarzabal"/>
+      <gol minuto="82" equipo="Rel" jugador="Lobete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2022" jornada="30">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2021" jornada="9">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="5" equipo="Val" jugador="Gayà"/>
+      <gol minuto="85" equipo="Bar" jugador="Coutinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Bar</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Vil" jugador="Pedraza"/>
+      <gol minuto="55" equipo="Vil" jugador="Moi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/01/2022" jornada="21">
+    <local>Bet</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="29" equipo="Bet" jugador="Canales"/>
+      <gol minuto="11" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="41" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2022" jornada="28">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2022" jornada="27">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="61" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="80" equipo="Atl" jugador="Lemar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2022" jornada="35">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Bet" jugador="Bartra"/>
+      <gol minuto="76" equipo="Bar" jugador="Ansu Fati"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/08/2021" jornada="2">
+    <local>Bet</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Martes 19/04/2022" jornada="33">
+    <local>Bet</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Elc" jugador="Tete Morente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2021" jornada="5">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Bet" jugador="Willian José"/>
+      <gol minuto="16" equipo="Esp" jugador="Aleix Vidal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2021" jornada="7">
+    <local>Bet</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Willian José"/>
+      <gol minuto="55" equipo="Bet" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Bet</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="88" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2021" jornada="15">
+    <local>Bet</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="63" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="78" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="7" equipo="Lev" jugador="Mustafi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2022" jornada="25">
+    <local>Bet</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Bet" jugador="Àlex Moreno"/>
+      <gol minuto="75" equipo="Mal" jugador="Muriqi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2022" jornada="30">
+    <local>Bet</local>
+    <visitante>Osa</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Àlex Moreno"/>
+      <gol minuto="82" equipo="Bet" jugador="William Carvalho"/>
+      <gol minuto="34" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="65" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2021" jornada="10">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Bet" jugador="Àlex Moreno"/>
+      <gol minuto="24" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="65" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2021" jornada="3">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Rea" jugador="Carvajal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2021" jornada="17">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Bet" jugador="Àlex Moreno"/>
+      <gol minuto="79" equipo="Bet" jugador="Àlex Moreno"/>
+      <gol minuto="66" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="57" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2021" jornada="13">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Acuña"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 27/10/2021" jornada="11">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Bet" jugador="Pezzella"/>
+      <gol minuto="68" equipo="Bet" jugador="Juanmi"/>
+      <gol minuto="30" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="39" equipo="Val" jugador="Gabriel Paulista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2022" jornada="23">
+    <local>Bet</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Vil" jugador="Pau Torres"/>
+      <gol minuto="83" equipo="Vil" jugador="Capoue"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2021" jornada="10">
+    <local>Cád</local>
+    <visitante>Ala</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 21/04/2022" jornada="33">
+    <local>Cád</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Ath" jugador="Muniain"/>
+      <gol minuto="33" equipo="Ath" jugador="Vesga"/>
+      <gol minuto="3" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="56" equipo="Cád" jugador="Lucas Pérez"/>
+      <gol minuto="87" equipo="Cád" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2021" jornada="15">
+    <local>Cád</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Cád" jugador="Lozano"/>
+      <gol minuto="56" equipo="Atl" jugador="Lemar"/>
+      <gol minuto="70" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="76" equipo="Atl" jugador="Correa"/>
+      <gol minuto="86" equipo="Atl" jugador="Cunha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2021" jornada="6">
+    <local>Cád</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 09/04/2022" jornada="31">
+    <local>Cád</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Cád" jugador="Iván Alejo"/>
+      <gol minuto="78" equipo="Bet" jugador="Tello"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2022" jornada="24">
+    <local>Cád</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/05/2022" jornada="35">
+    <local>Cád</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Cád" jugador="Negredo"/>
+      <gol minuto="83" equipo="Cád" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/01/2022" jornada="21">
+    <local>Cád</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Cád" jugador="Negredo"/>
+      <gol minuto="10" equipo="Esp" jugador="Morlanes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2022" jornada="25">
+    <local>Cád</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 13/12/2021" jornada="17">
+    <local>Cád</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="32" equipo="Cád" jugador="Arzamendia"/>
+      <gol minuto="88" equipo="Gra" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/08/2021" jornada="1">
+    <local>Cád</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2021" jornada="12">
+    <local>Cád</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Mal" jugador="Baba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2021" jornada="3">
+    <local>Cád</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Cád" jugador="Álex"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2022" jornada="27">
+    <local>Cád</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Cád" jugador="Alcaraz"/>
+      <gol minuto="63" equipo="Cád" jugador="Idrissi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Cád</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cád" jugador="Sobrino"/>
+      <gol minuto="5" equipo="Rea" jugador="Mariano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2021" jornada="4">
+    <local>Cád</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rel" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/01/2022" jornada="19">
+    <local>Cád</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2021" jornada="8">
+    <local>Cád</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 20/03/2022" jornada="29">
+    <local>Cád</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="90" equipo="Cád" jugador="Sobrino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/05/2022" jornada="35">
+    <local>Cel</local>
+    <visitante>Ala</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="66" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="6" equipo="Cel" jugador="Thiago Galhardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2021" jornada="3">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/08/2021" jornada="1">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Correa"/>
+      <gol minuto="64" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2021" jornada="13">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Cel" jugador="Nolito"/>
+      <gol minuto="52" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="18" equipo="Bar" jugador="Busquets"/>
+      <gol minuto="5" equipo="Bar" jugador="Ansu Fati"/>
+      <gol minuto="34" equipo="Bar" jugador="Memphis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2022" jornada="29">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Viernes 17/09/2021" jornada="5">
+    <local>Cel</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="43" equipo="Cád" jugador="Espino"/>
+      <gol minuto="38" equipo="Cád" jugador="Lozano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Cel</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cel" jugador="Denis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 17/12/2021" jornada="18">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="47" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="82" equipo="Cel" jugador="Denis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 20/04/2022" jornada="33">
+    <local>Cel</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Get" jugador="Mayoral"/>
+      <gol minuto="51" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/09/2021" jornada="7">
+    <local>Cel</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 21/02/2022" jornada="25">
+    <local>Cel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Cel" jugador="Cervi"/>
+      <gol minuto="82" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2022" jornada="27">
+    <local>Cel</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Cel" jugador="Denis Suárez"/>
+      <gol minuto="61" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="13" equipo="Cel" jugador="Thiago Galhardo"/>
+      <gol minuto="17" equipo="Mal" jugador="Gio González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/01/2022" jornada="21">
+    <local>Cel</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Cel" jugador="Hugo Mallo"/>
+      <gol minuto="38" equipo="Cel" jugador="Santi Mina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2022" jornada="23">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="80" equipo="Cel" jugador="Brais Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2022" jornada="30">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Cel" jugador="Nolito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 28/10/2021" jornada="11">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Rel" jugador="Elustondo"/>
+      <gol minuto="54" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2021" jornada="9">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2021" jornada="16">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="19" equipo="Val" jugador="Duro"/>
+      <gol minuto="53" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2021" jornada="14">
+    <local>Cel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="27" equipo="Vil" jugador="Alberto Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2022" jornada="23">
+    <local>Elc</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="58" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="86" equipo="Elc" jugador="Fidel"/>
+      <gol minuto="18" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/08/2021" jornada="1">
+    <local>Elc</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/05/2022" jornada="36">
+    <local>Elc</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="De Paul"/>
+      <gol minuto="28" equipo="Atl" jugador="Cunha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/03/2022" jornada="27">
+    <local>Elc</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Elc" jugador="Fidel"/>
+      <gol minuto="60" equipo="Bar" jugador="Ferran Torres"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2021" jornada="14">
+    <local>Elc</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="12" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2021" jornada="16">
+    <local>Elc</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Elc" jugador="Tete Morente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2021" jornada="8">
+    <local>Elc</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Elc" jugador="Benedetto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2021" jornada="10">
+    <local>Elc</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="52" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="84" equipo="Elc" jugador="Benedetto"/>
+      <gol minuto="51" equipo="Esp" jugador="Morlanes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Elc</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Elc" jugador="Olaza"/>
+      <gol minuto="33" equipo="Get" jugador="Ünal"/>
+      <gol minuto="84" equipo="Elc" jugador="Kike Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Elc</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/09/2021" jornada="5">
+    <local>Elc</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Elc" jugador="Lucas Pérez"/>
+      <gol minuto="55" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2022" jornada="32">
+    <local>Elc</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Elc" jugador="Bigas"/>
+      <gol minuto="42" equipo="Elc" jugador="Mojica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2022" jornada="34">
+    <local>Elc</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Elc" jugador="Pere Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 18/02/2022" jornada="25">
+    <local>Elc</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Elc" jugador="Carrillo"/>
+      <gol minuto="52" equipo="Ray" jugador="Fran García"/>
+      <gol minuto="84" equipo="Elc" jugador="Ponce"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2021" jornada="12">
+    <local>Elc</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="73" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="86" equipo="Elc" jugador="Pere Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2022" jornada="31">
+    <local>Elc</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Elc" jugador="Carrillo"/>
+      <gol minuto="39" equipo="Rel" jugador="Le Normand"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2021" jornada="3">
+    <local>Elc</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Elc" jugador="Roco"/>
+      <gol minuto="40" equipo="Sev" jugador="En-Nesyri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2022" jornada="29">
+    <local>Elc</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/01/2022" jornada="21">
+    <local>Elc</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2021" jornada="6">
+    <local>Esp</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Martes 26/10/2021" jornada="11">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ath" jugador="Williams"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/09/2021" jornada="4">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="79" equipo="Atl" jugador="Carrasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2022" jornada="24">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="40" equipo="Esp" jugador="Darder"/>
+      <gol minuto="64" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="2" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 21/01/2022" jornada="22">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="14" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="36" equipo="Bet" jugador="Guido Rodríguez"/>
+      <gol minuto="53" equipo="Bet" jugador="Borja Iglesias"/>
+      <gol minuto="76" equipo="Bet" jugador="Willian José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/10/2021" jornada="9">
+    <local>Esp</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/2022" jornada="31">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Esp" jugador="Wu Lei"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/01/2022" jornada="20">
+    <local>Esp</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="14" equipo="Elc" jugador="Pere Milla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2022" jornada="27">
+    <local>Esp</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Esp" jugador="Cabrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 06/11/2021" jornada="13">
+    <local>Esp</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Esp" jugador="Pedrosa"/>
+      <gol minuto="42" equipo="Esp" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2021" jornada="17">
+    <local>Esp</local>
+    <visitante>Lev</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Esp" jugador="Darder"/>
+      <gol minuto="60" equipo="Esp" jugador="Puado"/>
+      <gol minuto="76" equipo="Esp" jugador="Puado"/>
+      <gol minuto="49" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="26" equipo="Lev" jugador="Son"/>
+      <gol minuto="11" equipo="Lev" jugador="De Frutos"/>
+      <gol minuto="57" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2022" jornada="29">
+    <local>Esp</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Esp" jugador="De Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2022" jornada="35">
+    <local>Esp</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Osa" jugador="Kike Barja"/>
+      <gol minuto="67" equipo="Esp" jugador="Nico Melamed"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 21/04/2022" jornada="33">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ray" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2021" jornada="8">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Esp" jugador="Aleix Vidal"/>
+      <gol minuto="17" equipo="Esp" jugador="De Tomás"/>
+      <gol minuto="71" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2021" jornada="15">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Esp" jugador="Herrera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2022" jornada="25">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Darder"/>
+      <gol minuto="36" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/05/2022" jornada="37">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/2021" jornada="2">
+    <local>Esp</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 26/02/2022" jornada="26">
+    <local>Get</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Get" jugador="Ünal"/>
+      <gol minuto="72" equipo="Get" jugador="Ünal"/>
+      <gol minuto="56" equipo="Ala" jugador="Édgar Méndez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/12/2021" jornada="16">
+    <local>Get</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Martes 21/09/2021" jornada="6">
+    <local>Get</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Atl" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Get</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 02/05/2022" jornada="34">
+    <local>Get</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/2021" jornada="14">
+    <local>Get</local>
+    <visitante>Cád</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Get" jugador="Cuenca"/>
+      <gol minuto="7" equipo="Get" jugador="Olivera"/>
+      <gol minuto="81" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 25/10/2021" jornada="10">
+    <local>Get</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="73" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="58" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/09/2021" jornada="4">
+    <local>Get</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Elc" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2021" jornada="12">
+    <local>Get</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Get" jugador="Ünal"/>
+      <gol minuto="56" equipo="Get" jugador="Ünal"/>
+      <gol minuto="38" equipo="Esp" jugador="Sergi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/01/2022" jornada="21">
+    <local>Get</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Get" jugador="Maksimović"/>
+      <gol minuto="10" equipo="Get" jugador="Sandro"/>
+      <gol minuto="48" equipo="Get" jugador="Ünal"/>
+      <gol minuto="13" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="78" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="87" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 04/02/2022" jornada="23">
+    <local>Get</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Get" jugador="Ünal"/>
+      <gol minuto="29" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2022" jornada="30">
+    <local>Get</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="82" equipo="Get" jugador="Mayoral"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2021" jornada="18">
+    <local>Get</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/05/2022" jornada="35">
+    <local>Get</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Get</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2021" jornada="8">
+    <local>Get</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Get" jugador="Sandro"/>
+      <gol minuto="68" equipo="Rel" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 23/08/2021" jornada="2">
+    <local>Get</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/03/2022" jornada="28">
+    <local>Get</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 16/04/2022" jornada="32">
+    <local>Get</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Get" jugador="Ünal"/>
+      <gol minuto="16" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="7" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 03/12/2021" jornada="16">
+    <local>Gra</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="86" equipo="Gra" jugador="Arias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2022" jornada="36">
+    <local>Gra</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Gra" jugador="Collado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/12/2021" jornada="9">
+    <local>Gra</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Gra" jugador="Machís"/>
+      <gol minuto="61" equipo="Gra" jugador="Jorge Molina"/>
+      <gol minuto="2" equipo="Atl" jugador="João Félix"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2022" jornada="20">
+    <local>Gra</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="57" equipo="Bar" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/09/2021" jornada="4">
+    <local>Gra</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="89" equipo="Bet" jugador="Canales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/02/2022" jornada="26">
+    <local>Gra</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/05/2022" jornada="34">
+    <local>Gra</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/03/2022" jornada="28">
+    <local>Gra</local>
+    <visitante>Elc</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Elc" jugador="Fidel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Gra</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 28/10/2021" jornada="11">
+    <local>Gra</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Get" jugador="Ünal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2022" jornada="32">
+    <local>Gra</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Lev" jugador="Dani Gómez"/>
+      <gol minuto="77" equipo="Lev" jugador="Malsa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/12/2021" jornada="18">
+    <local>Gra</local>
+    <visitante>Mal</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Gra" jugador="Jorge Molina"/>
+      <gol minuto="61" equipo="Gra" jugador="Jorge Molina"/>
+      <gol minuto="24" equipo="Mal" jugador="Dani Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2022" jornada="22">
+    <local>Gra</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="David García"/>
+      <gol minuto="89" equipo="Osa" jugador="Kike García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2022" jornada="30">
+    <local>Gra</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Gra" jugador="Jorge Molina"/>
+      <gol minuto="6" equipo="Ray" jugador="Catena"/>
+      <gol minuto="17" equipo="Ray" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 21/11/2021" jornada="14">
+    <local>Gra</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="25" equipo="Rea" jugador="Nacho"/>
+      <gol minuto="76" equipo="Rea" jugador="Mendy"/>
+      <gol minuto="56" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="19" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2021" jornada="6">
+    <local>Gra</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Gra" jugador="Germán"/>
+      <gol minuto="52" equipo="Rel" jugador="Elustondo"/>
+      <gol minuto="82" equipo="Rel" jugador="Elustondo"/>
+      <gol minuto="60" equipo="Rel" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2021" jornada="8">
+    <local>Gra</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Gra" jugador="Rochina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/08/2021" jornada="2">
+    <local>Gra</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Gra" jugador="Luis Suárez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2022" jornada="25">
+    <local>Gra</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vil" jugador="Danjuma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Lev</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="14" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Lev" jugador="Duarte"/>
+      <gol minuto="74" equipo="Lev" jugador="Roger"/>
+      <gol minuto="36" equipo="Ala" jugador="Joselu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 19/11/2021" jornada="14">
+    <local>Lev</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 28/10/2021" jornada="11">
+    <local>Lev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="76" equipo="Atl" jugador="Cunha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/04/2022" jornada="31">
+    <local>Lev</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="63" equipo="Bar" jugador="Pedri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/02/2022" jornada="24">
+    <local>Lev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Lev" jugador="Dani Gómez"/>
+      <gol minuto="47" equipo="Lev" jugador="Dani Gómez"/>
+      <gol minuto="29" equipo="Bet" jugador="Edgar"/>
+      <gol minuto="14" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="49" equipo="Bet" jugador="Fekir"/>
+      <gol minuto="42" equipo="Bet" jugador="William Carvalho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2022" jornada="22">
+    <local>Lev</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Cád" jugador="Salvi"/>
+      <gol minuto="34" equipo="Cád" jugador="Negredo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/09/2021" jornada="6">
+    <local>Lev</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Cel" jugador="Brais Méndez"/>
+      <gol minuto="66" equipo="Cel" jugador="Iago Aspas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 25/02/2022" jornada="26">
+    <local>Lev</local>
+    <visitante>Elc</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Lev" jugador="De Frutos"/>
+      <gol minuto="37" equipo="Lev" jugador="Morales"/>
+      <gol minuto="90" equipo="Lev" jugador="Melero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2022" jornada="28">
+    <local>Lev</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Puado"/>
+      <gol minuto="80" equipo="Lev" jugador="Dani Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2021" jornada="9">
+    <local>Lev</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 01/11/2021" jornada="12">
+    <local>Lev</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Gra" jugador="Germán"/>
+      <gol minuto="38" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="69" equipo="Gra" jugador="Puertas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2022" jornada="20">
+    <local>Lev</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Lev" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2021" jornada="16">
+    <local>Lev</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 11/09/2021" jornada="4">
+    <local>Lev</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 22/08/2021" jornada="2">
+    <local>Lev</local>
+    <visitante>Rea</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Lev" jugador="Róber Pier"/>
+      <gol minuto="57" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="46" equipo="Lev" jugador="Roger"/>
+      <gol minuto="5" equipo="Rea" jugador="Bale"/>
+      <gol minuto="73" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="85" equipo="Rea" jugador="Vinícius"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 06/05/2022" jornada="35">
+    <local>Lev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Lev" jugador="Miramón"/>
+      <gol minuto="66" equipo="Rel" jugador="Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 21/04/2022" jornada="33">
+    <local>Lev</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Sev" jugador="Koundé"/>
+      <gol minuto="14" equipo="Sev" jugador="Tecatito Corona"/>
+      <gol minuto="27" equipo="Sev" jugador="Tecatito Corona"/>
+      <gol minuto="87" equipo="Lev" jugador="Soldado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/12/2021" jornada="18">
+    <local>Lev</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="4"/>
+    <tarjetas amarillas="7" rojas="2"/>
+    <goleadores>
+      <gol minuto="21" equipo="Lev" jugador="Campaña"/>
+      <gol minuto="24" equipo="Lev" jugador="Roger"/>
+      <gol minuto="72" equipo="Val" jugador="Carlos Soler"/>
+      <gol minuto="44" equipo="Val" jugador="Guedes"/>
+      <gol minuto="85" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/04/2022" jornada="30">
+    <local>Lev</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 19/04/2022" jornada="33">
+    <local>Mal</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Abdón Prats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/02/2022" jornada="24">
+    <local>Mal</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Mal" jugador="Ángel"/>
+      <gol minuto="59" equipo="Ath" jugador="Raúl García"/>
+      <gol minuto="61" equipo="Ath" jugador="Berenguer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2022" jornada="31">
+    <local>Mal</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/01/2022" jornada="19">
+    <local>Mal</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bar" jugador="De Jong"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/08/2021" jornada="1">
+    <local>Mal</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Mal" jugador="Oliván"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2022" jornada="23">
+    <local>Mal</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cád" jugador="Alcaraz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 10/12/2021" jornada="17">
+    <local>Mal</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 07/11/2021" jornada="13">
+    <local>Mal</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="75" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 27/08/2021" jornada="3">
+    <local>Mal</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Mal" jugador="Dani Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2021" jornada="15">
+    <local>Mal</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 07/05/2022" jornada="35">
+    <local>Mal</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="6"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Mal" jugador="Raillo"/>
+      <gol minuto="28" equipo="Mal" jugador="Salva Sevilla"/>
+      <gol minuto="46" equipo="Gra" jugador="Escudero"/>
+      <gol minuto="55" equipo="Gra" jugador="Puertas"/>
+      <gol minuto="6" equipo="Gra" jugador="Luis Suárez"/>
+      <gol minuto="78" equipo="Gra" jugador="Uzuni"/>
+      <gol minuto="69" equipo="Gra" jugador="Jorge Molina"/>
+      <gol minuto="90" equipo="Gra" jugador="Jorge Molina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2021" jornada="8">
+    <local>Mal</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Mal" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2021" jornada="7">
+    <local>Mal</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Mal" jugador="Dani Rodríguez"/>
+      <gol minuto="9" equipo="Osa" jugador="Cote"/>
+      <gol minuto="88" equipo="Osa" jugador="Javi Martínez"/>
+      <gol minuto="58" equipo="Osa" jugador="Iñigo Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Mal</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Mal" jugador="Muriqi"/>
+      <gol minuto="60" equipo="Ray" jugador="Pathé Ciss"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/03/2022" jornada="28">
+    <local>Mal</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="82" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/03/2022" jornada="21">
+    <local>Mal</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rel" jugador="Merino"/>
+      <gol minuto="35" equipo="Rel" jugador="Silva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 27/10/2021" jornada="11">
+    <local>Mal</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Mal" jugador="Antonio Sánchez"/>
+      <gol minuto="73" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2022" jornada="26">
+    <local>Mal</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="4" equipo="Val" jugador="Gabriel Paulista"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2021" jornada="5">
+    <local>Mal</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/04/2022" jornada="31">
+    <local>Osa</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 03/01/2022" jornada="19">
+    <local>Osa</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Osa" jugador="Kike García"/>
+      <gol minuto="16" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="25" equipo="Ath" jugador="Sancet"/>
+      <gol minuto="68" equipo="Ath" jugador="Sancet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2022" jornada="25">
+    <local>Osa</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Atl" jugador="João Félix"/>
+      <gol minuto="59" equipo="Atl" jugador="Luis Suárez"/>
+      <gol minuto="89" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2021" jornada="17">
+    <local>Osa</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Osa" jugador="David García"/>
+      <gol minuto="12" equipo="Bar" jugador="Nico"/>
+      <gol minuto="49" equipo="Bar" jugador="Abde"/>
+      <gol minuto="86" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 23/09/2021" jornada="6">
+    <local>Osa</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Osa" jugador="Kike García"/>
+      <gol minuto="21" equipo="Bet" jugador="Kike Hermoso"/>
+      <gol minuto="80" equipo="Bet" jugador="Juanmi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2022" jornada="20">
+    <local>Osa</local>
+    <visitante>Cád</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Osa" jugador="Kike Barja"/>
+      <gol minuto="38" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 23/08/2021" jornada="2">
+    <local>Osa</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 29/11/2021" jornada="15">
+    <local>Osa</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Elc" jugador="Fidel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/08/2021" jornada="1">
+    <local>Osa</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 11/05/2022" jornada="36">
+    <local>Osa</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Osa" jugador="Oier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 22/10/2021" jornada="10">
+    <local>Osa</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="90" equipo="Gra" jugador="Montoro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2022" jornada="29">
+    <local>Osa</local>
+    <visitante>Lev</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Osa" jugador="Brašanac"/>
+      <gol minuto="44" equipo="Osa" jugador="Chimy Ávila"/>
+      <gol minuto="57" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="76" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Osa</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Mal" jugador="Ángel"/>
+      <gol minuto="83" equipo="Mal" jugador="Grenier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/10/2021" jornada="8">
+    <local>Osa</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 20/04/2022" jornada="33">
+    <local>Osa</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Osa" jugador="Budimir"/>
+      <gol minuto="12" equipo="Rea" jugador="Alaba"/>
+      <gol minuto="45" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2021" jornada="13">
+    <local>Osa</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Rel" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/02/2022" jornada="23">
+    <local>Osa</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/2021" jornada="4">
+    <local>Osa</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Osa" jugador="Moncayola"/>
+      <gol minuto="73" equipo="Val" jugador="Alderete"/>
+      <gol minuto="55" equipo="Val" jugador="Guedes"/>
+      <gol minuto="26" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2022" jornada="27">
+    <local>Osa</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2021" jornada="18">
+    <local>Ray</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ray" jugador="Catena"/>
+      <gol minuto="19" equipo="Ray" jugador="Sergi Guardiola"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2022" jornada="22">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ath" jugador="Nico Serrano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/03/2022" jornada="29">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Atl" jugador="Koke"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 27/10/2021" jornada="11">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ray" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2022" jornada="20">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ray" jugador="Balliu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2021" jornada="7">
+    <local>Ray</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Ray" jugador="Isi"/>
+      <gol minuto="9" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="44" equipo="Ray" jugador="Falcao"/>
+      <gol minuto="23" equipo="Cád" jugador="Haroyan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 01/11/2021" jornada="12">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 17/10/2021" jornada="9">
+    <local>Ray</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Ray" jugador="Mario Hernández"/>
+      <gol minuto="14" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="65" equipo="Ray" jugador="Nteka"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/12/2021" jornada="16">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/09/2021" jornada="5">
+    <local>Ray</local>
+    <visitante>Get</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ray" jugador="Pathé Ciss"/>
+      <gol minuto="81" equipo="Ray" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/08/2021" jornada="3">
+    <local>Ray</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ray" jugador="Nteka"/>
+      <gol minuto="58" equipo="Ray" jugador="Comesaña"/>
+      <gol minuto="3" equipo="Ray" jugador="Álvaro García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/05/2022" jornada="38">
+    <local>Ray</local>
+    <visitante>Lev</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="76" equipo="Lev" jugador="Coke"/>
+      <gol minuto="26" equipo="Lev" jugador="Melero"/>
+      <gol minuto="44" equipo="Lev" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 22/11/2021" jornada="14">
+    <local>Ray</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Ray" jugador="Álvaro García"/>
+      <gol minuto="16" equipo="Ray" jugador="Sergi Guardiola"/>
+      <gol minuto="89" equipo="Mal" jugador="Abdón Prats"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2022" jornada="24">
+    <local>Ray</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Osa" jugador="Moncayola"/>
+      <gol minuto="40" equipo="Osa" jugador="Rubén García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/02/2022" jornada="26">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/05/2022" jornada="34">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rel" jugador="Sørloth"/>
+      <gol minuto="77" equipo="Ray" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/03/2022" jornada="28">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ray" jugador="Bebé"/>
+      <gol minuto="63" equipo="Sev" jugador="Delaney"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 11/04/2022" jornada="31">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ray" jugador="Sergi Guardiola"/>
+      <gol minuto="57" equipo="Val" jugador="Carlos Soler"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 12/05/2022" jornada="36">
+    <local>Ray</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Ray" jugador="Sergi Guardiola"/>
+      <gol minuto="27" equipo="Vil" jugador="Foyth"/>
+      <gol minuto="3" equipo="Vil" jugador="Pedraza"/>
+      <gol minuto="88" equipo="Vil" jugador="Pedraza"/>
+      <gol minuto="38" equipo="Vil" jugador="Alcácer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/02/2022" jornada="25">
+    <local>Rea</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="63" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 01/12/2021" jornada="9">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2021" jornada="17">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="16" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2022" jornada="29">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Bar" jugador="Araújo"/>
+      <gol minuto="47" equipo="Bar" jugador="Ferran Torres"/>
+      <gol minuto="29" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="51" equipo="Bar" jugador="Aubameyang"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 20/05/2022" jornada="38">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 19/12/2021" jornada="18">
+    <local>Rea</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 12/09/2021" jornada="4">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="24" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="46" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="31" equipo="Cel" jugador="Cervi"/>
+      <gol minuto="4" equipo="Cel" jugador="Santi Mina"/>
+      <gol minuto="72" equipo="Rea" jugador="Camavinga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/01/2022" jornada="22">
+    <local>Rea</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Elc" jugador="Pere Milla"/>
+      <gol minuto="42" equipo="Elc" jugador="Boyé"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2022" jornada="34">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Rea" jugador="Rodrygo"/>
+      <gol minuto="43" equipo="Rea" jugador="Rodrygo"/>
+      <gol minuto="55" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="81" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2022" jornada="31">
+    <local>Rea</local>
+    <visitante>Get</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Lucas Vázquez"/>
+      <gol minuto="38" equipo="Rea" jugador="Casemiro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2022" jornada="23">
+    <local>Rea</local>
+    <visitante>Gra</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 12/05/2022" jornada="36">
+    <local>Rea</local>
+    <visitante>Lev</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rea" jugador="Mendy"/>
+      <gol minuto="34" equipo="Rea" jugador="Rodrygo"/>
+      <gol minuto="45" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="68" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="83" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="19" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2021" jornada="6">
+    <local>Rea</local>
+    <visitante>Mal</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="29" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="55" equipo="Rea" jugador="Asensio"/>
+      <gol minuto="3" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="78" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="25" equipo="Mal" jugador="Lee"/>
+      <gol minuto="84" equipo="Rea" jugador="Isco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 27/10/2021" jornada="11">
+    <local>Rea</local>
+    <visitante>Osa</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 06/11/2021" jornada="13">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rea" jugador="Kroos"/>
+      <gol minuto="38" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="76" equipo="Ray" jugador="Falcao"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/03/2022" jornada="27">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Camavinga"/>
+      <gol minuto="43" equipo="Rea" jugador="Modrić"/>
+      <gol minuto="79" equipo="Rea" jugador="Asensio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 28/11/2021" jornada="15">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="32" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="12" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2022" jornada="20">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="61" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="88" equipo="Rea" jugador="Benzema"/>
+      <gol minuto="76" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2021" jornada="7">
+    <local>Rea</local>
+    <visitante>Vil</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/03/2022" jornada="28">
+    <local>Rel</local>
+    <visitante>Ala</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rel" jugador="Zubimendi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 31/10/2021" jornada="12">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="De Paul"/>
+      <gol minuto="68" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 21/04/2022" jornada="33">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bar" jugador="Aubameyang"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 15/04/2022" jornada="32">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Jueves 12/05/2022" jornada="36">
+    <local>Rel</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rel" jugador="Sørloth"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/01/2022" jornada="20">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Rel" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/09/2021" jornada="7">
+    <local>Rel</local>
+    <visitante>Elc</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Rel" jugador="Oyarzabal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 04/04/2022" jornada="30">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/01/2022" jornada="22">
+    <local>Rel</local>
+    <visitante>Get</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 13/02/2022" jornada="24">
+    <local>Rel</local>
+    <visitante>Gra</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rel" jugador="Rafinha"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/08/2021" jornada="3">
+    <local>Rel</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Rel" jugador="Barrenetxea"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/10/2021" jornada="9">
+    <local>Rel</local>
+    <visitante>Mal</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="90" equipo="Rel" jugador="Lobete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2022" jornada="26">
+    <local>Rel</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rel" jugador="Elustondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/08/2021" jornada="2">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 04/12/2021" jornada="16">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="57" equipo="Rea" jugador="Jović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2021" jornada="5">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 21/11/2021" jornada="14">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="11" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 18/12/2021" jornada="18">
+    <local>Rel</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Isak"/>
+      <gol minuto="38" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="68" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 20/11/2021" jornada="14">
+    <local>Sev</local>
+    <visitante>Ala</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="5" equipo="Ala" jugador="Laguardia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/05/2022" jornada="38">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/12/2021" jornada="18">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="88" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="33" equipo="Atl" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/12/2021" jornada="4">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sev" jugador="Papu Gómez"/>
+      <gol minuto="45" equipo="Bar" jugador="Araújo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2022" jornada="26">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Sev" jugador="Munir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 29/04/2022" jornada="34">
+    <local>Sev</local>
+    <visitante>Cád</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="66" equipo="Cád" jugador="Lucas Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2022" jornada="22">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Cel" jugador="Cervi"/>
+      <gol minuto="40" equipo="Cel" jugador="Iago Aspas"/>
+      <gol minuto="74" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="71" equipo="Sev" jugador="Papu Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 11/02/2022" jornada="24">
+    <local>Sev</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Sev" jugador="Papu Gómez"/>
+      <gol minuto="75" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2021" jornada="7">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Sev" jugador="En-Nesyri"/>
+      <gol minuto="87" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2022" jornada="20">
+    <local>Sev</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Sev" jugador="Rafa Mir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 08/04/2022" jornada="31">
+    <local>Sev</local>
+    <visitante>Gra</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Sev" jugador="Diego Carlos"/>
+      <gol minuto="66" equipo="Sev" jugador="Ocampos"/>
+      <gol minuto="88" equipo="Gra" jugador="Víctor Díaz"/>
+      <gol minuto="23" equipo="Gra" jugador="Machís"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/10/2021" jornada="10">
+    <local>Sev</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Sev" jugador="Diego Carlos"/>
+      <gol minuto="8" equipo="Sev" jugador="Óliver Torres"/>
+      <gol minuto="64" equipo="Sev" jugador="Fernando"/>
+      <gol minuto="50" equipo="Sev" jugador="Munir"/>
+      <gol minuto="24" equipo="Sev" jugador="Rafa Mir"/>
+      <gol minuto="61" equipo="Lev" jugador="Melero"/>
+      <gol minuto="33" equipo="Lev" jugador="Morales"/>
+      <gol minuto="55" equipo="Lev" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 11/05/2022" jornada="36">
+    <local>Sev</local>
+    <visitante>Mal</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 30/10/2021" jornada="12">
+    <local>Sev</local>
+    <visitante>Osa</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Sev" jugador="Diego Carlos"/>
+      <gol minuto="60" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/08/2021" jornada="1">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Sev" jugador="Lamela"/>
+      <gol minuto="79" equipo="Sev" jugador="Lamela"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/04/2022" jornada="32">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Sev" jugador="Rakitić"/>
+      <gol minuto="25" equipo="Sev" jugador="Lamela"/>
+      <gol minuto="82" equipo="Rea" jugador="Nacho"/>
+      <gol minuto="50" equipo="Rea" jugador="Rodrygo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/03/2022" jornada="29">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 22/09/2021" jornada="6">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Sev" jugador="Papu Gómez"/>
+      <gol minuto="22" equipo="Sev" jugador="Rafa Mir"/>
+      <gol minuto="31" equipo="Val" jugador="Duro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/12/2021" jornada="16">
+    <local>Sev</local>
+    <visitante>Vil</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Sev" jugador="Ocampos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 27/08/2021" jornada="3">
+    <local>Val</local>
+    <visitante>Ala</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Val" jugador="Wass"/>
+      <gol minuto="60" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/09/2021" jornada="7">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ath" jugador="Iñigo Martínez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2021" jornada="13">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Atl" jugador="Griezmann"/>
+      <gol minuto="35" equipo="Atl" jugador="Luis Suárez"/>
+      <gol minuto="60" equipo="Atl" jugador="Vrsaljko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/02/2022" jornada="25">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Val" jugador="Carlos Soler"/>
+      <gol minuto="32" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="23" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="38" equipo="Bar" jugador="Aubameyang"/>
+      <gol minuto="63" equipo="Bar" jugador="Aubameyang"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 10/05/2022" jornada="36">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Bet" jugador="Canales"/>
+      <gol minuto="57" equipo="Bet" jugador="Willian José"/>
+      <gol minuto="90" equipo="Bet" jugador="Borja Iglesias"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/04/2022" jornada="30">
+    <local>Val</local>
+    <visitante>Cád</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 21/05/2022" jornada="38">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/12/2021" jornada="17">
+    <local>Val</local>
+    <visitante>Elc</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Val" jugador="Guedes"/>
+      <gol minuto="75" equipo="Elc" jugador="Boyé"/>
+      <gol minuto="86" equipo="Val" jugador="Piccini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 31/12/2021" jornada="19">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Val" jugador="Alderete"/>
+      <gol minuto="88" equipo="Esp" jugador="Puado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 13/08/2021" jornada="1">
+    <local>Val</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 05/03/2022" jornada="27">
+    <local>Val</local>
+    <visitante>Gra</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Val" jugador="Guedes"/>
+      <gol minuto="51" equipo="Val" jugador="Maxi Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/04/2022" jornada="34">
+    <local>Val</local>
+    <visitante>Lev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Val" jugador="Duro"/>
+      <gol minuto="81" equipo="Lev" jugador="Duarte"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/10/2021" jornada="10">
+    <local>Val</local>
+    <visitante>Mal</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="2"/>
+    <goleadores>
+      <gol minuto="32" equipo="Mal" jugador="Ángel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/04/2022" jornada="32">
+    <local>Val</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Osa" jugador="Budimir"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2021" jornada="15">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="11" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Ray" jugador="Isi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/09/2021" jornada="5">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Val" jugador="Duro"/>
+      <gol minuto="86" equipo="Rea" jugador="Vinícius"/>
+      <gol minuto="88" equipo="Rea" jugador="Benzema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/02/2022" jornada="23">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 19/01/2022" jornada="21">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Guedes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/10/2021" jornada="12">
+    <local>Val</local>
+    <visitante>Vil</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Val" jugador="Guillamón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 21/12/2021" jornada="4">
+    <local>Vil</local>
+    <visitante>Ala</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Vil" jugador="Dia"/>
+      <gol minuto="76" equipo="Vil" jugador="Dia"/>
+      <gol minuto="18" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="88" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="44" equipo="Ala" jugador="Pere Pons"/>
+      <gol minuto="65" equipo="Ala" jugador="Joselu"/>
+      <gol minuto="79" equipo="Vil" jugador="Yeremy Pino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/04/2022" jornada="31">
+    <local>Vil</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Vil" jugador="Pedraza"/>
+      <gol minuto="43" equipo="Ath" jugador="Raúl García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/01/2022" jornada="20">
+    <local>Vil</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Vil" jugador="Pau Torres"/>
+      <gol minuto="58" equipo="Vil" jugador="Alberto Moreno"/>
+      <gol minuto="67" equipo="Atl" jugador="Kondogbia"/>
+      <gol minuto="10" equipo="Atl" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 27/11/2021" jornada="15">
+    <local>Vil</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="De Jong"/>
+      <gol minuto="88" equipo="Bar" jugador="Memphis"/>
+      <gol minuto="76" equipo="Vil" jugador="Chukwueze"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/10/2021" jornada="8">
+    <local>Vil</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Vil" jugador="Danjuma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 26/10/2021" jornada="11">
+    <local>Vil</local>
+    <visitante>Cád</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Vil" jugador="Pau Torres"/>
+      <gol minuto="14" equipo="Cád" jugador="Lozano"/>
+      <gol minuto="52" equipo="Cád" jugador="Lozano"/>
+      <gol minuto="80" equipo="Vil" jugador="Dia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/03/2022" jornada="28">
+    <local>Vil</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Vil" jugador="Parejo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 22/09/2021" jornada="6">
+    <local>Vil</local>
+    <visitante>Elc</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="60" equipo="Vil" jugador="Danjuma"/>
+      <gol minuto="5" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="19" equipo="Elc" jugador="Mojica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/02/2022" jornada="26">
+    <local>Vil</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="20" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="45" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="53" equipo="Vil" jugador="Yeremy Pino"/>
+      <gol minuto="65" equipo="Esp" jugador="Bare"/>
+      <gol minuto="86" equipo="Vil" jugador="Dia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 07/11/2021" jornada="13">
+    <local>Vil</local>
+    <visitante>Get</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vil" jugador="Manu Trigueros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/08/2021" jornada="1">
+    <local>Vil</local>
+    <visitante>Gra</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+  </partido>
+  <partido fecha="Lunes 03/01/2022" jornada="19">
+    <local>Vil</local>
+    <visitante>Lev</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vil" jugador="Pau Torres"/>
+      <gol minuto="74" equipo="Vil" jugador="Manu Trigueros"/>
+      <gol minuto="8" equipo="Vil" jugador="Dia"/>
+      <gol minuto="37" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="79" equipo="Vil" jugador="Gerard Moreno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/01/2022" jornada="22">
+    <local>Vil</local>
+    <visitante>Mal</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="34" equipo="Vil" jugador="Manu Trigueros"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/10/2021" jornada="9">
+    <local>Vil</local>
+    <visitante>Osa</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vil" jugador="Gerard Moreno"/>
+      <gol minuto="26" equipo="Osa" jugador="Torró"/>
+      <gol minuto="87" equipo="Osa" jugador="Chimy Ávila"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/12/2021" jornada="17">
+    <local>Vil</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Vil" jugador="Mandi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/02/2022" jornada="24">
+    <local>Vil</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 15/05/2022" jornada="37">
+    <local>Vil</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Vil" jugador="Coquelin"/>
+      <gol minuto="73" equipo="Rel" jugador="Zubimendi"/>
+      <gol minuto="56" equipo="Rel" jugador="Isak"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/05/2022" jornada="35">
+    <local>Vil</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Vil" jugador="Lo Celso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 19/04/2022" jornada="33">
+    <local>Vil</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vil" jugador="Danjuma"/>
+    </goleadores>
+  </partido>
+</liga>

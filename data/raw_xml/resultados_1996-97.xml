@@ -1,0 +1,4753 @@
+<?xml version="1.0" ?>
+<liga temporada="1996-97">
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Ath</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="40" equipo="Atl" jugador="Pantić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/1996" jornada="14">
+    <local>Ath</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="62" equipo="Ath" jugador="José Mari"/>
+      <gol minuto="25" equipo="Bar" jugador="Abelardo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Ath</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Bet" jugador="Olías"/>
+      <gol minuto="72" equipo="Bet" jugador="Kowalczyk"/>
+      <gol minuto="4" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Ath</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Ath" jugador="Alkiza"/>
+      <gol minuto="7" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="76" equipo="Cel" jugador="Berges"/>
+      <gol minuto="51" equipo="Cel" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Ath</local>
+    <visitante>Com</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="44" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="50" equipo="Com" jugador="Popov"/>
+      <gol minuto="84" equipo="Com" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/06/1997" jornada="41">
+    <local>Ath</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/1996" jornada="4">
+    <local>Ath</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Ath" jugador="Bolo"/>
+      <gol minuto="81" equipo="Esp" jugador="Pochettino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Ath</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Ath</local>
+    <visitante>Hér</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ath" jugador="Larrainzar"/>
+      <gol minuto="60" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="83" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="19" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="65" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Ath</local>
+    <visitante>Log</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="40" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="71" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="22" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="30" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="67" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Ath</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="67" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="85" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="21" equipo="Ovi" jugador="Gamboa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Ath</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="54" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="47" equipo="Rac" jugador="Arpón"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Ath</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ath" jugador="Carlos García"/>
+      <gol minuto="74" equipo="Ath" jugador="José Mari"/>
+      <gol minuto="72" equipo="Ray" jugador="Ameli"/>
+      <gol minuto="39" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="67" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Ath</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Ath" jugador="Carlos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Ath</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="31" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="24" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="83" equipo="Rel" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Ath</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Ath</local>
+    <visitante>Spo</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="72" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="46" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="57" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Ath</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="17" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Ath</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="77" equipo="Ath" jugador="Etxeberria"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Ath</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Ath</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ath" jugador="Karanka"/>
+      <gol minuto="21" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="17" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="93" equipo="Zar" jugador="Poyet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Atl</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="29" equipo="Ath" jugador="Carlos García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Atl</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="5"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="63" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="40" equipo="Bar" jugador="De la Peña"/>
+      <gol minuto="88" equipo="Bar" jugador="Figo"/>
+      <gol minuto="42" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="58" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Atl</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Atl" jugador="Simeone"/>
+      <gol minuto="9" equipo="Atl" jugador="Juan Carlos"/>
+      <gol minuto="1" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="84" equipo="Bet" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Atl</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="49" equipo="Atl" jugador="Kiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Atl</local>
+    <visitante>Com</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="37" equipo="Atl" jugador="Bejbl"/>
+      <gol minuto="55" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="28" equipo="Com" jugador="Mauro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Atl</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="74" equipo="Dep" jugador="Martins"/>
+      <gol minuto="53" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/1996" jornada="13">
+    <local>Atl</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="61" equipo="Atl" jugador="Santi Denia"/>
+      <gol minuto="48" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="80" equipo="Esp" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Atl</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Atl" jugador="Simeone"/>
+      <gol minuto="20" equipo="Ext" jugador="Pedro José"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 30/09/1996" jornada="5">
+    <local>Atl</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Atl" jugador="Geli"/>
+      <gol minuto="3" equipo="Atl" jugador="Toni Muñoz"/>
+      <gol minuto="89" equipo="Atl" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Atl</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Atl" jugador="Santi Denia"/>
+      <gol minuto="32" equipo="Atl" jugador="Biagini"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Atl</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="72" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/1996" jornada="15">
+    <local>Atl</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Atl</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ray" jugador="Cota"/>
+      <gol minuto="46" equipo="Ray" jugador="Andrijašević"/>
+      <gol minuto="17" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="89" equipo="Atl" jugador="Juan Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 18/01/1997" jornada="20">
+    <local>Atl</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="84" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="46" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="82" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="89" equipo="Rea" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Atl</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="23" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="3" equipo="Rel" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1997" jornada="27">
+    <local>Atl</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="23" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="46" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="1" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="50" equipo="Sev" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 31/03/1997" jornada="31">
+    <local>Atl</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="40" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="65" equipo="Spo" jugador="David Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 23/06/1997" jornada="42">
+    <local>Atl</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ten" jugador="Vivar Dorado"/>
+      <gol minuto="2" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="50" equipo="Ten" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/1997" jornada="29">
+    <local>Atl</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Val" jugador="José Ignacio"/>
+      <gol minuto="26" equipo="Val" jugador="Eskurza"/>
+      <gol minuto="7" equipo="Val" jugador="Ortega"/>
+      <gol minuto="51" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="89" equipo="Val" jugador="Leandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Atl</local>
+    <visitante>Vall</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Atl" jugador="Aguilera"/>
+      <gol minuto="85" equipo="Atl" jugador="Aguilera"/>
+      <gol minuto="84" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="89" equipo="Vall" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Atl</local>
+    <visitante>Zar</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="38" equipo="Atl" jugador="Paunović"/>
+      <gol minuto="44" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="54" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="53" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Bar</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="48" equipo="Bar" jugador="Abelardo"/>
+      <gol minuto="64" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 09/11/1996" jornada="12">
+    <local>Bar</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="29" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="15" equipo="Bar" jugador="Pizzi"/>
+      <gol minuto="61" equipo="Atl" jugador="Vizcaíno"/>
+      <gol minuto="6" equipo="Atl" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Bar</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Bar" jugador="Òscar"/>
+      <gol minuto="74" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="82" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Bar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Nadal"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Bar</local>
+    <visitante>Com</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Bar" jugador="Blanc"/>
+      <gol minuto="24" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="62" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 24/05/1997" jornada="39">
+    <local>Bar</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1996" jornada="2">
+    <local>Bar</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="69" equipo="Esp" jugador="Lardín"/>
+      <gol minuto="89" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/12/1996" jornada="15">
+    <local>Bar</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="40" equipo="Bar" jugador="Popescu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 13/01/1997" jornada="19">
+    <local>Bar</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="15" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="32" equipo="Hér" jugador="Pavličić"/>
+      <gol minuto="42" equipo="Hér" jugador="Višnjić"/>
+      <gol minuto="55" equipo="Hér" jugador="Rodríguez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1996" jornada="8">
+    <local>Bar</local>
+    <visitante>Log</visitante>
+    <resultado local="8" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="42" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="22" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="40" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="82" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Bar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="75" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="89" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="60" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Bar</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Bar</local>
+    <visitante>Ray</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Bar" jugador="Sergi"/>
+      <gol minuto="13" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="34" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="74" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/1997" jornada="37">
+    <local>Bar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="45" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Bar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="88" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="57" equipo="Rel" jugador="Albístegi"/>
+      <gol minuto="74" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Bar</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bar" jugador="Òscar"/>
+      <gol minuto="79" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="67" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="74" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Bar</local>
+    <visitante>Spo</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="44" equipo="Bar" jugador="De la Peña"/>
+      <gol minuto="61" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="89" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Bar</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="78" equipo="Bar" jugador="Popescu"/>
+      <gol minuto="81" equipo="Ten" jugador="Juanele"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/1996" jornada="10">
+    <local>Bar</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="35" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="74" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="52" equipo="Val" jugador="Ferreira"/>
+      <gol minuto="58" equipo="Val" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 18/11/1996" jornada="13">
+    <local>Bar</local>
+    <visitante>Vall</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="55" equipo="Bar" jugador="Bakero"/>
+      <gol minuto="10" equipo="Bar" jugador="Popescu"/>
+      <gol minuto="75" equipo="Bar" jugador="Figo"/>
+      <gol minuto="36" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="30" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="58" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="81" equipo="Bar" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Bar</local>
+    <visitante>Zar</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bar" jugador="Abelardo"/>
+      <gol minuto="44" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="72" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Bet</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Bet" jugador="Roberto Ríos"/>
+      <gol minuto="14" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="85" equipo="Bet" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Bet</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="36" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="53" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="89" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="29" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Bet</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bet" jugador="Jarni"/>
+      <gol minuto="44" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="62" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="80" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="73" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Bet</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="78" equipo="Cel" jugador="Mazinho"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Bet</local>
+    <visitante>Com</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 28/09/1996" jornada="5">
+    <local>Bet</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Bet" jugador="Jarni"/>
+      <gol minuto="79" equipo="Dep" jugador="Madar"/>
+      <gol minuto="70" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/1996" jornada="10">
+    <local>Bet</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bet" jugador="Pier"/>
+      <gol minuto="18" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Bet</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="69" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="83" equipo="Bet" jugador="Pier"/>
+      <gol minuto="71" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="81" equipo="Ext" jugador="Duré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Bet</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="7" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="89" equipo="Hér" jugador="Miljanović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Bet</local>
+    <visitante>Log</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bet" jugador="Roberto Ríos"/>
+      <gol minuto="67" equipo="Bet" jugador="Roberto Ríos"/>
+      <gol minuto="18" equipo="Bet" jugador="Vidaković"/>
+      <gol minuto="37" equipo="Bet" jugador="Pier"/>
+      <gol minuto="71" equipo="Bet" jugador="Pier"/>
+      <gol minuto="49" equipo="Log" jugador="Clotet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/1997" jornada="30">
+    <local>Bet</local>
+    <visitante>Ovi</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bet" jugador="Pier"/>
+      <gol minuto="89" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="52" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="87" equipo="Bet" jugador="Bjelica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Bet</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="43" equipo="Rac" jugador="Merino"/>
+      <gol minuto="88" equipo="Rac" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1996" jornada="8">
+    <local>Bet</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bet" jugador="Pier"/>
+      <gol minuto="30" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="71" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 16/09/1996" jornada="3">
+    <local>Bet</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="44" equipo="Rea" jugador="Roberto Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Bet</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bet" jugador="Olías"/>
+      <gol minuto="42" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="25" equipo="Rel" jugador="Luis Pérez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 17/05/1997" jornada="38">
+    <local>Bet</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Bet" jugador="Jarni"/>
+      <gol minuto="46" equipo="Bet" jugador="Jarni"/>
+      <gol minuto="86" equipo="Bet" jugador="Cañas"/>
+      <gol minuto="89" equipo="Sev" jugador="Galván"/>
+      <gol minuto="88" equipo="Sev" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/05/1997" jornada="40">
+    <local>Bet</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Spo" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Bet</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="50" equipo="Bet" jugador="Pier"/>
+      <gol minuto="67" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="89" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="28" equipo="Ten" jugador="Chano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 06/01/1997" jornada="18">
+    <local>Bet</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Val" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/06/1997" jornada="42">
+    <local>Bet</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Bet" jugador="Kowalczyk"/>
+      <gol minuto="73" equipo="Bet" jugador="Finidi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Bet</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="36" equipo="Zar" jugador="Nayim"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Cel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Ath" jugador="Etxeberria"/>
+      <gol minuto="65" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/02/1997" jornada="22">
+    <local>Cel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Atl" jugador="Prodan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 19/05/1997" jornada="38">
+    <local>Cel</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Òscar"/>
+      <gol minuto="38" equipo="Bar" jugador="Òscar"/>
+      <gol minuto="64" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="58" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Cel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Bet" jugador="Alexis"/>
+      <gol minuto="89" equipo="Bet" jugador="Olías"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Cel</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="12" equipo="Com" jugador="Passi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Cel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Cel</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Cel" jugador="Alejo"/>
+      <gol minuto="39" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="60" equipo="Esp" jugador="Lardín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Cel</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ext" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Cel</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Cel" jugador="Alejo"/>
+      <gol minuto="28" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="82" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Cel</local>
+    <visitante>Log</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Cel" jugador="Geli"/>
+      <gol minuto="80" equipo="Cel" jugador="Mazinho"/>
+      <gol minuto="40" equipo="Cel" jugador="Dutuel"/>
+      <gol minuto="44" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Cel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="27" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="47" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="63" equipo="Cel" jugador="Del Solar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1996" jornada="8">
+    <local>Cel</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rac" jugador="Billabona"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Cel</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="50" equipo="Cel" jugador="Revivo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Cel</local>
+    <visitante>Rea</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="10" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="89" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="48" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/03/1997" jornada="30">
+    <local>Cel</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="31" equipo="Cel" jugador="Merino"/>
+      <gol minuto="14" equipo="Rel" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Cel</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Cel" jugador="Ratković"/>
+      <gol minuto="56" equipo="Cel" jugador="Ratković"/>
+      <gol minuto="12" equipo="Cel" jugador="Juan Sánchez"/>
+      <gol minuto="59" equipo="Sev" jugador="Tevenet"/>
+      <gol minuto="74" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="82" equipo="Sev" jugador="Mornar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Cel</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Cel" jugador="Revivo"/>
+      <gol minuto="20" equipo="Spo" jugador="Bango"/>
+      <gol minuto="89" equipo="Cel" jugador="Javi González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/1997" jornada="32">
+    <local>Cel</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="69" equipo="Cel" jugador="Mazinho"/>
+      <gol minuto="6" equipo="Cel" jugador="Merino"/>
+      <gol minuto="31" equipo="Ten" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Cel</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="48" equipo="Val" jugador="Leandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 04/01/1997" jornada="18">
+    <local>Cel</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Vall" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Cel</local>
+    <visitante>Zar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Com</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Com" jugador="Penev"/>
+      <gol minuto="72" equipo="Ath" jugador="Julen Guerrero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1996" jornada="2">
+    <local>Com</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="27" equipo="Com" jugador="Nacho"/>
+      <gol minuto="65" equipo="Com" jugador="Ohen"/>
+      <gol minuto="44" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="89" equipo="Com" jugador="Viedma"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Com</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Bar" jugador="Giovanni"/>
+      <gol minuto="64" equipo="Bar" jugador="Figo"/>
+      <gol minuto="36" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="46" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="73" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Com</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="7" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Com</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Com" jugador="Ohen"/>
+      <gol minuto="38" equipo="Com" jugador="Penev"/>
+      <gol minuto="33" equipo="Cel" jugador="Bajčetić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/1996" jornada="13">
+    <local>Com</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Com</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Com" jugador="William Amaral"/>
+      <gol minuto="37" equipo="Com" jugador="Chiba"/>
+      <gol minuto="84" equipo="Esp" jugador="Ouédec"/>
+      <gol minuto="88" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Com</local>
+    <visitante>Ext</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Com" jugador="Nacho"/>
+      <gol minuto="20" equipo="Com" jugador="Ohen"/>
+      <gol minuto="5" equipo="Com" jugador="Penev"/>
+      <gol minuto="65" equipo="Com" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Com</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Com" jugador="Ohen"/>
+      <gol minuto="81" equipo="Com" jugador="Ohen"/>
+      <gol minuto="58" equipo="Hér" jugador="Amato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Com</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Com" jugador="Fabiano"/>
+      <gol minuto="43" equipo="Log" jugador="Baltierra"/>
+      <gol minuto="89" equipo="Log" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Com</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ovi" jugador="Dubovský"/>
+      <gol minuto="24" equipo="Ovi" jugador="Maqueda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Com</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Com" jugador="Ohen"/>
+      <gol minuto="64" equipo="Rac" jugador="Schürrer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Com</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Com" jugador="Penev"/>
+      <gol minuto="42" equipo="Ray" jugador="Ezequiel Castillo"/>
+      <gol minuto="84" equipo="Com" jugador="Chiba"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Com</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Com" jugador="Penev"/>
+      <gol minuto="22" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="78" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Com</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Com" jugador="Christensen"/>
+      <gol minuto="87" equipo="Rel" jugador="Gracia"/>
+      <gol minuto="89" equipo="Rel" jugador="Aldeondo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 18/02/1997" jornada="25">
+    <local>Com</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Com" jugador="Penev"/>
+      <gol minuto="62" equipo="Com" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Com</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Com" jugador="Fabiano"/>
+      <gol minuto="75" equipo="Spo" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Com</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Com" jugador="Bellido"/>
+      <gol minuto="14" equipo="Ten" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Com</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Val" jugador="Moya"/>
+      <gol minuto="84" equipo="Val" jugador="Romário"/>
+      <gol minuto="89" equipo="Val" jugador="Romário"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Com</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Com" jugador="Penev"/>
+      <gol minuto="37" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Com</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Com" jugador="Fabiano"/>
+      <gol minuto="56" equipo="Com" jugador="Ohen"/>
+      <gol minuto="89" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Dep</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Dep" jugador="Martins"/>
+      <gol minuto="88" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="26" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Dep</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="7" rojas="1"/>
+  </partido>
+  <partido fecha="Sábado 04/01/1997" jornada="18">
+    <local>Dep</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bar" jugador="Pizzi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Dep</local>
+    <visitante>Bet</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Dep" jugador="Nando"/>
+      <gol minuto="36" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="58" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Dep</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Dep" jugador="Renaldo"/>
+      <gol minuto="41" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="64" equipo="Cel" jugador="Mostovoi"/>
+      <gol minuto="20" equipo="Cel" jugador="Juan Sánchez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Dep</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Dep</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Dep" jugador="Madar"/>
+      <gol minuto="47" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Dep</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Dep" jugador="Begiristain"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Dep</local>
+    <visitante>Hér</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Dep" jugador="Martins"/>
+      <gol minuto="44" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="59" equipo="Dep" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Dep</local>
+    <visitante>Log</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Dep" jugador="Armando"/>
+      <gol minuto="51" equipo="Dep" jugador="Martins"/>
+      <gol minuto="29" equipo="Dep" jugador="Manjarín"/>
+      <gol minuto="32" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="40" equipo="Log" jugador="Castaño"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Dep</local>
+    <visitante>Ovi</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Dep" jugador="Martins"/>
+      <gol minuto="35" equipo="Dep" jugador="Renaldo"/>
+      <gol minuto="79" equipo="Dep" jugador="Renaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Dep</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Dep" jugador="Martins"/>
+      <gol minuto="57" equipo="Dep" jugador="Renaldo"/>
+      <gol minuto="44" equipo="Rac" jugador="Txema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Dep</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="75" equipo="Dep" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/08/1996" jornada="1">
+    <local>Dep</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="3"/>
+    <goleadores>
+      <gol minuto="22" equipo="Dep" jugador="Martins"/>
+      <gol minuto="78" equipo="Rea" jugador="Roberto Carlos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Dep</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Dep" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 03/05/1997" jornada="36">
+    <local>Dep</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="78" equipo="Dep" jugador="Manjarín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Dep</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Dep</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Dep</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Dep" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Dep</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="3" equipo="Vall" jugador="Benjamín"/>
+      <gol minuto="52" equipo="Vall" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Dep</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="33" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Esp</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Ath" jugador="Larrazabal"/>
+      <gol minuto="60" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 17/04/1997" jornada="34">
+    <local>Esp</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Esp</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Esp</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Esp</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Esp</local>
+    <visitante>Com</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Com" jugador="Fabiano"/>
+      <gol minuto="62" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/03/1997" jornada="29">
+    <local>Esp</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Dep" jugador="Naybet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1996" jornada="5">
+    <local>Esp</local>
+    <visitante>Ext</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="37" equipo="Esp" jugador="Bogdanović"/>
+      <gol minuto="69" equipo="Esp" jugador="Pralija"/>
+      <gol minuto="17" equipo="Esp" jugador="Lardín"/>
+      <gol minuto="46" equipo="Esp" jugador="Lardín"/>
+      <gol minuto="65" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="77" equipo="Ext" jugador="Ito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Esp</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Esp" jugador="Pralija"/>
+      <gol minuto="65" equipo="Esp" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Esp</local>
+    <visitante>Log</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Esp" jugador="Cristóbal"/>
+      <gol minuto="66" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="87" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="26" equipo="Esp" jugador="Răducioiu"/>
+      <gol minuto="40" equipo="Esp" jugador="Lardín"/>
+      <gol minuto="48" equipo="Log" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 14/04/1997" jornada="33">
+    <local>Esp</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="61" equipo="Esp" jugador="Lardín"/>
+      <gol minuto="48" equipo="Esp" jugador="Tamudo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Esp</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Esp</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 03/03/1997" jornada="27">
+    <local>Esp</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="94" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Esp</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Esp" jugador="Arteaga"/>
+      <gol minuto="67" equipo="Esp" jugador="Arteaga"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 20/01/1997" jornada="20">
+    <local>Esp</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Esp" jugador="Lardín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/09/1996" jornada="1">
+    <local>Esp</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="67" equipo="Spo" jugador="Villarroya"/>
+      <gol minuto="89" equipo="Spo" jugador="Bango"/>
+      <gol minuto="81" equipo="Spo" jugador="Velasco"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Esp</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 21/06/1997" jornada="42">
+    <local>Esp</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Esp" jugador="Cobos"/>
+      <gol minuto="57" equipo="Esp" jugador="Pralija"/>
+      <gol minuto="51" equipo="Esp" jugador="Ouédec"/>
+      <gol minuto="77" equipo="Val" jugador="Iván Campo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Esp</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Esp" jugador="Benítez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Esp</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="44" equipo="Esp" jugador="Pochettino"/>
+      <gol minuto="31" equipo="Esp" jugador="Francisco"/>
+      <gol minuto="79" equipo="Esp" jugador="Ouédec"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Ext</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ext" jugador="Juanito"/>
+      <gol minuto="24" equipo="Ath" jugador="Alkiza"/>
+      <gol minuto="83" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Ext</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ext" jugador="Duré"/>
+      <gol minuto="23" equipo="Atl" jugador="Prodan"/>
+      <gol minuto="69" equipo="Atl" jugador="Juan Carlos"/>
+      <gol minuto="63" equipo="Atl" jugador="Kiko"/>
+      <gol minuto="66" equipo="Atl" jugador="Kiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 05/05/1997" jornada="36">
+    <local>Ext</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ext" jugador="Silvani"/>
+      <gol minuto="33" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="81" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="10" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 09/09/1996" jornada="2">
+    <local>Ext</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Jarni"/>
+      <gol minuto="57" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="82" equipo="Bet" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Ext</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ext" jugador="Silvani"/>
+      <gol minuto="51" equipo="Ext" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Ext</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Ext" jugador="Pineda"/>
+      <gol minuto="3" equipo="Com" jugador="Fabiano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/1997" jornada="21">
+    <local>Ext</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ext" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Ext</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Ext" jugador="Padilla"/>
+      <gol minuto="19" equipo="Ext" jugador="Silvani"/>
+      <gol minuto="89" equipo="Ext" jugador="Ferreira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 03/02/1997" jornada="22">
+    <local>Ext</local>
+    <visitante>Hér</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Ext</local>
+    <visitante>Log</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ext" jugador="Pedro José"/>
+      <gol minuto="84" equipo="Ext" jugador="Duré"/>
+      <gol minuto="89" equipo="Ext" jugador="Quique Estebaranz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Ext</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Ovi" jugador="Paulo Bento"/>
+      <gol minuto="11" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Ext</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Ext" jugador="Antonio"/>
+      <gol minuto="25" equipo="Rac" jugador="Correa"/>
+      <gol minuto="86" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Ext</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Ext" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Ext</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Ext</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ext" jugador="Duré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Ext</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Sev" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 23/11/1996" jornada="14">
+    <local>Ext</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="1"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ext" jugador="Duré"/>
+      <gol minuto="49" equipo="Spo" jugador="Julio Salinas"/>
+      <gol minuto="51" equipo="Spo" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Ext</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ext" jugador="Duré"/>
+      <gol minuto="26" equipo="Ext" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 15/04/1997" jornada="34">
+    <local>Ext</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Ext</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Ext" jugador="Ferreira"/>
+      <gol minuto="17" equipo="Vall" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Ext</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Ext" jugador="Gluščević"/>
+      <gol minuto="70" equipo="Ext" jugador="Gluščević"/>
+      <gol minuto="89" equipo="Zar" jugador="Gustavo López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Hér</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Hér" jugador="Pavličić"/>
+      <gol minuto="21" equipo="Hér" jugador="Diego López"/>
+      <gol minuto="19" equipo="Hér" jugador="Alfaro"/>
+      <gol minuto="51" equipo="Ath" jugador="Andrinúa"/>
+      <gol minuto="40" equipo="Ath" jugador="Kortina"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 22/02/1997" jornada="26">
+    <local>Hér</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Prodan"/>
+      <gol minuto="28" equipo="Atl" jugador="Pantić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Hér</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="13" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Hér" jugador="Pavličić"/>
+      <gol minuto="37" equipo="Hér" jugador="Paquito"/>
+      <gol minuto="3" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Hér</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="75" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Hér</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="5" equipo="Cel" jugador="Merino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Hér</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Hér</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Dep" jugador="Martins"/>
+      <gol minuto="72" equipo="Dep" jugador="Martins"/>
+      <gol minuto="44" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Hér</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Hér" jugador="Diego López"/>
+      <gol minuto="89" equipo="Esp" jugador="Tamudo"/>
+      <gol minuto="76" equipo="Esp" jugador="Luis Cembranos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Hér</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Hér" jugador="Pavličić"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Hér</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Hér</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Hér" jugador="Pavličić"/>
+      <gol minuto="44" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Hér</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Hér</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Hér</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Hér" jugador="Miljanović"/>
+      <gol minuto="5" equipo="Hér" jugador="Alfaro"/>
+      <gol minuto="20" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="11" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="53" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Hér</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Hér" jugador="Alfaro"/>
+      <gol minuto="66" equipo="Rel" jugador="Pikabea"/>
+      <gol minuto="87" equipo="Hér" jugador="Maestri"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 09/12/1996" jornada="16">
+    <local>Hér</local>
+    <visitante>Sev</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="10" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Hér" jugador="Maestri"/>
+      <gol minuto="89" equipo="Hér" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Hér</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Hér" jugador="Amato"/>
+      <gol minuto="27" equipo="Spo" jugador="Nikiforov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Hér</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Hér" jugador="Pavličić"/>
+      <gol minuto="53" equipo="Hér" jugador="Paquito"/>
+      <gol minuto="59" equipo="Ten" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Hér</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Val" jugador="Farinós"/>
+      <gol minuto="73" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Hér</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Hér" jugador="Stanković"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Hér</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="67" equipo="Hér" jugador="Janković"/>
+      <gol minuto="75" equipo="Zar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Log</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Log" jugador="Rubén Sosa"/>
+      <gol minuto="10" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="74" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="38" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="67" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/1996" jornada="4">
+    <local>Log</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Atl" jugador="Bejbl"/>
+      <gol minuto="44" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="68" equipo="Atl" jugador="Kiko"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Log</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Bar" jugador="Amunike"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Log</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="26" equipo="Log" jugador="Rubén Sosa"/>
+      <gol minuto="65" equipo="Log" jugador="Manel"/>
+      <gol minuto="88" equipo="Bet" jugador="Bjelica"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Log</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="75" equipo="Cel" jugador="Gudelj"/>
+      <gol minuto="68" equipo="Cel" jugador="Geli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Log</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Log" jugador="Clotet"/>
+      <gol minuto="15" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Log</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Log" jugador="Rubén Sosa"/>
+      <gol minuto="68" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Log</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Log" jugador="Tejera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Log</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Log</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Log" jugador="Morales"/>
+      <gol minuto="60" equipo="Log" jugador="Morales"/>
+      <gol minuto="44" equipo="Hér" jugador="Višnjić"/>
+      <gol minuto="27" equipo="Hér" jugador="Paquito"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Log</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="53" equipo="Log" jugador="Canals"/>
+      <gol minuto="54" equipo="Ovi" jugador="Borrelli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Log</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Log" jugador="Manel"/>
+      <gol minuto="80" equipo="Rac" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Log</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ray" jugador="Klimowicz"/>
+      <gol minuto="74" equipo="Ray" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Log</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rea" jugador="Víctor"/>
+      <gol minuto="67" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Log</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Log" jugador="Canals"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Log</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Log" jugador="Clotet"/>
+      <gol minuto="89" equipo="Log" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1996" jornada="7">
+    <local>Log</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Spo" jugador="Oliete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1996" jornada="2">
+    <local>Log</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="13" equipo="Ten" jugador="Felipe"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1997" jornada="27">
+    <local>Log</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Log" jugador="Castaño"/>
+      <gol minuto="70" equipo="Log" jugador="Abadía"/>
+      <gol minuto="12" equipo="Val" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Log</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Vall" jugador="Peternac"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Log</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="52" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="88" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="87" equipo="Log" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Ovi</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Ovi" jugador="Paulo Bento"/>
+      <gol minuto="61" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 05/04/1997" jornada="32">
+    <local>Ovi</local>
+    <visitante>Atl</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="44" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="3" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="48" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Ovi</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="47" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="50" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="76" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="89" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Ovi</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Ovi" jugador="Manel"/>
+      <gol minuto="27" equipo="Bet" jugador="Kowalczyk"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Ovi</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ovi" jugador="Maqueda"/>
+      <gol minuto="49" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="2" equipo="Cel" jugador="Mostovoi"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Ovi</local>
+    <visitante>Com</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="39" equipo="Ovi" jugador="Stojkovski"/>
+      <gol minuto="4" equipo="Ovi" jugador="Iván Ania"/>
+      <gol minuto="64" equipo="Com" jugador="Ohen"/>
+      <gol minuto="81" equipo="Com" jugador="Manuel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1996" jornada="7">
+    <local>Ovi</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Dep" jugador="Donato"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Ovi</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="30" equipo="Ovi" jugador="Dubovský"/>
+      <gol minuto="77" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="6" equipo="Esp" jugador="Lardín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Ovi</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Ovi</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="40" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Ovi</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ovi" jugador="Maqueda"/>
+      <gol minuto="47" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="89" equipo="Log" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 17/04/1997" jornada="34">
+    <local>Ovi</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ovi" jugador="Iván Iglesias"/>
+      <gol minuto="49" equipo="Rac" jugador="Merino"/>
+      <gol minuto="33" equipo="Rac" jugador="Zalazar"/>
+      <gol minuto="17" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="85" equipo="Rac" jugador="Correa"/>
+      <gol minuto="89" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Ovi</local>
+    <visitante>Ray</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="43" equipo="Ray" jugador="Ezequiel Castillo"/>
+      <gol minuto="77" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Ovi</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="84" equipo="Ovi" jugador="Gamboa"/>
+      <gol minuto="43" equipo="Rea" jugador="Víctor"/>
+      <gol minuto="15" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="14" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Ovi</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Ovi</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Maqueda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Ovi</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Ovi</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="25" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="35" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="86" equipo="Ten" jugador="Pablo Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Ovi</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Ovi" jugador="Rivas"/>
+      <gol minuto="18" equipo="Ovi" jugador="Maqueda"/>
+      <gol minuto="67" equipo="Ovi" jugador="Maqueda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Ovi</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Ovi" jugador="Maqueda"/>
+      <gol minuto="17" equipo="Vall" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Ovi</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1996" jornada="5">
+    <local>Rac</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="28" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="70" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="39" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Rac</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rac" jugador="Merino"/>
+      <gol minuto="34" equipo="Atl" jugador="Caminero"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Rac</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="75" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 02/11/1996" jornada="11">
+    <local>Rac</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="88" equipo="Bet" jugador="Sabas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Rac</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rac" jugador="Txema"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Rac</local>
+    <visitante>Com</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Rac" jugador="Alberto"/>
+      <gol minuto="47" equipo="Com" jugador="Fabiano"/>
+      <gol minuto="58" equipo="Rac" jugador="Zalazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Rac</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Dep" jugador="Madar"/>
+      <gol minuto="78" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Rac</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rac" jugador="Alberto"/>
+      <gol minuto="68" equipo="Esp" jugador="Ouédec"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Rac</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rac" jugador="Diego López"/>
+      <gol minuto="82" equipo="Rac" jugador="Correa"/>
+      <gol minuto="80" equipo="Ext" jugador="Basualdo"/>
+      <gol minuto="11" equipo="Ext" jugador="Duré"/>
+      <gol minuto="40" equipo="Ext" jugador="Pineda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Rac</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Rac" jugador="Correa"/>
+      <gol minuto="74" equipo="Hér" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Rac</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Rac" jugador="Fayzulin"/>
+      <gol minuto="19" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="83" equipo="Log" jugador="Rubén Sosa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Rac</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="77" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Rac</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rac" jugador="Alberto"/>
+      <gol minuto="87" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1996" jornada="7">
+    <local>Rac</local>
+    <visitante>Rea</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="80" equipo="Rac" jugador="Schürrer"/>
+      <gol minuto="70" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="83" equipo="Rea" jugador="Mijatović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Rac</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="12" equipo="Rac" jugador="Zalazar"/>
+      <gol minuto="1" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="26" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Rac</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rac" jugador="Alberto"/>
+      <gol minuto="72" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="1" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="27" equipo="Sev" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Rac</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="82" equipo="Rac" jugador="Esteban Torre"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Rac</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Ten" jugador="Ballesteros"/>
+      <gol minuto="21" equipo="Ten" jugador="Pinilla"/>
+      <gol minuto="76" equipo="Rac" jugador="Fayzulin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Rac</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rac" jugador="Álvaro Cervera"/>
+      <gol minuto="40" equipo="Val" jugador="Romário"/>
+      <gol minuto="32" equipo="Val" jugador="Vlaović"/>
+      <gol minuto="79" equipo="Rac" jugador="Zalazar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Rac</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="74" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Rac</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="65" equipo="Rac" jugador="Merino"/>
+      <gol minuto="75" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="32" equipo="Zar" jugador="Garitano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Ray</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Ray" jugador="Moreau"/>
+      <gol minuto="70" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Ray</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Ray" jugador="Klimowicz"/>
+      <gol minuto="86" equipo="Atl" jugador="Prodan"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Ray</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ray" jugador="Klimowicz"/>
+      <gol minuto="8" equipo="Bar" jugador="Stoichkov"/>
+      <gol minuto="86" equipo="Bar" jugador="Roger"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Ray</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="4"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="53" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="73" equipo="Bet" jugador="Pier"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Ray</local>
+    <visitante>Cel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="79" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="18" equipo="Ray" jugador="Radchenko"/>
+      <gol minuto="85" equipo="Ray" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/12/1996" jornada="16">
+    <local>Ray</local>
+    <visitante>Com</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1997" jornada="27">
+    <local>Ray</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Dep" jugador="Martins"/>
+      <gol minuto="20" equipo="Dep" jugador="Rivaldo"/>
+      <gol minuto="78" equipo="Ray" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Ray</local>
+    <visitante>Esp</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Esp" jugador="Pochettino"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Ray</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ray" jugador="Andrijašević"/>
+      <gol minuto="61" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1996" jornada="7">
+    <local>Ray</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ray" jugador="Andrijašević"/>
+      <gol minuto="39" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="9" equipo="Hér" jugador="Alfaro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Ray</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="67" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 27/10/1996" jornada="10">
+    <local>Ray</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ray" jugador="Ezequiel Castillo"/>
+      <gol minuto="8" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="24" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="85" equipo="Ovi" jugador="Iván Ania"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Ray</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Ray</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ray" jugador="Ezequiel Castillo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Ray</local>
+    <visitante>Rel</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 05/03/1997" jornada="18">
+    <local>Ray</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="49" equipo="Ray" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Ray</local>
+    <visitante>Spo</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Spo" jugador="David Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Ray</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Ray" jugador="Moreau"/>
+      <gol minuto="62" equipo="Ten" jugador="Vivar Dorado"/>
+      <gol minuto="89" equipo="Ten" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 31/05/1997" jornada="40">
+    <local>Ray</local>
+    <visitante>Val</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="60" equipo="Ray" jugador="José María"/>
+      <gol minuto="25" equipo="Ray" jugador="Klimowicz"/>
+      <gol minuto="41" equipo="Ray" jugador="Klimowicz"/>
+      <gol minuto="89" equipo="Val" jugador="Ferreira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Ray</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="49" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="89" equipo="Ray" jugador="Klimowicz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Ray</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Ray" jugador="Andrijašević"/>
+      <gol minuto="54" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Rea</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/06/1997" jornada="41">
+    <local>Rea</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="43" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="56" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="36" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="64" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/12/1996" jornada="16">
+    <local>Rea</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="24" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/1997" jornada="24">
+    <local>Rea</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Rea" jugador="Panucci"/>
+      <gol minuto="18" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="60" equipo="Bet" jugador="Finidi"/>
+      <gol minuto="6" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Rea</local>
+    <visitante>Cel</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="54" equipo="Rea" jugador="Redondo"/>
+      <gol minuto="69" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="74" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 07/04/1997" jornada="32">
+    <local>Rea</local>
+    <visitante>Com</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Rea</local>
+    <visitante>Dep</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Panucci"/>
+      <gol minuto="52" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="65" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="15" equipo="Dep" jugador="Flávio Conceição"/>
+      <gol minuto="50" equipo="Dep" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 01/10/1996" jornada="6">
+    <local>Rea</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="26" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/06/1997" jornada="40">
+    <local>Rea</local>
+    <visitante>Ext</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="59" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="9" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="89" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Rea</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="28" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="71" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 10/11/1996" jornada="12">
+    <local>Rea</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Rea</local>
+    <visitante>Ovi</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="66" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="59" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="61" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="89" equipo="Rea" jugador="Víctor"/>
+      <gol minuto="87" equipo="Ovi" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 10/03/1997" jornada="28">
+    <local>Rea</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="68" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="65" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="44" equipo="Rac" jugador="Correa"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Rea</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Rea</local>
+    <visitante>Rel</visitante>
+    <resultado local="6" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="87" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="68" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="89" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="10" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Rea</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="83" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="44" equipo="Rea" jugador="Seedorf"/>
+      <gol minuto="89" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="59" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="20" equipo="Sev" jugador="Oulida"/>
+      <gol minuto="1" equipo="Sev" jugador="José Mari"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 04/05/1997" jornada="36">
+    <local>Rea</local>
+    <visitante>Spo</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="38" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="71" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="9" equipo="Spo" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/1996" jornada="10">
+    <local>Rea</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 24/11/1996" jornada="14">
+    <local>Rea</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="74" equipo="Rea" jugador="Raúl"/>
+      <gol minuto="15" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="21" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="60" equipo="Rea" jugador="Šuker"/>
+      <gol minuto="9" equipo="Val" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Rea</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="9" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Rea</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Rea" jugador="Hierro"/>
+      <gol minuto="43" equipo="Rea" jugador="Hierro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Rel</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 18/05/1997" jornada="38">
+    <local>Rel</local>
+    <visitante>Atl</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="84" equipo="Atl" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 20/02/1997" jornada="25">
+    <local>Rel</local>
+    <visitante>Bar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="87" equipo="Rel" jugador="De Pedro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Rel</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bet" jugador="Josete"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Rel</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="72" equipo="Cel" jugador="Prieto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Rel</local>
+    <visitante>Com</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="70" equipo="Com" jugador="Ohen"/>
+      <gol minuto="71" equipo="Rel" jugador="Mutiu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 29/03/1997" jornada="31">
+    <local>Rel</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Rel" jugador="Aranzábal"/>
+      <gol minuto="66" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Rel</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Rel" jugador="Mild"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/10/1996" jornada="7">
+    <local>Rel</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="36" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="72" equipo="Rel" jugador="Gracia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Rel</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="6" rojas="2"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="82" equipo="Rel" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Rel</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="De Paula"/>
+      <gol minuto="10" equipo="Rel" jugador="Gracia"/>
+      <gol minuto="3" equipo="Log" jugador="Kelly"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Rel</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Rel" jugador="Craioveanu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Rel</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Rel" jugador="De Pedro"/>
+      <gol minuto="69" equipo="Rel" jugador="Idiakez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Rel</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="32" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="34" equipo="Rel" jugador="Craioveanu"/>
+      <gol minuto="40" equipo="Ray" jugador="De Quintana"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 17/03/1997" jornada="29">
+    <local>Rel</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="71" equipo="Rel" jugador="Mutiu"/>
+      <gol minuto="47" equipo="Rea" jugador="Roberto Carlos"/>
+      <gol minuto="40" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Rel</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Rel</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="4" equipo="Rel" jugador="Kovačević"/>
+      <gol minuto="30" equipo="Spo" jugador="Tomás"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/06/1997" jornada="40">
+    <local>Rel</local>
+    <visitante>Ten</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Rel" jugador="De Pedro"/>
+      <gol minuto="36" equipo="Rel" jugador="Mutiu"/>
+      <gol minuto="51" equipo="Rel" jugador="Mutiu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/02/1997" jornada="23">
+    <local>Rel</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Val" jugador="Karpin"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 28/09/1996" jornada="5">
+    <local>Rel</local>
+    <visitante>Vall</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 05/01/1997" jornada="18">
+    <local>Rel</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Rel" jugador="Gracia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Sev</local>
+    <visitante>Ath</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="87" equipo="Sev" jugador="Rafa Paz"/>
+      <gol minuto="37" equipo="Sev" jugador="Tevenet"/>
+      <gol minuto="69" equipo="Sev" jugador="Salva"/>
+      <gol minuto="80" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="4" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 03/10/1996" jornada="6">
+    <local>Sev</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Sev</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bar" jugador="Luis Enrique"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Sev</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="56" equipo="Bet" jugador="Olías"/>
+      <gol minuto="54" equipo="Bet" jugador="Alfonso"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Sev</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Sev" jugador="Oulida"/>
+      <gol minuto="72" equipo="Sev" jugador="Prosinečki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 23/09/1996" jornada="4">
+    <local>Sev</local>
+    <visitante>Com</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Sev</local>
+    <visitante>Dep</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Dep" jugador="Martins"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Sev</local>
+    <visitante>Esp</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="68" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="56" equipo="Sev" jugador="Oulida"/>
+      <gol minuto="78" equipo="Esp" jugador="Ouédec"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/1997" jornada="33">
+    <local>Sev</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Sev</local>
+    <visitante>Hér</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="13" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="55" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="87" equipo="Sev" jugador="Loren"/>
+      <gol minuto="89" equipo="Sev" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Sev</local>
+    <visitante>Log</visitante>
+    <resultado local="1" visitante="4"/>
+    <tarjetas amarillas="8" rojas="2"/>
+    <goleadores>
+      <gol minuto="85" equipo="Sev" jugador="Salva"/>
+      <gol minuto="44" equipo="Log" jugador="Rubén Sosa"/>
+      <gol minuto="43" equipo="Log" jugador="Marković"/>
+      <gol minuto="70" equipo="Log" jugador="Marković"/>
+      <gol minuto="89" equipo="Log" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Sev</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Prosinečki"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Sev</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="1"/>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Sev</local>
+    <visitante>Ray</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Sev" jugador="Loren"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Sev</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Sev" jugador="Salva"/>
+      <gol minuto="19" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="60" equipo="Rea" jugador="Mijatović"/>
+      <gol minuto="28" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Sev</local>
+    <visitante>Rel</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="1" equipo="Sev" jugador="Salva"/>
+      <gol minuto="52" equipo="Sev" jugador="Salva"/>
+      <gol minuto="89" equipo="Rel" jugador="De Pedro"/>
+      <gol minuto="85" equipo="Rel" jugador="Mutiu"/>
+      <gol minuto="84" equipo="Rel" jugador="Gracia"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Sev</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="49" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="86" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="89" equipo="Spo" jugador="Ronald Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/1997" jornada="24">
+    <local>Sev</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Sev" jugador="Marcos"/>
+      <gol minuto="73" equipo="Sev" jugador="Salva"/>
+      <gol minuto="53" equipo="Ten" jugador="Jokanović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Sev</local>
+    <visitante>Val</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Val" jugador="Fernando"/>
+      <gol minuto="73" equipo="Val" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Sev</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="22" equipo="Sev" jugador="José Mari"/>
+      <gol minuto="81" equipo="Sev" jugador="Salva"/>
+      <gol minuto="31" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="75" equipo="Vall" jugador="Quevedo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Sev</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Sev" jugador="Mornar"/>
+      <gol minuto="42" equipo="Zar" jugador="Gustavo López"/>
+      <gol minuto="48" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Spo</local>
+    <visitante>Ath</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Spo" jugador="Sergio Fernández"/>
+      <gol minuto="82" equipo="Spo" jugador="Julio Salinas"/>
+      <gol minuto="56" equipo="Ath" jugador="Julen Guerrero"/>
+      <gol minuto="5" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="68" equipo="Ath" jugador="Ziganda"/>
+      <gol minuto="78" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 26/10/1996" jornada="10">
+    <local>Spo</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Atl" jugador="Roberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 04/11/1996" jornada="11">
+    <local>Spo</local>
+    <visitante>Bar</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="1"/>
+  </partido>
+  <partido fecha="Jueves 06/03/1997" jornada="19">
+    <local>Spo</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="6" equipo="Spo" jugador="Lediakhov"/>
+      <gol minuto="46" equipo="Bet" jugador="Olías"/>
+      <gol minuto="75" equipo="Bet" jugador="Kowalczyk"/>
+      <gol minuto="36" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="87" equipo="Bet" jugador="Alfonso"/>
+      <gol minuto="89" equipo="Spo" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Spo</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Spo" jugador="Bango"/>
+      <gol minuto="78" equipo="Spo" jugador="Bango"/>
+      <gol minuto="54" equipo="Cel" jugador="Gudelj"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Spo</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Spo" jugador="Julio Salinas"/>
+      <gol minuto="89" equipo="Com" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Spo</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Spo" jugador="Julio Salinas"/>
+      <gol minuto="9" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Spo</local>
+    <visitante>Esp</visitante>
+    <resultado local="4" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Spo" jugador="Villarroya"/>
+      <gol minuto="62" equipo="Spo" jugador="David Cano"/>
+      <gol minuto="57" equipo="Spo" jugador="Luna"/>
+      <gol minuto="19" equipo="Esp" jugador="Benítez"/>
+      <gol minuto="67" equipo="Esp" jugador="Răducioiu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Spo</local>
+    <visitante>Ext</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Spo" jugador="Cheryshev"/>
+      <gol minuto="56" equipo="Ext" jugador="Duré"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Spo</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Spo" jugador="Tomás"/>
+      <gol minuto="78" equipo="Spo" jugador="David Cano"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Spo</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Spo" jugador="Marcos Vales"/>
+      <gol minuto="39" equipo="Spo" jugador="Cheryshev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 26/01/1997" jornada="21">
+    <local>Spo</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Spo</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Rac" jugador="Álvaro Cervera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Spo</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="8" equipo="Spo" jugador="Tomás"/>
+      <gol minuto="80" equipo="Spo" jugador="Cheryshev"/>
+      <gol minuto="89" equipo="Spo" jugador="Álex"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/1996" jornada="15">
+    <local>Spo</local>
+    <visitante>Rea</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Rea" jugador="Hierro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Spo</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 21/10/1996" jornada="8">
+    <local>Spo</local>
+    <visitante>Sev</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Sev" jugador="Salva"/>
+      <gol minuto="61" equipo="Spo" jugador="Ronald Gómez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Spo</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Spo" jugador="Luna"/>
+      <gol minuto="76" equipo="Spo" jugador="Luna"/>
+      <gol minuto="48" equipo="Ten" jugador="Pablo Paz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/03/1997" jornada="30">
+    <local>Spo</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="42" equipo="Spo" jugador="Tomás"/>
+      <gol minuto="47" equipo="Spo" jugador="Luna"/>
+      <gol minuto="85" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Spo</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Spo" jugador="Cheryshev"/>
+      <gol minuto="83" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="64" equipo="Vall" jugador="Benjamín"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/09/1996" jornada="4">
+    <local>Spo</local>
+    <visitante>Zar</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Spo" jugador="Nikiforov"/>
+      <gol minuto="29" equipo="Spo" jugador="Julio Salinas"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Viernes 14/03/1997" jornada="29">
+    <local>Ten</local>
+    <visitante>Ath</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="40" equipo="Ten" jugador="Kodro"/>
+      <gol minuto="74" equipo="Ath" jugador="Alkiza"/>
+      <gol minuto="43" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Jueves 15/05/1997" jornada="21">
+    <local>Ten</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Ten" jugador="Jokanović"/>
+      <gol minuto="30" equipo="Ten" jugador="Kodro"/>
+      <gol minuto="13" equipo="Atl" jugador="Pantić"/>
+      <gol minuto="70" equipo="Atl" jugador="Simeone"/>
+      <gol minuto="52" equipo="Atl" jugador="Esnáider"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 01/03/1997" jornada="27">
+    <local>Ten</local>
+    <visitante>Bar</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="82" equipo="Ten" jugador="Jokanović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/04/1997" jornada="35">
+    <local>Ten</local>
+    <visitante>Bet</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Ten</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Ten</local>
+    <visitante>Com</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="5" rojas="2"/>
+    <goleadores>
+      <gol minuto="32" equipo="Ten" jugador="Rojas"/>
+      <gol minuto="69" equipo="Ten" jugador="Chano"/>
+      <gol minuto="11" equipo="Ten" jugador="Jokanović"/>
+      <gol minuto="84" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="81" equipo="Ten" jugador="Neuville"/>
+      <gol minuto="18" equipo="Ten" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/1997" jornada="33">
+    <local>Ten</local>
+    <visitante>Dep</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="85" equipo="Ten" jugador="Alexis Suárez"/>
+      <gol minuto="8" equipo="Ten" jugador="Vivar Dorado"/>
+      <gol minuto="84" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Ten</local>
+    <visitante>Esp</visitante>
+    <resultado local="5" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="41" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="44" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="89" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="66" equipo="Ten" jugador="Chano"/>
+      <gol minuto="69" equipo="Ten" jugador="Chano"/>
+      <gol minuto="85" equipo="Esp" jugador="Javi García"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Ten</local>
+    <visitante>Ext</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="6" equipo="Ten" jugador="Robaina"/>
+      <gol minuto="34" equipo="Ten" jugador="Vidmar"/>
+      <gol minuto="40" equipo="Ext" jugador="Antonio"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/1996" jornada="13">
+    <local>Ten</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="86" equipo="Ten" jugador="Julio Llorente"/>
+      <gol minuto="48" equipo="Ten" jugador="Robaina"/>
+      <gol minuto="89" equipo="Ten" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Ten</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ten" jugador="Julio Llorente"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Ten</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="1"/>
+    <goleadores>
+      <gol minuto="5" equipo="Ten" jugador="Pinilla"/>
+      <gol minuto="32" equipo="Ovi" jugador="Oli"/>
+      <gol minuto="63" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Ten</local>
+    <visitante>Rac</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ten" jugador="Conte"/>
+      <gol minuto="82" equipo="Ten" jugador="Kodro"/>
+      <gol minuto="42" equipo="Rac" jugador="Beschastnykh"/>
+      <gol minuto="47" equipo="Rac" jugador="Alberto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/1996" jornada="15">
+    <local>Ten</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Ten" jugador="Pablo Paz"/>
+      <gol minuto="67" equipo="Ray" jugador="Alcázar"/>
+      <gol minuto="83" equipo="Ray" jugador="Alcázar"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Ten</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ten" jugador="Neuville"/>
+      <gol minuto="58" equipo="Rea" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 11/01/1997" jornada="19">
+    <local>Ten</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="58" equipo="Rel" jugador="Mutiu"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/09/1996" jornada="3">
+    <local>Ten</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="35" equipo="Sev" jugador="Salva"/>
+      <gol minuto="71" equipo="Sev" jugador="Salva"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Ten</local>
+    <visitante>Spo</visitante>
+    <resultado local="6" visitante="0"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="88" equipo="Ten" jugador="Julio Llorente"/>
+      <gol minuto="36" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="77" equipo="Ten" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Ten</local>
+    <visitante>Val</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ten" jugador="Felipe"/>
+      <gol minuto="76" equipo="Ten" jugador="Neuville"/>
+      <gol minuto="72" equipo="Val" jugador="Ferreira"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Ten</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="51" equipo="Ten" jugador="Robaina"/>
+      <gol minuto="72" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="3" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="86" equipo="Vall" jugador="Raúl Ibáñez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Ten</local>
+    <visitante>Zar</visitante>
+    <resultado local="3" visitante="3"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ten" jugador="Chano"/>
+      <gol minuto="57" equipo="Ten" jugador="Neuville"/>
+      <gol minuto="82" equipo="Ten" jugador="Neuville"/>
+      <gol minuto="30" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="89" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="16" equipo="Zar" jugador="Dani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/04/1997" jornada="33">
+    <local>Val</local>
+    <visitante>Ath</visitante>
+    <resultado local="5" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Val" jugador="Moya"/>
+      <gol minuto="3" equipo="Val" jugador="Leandro"/>
+      <gol minuto="34" equipo="Val" jugador="Leandro"/>
+      <gol minuto="43" equipo="Ath" jugador="Urzaiz"/>
+      <gol minuto="66" equipo="Ath" jugador="Urzaiz"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/10/1996" jornada="8">
+    <local>Val</local>
+    <visitante>Atl</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="37" equipo="Val" jugador="Poyatos"/>
+      <gol minuto="50" equipo="Val" jugador="Vlaović"/>
+      <gol minuto="87" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="89" equipo="Val" jugador="Claudio López"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Val</local>
+    <visitante>Bar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="40" equipo="Val" jugador="Leandro"/>
+      <gol minuto="69" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 26/05/1997" jornada="39">
+    <local>Val</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Bet" jugador="Cañas"/>
+      <gol minuto="69" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 30/11/1996" jornada="15">
+    <local>Val</local>
+    <visitante>Cel</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Val" jugador="Karpin"/>
+      <gol minuto="89" equipo="Val" jugador="Iñaki Hurtado"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 24/02/1997" jornada="26">
+    <local>Val</local>
+    <visitante>Com</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Engonga"/>
+      <gol minuto="14" equipo="Val" jugador="Leandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 12/05/1997" jornada="37">
+    <local>Val</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="10" rojas="1"/>
+    <goleadores>
+      <gol minuto="17" equipo="Dep" jugador="Renaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 25/01/1997" jornada="21">
+    <local>Val</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="4" rojas="1"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Moya"/>
+      <gol minuto="84" equipo="Esp" jugador="Luis Cembranos"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 16/11/1996" jornada="13">
+    <local>Val</local>
+    <visitante>Ext</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 23/12/1996" jornada="17">
+    <local>Val</local>
+    <visitante>Hér</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Ferreira"/>
+      <gol minuto="63" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="12" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Val</local>
+    <visitante>Log</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Log" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Val</local>
+    <visitante>Ovi</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Val" jugador="Karpin"/>
+      <gol minuto="12" equipo="Val" jugador="Leandro"/>
+      <gol minuto="33" equipo="Ovi" jugador="Oli"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Val</local>
+    <visitante>Rac</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Rac" jugador="Schürrer"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Val</local>
+    <visitante>Ray</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Val" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 21/04/1997" jornada="35">
+    <local>Val</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Rea" jugador="Raúl"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 07/09/1996" jornada="2">
+    <local>Val</local>
+    <visitante>Rel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Rel" jugador="Kovačević"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 08/03/1997" jornada="28">
+    <local>Val</local>
+    <visitante>Sev</visitante>
+    <resultado local="4" visitante="2"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Val" jugador="Ortega"/>
+      <gol minuto="4" equipo="Val" jugador="Gálvez"/>
+      <gol minuto="67" equipo="Sev" jugador="Galván"/>
+      <gol minuto="33" equipo="Sev" jugador="Tsartas"/>
+      <gol minuto="90" equipo="Val" jugador="Leandro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 23/10/1996" jornada="9">
+    <local>Val</local>
+    <visitante>Spo</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Val" jugador="Karpin"/>
+      <gol minuto="14" equipo="Val" jugador="Moya"/>
+      <gol minuto="36" equipo="Spo" jugador="Bango"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/1996" jornada="4">
+    <local>Val</local>
+    <visitante>Ten</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="63" equipo="Val" jugador="Romero"/>
+      <gol minuto="70" equipo="Val" jugador="Romário"/>
+      <gol minuto="72" equipo="Ten" jugador="Kodro"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Val</local>
+    <visitante>Vall</visitante>
+    <resultado local="2" visitante="4"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Val" jugador="Romero"/>
+      <gol minuto="43" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="69" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="48" equipo="Vall" jugador="Quevedo"/>
+      <gol minuto="6" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="71" equipo="Val" jugador="Gálvez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 15/02/1997" jornada="24">
+    <local>Val</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="13" equipo="Val" jugador="Claudio López"/>
+      <gol minuto="81" equipo="Zar" jugador="Kily González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Vall</local>
+    <visitante>Ath</visitante>
+    <resultado local="0" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+  </partido>
+  <partido fecha="Lunes 25/11/1996" jornada="14">
+    <local>Vall</local>
+    <visitante>Atl</visitante>
+    <resultado local="0" visitante="3"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="54" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="30" equipo="Atl" jugador="Vizcaíno"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 16/04/1997" jornada="34">
+    <local>Vall</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="30" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="46" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="77" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="5" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 27/01/1997" jornada="21">
+    <local>Vall</local>
+    <visitante>Bet</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="51" equipo="Bet" jugador="Kowalczyk"/>
+      <gol minuto="87" equipo="Bet" jugador="Kowalczyk"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Vall</local>
+    <visitante>Cel</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="21" equipo="Cel" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 19/10/1996" jornada="8">
+    <local>Vall</local>
+    <visitante>Com</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="16" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="10" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="80" equipo="Vall" jugador="Quevedo"/>
+      <gol minuto="68" equipo="Com" jugador="Ohen"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 12/01/1997" jornada="19">
+    <local>Vall</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="3" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="9" equipo="Dep" jugador="Rivaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/02/1997" jornada="24">
+    <local>Vall</local>
+    <visitante>Esp</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="87" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="14" equipo="Esp" jugador="Ouédec"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 10/05/1997" jornada="37">
+    <local>Vall</local>
+    <visitante>Ext</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="24" equipo="Vall" jugador="Quevedo"/>
+      <gol minuto="89" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="65" equipo="Vall" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 15/06/1997" jornada="41">
+    <local>Vall</local>
+    <visitante>Hér</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+  </partido>
+  <partido fecha="Domingo 23/03/1997" jornada="30">
+    <local>Vall</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="7" equipo="Vall" jugador="Benjamín"/>
+      <gol minuto="77" equipo="Vall" jugador="Benjamín"/>
+      <gol minuto="17" equipo="Log" jugador="Morales"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 08/09/1996" jornada="2">
+    <local>Vall</local>
+    <visitante>Ovi</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ovi" jugador="Toni Velamazán"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/09/1996" jornada="4">
+    <local>Vall</local>
+    <visitante>Rac</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="53" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="89" equipo="Vall" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/02/1997" jornada="22">
+    <local>Vall</local>
+    <visitante>Ray</visitante>
+    <resultado local="4" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="17" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="68" equipo="Vall" jugador="Quevedo"/>
+      <gol minuto="34" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="78" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 21/12/1996" jornada="17">
+    <local>Vall</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="15" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 23/02/1997" jornada="26">
+    <local>Vall</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Vall" jugador="Víctor"/>
+      <gol minuto="78" equipo="Vall" jugador="Soto"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 28/10/1996" jornada="10">
+    <local>Vall</local>
+    <visitante>Sev</visitante>
+    <resultado local="0" visitante="1"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Sev" jugador="Onésimo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 11/11/1996" jornada="12">
+    <local>Vall</local>
+    <visitante>Spo</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="55" equipo="Vall" jugador="Víctor"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/03/1997" jornada="28">
+    <local>Vall</local>
+    <visitante>Ten</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ten" jugador="Juanele"/>
+      <gol minuto="44" equipo="Ten" jugador="Pinilla"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 06/04/1997" jornada="32">
+    <local>Vall</local>
+    <visitante>Val</visitante>
+    <resultado local="4" visitante="1"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="11" equipo="Vall" jugador="Benjamín"/>
+      <gol minuto="37" equipo="Vall" jugador="Benjamín"/>
+      <gol minuto="15" equipo="Vall" jugador="Fernando"/>
+      <gol minuto="68" equipo="Vall" jugador="Quevedo"/>
+      <gol minuto="76" equipo="Val" jugador="Vlaović"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 02/10/1996" jornada="6">
+    <local>Vall</local>
+    <visitante>Zar</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="10" equipo="Vall" jugador="Peternac"/>
+      <gol minuto="67" equipo="Zar" jugador="Poyet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 12/10/1996" jornada="7">
+    <local>Zar</local>
+    <visitante>Ath</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="16" equipo="Ath" jugador="Ziganda"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Lunes 02/06/1997" jornada="40">
+    <local>Zar</local>
+    <visitante>Atl</visitante>
+    <resultado local="2" visitante="3"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="48" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="28" equipo="Atl" jugador="Pantić"/>
+      <gol minuto="65" equipo="Atl" jugador="Caminero"/>
+      <gol minuto="24" equipo="Atl" jugador="Esnáider"/>
+      <gol minuto="74" equipo="Zar" jugador="Higuera"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 29/09/1996" jornada="5">
+    <local>Zar</local>
+    <visitante>Bar</visitante>
+    <resultado local="3" visitante="5"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="46" equipo="Zar" jugador="Gustavo López"/>
+      <gol minuto="10" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="21" equipo="Bar" jugador="Figo"/>
+      <gol minuto="81" equipo="Bar" jugador="Luis Enrique"/>
+      <gol minuto="53" equipo="Bar" jugador="Ronaldo"/>
+      <gol minuto="85" equipo="Bar" jugador="Ronaldo"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 17/11/1996" jornada="13">
+    <local>Zar</local>
+    <visitante>Bet</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="33" equipo="Zar" jugador="Dani"/>
+      <gol minuto="81" equipo="Zar" jugador="Dani"/>
+      <gol minuto="48" equipo="Bet" jugador="Alexis"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 30/03/1997" jornada="31">
+    <local>Zar</local>
+    <visitante>Cel</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="10" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="3" equipo="Cel" jugador="Moisés"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/06/1997" jornada="42">
+    <local>Zar</local>
+    <visitante>Com</visitante>
+    <resultado local="1" visitante="3"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="39" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="78" equipo="Com" jugador="Manuel"/>
+      <gol minuto="56" equipo="Com" jugador="Penev"/>
+      <gol minuto="88" equipo="Com" jugador="Penev"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 03/11/1996" jornada="11">
+    <local>Zar</local>
+    <visitante>Dep</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="24" equipo="Dep" jugador="Begiristain"/>
+      <gol minuto="66" equipo="Dep" jugador="Martín Vázquez"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 11/05/1997" jornada="37">
+    <local>Zar</local>
+    <visitante>Esp</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="76" equipo="Zar" jugador="Poyet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 16/03/1997" jornada="29">
+    <local>Zar</local>
+    <visitante>Ext</visitante>
+    <resultado local="3" visitante="1"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="79" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="1" equipo="Zar" jugador="Dani"/>
+      <gol minuto="18" equipo="Ext" jugador="Silvani"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 13/04/1997" jornada="33">
+    <local>Zar</local>
+    <visitante>Hér</visitante>
+    <resultado local="2" visitante="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="22" equipo="Zar" jugador="Kily González"/>
+      <gol minuto="82" equipo="Zar" jugador="Radimov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/09/1996" jornada="1">
+    <local>Zar</local>
+    <visitante>Log</visitante>
+    <resultado local="2" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="19" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="49" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="58" equipo="Log" jugador="Manel"/>
+      <gol minuto="85" equipo="Log" jugador="Manel"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 01/12/1996" jornada="15">
+    <local>Zar</local>
+    <visitante>Ovi</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="Poyet"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 22/12/1996" jornada="17">
+    <local>Zar</local>
+    <visitante>Rac</visitante>
+    <resultado local="0" visitante="2"/>
+    <tarjetas amarillas="8" rojas="1"/>
+    <goleadores>
+      <gol minuto="9" equipo="Rac" jugador="Schürrer"/>
+      <gol minuto="76" equipo="Rac" jugador="Beschastnykh"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 20/04/1997" jornada="35">
+    <local>Zar</local>
+    <visitante>Ray</visitante>
+    <resultado local="3" visitante="2"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="53" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="82" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="3" equipo="Ray" jugador="Guilherme"/>
+      <gol minuto="19" equipo="Ray" jugador="Guilherme"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Martes 22/10/1996" jornada="9">
+    <local>Zar</local>
+    <visitante>Rea</visitante>
+    <resultado local="1" visitante="2"/>
+    <tarjetas amarillas="7" rojas="0"/>
+    <goleadores>
+      <gol minuto="50" equipo="Zar" jugador="Poyet"/>
+      <gol minuto="16" equipo="Rea" jugador="Šuker"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 25/05/1997" jornada="39">
+    <local>Zar</local>
+    <visitante>Rel</visitante>
+    <resultado local="3" visitante="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="62" equipo="Zar" jugador="Gustavo López"/>
+      <gol minuto="66" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 09/02/1997" jornada="23">
+    <local>Zar</local>
+    <visitante>Sev</visitante>
+    <resultado local="2" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Zar" jugador="Higuera"/>
+      <gol minuto="56" equipo="Sev" jugador="Ramis"/>
+      <gol minuto="76" equipo="Zar" jugador="Kily González"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Miércoles 19/02/1997" jornada="25">
+    <local>Zar</local>
+    <visitante>Spo</visitante>
+    <resultado local="5" visitante="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Zar" jugador="Aragón"/>
+      <gol minuto="40" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="43" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="49" equipo="Zar" jugador="Morientes"/>
+      <gol minuto="81" equipo="Zar" jugador="Radimov"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 19/01/1997" jornada="20">
+    <local>Zar</local>
+    <visitante>Ten</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="12" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Ten" jugador="Vivar Dorado"/>
+      <gol minuto="89" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Sábado 14/09/1996" jornada="3">
+    <local>Zar</local>
+    <visitante>Val</visitante>
+    <resultado local="1" visitante="1"/>
+    <tarjetas amarillas="8" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Zar" jugador="Aguado"/>
+      <gol minuto="44" equipo="Val" jugador="Moya"/>
+    </goleadores>
+  </partido>
+  <partido fecha="Domingo 02/03/1997" jornada="27">
+    <local>Zar</local>
+    <visitante>Vall</visitante>
+    <resultado local="1" visitante="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Zar" jugador="Morientes"/>
+    </goleadores>
+  </partido>
+</liga>
