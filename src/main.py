@@ -13,9 +13,12 @@ if __name__ == "__main__":
     es_valido = validate_xml(directorio_xml, archivo_xsd)
 
     # Convertir los XML a JSON
-    directorio_json = "../data/json"    
-    archivo_xslt = "transform2json.xslt"
-    transform2json(directorio_xml, directorio_json, archivo_xslt)
+    if es_valido:
+        directorio_json = "../data/json"    
+        archivo_xslt = "transform2json.xslt"
+        transform2json(directorio_xml, directorio_json, archivo_xslt)
+    else:
+        print("Los archivos XML no son válidos. No se realizará la transformación a JSON.")
 
     # Cargar los partidos
     PartidosLoader().cargar_partidos()

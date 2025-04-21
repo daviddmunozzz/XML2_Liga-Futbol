@@ -19,9 +19,9 @@ def validate_xml(directorio_xml, archivo_xsd):
 
             # Validar el XML
             if schema.validate(xml_doc):
-                print(f"✅ {archivo} es válido.")
+                print(f"{archivo} es válido.")
             else:
-                print(f"❌ {archivo} no es válido.")
+                print(f"{archivo} no es válido.")
                 for error in schema.error_log:
                     print(f"  - {error.message}")
                     return False

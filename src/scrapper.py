@@ -244,13 +244,3 @@ def procesar_temporadas():
     for temporada in const.TEMPORADAS:
         resultados = scrap_matriz_resultados(temporada)
         guardar_resultados_en_xml(resultados, temporada, f"resultados_{temporada}.xml")
-        
-if __name__ == "__main__":
-    # Ejemplo con una sola temporada
-    datos = scrap_matriz_resultados("2011-12")
-
-    for partido in datos:
-        print(partido)
-
-    guardar_resultados_en_xml(datos, "2011-12", "resultados_2011-12.xml")
-    print("Proceso completado.")

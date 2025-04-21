@@ -18,6 +18,6 @@ def transform2json(directorio_xml, directorio_json, archivo_xslt):
             comando = f"xsltproc {archivo_xslt} {ruta_xml} > {ruta_json}"
             try:
                 subprocess.run(comando, shell=True, check=True)
-                print(f"✅ Transformación completada: {ruta_json}")
+                print(f"Transformación completada: {ruta_json}")
             except subprocess.CalledProcessError as e:
-                print(f"❌ Error al transformar {ruta_xml}: {e}")
+                print(f"Error al transformar {ruta_xml}: {e}")

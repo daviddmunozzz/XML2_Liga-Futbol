@@ -1,394 +1,662 @@
 <?xml version="1.0" ?>
 <liga temporada="1987-88">
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 17/01/1988" jornada="18">
     <local>Ath</local>
     <visitante>Atl</visitante>
     <resultado local="5" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="25" equipo="Ath" jugador="Liceranzu"/>
+      <gol minuto="66" equipo="Ath" jugador="Liceranzu"/>
+      <gol minuto="47" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="14" equipo="Atl" jugador="Futre"/>
+      <gol minuto="39" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="60" equipo="Ath" jugador="Ferreira"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 26/09/1987" jornada="5">
     <local>Ath</local>
     <visitante>Bar</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Ath" jugador="Joseba Aguirre"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 14/02/1988" jornada="23">
     <local>Ath</local>
     <visitante>Bet</visitante>
     <resultado local="2" visitante="0"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="44" equipo="Ath" jugador="Andrinúa"/>
+      <gol minuto="32" equipo="Ath" jugador="Argote"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 08/05/1988" jornada="36">
     <local>Ath</local>
     <visitante>Cád</visitante>
     <resultado local="0" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 13/09/1987" jornada="3">
     <local>Ath</local>
     <visitante>Cel</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/12/1987" jornada="15">
     <local>Ath</local>
     <visitante>Esp</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="35" equipo="Ath" jugador="Urtubi"/>
+      <gol minuto="74" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/12/1987" jornada="13">
     <local>Ath</local>
     <visitante>Las</visitante>
     <resultado local="4" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="38" equipo="Ath" jugador="Elgezabal"/>
+      <gol minuto="32" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="69" equipo="Ath" jugador="Sarriugarte"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 07/02/1988" jornada="21">
     <local>Ath</local>
     <visitante>Log</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 29/08/1987" jornada="1">
     <local>Ath</local>
     <visitante>Mal</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Ath" jugador="Patxi Salinas"/>
+      <gol minuto="60" equipo="Ath" jugador="Gallego"/>
+      <gol minuto="82" equipo="Mal" jugador="Hassan"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 28/02/1988" jornada="25">
     <local>Ath</local>
     <visitante>Mur</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Ath" jugador="Alkorta"/>
+      <gol minuto="4" equipo="Mur" jugador="Salvador Mejías"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 03/04/1988" jornada="31">
     <local>Ath</local>
     <visitante>Osa</visitante>
     <resultado local="2" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="47" equipo="Ath" jugador="Andrinúa"/>
+      <gol minuto="89" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="86" equipo="Osa" jugador="Sola"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 31/10/1987" jornada="9">
     <local>Ath</local>
     <visitante>Rea</visitante>
     <resultado local="0" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 17/10/1987" jornada="7">
     <local>Ath</local>
     <visitante>Rel</visitante>
     <resultado local="1" visitante="4"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Ath" jugador="Ayarza"/>
+      <gol minuto="30" equipo="Rel" jugador="Bakero"/>
+      <gol minuto="20" equipo="Rel" jugador="Loren"/>
+      <gol minuto="9" equipo="Rel" jugador="Begiristain"/>
+      <gol minuto="88" equipo="Rel" jugador="Begiristain"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 22/05/1988" jornada="38">
     <local>Ath</local>
     <visitante>Sab</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 17/04/1988" jornada="33">
     <local>Ath</local>
     <visitante>Sev</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="4" equipo="Ath" jugador="Argote"/>
+      <gol minuto="55" equipo="Sev" jugador="Cholo"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/03/1988" jornada="29">
     <local>Ath</local>
     <visitante>Spo</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="6" rojas="0"/>
+    <goleadores>
+      <gol minuto="78" equipo="Ath" jugador="Ferreira"/>
+      <gol minuto="54" equipo="Spo" jugador="Joaquín"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 01/05/1988" jornada="35">
     <local>Ath</local>
     <visitante>Vae</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Vae" jugador="Alcañiz"/>
+      <gol minuto="74" equipo="Ath" jugador="Sarabia"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Miércoles 09/03/1988" jornada="27">
     <local>Ath</local>
     <visitante>Val</visitante>
     <resultado local="1" visitante="0"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Ath" jugador="Mendiguren"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 22/11/1987" jornada="11">
     <local>Ath</local>
     <visitante>Zar</visitante>
     <resultado local="2" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="85" equipo="Ath" jugador="Uralde"/>
+      <gol minuto="89" equipo="Zar" jugador="Tino"/>
+      <gol minuto="21" equipo="Zar" jugador="Rubén Sosa"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 14/05/1988" jornada="37">
     <local>Atl</local>
     <visitante>Ath</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Julio Salinas"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 27/02/1988" jornada="25">
     <local>Atl</local>
     <visitante>Bar</visitante>
     <resultado local="0" visitante="2"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="31" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="56" equipo="Bar" jugador="Lineker"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 27/09/1987" jornada="5">
     <local>Atl</local>
     <visitante>Bet</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="5" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Atl" jugador="Landaburu"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 24/01/1988" jornada="19">
     <local>Atl</local>
     <visitante>Cád</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="14" equipo="Atl" jugador="Alemao"/>
+      <gol minuto="64" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="16" equipo="Cád" jugador="Cabrera"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 14/02/1988" jornada="23">
     <local>Atl</local>
     <visitante>Cel</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="64" equipo="Atl" jugador="Parra"/>
+      <gol minuto="49" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="41" equipo="Cel" jugador="Marić"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 30/04/1988" jornada="35">
     <local>Atl</local>
     <visitante>Esp</visitante>
     <resultado local="1" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="81" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="52" equipo="Esp" jugador="Mauri"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 17/04/1988" jornada="33">
     <local>Atl</local>
     <visitante>Las</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="42" equipo="Atl" jugador="Parra"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 13/09/1987" jornada="3">
     <local>Atl</local>
     <visitante>Log</visitante>
     <resultado local="3" visitante="0"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Atl" jugador="Alemao"/>
+      <gol minuto="28" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="44" equipo="Atl" jugador="Julio Salinas"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 07/02/1988" jornada="21">
     <local>Atl</local>
     <visitante>Mal</visitante>
     <resultado local="7" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="1"/>
+    <goleadores>
+      <gol minuto="23" equipo="Atl" jugador="Parra"/>
+      <gol minuto="60" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="20" equipo="Atl" jugador="Alemao"/>
+      <gol minuto="83" equipo="Atl" jugador="Eusebio"/>
+      <gol minuto="89" equipo="Atl" jugador="Futre"/>
+      <gol minuto="27" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="41" equipo="Atl" jugador="Julio Salinas"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 18/10/1987" jornada="7">
     <local>Atl</local>
     <visitante>Mur</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="2" equipo="Atl" jugador="Futre"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/12/1987" jornada="13">
     <local>Atl</local>
     <visitante>Osa</visitante>
     <resultado local="3" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="8" equipo="Atl" jugador="Futre"/>
+      <gol minuto="64" equipo="Atl" jugador="Julio Salinas"/>
+      <gol minuto="2" equipo="Osa" jugador="Pizo Gómez"/>
+      <gol minuto="84" equipo="Atl" jugador="Parra"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/03/1988" jornada="29">
     <local>Atl</local>
     <visitante>Rea</visitante>
     <resultado local="1" visitante="3"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Rea" jugador="Gordillo"/>
+      <gol minuto="74" equipo="Rea" jugador="Butragueño"/>
+      <gol minuto="34" equipo="Rea" jugador="Hugo Sánchez"/>
+      <gol minuto="81" equipo="Atl" jugador="Quique Setién"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Jueves 10/03/1988" jornada="27">
     <local>Atl</local>
     <visitante>Rel</visitante>
     <resultado local="0" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="59" equipo="Rel" jugador="Bakero"/>
+      <gol minuto="77" equipo="Rel" jugador="Begiristain"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 30/08/1987" jornada="1">
     <local>Atl</local>
     <visitante>Sab</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/12/1987" jornada="15">
     <local>Atl</local>
     <visitante>Sev</visitante>
     <resultado local="0" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="34" equipo="Sev" jugador="Ramón"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 22/11/1987" jornada="11">
     <local>Atl</local>
     <visitante>Spo</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Atl" jugador="Landaburu"/>
+      <gol minuto="70" equipo="Spo" jugador="Joaquín Villa"/>
+      <gol minuto="61" equipo="Spo" jugador="Eloy"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 10/01/1988" jornada="17">
     <local>Atl</local>
     <visitante>Vae</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="18" equipo="Atl" jugador="Arteche"/>
+      <gol minuto="8" equipo="Vae" jugador="Madjer"/>
+      <gol minuto="56" equipo="Atl" jugador="Marcos Alonso"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 01/11/1987" jornada="9">
     <local>Atl</local>
     <visitante>Val</visitante>
     <resultado local="3" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="9" rojas="0"/>
+    <goleadores>
+      <gol minuto="75" equipo="Atl" jugador="López Ufarte"/>
+      <gol minuto="88" equipo="Atl" jugador="Eusebio"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 03/04/1988" jornada="31">
     <local>Atl</local>
     <visitante>Zar</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="12" equipo="Atl" jugador="Arteche"/>
+      <gol minuto="86" equipo="Atl" jugador="Julio Salinas"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 20/02/1988" jornada="24">
     <local>Bar</local>
     <visitante>Ath</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="62" equipo="Bar" jugador="Robert"/>
+      <gol minuto="10" equipo="Ath" jugador="Mendiguren"/>
+      <gol minuto="33" equipo="Ath" jugador="Uralde"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 03/10/1987" jornada="6">
     <local>Bar</local>
     <visitante>Atl</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="5" rojas="1"/>
+    <goleadores>
+      <gol minuto="21" equipo="Bar" jugador="Robert"/>
+      <gol minuto="81" equipo="Atl" jugador="Marina"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 26/03/1988" jornada="30">
     <local>Bar</local>
     <visitante>Bet</visitante>
     <resultado local="0" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 29/11/1987" jornada="12">
     <local>Bar</local>
     <visitante>Cád</visitante>
     <resultado local="3" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="29" equipo="Bar" jugador="Cristóbal"/>
+      <gol minuto="44" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="59" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="84" equipo="Cád" jugador="Andrés Fernández"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 08/11/1987" jornada="10">
     <local>Bar</local>
     <visitante>Cel</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="51" equipo="Bar" jugador="Amarilla"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Miércoles 10/02/1988" jornada="22">
     <local>Bar</local>
     <visitante>Esp</visitante>
     <resultado local="3" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="27" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="1" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="8" equipo="Esp" jugador="Losada"/>
+      <gol minuto="53" equipo="Esp" jugador="Lauridsen"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 31/01/1988" jornada="20">
     <local>Bar</local>
     <visitante>Las</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="73" equipo="Las" jugador="Contreras"/>
+      <gol minuto="76" equipo="Bar" jugador="Amarilla"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 12/03/1988" jornada="28">
     <local>Bar</local>
     <visitante>Log</visitante>
     <resultado local="2" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="89" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="78" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="54" equipo="Log" jugador="Ángel González"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 25/10/1987" jornada="8">
     <local>Bar</local>
     <visitante>Mal</visitante>
     <resultado local="2" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="85" equipo="Bar" jugador="Gerardo"/>
+      <gol minuto="39" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="66" equipo="Mal" jugador="Nadal"/>
+      <gol minuto="54" equipo="Mal" jugador="Hassan"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/12/1987" jornada="13">
     <local>Bar</local>
     <visitante>Mur</visitante>
     <resultado local="4" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="73" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="18" equipo="Bar" jugador="Carrasco"/>
+      <gol minuto="82" equipo="Mur" jugador="Manolo"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 24/01/1988" jornada="19">
     <local>Bar</local>
     <visitante>Osa</visitante>
     <resultado local="0" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="82" equipo="Osa" jugador="Sarabia"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 30/04/1988" jornada="35">
     <local>Bar</local>
     <visitante>Rea</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="70" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="1" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 17/04/1988" jornada="33">
     <local>Bar</local>
     <visitante>Rel</visitante>
     <resultado local="2" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="23" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="13" equipo="Bar" jugador="Carrasco"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/03/1988" jornada="26">
     <local>Bar</local>
     <visitante>Sab</visitante>
     <resultado local="0" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/09/1987" jornada="2">
     <local>Bar</local>
     <visitante>Sev</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="57" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="83" equipo="Sev" jugador="Cholo"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 09/01/1988" jornada="17">
     <local>Bar</local>
     <visitante>Spo</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="1" rojas="0"/>
+    <goleadores>
+      <gol minuto="77" equipo="Bar" jugador="Robert"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/09/1987" jornada="4">
     <local>Bar</local>
     <visitante>Vae</visitante>
     <resultado local="0" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Vae" jugador="Arroyo"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/12/1987" jornada="15">
     <local>Bar</local>
     <visitante>Val</visitante>
     <resultado local="2" visitante="4"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="52" equipo="Bar" jugador="Lineker"/>
+      <gol minuto="23" equipo="Val" jugador="Manolo Hierro"/>
+      <gol minuto="60" equipo="Val" jugador="Peña"/>
+      <gol minuto="62" equipo="Val" jugador="Peña"/>
+      <gol minuto="78" equipo="Val" jugador="Peña"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 14/05/1988" jornada="37">
     <local>Bar</local>
     <visitante>Zar</visitante>
     <resultado local="4" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="2" rojas="0"/>
+    <goleadores>
+      <gol minuto="65" equipo="Bar" jugador="Urbano"/>
+      <gol minuto="11" equipo="Bar" jugador="Calderé"/>
+      <gol minuto="63" equipo="Zar" jugador="Rubén Sosa"/>
+      <gol minuto="20" equipo="Zar" jugador="Pardeza"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 20/09/1987" jornada="4">
     <local>Bet</local>
     <visitante>Ath</visitante>
     <resultado local="0" visitante="0"/>
     <tarjetas amarillas="0" rojas="0"/>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 21/02/1988" jornada="24">
     <local>Bet</local>
     <visitante>Atl</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="15" equipo="Bet" jugador="Melenas"/>
+      <gol minuto="38" equipo="Atl" jugador="Julio Salinas"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Sábado 21/11/1987" jornada="11">
     <local>Bet</local>
     <visitante>Bar</visitante>
     <resultado local="1" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
+    <goleadores>
+      <gol minuto="66" equipo="Bet" jugador="Gabino"/>
+      <gol minuto="50" equipo="Bar" jugador="Schuster"/>
+      <gol minuto="85" equipo="Bar" jugador="Lineker"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 08/11/1987" jornada="10">
     <local>Bet</local>
     <visitante>Cád</visitante>
     <resultado local="3" visitante="2"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="20" equipo="Bet" jugador="Quico"/>
+      <gol minuto="32" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="86" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="38" equipo="Cád" jugador="Zalazar"/>
+      <gol minuto="54" equipo="Cád" jugador="Villa"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 13/03/1988" jornada="28">
     <local>Bet</local>
     <visitante>Cel</visitante>
     <resultado local="3" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="69" equipo="Bet" jugador="Sánchez Vallés"/>
+      <gol minuto="16" equipo="Bet" jugador="José Luis"/>
+      <gol minuto="84" equipo="Bet" jugador="Quico"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 06/09/1987" jornada="2">
     <local>Bet</local>
     <visitante>Esp</visitante>
     <resultado local="3" visitante="1"/>
     <tarjetas amarillas="0" rojas="0"/>
+    <goleadores>
+      <gol minuto="9" equipo="Bet" jugador="Quico"/>
+      <gol minuto="84" equipo="Bet" jugador="Gabino"/>
+      <gol minuto="22" equipo="Bet" jugador="Rincón"/>
+      <gol minuto="52" equipo="Esp" jugador="Pichi Alonso"/>
+    </goleadores>
   </partido>
-  <partido fecha="" jornada="">
+  <partido fecha="Domingo 24/01/1988" jornada="19">
     <local>Bet</local>
     <visitante>Las</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
+    <goleadores>
+      <gol minuto="53" equipo="Bet" jugador="Melenas"/>
+      <gol minuto="45" equipo="Las" jugador="Dajka"/>
+    </goleadores>
   </partido>
   <partido fecha="Domingo 25/10/1987" jornada="8">
     <local>Bet</local>
     <visitante>Log</visitante>
     <resultado local="1" visitante="1"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="4" rojas="0"/>
     <goleadores>
       <gol minuto="52" equipo="Bet" jugador="José Luis"/>
       <gol minuto="57" equipo="Log" jugador="Nadal"/>
@@ -398,7 +666,7 @@
     <local>Bet</local>
     <visitante>Mal</visitante>
     <resultado local="1" visitante="0"/>
-    <tarjetas amarillas="0" rojas="0"/>
+    <tarjetas amarillas="3" rojas="0"/>
     <goleadores>
       <gol minuto="15" equipo="Bet" jugador="José Luis"/>
     </goleadores>
