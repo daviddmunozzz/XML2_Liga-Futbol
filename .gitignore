@@ -1,2 +1,4 @@
 ./E_P1/
 **/.venv/
+**/__pycache__/
+**/data/

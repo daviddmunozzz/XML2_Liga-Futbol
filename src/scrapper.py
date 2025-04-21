@@ -1,12 +1,38 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import Const
+import const
+import re
+import os
 
 import xml.etree.ElementTree as ET
 from xml.dom import minidom  
 
 BASE_URL = "https://www.bdfutbol.com/es/t/"  # Base para construir URL completa del detalle
+
+def extraer_fecha(soup):
+    try:
+        bloques = soup.find_all("div", class_="f13 font-weight-bold")
+        if len(bloques) >= 4:
+            fecha_texto = bloques[3].text.strip()
+            return fecha_texto  # Ej: "Domingo 18/09/2011"
+    except Exception as e:
+        print(f"Error extrayendo fecha: {e}")
+    return ""
+
+def extraer_jornada(soup):
+    try:
+        bloques = soup.find_all("div", class_="f13 font-weight-bold")
+        # Asegurarse de que hay al menos dos bloques
+        if len(bloques) >= 2:
+            a_tag = bloques[1].find("a")
+            if a_tag and "Jornada" in a_tag.text:
+                match = re.search(r"Jornada\s+(\d+)", a_tag.text)
+                if match:
+                    return match.group(1)
+    except Exception as e:
+        print(f"Error extrayendo jornada: {e}")
+    return ""
 
 def extraer_goles_por_indice_paridad(soup, equipo_local, equipo_visitante):
     goles = []
@@ -36,7 +62,7 @@ def extraer_goles_por_indice_paridad(soup, equipo_local, equipo_visitante):
                     "jugador": jugador
                 })
             except Exception as e:
-                print(f"⚠️ Error extrayendo gol: {e}")
+                print(f"Error extrayendo gol: {e}")
                 continue
 
     return goles
@@ -83,10 +109,16 @@ def guardar_resultados_en_xml(resultados, temporada, nombre_archivo):
     parsed = minidom.parseString(xml_str)
     pretty_xml = parsed.toprettyxml(indent="  ")
 
-    with open(nombre_archivo, "w", encoding="utf-8") as f:
+    script_dir = os.path.dirname(os.path.abspath(__file__))  # Ruta del script actual
+    data_dir = os.path.join(script_dir, "..", "data", "raw_xml")  # Subir un nivel y entrar en data/raw_xml
+    os.makedirs(data_dir, exist_ok=True)
+
+    ruta_salida = os.path.join(data_dir, nombre_archivo)
+
+    with open(ruta_salida, "w", encoding="utf-8") as f:
         f.write(pretty_xml)
 
-    print(f"📄 Archivo XML guardado como '{nombre_archivo}'")
+    print(f"Archivo XML guardado como '{nombre_archivo}'")
 
 def contar_tarjetas(url_detalle):
     """Visita el enlace del partido y cuenta amarillas y rojas (dobles o directas)"""
@@ -127,14 +159,14 @@ def extraer_goles(soup, equipo_nombre):
                 "jugador": jugador
             })
         except Exception as e:
-            print(f"⚠️ Error extrayendo gol: {e}")
+            print(f"Error extrayendo gol: {e}")
             continue
 
     return goleadores
 
 def scrap_matriz_resultados(temporada):
-    url = Const.URL_RESULTADO % temporada
-    print(f"\n🔍 Procesando temporada: {temporada}")
+    url = const.URL_RESULTADO % temporada
+    print(f"\nProcesando temporada: {temporada}")
     
     try:
         res = requests.get(url)
@@ -181,10 +213,11 @@ def scrap_matriz_resultados(temporada):
                         soup_detalle = BeautifulSoup(res_detalle.text, "html.parser")
 
                         goles = extraer_goles_por_indice_paridad(soup_detalle, equipo_local, equipo_visitante)
+                        jornada = extraer_jornada(soup_detalle)
+                        fecha = extraer_fecha(soup_detalle)
 
-                        goles = goles_local + goles_visitante
                     except Exception as e:
-                        print(f"❌ Error extrayendo goles: {e}")
+                        print(f"Error extrayendo goles: {e}")
 
                 if resultado and "-" in resultado:
                     resultados.append({
@@ -196,17 +229,22 @@ def scrap_matriz_resultados(temporada):
                         "tarjetas_amarillas": tarjetas_amarillas,
                         "tarjetas_rojas": tarjetas_rojas,
                         "goles": goles,
-                        "fecha": "",
-                        "jornada": ""
+                        "fecha": fecha,
+                        "jornada": jornada
                     })
 
-        print(f"✅ {len(resultados)} partidos extraídos.")
+        print(f"{len(resultados)} partidos extraídos.")
         return resultados
 
     except requests.RequestException as e:
-        print(f"❌ Error al acceder a {url}: {e}")
+        print(f"Error al acceder a {url}: {e}")
         return []
 
+def procesar_temporadas():
+    for temporada in const.TEMPORADAS:
+        resultados = scrap_matriz_resultados(temporada)
+        guardar_resultados_en_xml(resultados, temporada, f"resultados_{temporada}.xml")
+        
 if __name__ == "__main__":
     # Ejemplo con una sola temporada
     datos = scrap_matriz_resultados("2011-12")
@@ -215,4 +253,4 @@ if __name__ == "__main__":
         print(partido)
 
     guardar_resultados_en_xml(datos, "2011-12", "resultados_2011-12.xml")
-    print("✅ Proceso completado.")
+    print("Proceso completado.")
